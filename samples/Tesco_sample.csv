@@ -1,0 +1,2001 @@
+supermarket,prices_(£),prices_unit_(£),unit,names,date,category,own_brand
+Tesco,0.4,0.0,unit,Swan Vesta Matches 1 Box,20240413,household,False
+Tesco,0.5,0.0,unit,Tesco 200 Cotton Buds,20240413,health_products,True
+Tesco,0.6,0.0,unit,Tesco Nappy Bags 300,20240413,baby_products,True
+Tesco,0.75,0.0,unit,Fred & Flo Cotton Buds 300 Pack,20240413,baby_products,True
+Tesco,0.98,0.0,unit,Stockwell & Co. Sweeteners 850S,20240413,drinks,True
+Tesco,1.1,0.0,unit,The Original Cooks Matches Av 220 Matches,20240413,home,False
+Tesco,1.15,0.0,unit,Tesco Tablet Sweeteners 300 Tablets Pack,20240413,drinks,True
+Tesco,1.2,0.0,unit,Tesco Staples 2000Pk,20240413,home,True
+Tesco,1.2,0.0,unit,Tesco Sucralose Tablet Sweetener 300Pk,20240413,drinks,True
+Tesco,1.25,0.0,unit,Tesco Drawing Pins,20240413,home,True
+Tesco,1.5,0.0,unit,Keep It Handy Cocktail Sticks 400Pk,20240413,home,False
+Tesco,3.0,0.0,unit,Sweetex Calorie Free Sweetener Tablets 1200s,20240413,drinks,False
+Tesco,3.65,0.0,unit,Hermesetas Mini Sweeteners 800 Pack,20240413,drinks,False
+Tesco,0.95,0.0,kg,Tesco Whole Baby Sweet Beetroot In Vinegar 340G,20240413,food_cupboard,True
+Tesco,1.5,0.0,kg,Tesco Chilli Beef Wedges 400g,20240413,frozen,True
+Tesco,1.89,0.0,kg,Tesco Medium Fajita Kit 475G,20240413,food_cupboard,True
+Tesco,2.0,0.0,kg,Heinz Plant-Based Baked Beanz & Vegan Sausages 415G,20240413,food_cupboard,False
+Tesco,2.0,0.0,kg,Tesco Thai Style Takeaway with Vegetable Spring Roll 500g,20240413,frozen,True
+Tesco,2.7,0.0,kg,Tahira Chicken Smoked Sausages Hot Dogs 500G,20240413,food_cupboard,False
+Tesco,0.49,0.0,kg,Tesco Black Eyed Beans In Water 400G,20240413,food_cupboard,True
+Tesco,0.49,0.0,kg,Tesco Green Lentils In Water 390G,20240413,food_cupboard,True
+Tesco,4.2,0.0,m,Polyester Thread 1000M White,20240413,household,False
+Tesco,0.4,0.01,unit,Tesco Essentials Panty Liners 30 Pack,20240413,health_products,True
+Tesco,0.5,0.01,unit,Fred & Flo Cotton Buds 60 Pack,20240413,baby_products,True
+Tesco,0.95,0.01,unit,Fred & Flo 150 Nappy Bags,20240413,baby_products,True
+Tesco,0.95,0.01,unit,Swan Slim Filter Tips Pre Cut 102 Pack,20240413,home,False
+Tesco,0.95,0.01,unit,Swan Slim Loose Filters 165Pk,20240413,home,False
+Tesco,0.99,0.01,unit,Rizla Extra Slim Filter Tips 120'S,20240413,home,False
+Tesco,0.99,0.01,unit,Rizla Menthol Extra Slim Filter Tips 120S,20240413,home,False
+Tesco,1.0,0.01,unit,Tesco Napkins White 30Cm 1Ply 100 Pack,20240413,home,True
+Tesco,1.0,0.01,unit,Tesco Record Cards 100 Pack,20240413,home,True
+Tesco,1.09,0.01,unit,Swan Extra Slim Filter Tips 120 Pack,20240413,home,False
+Tesco,1.1,0.01,unit,Good Boy Antibacterial Degradable Poo Bags X 100,20240413,pets,False
+Tesco,1.1,0.01,unit,JOHNSON'S Baby Cotton Buds 100 Buds,20240413,health_products,False
+Tesco,1.1,0.01,unit,Swan Ultra Slim Filter Tips 126 Pack,20240413,home,False
+Tesco,1.11,0.01,unit,Swan Menthol Extra Slim Filters 120 Pack,20240413,home,False
+Tesco,1.25,0.01,unit,Tesco Large Record Cards 100 Pack,20240413,home,True
+Tesco,1.3,0.01,unit,JOHNSON'S Baby Cotton Buds 200 Buds,20240413,baby_products,False
+Tesco,1.4,0.01,unit,Jakemans Throat & Chest Soothing Lozenges 160G,20240413,health_products,False
+Tesco,1.5,0.01,unit,Keep It Handy Elastic Bands 250Pk,20240413,home,False
+Tesco,1.5,0.01,unit,Keep It Handy Picture Hanging Kit 172Pk,20240413,home,False
+Tesco,1.8,0.01,unit,Tesco Self- Adhesive White Labels 250 Roll,20240413,home,True
+Tesco,2.25,0.01,unit,Tesco Health 180 Folic Acid Tablets,20240413,health_products,True
+Tesco,5.99,0.01,unit,Elfbar Disposable Pod Grape 20Mg,20240413,home,False
+Tesco,5.99,0.01,unit,Elfbar Disposable Pod Kiwi Passion Fruit Guava 20Mg,20240413,home,False
+Tesco,1.8,10.0,kg,Tesco Spicy Chicken Pasta 275G,20240413,fresh_food,True
+Tesco,0.85,0.01,kg,Ella's Kitchen Pears 70G,20240413,baby_products,False
+Tesco,0.95,0.01,kg,Tesco Sweet & Spicy Noodle Soup In A Mug 5 Pack 115G,20240413,food_cupboard,True
+Tesco,1.0,0.01,kg,Gourmet Natures Creations Cat Food Chicken Mousse 85g,20240413,pets,False
+Tesco,1.3,0.01,kg,Ella's Kitchen Strawberries Plus Apples 120G,20240413,baby_products,False
+Tesco,1.35,0.01,kg,Heinz Lamb Hotpot 130Gm,20240413,baby_products,False
+Tesco,1.1,0.01,kg,Piccolo Organic Blushing Berries 100G Fruit,20240413,baby_products,False
+Tesco,2.2,0.01,kg,Ilchester Cheddar Cheese With Truffle 180G,20240413,fresh_food,False
+Tesco,2.25,0.01,kg,Silverspoon Tablet Sweetener 400Pk,20240413,drinks,False
+Tesco,2.5,0.01,kg,The Gym Kitchen Pulled Pork Mac & Cheese 400g,20240413,frozen,False
+Tesco,2.75,0.01,kg,Cawoods Skinless & Boneless Saltfish 200G,20240413,food_cupboard,False
+Tesco,2.75,0.01,kg,Tahira Chicken Sausage With Tikka 500G,20240413,food_cupboard,False
+Tesco,2.85,0.01,kg,Tesco Pesto Pasta With Semi Dried Tomatoes 225G,20240413,fresh_food,True
+Tesco,3.0,0.01,kg,Cadbury Chocolate Icing 400G,20240413,food_cupboard,False
+Tesco,3.1,0.01,kg,Betty Crocker Gluten Free Chocolate Fudge Brownie Mix415g,20240413,food_cupboard,False
+Tesco,3.25,0.01,kg,Royal Thai Green Chicken Curry With Jasmine Rice 400G,20240413,food_cupboard,False
+Tesco,3.45,0.01,kg,Tesco Fondant Ready Rolled Icing 450G,20240413,food_cupboard,True
+Tesco,3.45,0.01,kg,Tesco Ready Rolled Marzipan 400G,20240413,food_cupboard,True
+Tesco,3.5,0.01,kg,Tesco 30 Chinese Inspired Selection 440G,20240413,frozen,True
+Tesco,2.0,0.01,kg,Fragataselection Anchovy Stuffed Olives 350G,20240413,food_cupboard,False
+Tesco,1.1,0.01,m,Korbond Thread Poly 160M Black,20240413,household,False
+Tesco,1.1,0.01,m,Korbond Thread Poly 160M White,20240413,household,False
+Tesco,0.49,0.2,l,Tesco Diet Cola 2 Litre Bottle,20240413,drinks,True
+Tesco,0.49,0.2,l,Tesco Xero Cola 2 Litre,20240413,drinks,True
+Tesco,1.8,0.2,l,Tesco Elmhurst Natural Mineral Sparkling Water 4X2ltr,20240413,drinks,True
+Tesco,2.6,0.2,l,Tesco Elmhurst English Still Water 6 X 2 Litre,20240413,drinks,True
+Tesco,1.0,2.0,kg,Surya Crushed Garlic & Ginger 400g,20240413,food_cupboard,False
+Tesco,1.0,2.0,kg,Surya Crushed Garlic 400g,20240413,food_cupboard,False
+Tesco,1.0,2.0,kg,Surya Crushed Ginger 400g,20240413,food_cupboard,False
+Tesco,0.39,0.02,unit,Tesco Paracetamol Tablets 500Mg 16 Pack,20240413,health_products,True
+Tesco,0.4,0.02,unit,Tesco Ibuprofen 200Mg 16 Tablets,20240413,health_products,True
+Tesco,0.75,0.02,unit,Tesco Free Spirit Panty Liners Ultra Thin 30 Pack,20240413,health_products,True
+Tesco,1.0,0.02,unit,Tesco Free Spirit Disposable Bags 50 Pack,20240413,health_products,True
+Tesco,1.19,0.02,unit,Rizla Polar Blast Extra Slim Filter Tips 60S,20240413,home,False
+Tesco,1.25,0.02,unit,Go Create Card Numbers 50 Pieces,20240413,home,False
+Tesco,1.25,0.02,unit,Go Create Wooden Button Shapes 85 Pieces,20240413,home,False
+Tesco,1.25,0.02,unit,Springforce 80 Food Bags With Wire Ties,20240413,household,True
+Tesco,1.25,0.02,unit,Tesco Paper Plates White 23Cm 50 Pack,20240413,home,True
+Tesco,1.35,0.02,unit,Swan Crushball Fresh Burst Extra Slim Filters X54,20240413,home,False
+Tesco,1.49,0.02,unit,Ocb Premium Slim 32 Leaves & 32 Filters,20240413,home,False
+Tesco,1.5,0.02,unit,Keep It Handy Screen Cleaning Wipes 100 Pack,20240413,health_products,False
+Tesco,1.5,0.02,unit,Tesco Beauty Cotton Wool Balls 100 Pack,20240413,health_products,True
+Tesco,1.5,0.02,unit,Tesco Cotton Wool Double Faced Pads 100,20240413,health_products,True
+Tesco,1.6,0.02,unit,Create A Cake Petit Four Cake Cases 75,20240413,food_cupboard,False
+Tesco,1.6,0.02,unit,Create A Cake White Fairy Cake Cases 100,20240413,food_cupboard,False
+Tesco,1.6,0.02,unit,Create A Cake White Muffin Cases 75,20240413,food_cupboard,False
+Tesco,1.9,0.02,unit,Create A Cake Pastel Muffin Cases 100,20240413,food_cupboard,False
+Tesco,1.9,0.02,unit,Create A Cake Rainbow Muffin Cases 100,20240413,food_cupboard,False
+Tesco,1.9,0.02,unit,Tesco Multivitamins X 90,20240413,health_products,True
+Tesco,1.9,0.02,unit,Tesco Studycards With Polypropylene Inserts 75Pk,20240413,home,True
+Tesco,2.0,0.02,unit,Eco 80 Paper Straws Striped,20240413,home,False
+Tesco,2.0,0.02,unit,Securefix Clear Glue Spots 112 Pack,20240413,home,False
+Tesco,2.0,0.02,unit,Stripey Paper Straws 80Pk,20240413,home,False
+Tesco,2.0,0.02,unit,Tesco Health Vitamin B Complex 120 Tablets,20240413,health_products,True
+Tesco,4.0,0.02,unit,Tesco Odourless Garlic Vitamin B1 Food Supplement 240 Tablets,20240413,health_products,True
+Tesco,1.4,0.02,kg,Fragata Snack 'N Green Olives With Pinch Of Lemon 70G,20240413,food_cupboard,False
+Tesco,1.5,0.02,kg,Naked Ultimate Noodles Korean Style Beef 90G,20240413,food_cupboard,False
+Tesco,13.5,0.02,kg,Aptamil 4 Toddler Milk Formula Powder 2+ Years 800g,20240413,baby_products,False
+Tesco,3.0,0.02,kg,Tesco 10 Halloumi-Style Fries 170G,20240413,frozen,True
+Tesco,4.3,0.02,kg,itsu Katsu Veg 6 Bao Buns 270g,20240413,frozen,False
+Tesco,4.3,0.02,kg,itsu classic prawn gyoza 240g,20240413,frozen,False
+Tesco,2.45,0.02,kg,Tesco Finest Garlic Stuffed Olives 210G,20240413,food_cupboard,True
+Tesco,2.9,0.02,kg,Tesco Artichoke Antipasti 285G,20240413,food_cupboard,True
+Tesco,1.0,0.02,m,Proformula Floss Single X 50M,20240413,health_products,False
+Tesco,0.55,0.3,l,Tesco Xero Cola Cherry 2 Litre,20240413,drinks,True
+Tesco,0.6,0.3,l,Tesco Sparkling Diet Lemonade 2 Litre Bottle,20240413,drinks,True
+Tesco,0.6,0.3,l,Tesco Sparkling Lemonade 2 Litre Bottle,20240413,drinks,True
+Tesco,1.45,0.3,l,Tesco Ashbeck Still Water 5Ltr,20240413,drinks,True
+Tesco,1.65,0.3,l,Hydr8 Still Scottish Mountain Water,20240413,drinks,False
+Tesco,1.95,0.3,l,Tesco Elmhurst Natural Mineral Still Water 12X500ml,20240413,drinks,True
+Tesco,4.0,0.3,l,Ice Valley Spring Water Still 24X500ml,20240413,drinks,False
+Tesco,0.45,0.03,unit,Tesco Free Spirit Ultra Regular Sanitary Towels 16 Pack,20240413,health_products,True
+Tesco,0.45,0.03,unit,Tesco Free Spirit Ultra Regular Sanitary Towels With Wings 14 Pack,20240413,health_products,True
+Tesco,0.5,0.03,unit,Tesco Aspirin 300Mg 16 Tablets,20240413,health_products,True
+Tesco,0.55,0.03,unit,Tesco Dispersible Aspirin 300Mg 16 Tablets,20240413,health_products,True
+Tesco,0.75,0.03,unit,Tesco Free Spirit Maxi Towels Regular 24 Pack,20240413,health_products,True
+Tesco,0.95,0.03,unit,Tesco Free Spirit Panty Liners Long 28 Pack,20240413,health_products,True
+Tesco,0.95,0.03,unit,Tesco Free Spirit Panty Liners Regular 32 Pack,20240413,health_products,True
+Tesco,1.0,0.03,unit,Nuage Hayfever Relief Wipes 30 Pack,20240413,health_products,False
+Tesco,1.0,0.03,unit,Springforce Bin Liners 30 Pack,20240413,household,True
+Tesco,1.0,0.03,unit,Steradent Active Plus 30,20240413,health_products,False
+Tesco,1.2,0.03,unit,Tesco Clear Washproof Plasters 40S,20240413,health_products,True
+Tesco,1.2,0.03,unit,Tesco Health Dark Fabric Plasters 40S,20240413,health_products,True
+Tesco,1.2,0.03,unit,Tesco Health Light Fabric Plasters 40S,20240413,health_products,True
+Tesco,1.2,0.03,unit,Tesco Medium Assorted Fabric Plasters 40'S,20240413,health_products,True
+Tesco,1.25,0.03,unit,Melitta Coffee Filter Papers 1X4 40 Pack,20240413,drinks,False
+Tesco,1.4,0.03,unit,Tesco Tie Handle Freezer Bags Small 50'S,20240413,household,True
+Tesco,1.5,0.03,unit,Keep It Handy Cable Ties 50 Pack,20240413,home,False
+Tesco,1.5,0.03,unit,Keep It Handy Disposable Gloves 50pk,20240413,household,False
+Tesco,1.5,0.03,unit,Keep It Handy Felt Pads 50 Pack,20240413,home,False
+Tesco,1.5,0.03,unit,Keep It Handy Safety Pins 50 Pack,20240413,household,False
+Tesco,1.5,0.03,unit,Tesco Napkins Cream 33Cm 2Ply 50 Pack,20240413,home,True
+Tesco,1.5,0.03,unit,Tesco Napkins Red 33Cm 2Ply 50 Pack,20240413,home,True
+Tesco,1.5,0.03,unit,Tesco Napkins White 33Cm 2Ply 50 Pack,20240413,home,True
+Tesco,1.6,0.03,unit,Create A Cake Classic Cupcake Cases 50S,20240413,food_cupboard,False
+Tesco,1.6,0.03,unit,Create A Cake Spotty Cupcake Cases 50,20240413,food_cupboard,False
+Tesco,1.65,0.03,unit,Fred & Flo Sterilising Tablets 56 Pack,20240413,baby_products,True
+Tesco,1.75,0.03,unit,Good Boy 3X20 Degradable Poo Bags 60 Pack,20240413,pets,False
+Tesco,2.0,0.03,unit,Bodyform Dailies Long Panty Liners 58 pack,20240413,health_products,False
+Tesco,2.0,0.03,unit,Tesco Dog Poop Bags 75'S,20240413,pets,True
+Tesco,2.6,0.03,unit,Leo Bancroft Invisible Hold Hair Bands 100 Pack,20240413,health_products,False
+Tesco,2.7,0.03,unit,Tesco A4 Punch Pockets 100 Pack,20240413,home,True
+Tesco,3.5,0.03,unit,Tesco Health 120 Vitamin C & Zinc Tablets,20240413,health_products,True
+Tesco,3.5,0.03,unit,Tesco Health 120 Vitamin D 12.5mcg Tablets,20240413,health_products,True
+Tesco,4.0,0.03,unit,Dettol Antibacterial Surface Cleaning Wipes Lime & Mint 126 Pack,20240413,household,False
+Tesco,4.85,0.03,unit,Tesco 150 Medium Tie Handle Food & Freezer Bags,20240413,household,True
+Tesco,1.35,0.03,m,Tesco String 40M,20240413,home,True
+Tesco,0.7,0.4,l,Tesco Classic Cola 2 Litre Bottle,20240413,drinks,True
+Tesco,0.7,0.4,l,Tesco Diet Caffiene Free Cola 2 Litre,20240413,drinks,True
+Tesco,0.75,0.4,l,Tesco Ashbeck Still Water 2Ltr,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco Fizzio Zero 2 Litre,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco Lemon And Lime Zero 2 Litre,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco Mango Zero 2 Litre,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco No Added Sugar Cloudy Lemonade 2 Litre Bottle,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco No Added Sugar Dandelion And Burdock 2L,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco No Added Sugar Fiery Ginger Beer 2 Litre Bottle,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco No Added Sugar Pink Lemonade 2L,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco No Added Sugar Smooth Cream Soda 2 Litre,20240413,drinks,True
+Tesco,0.8,0.4,l,Tesco Orange Zero 2 Litre,20240413,drinks,True
+Tesco,0.85,0.4,l,Tesco Elmhurst English Natural Mineral Sparkling Water 2L,20240413,drinks,True
+Tesco,1.25,0.4,l,Tesco Sparkling Water 6X500ml,20240413,drinks,True
+Tesco,2.35,0.4,l,Nestle Pure Life Still Spring Water Multipack 12x500ml,20240413,drinks,False
+Tesco,3.5,0.4,l,Highland Spring Still Water 6 X 1.5 Ltrs,20240413,drinks,False
+Tesco,0.5,2.0,kg,Kucharek Seasoning 200G,20240413,food_cupboard,False
+Tesco,3.5,4.0,kg,Natco Ground Coriander 1kg,20240413,food_cupboard,False
+Tesco,0.36,0.04,unit,Tesco Free Spirit Secure Night Sanitary Towels With Wings 8 Pack,20240413,health_products,True
+Tesco,0.4,0.04,unit,Tesco Essentials Maxi Towels 10 Pack,20240413,health_products,True
+Tesco,0.45,0.04,unit,Tesco Free Spirit Ultra Long Sanitary Towels With Wings 12 Pack,20240413,health_products,True
+Tesco,0.45,0.04,unit,Tesco Free Spirit Ultra Night Sanitary Towels With Wings 10 Pack,20240413,health_products,True
+Tesco,0.8,0.04,unit,Carefree Cotton Fresh Scent Pantyliners 20 pack,20240413,health_products,False
+Tesco,0.8,0.04,unit,Carefree Cotton Unscented Pantyliners 20 pack,20240413,health_products,False
+Tesco,0.95,0.04,unit,Tesco Free Spirit Panty Liners Long Plus 22 Pack,20240413,health_products,True
+Tesco,1.0,0.04,unit,Always Dailies Slim Multiform Fresh Panty Liners 26,20240413,health_products,False
+Tesco,1.0,0.04,unit,Go Create Animal Card Shapes,20240413,home,False
+Tesco,1.0,0.04,unit,Tesco Paper Plates White 18cm 25 Pack,20240413,home,True
+Tesco,1.05,0.04,unit,Tesco Free Spirit Regular Non Applicator Tampons 24 Pack,20240413,health_products,True
+Tesco,1.05,0.04,unit,Tesco Free Spirit Super Non Applicator Tampons 24 Pack,20240413,health_products,True
+Tesco,1.05,0.04,unit,Tesco Free Spirit Super Plus Non Applicator Tampons 24 Pack,20240413,health_products,True
+Tesco,1.1,0.04,unit,Tesco White C6 Envelopes 25Pk,20240413,home,True
+Tesco,1.1,0.04,unit,Tesco White Envelopes Dl Pack Of 25,20240413,home,True
+Tesco,1.2,0.04,unit,Fred & Flo Antibacterial Surface Wipes 30'S,20240413,baby_products,True
+Tesco,1.25,0.04,unit,Tesco Chewable Vitamin C 200Mg X30,20240413,health_products,True
+Tesco,1.25,0.04,unit,Tesco Kind & Pure Biodegradable Eye Make Up Remover Pads 30,20240413,health_products,True
+Tesco,1.39,0.04,unit,Ocb Slim Virgin Papers 32 Pack,20240413,home,False
+Tesco,1.4,0.04,unit,Tesco Tie-Handle Freezer Bags Medium 40'S,20240413,household,True
+Tesco,1.45,0.04,unit,Ocb Virgin Paper Slim & Filters Unbleached,20240413,home,False
+Tesco,1.5,0.04,unit,Keep It Handy Assorted Colour Hair Bands 36Pk,20240413,health_products,False
+Tesco,1.5,0.04,unit,Tesco Pegs 36Pk,20240413,household,True
+Tesco,1.6,0.04,unit,Korbond Home Needle Kit,20240413,household,False
+Tesco,1.8,0.04,unit,Tesco White Dl Envelopes 50 Pack,20240413,home,True
+Tesco,1.85,0.04,unit,Tesco Large Oval Cotton Wool Pads Double Faced 50,20240413,health_products,True
+Tesco,1.9,0.04,unit,Create A Cake Metallic Cupcake Cases 45,20240413,food_cupboard,False
+Tesco,2.0,0.04,unit,Tesco Napkins White 40Cm 2Ply 50 Pack,20240413,home,True
+Tesco,2.1,0.04,unit,Silver Safety Pins,20240413,home,False
+Tesco,2.18,0.04,unit,Fred & Flo Newborn Nappy Size 2 58 Pack,20240413,baby_products,True
+Tesco,2.2,0.04,unit,Tesco White Dl Window Envelopes 50 Pack,20240413,home,True
+Tesco,2.25,0.04,unit,Tesco White C5 Envelopes 50 Pack,20240413,home,True
+Tesco,2.6,0.04,unit,Tesco Health Multivitamins & Iron 60 Tablets,20240413,health_products,True
+Tesco,3.45,0.04,unit,Tesco Pet 90 Tablets Glucosamine & Chondroitin,20240413,pets,True
+Tesco,3.5,0.04,unit,Gorilla Gorilla Tack,20240413,home,False
+Tesco,3.75,0.04,unit,Tesco Tealights 100 Pack,20240413,home,True
+Tesco,3.9,0.04,unit,Tesco Multivitamins Plus Iron X 90,20240413,health_products,True
+Tesco,4.0,0.04,unit,Tesco Cranberry 90 Tablets,20240413,health_products,True
+Tesco,4.0,0.04,unit,Tesco Health 90 Vegan High Strength Vitamin D Tablets,20240413,health_products,True
+Tesco,4.75,0.04,unit,Tesco Health 120 Chewable Vitamin C 500Mg Tablets,20240413,health_products,True
+Tesco,3.0,0.04,kg,Tesco Finest Bresaola 8 Slices 70G,20240413,fresh_food,True
+Tesco,1.9,0.04,m,Oral-B Essential Mint Dental Floss 50M,20240413,health_products,False
+Tesco,0.95,0.5,l,Jammin Sparkling Black Grape Drink 2 Litres,20240413,food_cupboard,False
+Tesco,0.95,0.5,l,Jammin Sparkling Fruit Punch Drink 2 Litres,20240413,food_cupboard,False
+Tesco,0.95,0.5,l,Jammin Sparkling Pineapple Drink 2 Litres,20240413,food_cupboard,False
+Tesco,4.15,0.5,l,Buxton Still Natural Mineral Water Multipack 6x1.5L,20240413,drinks,False
+Tesco,5.0,0.5,l,Highland Spring Still Water 10L,20240413,drinks,False
+Tesco,2.0,5.0,kg,Rajah Chilli Powder 400G,20240413,food_cupboard,False
+Tesco,0.43,0.05,unit,Springforce Sponge Scourers 8 Pack,20240413,household,True
+Tesco,0.5,0.05,unit,Tesco Ballpoint Pens Blue10 Pack,20240413,home,True
+Tesco,0.8,0.05,unit,Galpharm Ibuprofen Capsules 16S,20240413,health_products,False
+Tesco,0.85,0.05,unit,Tesco Paracetamol Extra 16S,20240413,health_products,True
+Tesco,1.0,0.05,unit,Always Dailies Singles To Go Panty Liners 20 Pack,20240413,health_products,False
+Tesco,1.0,0.05,unit,Rainbow Star Paper Straws 20 Pack,20240413,home,False
+Tesco,1.05,0.05,unit,Tesco Free Spirit Regular Applicator Tampons 20 Pack,20240413,health_products,True
+Tesco,1.05,0.05,unit,Tesco Free Spirit Super Applicator Tampons 20 Pack,20240413,health_products,True
+Tesco,1.05,0.05,unit,Tesco Free Spirit Super Plus Applicator Tampons 20 Pack,20240413,health_products,True
+Tesco,1.2,0.05,unit,Fred & Flo Newborn Nappy Size 0 24 Pack,20240413,baby_products,True
+Tesco,1.25,0.05,unit,Tesco Paper Bowls White 16Cm 25Pk,20240413,home,True
+Tesco,1.25,0.05,unit,Tesco White C5 Envelopes 25Pk,20240413,home,True
+Tesco,1.5,0.05,unit,Keep It Handy Lens Cleaning Wipes,20240413,health_products,False
+Tesco,1.5,0.05,unit,Keep It Handy Paper Straws 30Pk,20240413,home,False
+Tesco,1.5,0.05,unit,Leo Bancroft Hair Grips Black 30 Pack,20240413,health_products,False
+Tesco,1.5,0.05,unit,Leo Bancroft Hair Grips Blonde 30 Pack,20240413,health_products,False
+Tesco,1.5,0.05,unit,Leo Bancroft Hair Grips Brown 30 Pack,20240413,health_products,False
+Tesco,1.55,0.05,unit,Bodyform Dailies So Slim Panty Liners 30 pack,20240413,health_products,False
+Tesco,1.55,0.05,unit,Proformula Floss Harps X 32,20240413,health_products,False
+Tesco,1.6,0.05,unit,Korbond Needles Compact,20240413,household,False
+Tesco,1.9,0.05,unit,Dr Oetker Wafer Flowers 40'S,20240413,food_cupboard,False
+Tesco,1.9,0.05,unit,Tesco Breast Pads 40 Pack,20240413,baby_products,True
+Tesco,12.0,0.05,unit,Tesco Cod Liver Oil 1000Mg 240'S,20240413,health_products,True
+Tesco,2.25,0.05,unit,Extra White Bubblemint Sugarfree Chewing Gum Bottle 46 Pieces,20240413,food_cupboard,False
+Tesco,2.75,0.05,unit,Bisodol Chewable 60 Indigestion Relief Tablets,20240413,health_products,False
+Tesco,2.89,0.05,unit,Fred & Flo 56 Ultra Dry Nappies Size 3,20240413,baby_products,True
+Tesco,3.25,0.05,unit,Always Dailies 3 In 1 Panty Liners 68 Pack,20240413,health_products,False
+Tesco,4.4,0.05,unit,Tesco Calcium & Vitamin D 90'S,20240413,health_products,True
+Tesco,4.9,0.05,unit,Tesco A-Z Multivitamins & Minerals 90S,20240413,health_products,True
+Tesco,5.0,0.05,unit,Vitabiotics Ultra D 96 S,20240413,health_products,False
+Tesco,0.75,0.05,kg,Airwaves Menthol & Eucalyptus Sugarfree Chewing Gum 10 Pieces,20240413,food_cupboard,False
+Tesco,2.15,0.05,m,Tesco PVC-Free Cling Film 40m x 350mm,20240413,household,True
+Tesco,0.25,0.6,kg,Stockwell & Co. Rice Pudding 400G,20240413,food_cupboard,True
+Tesco,0.45,0.6,kg,H W Nevill's White Bread 800G,20240413,bakery,False
+Tesco,0.45,0.6,kg,H W Nevill's Wholemeal Bread 800G,20240413,bakery,False
+Tesco,0.35,0.6,l,Tesco Distilled Vinegar 568Ml,20240413,food_cupboard,True
+Tesco,0.35,0.6,l,Tesco Malt Vinegar 568Ml,20240413,food_cupboard,True
+Tesco,0.48,0.6,l,Stockwell & Co Apple & Blackcurrant No Added Sugar Squash 750Ml,20240413,drinks,False
+Tesco,0.48,0.6,l,Stockwell & Co No Added Sugar Double Strength Orange Squash 750Ml,20240413,drinks,False
+Tesco,0.65,0.6,l,T.Low Calorie Indian Tonic Water With Elderflower 1L,20240413,drinks,False
+Tesco,0.65,0.6,l,Tesco Low Cal Bitter Lemon 1 Litre,20240413,drinks,True
+Tesco,0.65,0.6,l,Tesco Low Calorie Ginger Ale 1 Litre,20240413,drinks,True
+Tesco,0.65,0.6,l,Tesco Low Calorie Indian Tonic Water 1Litre,20240413,drinks,True
+Tesco,0.65,0.6,l,Tesco Low Calorie Indian Tonic Water With Lemon 1Lt,20240413,drinks,True
+Tesco,0.65,0.6,l,Tesco Low Calorie Indian Tonic Water With Lime 1Ltr,20240413,drinks,True
+Tesco,0.65,0.6,l,Tesco Low Calorie Soda Water With Lime 1L,20240413,drinks,True
+Tesco,0.65,0.6,l,Tesco Soda Water 1Litr,20240413,drinks,True
+Tesco,0.95,0.6,l,Buxton Sparkling Natural Mineral Water Bottle 1.5L,20240413,drinks,False
+Tesco,1.3,0.6,l,Schweppes Lemonade 2L,20240413,drinks,False
+Tesco,1.3,0.6,l,Schweppes Slimline Lemonade 2L,20240413,drinks,False
+Tesco,2.0,0.5,l,Buxton Still Natural Mineral Water Multipack 8x500ml,20240413,drinks,False
+Tesco,3.5,0.6,l,Highland Spring Still Bottled Water 12 X 500Ml,20240413,drinks,False
+Tesco,3.7,0.6,l,Buxton Sparkling Natural Mineral Water Multipack 6x1L,20240413,drinks,False
+Tesco,5.5,0.6,l,Evian Natural Bottled Mineral Still Water Multipack 6x1.5L,20240413,drinks,False
+Tesco,1.6,6.0,kg,Nishaan Garlic Paste 283G,20240413,food_cupboard,False
+Tesco,1.6,6.0,kg,Nishaan Ginger Garlic Paste 283G,20240413,food_cupboard,False
+Tesco,1.75,6.0,kg,Natco Coriander Seeds 300G,20240413,food_cupboard,False
+Tesco,2.3,6.0,kg,Rajah Jeera Ground Cumin 400G,20240413,food_cupboard,False
+Tesco,2.4,6.0,kg,Rajah Dhaniya Ground Coriander 400G,20240413,food_cupboard,False
+Tesco,2.4,6.0,kg,Rajah Haldi Ground Turmeric 400G,20240413,food_cupboard,False
+Tesco,1.0,0.06,unit,Always Sensitive Normal Size 1 Sanitary Towels 16 Pack,20240413,health_products,False
+Tesco,1.3,0.06,unit,Tesco Free Spirit Discreet Mini Pads 20 Pack,20240413,health_products,True
+Tesco,1.45,0.06,unit,Tesco Lens Wipes X26,20240413,health_products,True
+Tesco,1.5,0.06,unit,Tesco Assorted Balloons 25 Pack,20240413,home,True
+Tesco,1.5,0.06,unit,Tesco White Candles 24 Pack,20240413,home,True
+Tesco,1.6,0.06,unit,Tesco Click Seal Food Storage Bags Small 25'S,20240413,household,True
+Tesco,1.64,0.06,unit,Tesco Drawstring Swing Bin Liners 30 Pack (50L),20240413,household,True
+Tesco,1.64,0.06,unit,Tesco Tie Handle Swing Bin Liners 30Pk (50L),20240413,household,True
+Tesco,2.1,0.06,unit,Korbond Gilt Safety Pins,20240413,household,False
+Tesco,2.5,0.06,unit,Eco Paper Recycleable Shot Glasses 40 Pack,20240413,home,False
+Tesco,2.5,0.06,unit,Hero 40 Tie Handle Waste Basket Liner 15L,20240413,household,False
+Tesco,2.75,0.06,unit,Tesco Wheat Biscuits Cereal 48 Pack,20240413,food_cupboard,True
+Tesco,2.89,0.06,unit,Fred & Flo 48 Ultra Dry Nappies Size 4,20240413,baby_products,True
+Tesco,3.0,0.06,unit,Dettol Protect 24 Hour Antibacterial Wipes Ocean Fresh 50s,20240413,household,False
+Tesco,3.25,0.06,unit,Always Dailies Large Panty Liners 58 Pack,20240413,health_products,False
+Tesco,3.3,0.06,unit,Opticlear Lens Wipes 60 Pack,20240413,health_products,False
+Tesco,3.85,0.06,unit,VITABIOTICS ULTRA ZINC 15MG TABLETS X60,20240413,health_products,False
+Tesco,3.9,0.06,unit,Tesco Health 60 Vegan A-Z Multivitamins & Minerals Tablets,20240413,health_products,True
+Tesco,4.0,0.06,unit,Clearasil Ultra Rapid Action Pads,20240413,health_products,False
+Tesco,4.99,0.06,unit,Fred & Flo Ultra Dry Size 4 Nappies Jumbo Pack 84,20240413,baby_products,True
+Tesco,4.99,0.06,unit,Fred & Flo Ultra Dry Size 4+ Nappies Jumbo Pack 78,20240413,baby_products,True
+Tesco,5.1,0.06,unit,Tesco Slow Release Vitamin C X 90,20240413,health_products,True
+Tesco,5.25,0.06,unit,Tesco Chewable Vitamin C 1000Mg 90'S,20240413,health_products,True
+Tesco,5.75,0.06,unit,Tesco Health Ginkgo Biloba 90 Tablets,20240413,health_products,True
+Tesco,6.5,0.06,unit,Beconase Allergy 100Dose,20240413,health_products,False
+Tesco,4.5,0.04,unit,Go Play 100 Playballs,20240413,home,False
+Tesco,7.5,0.06,unit,Tesco Health 120 M/Vits& Cod Liver Oil Capsules,20240413,health_products,True
+Tesco,7.65,0.06,unit,Tesco Health Glucosamine Sulphate 500Mg 120 Tablets,20240413,health_products,True
+Tesco,1.5,0.06,m,Oral-B Satin Tape Dental Floss 25M,20240413,health_products,False
+Tesco,0.35,0.7,kg,Creamfields Low Fat Natural Yogurt 500G,20240413,fresh_food,True
+Tesco,1.0,0.7,l,Buxton Still Natural Mineral Water 1.5L,20240413,drinks,False
+Tesco,1.0,0.7,l,Highland Spring Still Water 1.5 Litre,20240413,drinks,False
+Tesco,1.0,0.7,l,Volvic Natural Bottled Mineral Still Water 1.5L,20240413,drinks,False
+Tesco,1.1,0.7,l,Highland Spring Sparkling Water 1.5Ltr,20240413,drinks,False
+Tesco,1.35,0.7,l,Ms Molly's Vanilla Ice Cream 2Ltr,20240413,frozen,True
+Tesco,4.0,0.7,l,Highland Spring Sparkling Water 6 X 1L,20240413,drinks,False
+Tesco,6.0,6.0,kg,Natco Extra Hot Chilli Powder 1Kg,20240413,food_cupboard,False
+Tesco,0.8,0.07,unit,Kids Create Coloured Pencils 12PK,20240413,home,False
+Tesco,1.0,0.07,unit,Always Sensitive Normal Size 1 Sanitary Towels With Wings 14 Pack,20240413,health_products,False
+Tesco,1.35,0.07,unit,Tesco Assorted Cushioned Plasters 20'S,20240413,health_products,True
+Tesco,1.45,0.06,unit,Nivea Biodegradable Cleansing Face Wipes Dry Skin 25 Pack,20240413,health_products,False
+Tesco,1.45,0.06,unit,Nivea Biodegradable Cleansing Face Wipes Normal Skin 25 Pack,20240413,health_products,False
+Tesco,1.25,0.05,unit,Bodyform Dailies All Fluid Normal Panty Liners 26 pack,20240413,health_products,False
+Tesco,1.8,0.07,unit,Tesco Drawstring Scented Bin Liners 12Lx 25Pk,20240413,household,True
+Tesco,2.0,0.07,unit,Heal Assorted Barbie Plasters 30 pack,20240413,health_products,False
+Tesco,2.0,0.07,unit,Heal Gruffalo Kids Plasters Assorted 30 Pack,20240413,health_products,False
+Tesco,2.15,0.07,unit,Tesco 30 Pedal Bin Liners 22L,20240413,household,True
+Tesco,2.89,0.07,unit,Fred & Flo 40 Ultra Dry Nappies Size 5,20240413,baby_products,True
+Tesco,2.89,0.07,unit,Fred & Flo 44 Ultra Dry Nappies Size 4+,20240413,baby_products,True
+Tesco,3.25,0.07,unit,Always Dailies Long Plus Panty Liners 48 Pack,20240413,health_products,False
+Tesco,3.5,0.07,unit,Tesco Hb Pencils With Eraser Tip 50 Pack,20240413,home,True
+Tesco,3.65,0.07,unit,Tesco Click & Seal Resealable Snack Bags 50 Pack,20240413,household,True
+Tesco,3.65,0.07,unit,Tesco Health 50 Magnesium 375Mg Magnesium Tabs,20240413,health_products,True
+Tesco,4.99,0.07,unit,Fred & Flo Ultra Dry Size 5 Nappies Jumbo Pack 72,20240413,baby_products,True
+Tesco,5.9,0.07,unit,Tesco Health Cod Liver Oil 500Mg 90 Capsule,20240413,health_products,True
+Tesco,6.5,0.07,unit,Tesco Cod Liver Oil 1000Mg 90S,20240413,health_products,True
+Tesco,6.5,0.07,unit,Tesco Omega 3 Fish Oil X 90,20240413,health_products,True
+Tesco,6.6,0.07,unit,Tesco Omega 3+6+9 X 90,20240413,health_products,True
+Tesco,0.64,0.8,l,Tesco Essentials Bath Foam 750Ml,20240413,health_products,True
+Tesco,0.75,0.8,l,Growers Harvest No Added Sugar Apple Juice Drink 1 Litre,20240413,drinks,False
+Tesco,0.75,0.8,l,Tesco Apple & Elderflower Sparkling Water 1 Litre,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Lemon & Lime Still Flavoured Water 1Ltr,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Orange & Mango Sparkling Water 1L,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Orange & Peach Still Flavoured Water 1Ltr,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Peach & Passion Fruit Sparkling Water 1L,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Sparkling Water Apple & Raspberry 1 Litre,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Sparkling Water Lemon & Lime 1 Litre,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Sparkling Water White Grape & Blackberry 1 Litre,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Still Pear & Plum Flavoured Water 1L,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Strawberry Sparkling Flavoured Water 1 Litre,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Strawberry Still Flavoured Water 1Ltr,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Summer Fruits Sparkling Flavoured Water 1 Litre,20240413,drinks,True
+Tesco,0.75,0.8,l,Tesco Summer Fruits Still Flavoured Water 1L,20240413,drinks,True
+Tesco,1.25,0.8,l,Don Simon Lemon & Raspberry Juice Drink 1.5L,20240413,drinks,False
+Tesco,1.25,0.8,l,Don Simon Mango & Passion Fruit Juice Drink 1.5Ltr,20240413,drinks,False
+Tesco,1.25,0.8,l,Don Simon Pineapple & Coconut Juice Drink 1.5Ltr,20240413,drinks,False
+Tesco,1.25,0.8,l,Evian Natural Bottled Mineral Still Water 1.5L,20240413,drinks,False
+Tesco,1.49,0.8,l,Growers Harvest Tropical Juice Drink 2L,20240413,drinks,False
+Tesco,1.65,0.8,l,Vimto Regular 2 Litre Bottle,20240413,drinks,False
+Tesco,1.69,0.8,l,Barr Irn Bru 2 Litre Bottle,20240413,drinks,False
+Tesco,1.69,0.8,l,Irn Bru Xtra 2Ltr,20240413,drinks,False
+Tesco,1.7,0.8,l,Tesco Apple & Raspberry No Added Sugar Sparkling Water 4X500ml,20240413,drinks,True
+Tesco,1.7,0.8,l,Tesco Lemon & Lime Flavoured Still Water 4X500ml,20240413,drinks,True
+Tesco,1.7,0.8,l,Tesco Strawberry Flavoured Still Water 4X500ml,20240413,drinks,True
+Tesco,2.25,0.6,l,Buxton Sparkling Natural Mineral Water Multipack 8x500ml,20240413,drinks,False
+Tesco,3.0,0.8,l,Highland Spring Sparkling Water 8X500ml,20240413,drinks,False
+Tesco,3.25,0.8,l,Highland Still Spring Water 12 X 330Ml,20240413,drinks,False
+Tesco,1.9,8.0,kg,East End Crushed Chilli Powder 250G,20240413,food_cupboard,False
+Tesco,2.5,8.0,kg,East End Fennel Seeds 300G,20240413,food_cupboard,False
+Tesco,7.0,7.0,kg,Natco Garam Masala 1Kg,20240413,food_cupboard,False
+Tesco,0.45,0.08,unit,Tesco 6 Crumpets,20240413,bakery,True
+Tesco,0.49,0.08,unit,Tesco 6 Scotch Pancakes,20240413,bakery,True
+Tesco,0.49,0.08,unit,Tesco White Batch Rolls 6 Pack,20240413,bakery,True
+Tesco,0.49,0.08,unit,Tesco Wholemeal Batch Rolls 6 Pack,20240413,bakery,True
+Tesco,0.5,0.08,unit,Tesco White Pitta Bread 6 Pack,20240413,bakery,True
+Tesco,0.5,0.08,unit,Tesco Wholemeal Pitta Bread 6 Pack,20240413,bakery,True
+Tesco,0.75,0.08,unit,T.Assorted Ballpoint Pens 10 Pack,20240413,home,False
+Tesco,0.75,0.08,unit,Tesco Ballpoint Pens Black 10 Pack,20240413,home,True
+Tesco,0.75,0.08,unit,Tesco Free Spirit Maxi Towels Night 10 Pack,20240413,health_products,True
+Tesco,0.99,0.08,unit,Ms Molly's 12 Fairy Cakes,20240413,bakery,True
+Tesco,1.0,0.08,unit,Always Sensitive Long Size 2 Sanitary Towels With Wings 12 Pack,20240413,health_products,False
+Tesco,1.0,0.08,unit,Panadol Original Pain Relief Paracetamol 500mg Tablets 12s,20240413,health_products,False
+Tesco,1.0,0.08,unit,Tesco Blue Candy Stripe 12 Candles & Holde,20240413,home,True
+Tesco,1.0,0.08,unit,Tesco Hb Pencils With Erasers 12 Pack,20240413,home,True
+Tesco,1.0,0.08,unit,Tesco Pink Candy Stripe 12 Candles & Holde,20240413,home,True
+Tesco,1.25,0.08,unit,Paper Recyclable Cups 8Oz 15Pk,20240413,home,False
+Tesco,1.3,0.08,unit,Korbond Crewels,20240413,household,False
+Tesco,1.3,0.08,unit,Solpadeine Headache Tablets 16 Pack,20240413,health_products,False
+Tesco,1.5,0.08,unit,Dr. Oetker Tall Metallic Candles 18 Pack,20240413,food_cupboard,False
+Tesco,1.5,0.08,unit,Eco Red Paper Recyclable Shot Glasses 20 Pack,20240413,home,False
+Tesco,1.5,0.08,unit,Keep It Handy Interdental Brushes 20pk,20240413,health_products,False
+Tesco,1.5,0.08,unit,T. DITSY PINK FLOWER NAPKIN 20PK,20240413,home,False
+Tesco,1.5,0.08,unit,T. HAPPY BIRTHDAY NAPKIN 20PK,20240413,home,False
+Tesco,1.5,0.08,unit,T. PARTY ANIMALS NAPKIN 20PK,20240413,home,False
+Tesco,1.5,0.08,unit,T. STRAWBERRY NAPKIN 33CM 3PLY 20PK,20240413,home,False
+Tesco,1.5,0.08,unit,Tesco Balloon Napkins 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Bee Napkin 33Cm 3Ply 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Botanical Napkin 33Cm 3Ply 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Effervescent Vitamin C Plus Zinc X 20,20240413,health_products,True
+Tesco,1.5,0.08,unit,Tesco Football Napkin 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Gaming Napkin 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Health Senna 7.5mg Tablets Adult 20'S,20240413,health_products,True
+Tesco,1.5,0.08,unit,Tesco High Strength Vitamin C Effervescent 20S,20240413,health_products,True
+Tesco,1.5,0.08,unit,Tesco Lemon Napkin 33Cm 3Ply 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Party Time Napkin 33Cm 3Ply 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Pastel Stars Napkin 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Rainbow Spot Napkin 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Safari Animal Napkins 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Sandpaper 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Superhero Napkin 20 Pack,20240413,home,True
+Tesco,1.5,0.08,unit,Tesco Watercolour Napkin 20 Pack,20240413,home,True
+Tesco,1.6,0.08,unit,Tesco Click Seal Food Storage Bags Medium 20',20240413,household,True
+Tesco,1.6,0.08,unit,Tesco Free Spirit Light Long Liners 20 Pack,20240413,health_products,True
+Tesco,1.69,0.08,unit,Tesco Tie Top Compostable Caddy Liners 20 Pack 10L,20240413,household,True
+Tesco,1.7,0.08,unit,Askeys Round Icecream Cones 21Pk,20240413,food_cupboard,False
+Tesco,1.35,0.06,unit,Warburton Thin 4 Sliced Bagels 21 Seeds & Grains,20240413,bakery,False
+Tesco,1.9,0.08,unit,Tesco Slim Maternity Towels 24 Pack,20240413,baby_products,True
+Tesco,1.95,0.08,unit,Tesco Zip Seal Food & Freezer Bags 25 Small,20240413,household,True
+Tesco,2.0,0.08,unit,Crayola Crayons 24 Pack,20240413,home,False
+Tesco,2.0,0.08,unit,Kids Create Coloured Pencils 24pk,20240413,home,False
+Tesco,2.0,0.08,unit,TESCO CHERRY TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO JASMINE TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO LAVENDER TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO LINEN TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO MANGO TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO RHUBARB TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO SEASALT TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,TESCO VANILLA TEALIGHTS 24PK,20240413,home,True
+Tesco,2.0,0.08,unit,Tesco Extra Strength Paper Plates White 22Cm 25Pk,20240413,home,True
+Tesco,2.0,0.08,unit,Tesco Soft Grip Pegs 24 Pack,20240413,household,True
+Tesco,2.0,0.08,unit,Tesco Wooden Storm Pegs 24 Pack,20240413,household,True
+Tesco,1.9,0.07,unit,TENA Lights Light Incontinence Liners 28 pack,20240413,health_products,False
+Tesco,2.25,0.08,unit,Tesco Cod Liver Oil 1000Mg 30 Caps,20240413,health_products,True
+Tesco,2.4,0.08,unit,Tesco Extra Energy Tablets 30S,20240413,health_products,True
+Tesco,2.5,0.08,unit,Big Hair Tools Xxl Size Grips Dark 30Pack,20240413,health_products,False
+Tesco,2.5,0.08,unit,Big Hair Tools Xxl Size Grips Light 30Pk,20240413,health_products,False
+Tesco,2.0,0.06,unit,Lil-Lets Maternity Breast Pads 30 Pack,20240413,baby_products,False
+Tesco,2.25,0.07,unit,Simple Kind To Eyes Eye Make-Up Remover Pads 30S,20240413,health_products,False
+Tesco,2.5,0.08,unit,Tesco Vitamin E 400Iu X 30,20240413,health_products,True
+Tesco,2.89,0.08,unit,Fred & Flo 36 Ultra Dry Nappies 5+,20240413,baby_products,True
+Tesco,2.4,0.06,unit,Elastoplast Fabric Plasters 40'S,20240413,health_products,False
+Tesco,2.4,0.06,unit,Elastoplast Water Resistant Strips 40S,20240413,health_products,False
+Tesco,3.5,0.07,unit,Ecoegg Laundry Egg Refill Pellets Fresh Linen 50S,20240413,household,False
+Tesco,4.0,0.08,unit,Kids Create Fibre Tips 50pk,20240413,home,False
+Tesco,4.0,0.08,unit,Pro Plus 48S,20240413,health_products,False
+Tesco,4.1,0.08,unit,Tesco Health Cod Liver Oil & Calcium 50 Caps,20240413,health_products,True
+Tesco,4.5,0.08,unit,Tesco Health 60 Glucosamine Sulphate 500Mg Tablets,20240413,health_products,True
+Tesco,4.99,0.08,unit,Fred & Flo Ultra Dry Size 5+ Nappies Jumbo Pack 64,20240413,baby_products,True
+Tesco,5.0,0.08,unit,Vitabiotics Ultra Vitamin B Complex Tablets X60,20240413,health_products,False
+Tesco,6.0,0.08,unit,Rennie Peppermint Indigestion Tablets 72S,20240413,health_products,False
+Tesco,8.0,0.08,unit,Vitabiotics Ultra Vitamin D3 2000Iu 96 Tablets,20240413,health_products,False
+Tesco,2.25,0.08,m,Tesco PVC Free Easy Tear Cling Film 30m x 350mm,20240413,household,True
+Tesco,0.39,0.9,kg,Stockwell & Co Strawberry Jam 454G,20240413,food_cupboard,False
+Tesco,0.75,0.9,kg,Tesco Toastie White Bread Thick 800G,20240413,bakery,True
+Tesco,0.75,0.9,kg,Tesco White Bread 800G,20240413,bakery,True
+Tesco,0.75,0.9,kg,Tesco Wholemeal Medium Bread 800G,20240413,bakery,True
+Tesco,0.9,0.9,kg,Grower's Harvest Porridge Oats 1Kg,20240413,food_cupboard,False
+Tesco,0.45,0.9,l,Tesco Essentials Coolmint Mouthwash 500Ml,20240413,health_products,True
+Tesco,0.45,0.9,l,Tesco Essentials Freshmint Mouthwash 500Ml,20240413,health_products,True
+Tesco,0.9,0.9,l,KX Sugar Free Blue Spark Energy Drink 1L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Apple & Blackcurrant Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Lemon & Lime Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Lemon & Lime Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Mango & Passion Fruit Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Peach & Raspberry Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Strawberry Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Strawberry Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Summer Fruits Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Summer Fruits Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.35,0.9,l,Volvic Touch of Fruit Watermelon Sugar Free Still Flavoured Water 1.5L,20240413,drinks,False
+Tesco,1.79,0.9,l,Diet Pepsi Cola Bottle 2L,20240413,drinks,False
+Tesco,1.79,0.9,l,Growers Harvest Orange Juice Smooth 2L,20240413,drinks,False
+Tesco,1.79,0.9,l,Growers Harvest Pure Apple Juice 2 Litre,20240413,drinks,False
+Tesco,1.79,0.9,l,Pepsi Max Cherry No Sugar Cola Bottle 2L,20240413,drinks,False
+Tesco,1.79,0.9,l,Pepsi Max Lime No Sugar Cola Bottle 2L,20240413,drinks,False
+Tesco,1.79,0.9,l,Pepsi Max Mango 2L,20240413,drinks,False
+Tesco,1.79,0.9,l,Pepsi Max No Caffeine No Sugar Cola Bottle 2L,20240413,drinks,False
+Tesco,1.79,0.9,l,Pepsi Max No Sugar Cola Bottle 2L,20240413,drinks,False
+Tesco,1.8,0.9,l,Ka Sparkling Black Grape 2 Litre Bottle,20240413,food_cupboard,False
+Tesco,1.8,0.9,l,Ka Sparkling Fruit Punch 2 Litre Bottle,20240413,food_cupboard,False
+Tesco,1.8,0.9,l,Ka Sparkling Pineapple 2 Litre Bottle,20240413,food_cupboard,False
+Tesco,1.8,0.9,l,Rubicon Sparkling Mango Juice Drink 2 Litre Bottle,20240413,food_cupboard,False
+Tesco,1.8,0.9,l,Rubicon Sparkling Passion Fruit Juice Drink 2 Litre,20240413,drinks,False
+Tesco,1.8,0.9,l,Rubicon Sparkling Zero Added Sugar Mango 2 Litre,20240413,food_cupboard,False
+Tesco,1.85,0.9,l,Coca Cola Zero Sugar Vanilla 2L,20240413,drinks,False
+Tesco,1.85,0.9,l,Coca-Cola Zero Sugar 2L,20240413,drinks,False
+Tesco,1.85,0.9,l,Coca-Cola Zero Sugar Cherry 2L,20240413,drinks,False
+Tesco,1.25,0.6,l,Coca-Cola Zero Sugar Lemon Coke Soft Drink 2 Litre,20240413,drinks,False
+Tesco,1.85,0.9,l,Coca-Cola Zero Sugar Zero Caffeine 2L,20240413,drinks,False
+Tesco,1.85,0.9,l,Diet Coke 2L,20240413,drinks,False
+Tesco,1.85,0.9,l,Diet Coke No Caffeine 2L,20240413,drinks,False
+Tesco,1.85,0.9,l,Diet Coke Sublime Lime 2L,20240413,drinks,False
+Tesco,3.4,0.9,l,Tesco Water Splash Blackcurrant 12X300ml,20240413,drinks,True
+Tesco,1.1,0.09,unit,Ms Molly's 12 Iced Fairy Cakes,20240413,bakery,True
+Tesco,1.4,0.09,unit,Carex Hygiene Antibacterial Wipes Biodegradable 15 Pack,20240413,health_products,False
+Tesco,1.75,0.09,unit,Assorted Buttons,20240413,home,False
+Tesco,1.75,0.09,unit,Tesco Multivits & Minerals 20S,20240413,health_products,True
+Tesco,11.0,0.09,unit,Seven Seas Cod Liver Oil High Strength Gelatine Free Vitamin D 120 Capsules,20240413,health_products,False
+Tesco,11.0,0.09,unit,Seven Seas Cod Liver Oil One A Day 120 Capsules,20240413,health_products,False
+Tesco,2.2,0.09,unit,Tesco 25 Non-Stick Baking Paper Sheets 40cmx30cm,20240413,household,True
+Tesco,2.25,0.09,unit,Always Discreet Normal Incontinence Liners 24 Pack,20240413,health_products,False
+Tesco,1.9,0.08,unit,TENA Lights Incontinence Liners 24 pack,20240413,health_products,False
+Tesco,2.25,0.09,unit,Tesco A4 Extra Strong Punch Pockets 25Pk,20240413,home,True
+Tesco,2.25,0.09,unit,Tesco Assorted Balloons Pearl 25 Pack,20240413,home,True
+Tesco,2.6,0.09,unit,Leo Bancroft Large Hair Grips Black 28Pk,20240413,health_products,False
+Tesco,2.6,0.09,unit,Leo Bancroft Large Hair Grips Brown 28Pk,20240413,health_products,False
+Tesco,2.65,0.09,unit,Tesco Paper Sandwich Bag 30 Pack,20240413,household,True
+Tesco,2.75,0.09,unit,Tesco Health Menopause Support 30 Tablets,20240413,health_products,True
+Tesco,21.0,0.09,unit,"Tesco Glucosamine, Chondroitin & Msm 240S",20240413,health_products,True
+Tesco,3.0,0.09,unit,Mcvitie's The Original Jaffa Cakes Triple Pack 33 Cakes,20240413,food_cupboard,False
+Tesco,3.15,0.09,unit,Leo Bancroft Assorted Bands Brown 35 Pack,20240413,health_products,False
+Tesco,3.15,0.09,unit,Tesco Health 36 Sore Throat Lozenges Blackcurrant,20240413,health_products,True
+Tesco,3.25,0.09,unit,Tesco Health 36 Dual Action Lozenges Honey Lemon,20240413,health_products,True
+Tesco,3.7,0.09,unit,Spontex All Purpose Cloths On A Roll 40 Pack,20240413,household,False
+Tesco,6.5,0.09,unit,Fred & Flo Easy Fit Pants Jumbo Pack Size 4 72 Pack,20240413,baby_products,True
+Tesco,6.5,0.09,unit,Weetabix Cereal 72 Pack,20240413,food_cupboard,False
+Tesco,8.65,0.09,unit,Spontex Multi Purpose Disposable Gloves 100 Pack,20240413,household,False
+Tesco,4.6,0.09,m,Bacofoil Pvc Free Cling Film 32.5Cm X 50Mtr,20240413,household,False
+Tesco,0.45,1.0,kg,Hearty Food Co. Curry Sauce 440G,20240413,food_cupboard,True
+Tesco,0.99,1.0,l,Grower's Harvest Orange Juice Smooth 1 Litre,20240413,drinks,False
+Tesco,0.99,1.0,l,Growers Harvest Pure Apple Juice 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Kx Blue Spark Energy Drink 1L 1L,20240413,drinks,False
+Tesco,1.0,1.0,l,Ocean Spray Sparkling Cranberry Raspberry Water 1L,20240413,drinks,False
+Tesco,1.0,1.0,l,Ocean Spray Sparkling Water Cranberry 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Tesco Chocolate Flavoured Milk 1L,20240413,drinks,True
+Tesco,1.0,1.0,l,Tesco Strawberry Flavoured Milk 1L,20240413,fresh_food,True
+Tesco,1.2,1.0,l,Aqua Carpatica Mineral Water 1L,20240413,drinks,False
+Tesco,1.5,1.0,l,Oasis Summer Fruits 1.5L,20240413,drinks,False
+Tesco,1.5,0.8,l,Dr Pepper 2L,20240413,drinks,False
+Tesco,1.5,0.8,l,Dr Pepper Zero 2L,20240413,drinks,False
+Tesco,1.5,0.8,l,Fanta Fruit Twist 2L,20240413,drinks,False
+Tesco,1.5,0.8,l,Fanta Lemon 2L,20240413,drinks,False
+Tesco,1.5,0.8,l,Fanta Orange 2L,20240413,drinks,False
+Tesco,1.5,0.8,l,Fanta Orange Zero 2 Litre,20240413,drinks,False
+Tesco,2.0,1.0,l,Old Jamaica Ginger Beer Regular 2L,20240413,food_cupboard,False
+Tesco,2.0,1.0,l,Pepsi Cola Bottle 2L,20240413,drinks,False
+Tesco,1.5,0.8,l,Sprite 2L,20240413,drinks,False
+Tesco,2.0,1.0,l,Tango Apple Sugar Free Bottle 2L,20240413,drinks,False
+Tesco,2.0,1.0,l,Tango Mango Sugar Free Soft Drink 2 Litre,20240413,drinks,False
+Tesco,2.0,1.0,l,Tango Orange Original Bottle 2L,20240413,drinks,False
+Tesco,2.5,1.0,l,Tesco Diet Cola 8x330ml,20240413,drinks,True
+Tesco,2.5,1.0,l,Tesco Xero Cola 8x330ml,20240413,drinks,True
+Tesco,2.6,1.0,l,Tesco Classic Cola 8 x 330ml,20240413,drinks,True
+Tesco,3.0,1.0,l,Evian Natural Bottled Mineral Still Water Multipack 6x500ml,20240413,drinks,False
+Tesco,3.0,1.0,l,Volvic Natural Bottled Mineral Still Water Multipack 6x500ml,20240413,drinks,False
+Tesco,7.99,1.0,l,Tango Orange Original Cans 24x330ml,20240413,drinks,False
+Tesco,2.39,0.0,unit,Aria Essentials Toilet Tissue 6 Roll 400 Sheets,20240413,household,False
+Tesco,0.95,10.0,kg,Dunns River Caribbean Fish Seasoning 100G,20240413,food_cupboard,False
+Tesco,1.0,10.0,kg,East End Kasuri Methi 100G,20240413,food_cupboard,False
+Tesco,2.0,10.0,kg,Very Lazy Garlic 200G,20240413,food_cupboard,False
+Tesco,2.0,10.0,kg,Very Lazy Red Chillies 190G,20240413,food_cupboard,False
+Tesco,2.0,10.0,kg,Very Lazy Smoked Chopped Garlic 200G,20240413,food_cupboard,False
+Tesco,2.4,10.0,kg,Vegeta Podravka Seasonings 250G,20240413,food_cupboard,False
+Tesco,2.6,10.0,kg,East End Himalayan Pink Salt 250G,20240413,food_cupboard,False
+Tesco,1.0,0.1,unit,Balloon Invite 10 Pack,20240413,home,False
+Tesco,1.0,0.1,unit,Tesco Multicolour Tags 10 Pack,20240413,home,True
+Tesco,1.0,0.1,unit,"Tesco Red, White & Blue Balloons 10 Pack",20240413,home,True
+Tesco,1.05,0.1,unit,Tesco All Purpose Cloths 10 Pack,20240413,household,True
+Tesco,1.25,0.1,unit,Kids Create Fibre Tips 12pk,20240413,home,False
+Tesco,1.5,0.1,unit,Glow Sticks 15Pk,20240413,home,False
+Tesco,1.5,0.1,unit,Kids Create Jumbo Chalk Bucket 15pk,20240413,home,False
+Tesco,1.65,0.1,unit,Anadin Original Pain Relief Aspirin Headache Tablets 16s,20240413,health_products,False
+Tesco,1.95,0.1,unit,Tesco Zip Seal Food & Freezer Bags Medium 20S,20240413,household,True
+Tesco,10.0,0.1,unit,Zuru Bucho O Balloons Original Single,20240413,home,False
+Tesco,2.0,0.1,unit,Go Create Tissue Paper 20 Sheets,20240413,home,False
+Tesco,2.0,0.1,unit,Korbond Craft needle compact,20240413,household,False
+Tesco,1.5,0.08,unit,Mcvitie's Jaffa Cakes Twinpack 20'S,20240413,food_cupboard,False
+Tesco,2.0,0.1,unit,Tampax Regular Tampons With Applicator 20 Pack,20240413,health_products,False
+Tesco,2.0,0.1,unit,Tampax Super Plus Tampons With Applicator 20 Pack,20240413,health_products,False
+Tesco,2.0,0.1,unit,Tampax Super Tampons With Applicator 20 Pack,20240413,health_products,False
+Tesco,2.0,0.1,unit,Tesco Modelling Balloons 20 Pack,20240413,home,True
+Tesco,2.1,0.1,unit,Pro Formula 20 Interdental Orange Brushes Small,20240413,health_products,False
+Tesco,2.5,0.1,unit,Kids Create 24PK SUPERTIPS,20240413,home,False
+Tesco,2.5,0.1,unit,L'oreal Fine Flowers Cleansing Wipes Dry Sensitive 25S,20240413,health_products,False
+Tesco,2.15,0.09,unit,TENA Silhouette Black Incontinence liners 26 pack,20240413,health_products,False
+Tesco,2.5,0.1,unit,Tesco All Purpose Cloths 25 Pack,20240413,household,True
+Tesco,2.5,0.1,unit,Tesco White C4 Envelopes 25Pk,20240413,home,True
+Tesco,2.6,0.1,unit,Create A Cake Round Cake Tin Liners 25,20240413,food_cupboard,False
+Tesco,2.89,0.1,unit,Fred & Flo 30 Ultra Dry Nappies Size 6,20240413,baby_products,True
+Tesco,2.95,0.1,unit,Tesco Hayfever Cetirizine 30S Tablets,20240413,health_products,True
+Tesco,3.25,0.1,unit,Pet Lint Roller Refill 2 X 4.9M (Fragranced),20240413,household,False
+Tesco,3.85,0.1,unit,Tesco 40 Chocolate Brownie Bites,20240413,bakery,True
+Tesco,4.0,0.1,unit,Tesco Retractable Ball Pen Black 40 Pack,20240413,home,True
+Tesco,2.95,0.07,unit,T-Zone Tea Tree & Witch Hazel Deep Cleansing Pads 40s,20240413,health_products,False
+Tesco,4.35,0.1,unit,Fred & Flo Easy Fit Pants Size 4 42Pk,20240413,baby_products,True
+Tesco,5.0,0.1,unit,Kids Create Coloured Pencils 50pk,20240413,home,False
+Tesco,5.0,0.1,unit,Tesco Health Cod Liver Oil & Glucosamine Sulphate 50 Caps,20240413,health_products,True
+Tesco,5.75,0.1,unit,Tesco Health 60 Childrens Immune Support Gummies,20240413,health_products,True
+Tesco,5.75,0.1,unit,Tesco Health 60 Childrens Multivitamins Orange Gummies,20240413,health_products,True
+Tesco,6.0,0.1,unit,Vitabiotics Ultra Vitamin C 60 Each,20240413,health_products,False
+Tesco,6.5,0.1,unit,Fred & Flo Easy Fit Pants Jumbo Pack Size 5 66 Pack,20240413,baby_products,True
+Tesco,0.47,1.1,kg,Hearty Food Co. Tomato & Herb Pasta Sauce 440G,20240413,food_cupboard,True
+Tesco,0.85,1.1,kg,Tesco Lightly Seeded Loaf 800G,20240413,bakery,True
+Tesco,0.85,1.1,l,Tesco Antibacterial Multi Purpose Cleanser Spray 750Ml,20240413,household,True
+Tesco,1.6,1.1,l,Rubicon Spring Orange Mango 1.5L,20240413,drinks,False
+Tesco,1.6,1.1,l,Rubicon Spring Strawberry Kiwi Water 1.5L,20240413,drinks,False
+Tesco,1.6,1.1,l,Rubicon Spring Water Black Cherry Raspberry 1.5L,20240413,drinks,False
+Tesco,2.25,1.1,l,Caprio Apple & Raspberry Drink 2 Litre Carton,20240413,food_cupboard,False
+Tesco,2.25,1.1,l,Caprio Multi-Vitamin Drink 2Ltr Carto,20240413,food_cupboard,False
+Tesco,3.25,1.1,l,Tesco Apple/Blackcurrant Juice (No Added Sugar) 12X250ml,20240413,drinks,True
+Tesco,3.25,1.1,l,Tesco Fruit Splash Orange Juice No Added Sugar Drink 12 X 250Ml,20240413,drinks,True
+Tesco,5.5,0.9,l,San Pellegrino Sparkling Natural Mineral Water Multipack 6x1L,20240413,drinks,False
+Tesco,6.0,1.0,l,Rubicon Sparkling Mango Drink 18 X 330Ml,20240413,drinks,False
+Tesco,9.0,1.1,l,Lucozade Energy Sparkling Orange Drink 24 X 330Ml,20240413,drinks,False
+Tesco,2.8,0.0,unit,Spring Force Toilet Tissue 6 White Double Rolls,20240413,household,False
+Tesco,1.0,11.0,kg,Tesco Garlic Salt 90G,20240413,food_cupboard,True
+Tesco,1.1,11.0,kg,Dunns River All Purpose Seasoning 100G,20240413,food_cupboard,False
+Tesco,1.1,11.0,kg,Dunns River Everyday Seasoning 100G,20240413,food_cupboard,False
+Tesco,1.1,11.0,kg,Dunns River Jerk Seasoning 100G,20240413,food_cupboard,False
+Tesco,3.25,11.0,kg,East End Cumin Whole 300G,20240413,food_cupboard,False
+Tesco,1.3,0.11,unit,Tesco Free Spirit Discreet Normal Pads 12 Pack,20240413,health_products,True
+Tesco,1.55,0.11,unit,Bodyform Ultra Normal Sanitary Towels 14 pack,20240413,health_products,False
+Tesco,1.7,0.11,unit,Leo Bancroft Snagfree Bands Black 15 Pack,20240413,health_products,False
+Tesco,1.7,0.11,unit,Leo Bancroft Snagfree Bands Blonde 15 Pack,20240413,health_products,False
+Tesco,1.7,0.11,unit,Leo Bancroft Snagfree Bands Brown 15 Pack,20240413,health_products,False
+Tesco,1.7,0.11,unit,Panadol Advance Pain Relief Paracetamol 500mg Tablets 16s,20240413,health_products,False
+Tesco,1.8,0.11,unit,Tesco Ibuprofen 200Mg Liquid Caps 16S,20240413,health_products,True
+Tesco,13.0,0.11,unit,Milkaid 120 Lactase Enzyme Raspberry Tablets,20240413,health_products,False
+Tesco,2.2,0.11,unit,BIC 1 Sensitive Mens Razor 20 Pack,20240413,health_products,False
+Tesco,2.25,0.11,unit,Always Discreet Incontinence Liners Plus 20 Pack,20240413,health_products,False
+Tesco,1.9,0.09,unit,TENA Lights Long Incontinence Liners 20 pack,20240413,health_products,False
+Tesco,2.25,0.1,unit,Tesco Millionaire Bites 22 Pack,20240413,bakery,True
+Tesco,2.6,0.11,unit,Leobancroft Kids 24 Pack Mini Band Pastel,20240413,health_products,False
+Tesco,2.7,0.11,unit,TOTM ORGANIC COTTON LINERS 24 PACK,20240413,health_products,False
+Tesco,2.75,0.11,unit,Femfresh Intimate Wipes 25 Pack,20240413,health_products,False
+Tesco,2.89,0.11,unit,Fred & Flo 26 Ultra Dry Nappies S6+,20240413,baby_products,True
+Tesco,20.0,0.09,unit,Nicorette 4mg Original Gum Nicotine Stop Smoking Aid 210 Pieces,20240413,health_products,False
+Tesco,24.0,0.11,unit,Nicorette Icy White 2mg Gum Nicotine 210 Pieces,20240413,health_products,False
+Tesco,20.0,0.09,unit,Nicorette Original Flavour 2mg Gum Nicotine 210 Pieces,20240413,health_products,False
+Tesco,3.2,0.11,unit,Regal Original Cake Rusks 28 Pieces,20240413,food_cupboard,False
+Tesco,3.25,0.11,unit,"Tesco Health Hair, Skin & Nails 30 Tablets",20240413,health_products,True
+Tesco,3.3,0.11,unit,Tesco Health Pregnancy Support 30 Tablets,20240413,health_products,True
+Tesco,3.85,0.11,unit,Tesco 36 Flapjack Bites,20240413,bakery,True
+Tesco,4.35,0.11,unit,Fred & Flo 38 Easy Fit Nappy Pant Size5,20240413,baby_products,True
+Tesco,4.35,0.11,unit,Fred & Flo Easy Fit Pants Size 4 Plus 40 Pack,20240413,baby_products,True
+Tesco,5.35,0.11,unit,Tesco 50 Refuse Sacks 50L,20240413,household,True
+Tesco,6.0,0.11,unit,Kalms Night Tablets 56's,20240413,health_products,False
+Tesco,6.5,0.11,unit,Fred & Flo Easy Fit Pants Jumbo Pack Size 6 60 Pack,20240413,baby_products,True
+Tesco,6.5,0.11,unit,Seven Seas Cod Liver Oil One A Day 60 Capsules,20240413,health_products,False
+Tesco,6.6,0.11,unit,Tesco Health Multivitamin 60 Gummies,20240413,health_products,True
+Tesco,8.0,0.11,unit,Tesco Nicotine 2Mg Lozenges 72S,20240413,health_products,True
+Tesco,0.89,1.2,kg,Creamfields Berry Medley Low Fat Yogurt 6X125g,20240413,fresh_food,True
+Tesco,0.89,1.2,kg,Creamfields Low Fat Sunshine Fruit Yogurt 6X125g,20240413,fresh_food,True
+Tesco,0.95,1.2,kg,Tesco White Farmhouse 800G,20240413,bakery,True
+Tesco,1.25,1.2,kg,Tesco Scottish Oats Porridge 1Kg,20240413,food_cupboard,True
+Tesco,2.5,1.2,kg,Tesco Scottish Oats Porridge 2Kg,20240413,food_cupboard,True
+Tesco,0.35,1.2,l,Tesco Essentials Shower Gel Lightly Fragranced 300ml,20240413,health_products,True
+Tesco,1.15,1.2,l,Evian Natural Bottled Mineral Still Water 1L,20240413,drinks,False
+Tesco,1.19,1.2,l,Growers Harvest Orange Juice Smooth 1L,20240413,drinks,False
+Tesco,1.0,1.0,l,Swizzels Drumstick No Added Sugar Raspberry 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Swizzels No Added Sugar Squashies Bubblegum Flavour Squash 1L,20240413,drinks,False
+Tesco,1.0,1.0,l,Swizzels Refreshers Lemon No Added Sugar Squash 1L,20240413,drinks,False
+Tesco,2.4,1.2,l,Tesco Soft Scoop Neapolitan 2 Litres,20240413,frozen,True
+Tesco,2.4,1.2,l,Tesco Soft Scoop Raspberry Ripple 2 Litres,20240413,frozen,True
+Tesco,2.4,1.2,l,Tesco Soft Scoop Vanilla Ice Cream 2L,20240413,frozen,True
+Tesco,1.3,0.6,l,Tymbark Apple Watermelon Drink 2 Litre,20240413,food_cupboard,False
+Tesco,1.3,0.6,l,Tymbark Cherry & Apple Nectar Drink 2L,20240413,food_cupboard,False
+Tesco,1.3,0.6,l,Tymbark Multifruit Drink 2 Litre,20240413,food_cupboard,False
+Tesco,3.5,1.2,l,Evian Natural Bottled Mineral Still Water Multipack 4x750ml,20240413,drinks,False
+Tesco,9.5,1.2,l,7UP Zero Sugar Lemon & Lime Cans 24 x 330ml,20240413,drinks,False
+Tesco,9.5,1.2,l,Tango Apple Sugar Free 24 X 330Ml,20240413,drinks,False
+Tesco,9.5,1.2,l,Tango Dark Berry Sugar Free Cans 24x330ml,20240413,drinks,False
+Tesco,1.0,12.0,kg,Suhana Chicken Korma Masala Spice Mix 80g,20240413,food_cupboard,False
+Tesco,1.0,12.0,kg,Suhana Chicken Tikka Masala Spice Mix 80g,20240413,food_cupboard,False
+Tesco,1.0,12.0,kg,Tesco Finger Chillies 80G,20240413,fresh_food,True
+Tesco,1.0,12.0,kg,Tesco Onion Salt 80G,20240413,food_cupboard,True
+Tesco,1.25,12.0,kg,Tesco Coriander 100G,20240413,fresh_food,True
+Tesco,1.25,12.0,kg,Tesco Flat Leaf Parsley 100G,20240413,fresh_food,True
+Tesco,3.0,12.0,kg,Tesco Reduced Fat & Salt 8 Bacon Unsmoked Medallions 240G,20240413,fresh_food,True
+Tesco,3.5,12.0,kg,East End Chilli Powder Extra Hot 300G,20240413,food_cupboard,False
+Tesco,3.5,12.0,kg,East End Cumin Powder (Jeera) 300G,20240413,food_cupboard,False
+Tesco,3.5,12.0,kg,East End Garam Masala Mixd Powder 300,20240413,food_cupboard,False
+Tesco,3.7,12.0,kg,Natco Black Pepper Coarse 300G,20240413,food_cupboard,False
+Tesco,0.25,0.12,unit,Tesco Essentials Toothbrushes 2 Pack,20240413,health_products,True
+Tesco,0.75,0.12,unit,Tesco Non-Scratch Sponge Pan Cleaners 6 Pack,20240413,household,True
+Tesco,0.65,0.1,unit,Tesco Small Bananas 6 Pack,20240413,fresh_food,True
+Tesco,0.75,0.12,unit,Tesco Sponge Pan Cleaners 6 Pack,20240413,household,True
+Tesco,0.99,0.12,unit,H.W Nevills 8 Plain Tortilla Wraps,20240413,bakery,False
+Tesco,0.99,0.12,unit,H.W Nevills 8 Wholemeal Tortilla Wrap,20240413,bakery,False
+Tesco,1.0,0.12,unit,Nurofen Targeted Pain Relief Ibuprofen 200mg Tablets 8 Pack,20240413,health_products,False
+Tesco,1.0,0.12,unit,TESCO CORN SKEWERS - 8PK,20240413,home,True
+Tesco,1.25,0.12,unit,McVitie's The Original Jaffa Cakes 10 pack,20240413,food_cupboard,False
+Tesco,1.25,0.12,unit,Mcvitie's Jaffa Cake Cherry Flavour 10'S,20240413,food_cupboard,False
+Tesco,1.25,0.12,unit,Mcvities Jaffa Jaffa Cakes Raspberry 10 Cakes,20240413,food_cupboard,False
+Tesco,1.25,0.12,unit,Tesco 10 Balloons Age 10,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco 10 Pack Happy Birthday Balloons Age 2,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco 10 Pack Happy Birthday Balloons Age 4,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco 10 Pack Happy Birthday Balloons Age 5,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco 10 Pack Happy Birthday Balloons Age 7,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco 10 Pack Happy Birthday Balloons Age 8,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco 10 Pack Happy Birthday Balloons Age 9,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Age 1 Balloons - 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Happy B Day Balloons Blue 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Mechanical Pencils Grey Blue Red 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Multi Colour Pack Tissue 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Party Balloons Age 3 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Party Balloons Age 6 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Pastel Mult Colour Tissue 10 Sheets,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Pastel Stick Rainbow Pens Black Ink 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Rainbow Ballpoint Pens 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Silver Balloons 10 Pack,20240413,home,True
+Tesco,1.25,0.12,unit,Tesco Star Balloon 10 Pack,20240413,home,True
+Tesco,1.5,0.12,unit,Tesco Binder Clips,20240413,home,True
+Tesco,1.5,0.12,unit,Tesco Blocked Nose Relief 12 Capsules,20240413,health_products,True
+Tesco,1.5,0.12,unit,Tesco Gold And Silver Candles 12 Pack Assortment,20240413,food_cupboard,True
+Tesco,1.5,0.12,unit,Tesco Patterned Candles Pink 12 Pack,20240413,food_cupboard,True
+Tesco,1.5,0.12,unit,Tesco Rainbow Colour Candles 12 Pack,20240413,food_cupboard,True
+Tesco,1.9,0.12,unit,Nurofen Targeted Pain Relief Ibuprofen 200mg Caplets 16 Pack,20240413,health_products,False
+Tesco,1.9,0.12,unit,Nurofen Targeted Pain Relief Ibuprofen 200mg Tablets 16 Pack,20240413,health_products,False
+Tesco,12.0,0.12,unit,Vitabiotics Ultra Vitamin D3 3000Iu Tablets X96,20240413,health_products,False
+Tesco,2.0,0.12,unit,Tesco Max Strength Cold And Flu Day And Night 16,20240413,health_products,True
+Tesco,2.0,0.12,unit,Tesco Maximum Strength Cold And Flu Caps 16,20240413,health_products,True
+Tesco,2.25,0.12,unit,Tampax Compak Regular Applicator Tampons 18,20240413,health_products,False
+Tesco,2.25,0.12,unit,Tampax Compak Super Applicator Tampons 18,20240413,health_products,False
+Tesco,2.25,0.12,unit,Tampax Compak Super Plus Applicator Tampons 18,20240413,health_products,False
+Tesco,2.15,0.11,unit,TENA Discreet Mini Incontinence Pads 20 pack,20240413,health_products,False
+Tesco,2.5,0.12,unit,Dulcolax Tablets 20'S,20240413,health_products,False
+Tesco,2.5,0.12,unit,Tesco 20 Flapjack Bites,20240413,bakery,True
+Tesco,2.5,0.12,unit,Tesco Brookie Bites 20 Pack,20240413,bakery,True
+Tesco,2.5,0.12,unit,Tesco Chocolate Brownie Bites 20 Pack,20240413,bakery,True
+Tesco,2.5,0.12,unit,Tesco Crispy Caramel Bites 20 Pack,20240413,bakery,True
+Tesco,2.25,0.11,unit,Tesco Mini Milk Chocolate Cookies 20 Pack,20240413,bakery,True
+Tesco,2.5,0.12,unit,Tesco Tie Top Bin Bags 50L X 20 Pack,20240413,household,True
+Tesco,2.85,0.12,unit,Rennie Peppermint Indigestion Tablets 24'S,20240413,health_products,False
+Tesco,2.85,0.12,unit,Rennie Spearmint Indigestion Tablets 24'S,20240413,health_products,False
+Tesco,2.85,0.12,unit,Rennie Sugar Free 24S,20240413,health_products,False
+Tesco,2.99,0.12,unit,Always Ultra Normal Size 1 Sanitary Towels With Wings 26,20240413,health_products,False
+Tesco,23.75,0.12,unit,Nicotinell Fruit Stop Smoking Aid 2mg Medicated Gum 204s,20240413,health_products,False
+Tesco,3.0,0.12,unit,G.O. Nails Classic French Almond 24 Nails Pack,20240413,health_products,False
+Tesco,3.0,0.12,unit,G.O. Nails Glitter Tip Almond 24 Nails Pack,20240413,health_products,False
+Tesco,3.0,0.12,unit,G.O. Nails Naturally Nude Almond 24 Nails Pack,20240413,health_products,False
+Tesco,3.0,0.12,unit,G.O. Nails Two Colour Ballerina 24 Nails Pack,20240413,health_products,False
+Tesco,3.0,0.12,unit,Lord Sheraton Leather Wipes 24'S,20240413,household,False
+Tesco,3.5,0.12,unit,Tesco Multivitamins Plus Cod Liver Oil X 30,20240413,health_products,True
+Tesco,3.5,0.12,unit,Tesco Omega 3 Fish Oil X 30,20240413,health_products,True
+Tesco,4.35,0.12,unit,Fred & Flo Easy Fit Pants Size 5+ 36 Pack,20240413,baby_products,True
+Tesco,5.5,0.12,unit,Weetabix Cereal 48 Pack,20240413,food_cupboard,False
+Tesco,6.5,0.12,unit,Fred & Flo Easy Fit Pants Jumbo Pack Size 7 52 Pack,20240413,baby_products,True
+Tesco,7.25,0.12,unit,Tesco Health 60 High Strength Vitamin B Tablets,20240413,health_products,True
+Tesco,3.0,0.1,m,Hygex 290Mm X 30M Kitchen Foil,20240413,household,False
+Tesco,0.65,1.3,kg,Tesco Bolognese Pasta Sauce Jar 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Bolognese Pasta Sauce Smooth 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Chunky Vegetable Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Mushroom Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco No Added Sugar Bolognese Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco No Added Sugar Chunky Vegetable Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Onion & Garlic Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Red Lasagne Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Tomato & Basil Sauce For Meatballs 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Tomato & Chilli Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.65,1.3,kg,Tesco Tomato Mascarpone Pasta Sauce 500G,20240413,food_cupboard,True
+Tesco,0.8,1.3,kg,Creamfields Apricot Strawberry Raspberry Fromage Frais 12 X 50G,20240413,fresh_food,True
+Tesco,0.95,1.3,kg,Tesco Malt Wheats Cereal 750G,20240413,food_cupboard,True
+Tesco,1.05,1.3,kg,Tesco Multiseed Batch 800G,20240413,bakery,True
+Tesco,0.65,1.3,l,Tesco Essentials Hand Wash 500Ml,20240413,health_products,True
+Tesco,1.0,1.3,l,Radnor Splash Apple & Raspberry 3 X 250Ml,20240413,drinks,False
+Tesco,1.0,1.3,l,Radnor Splash Orange & Passion Fruit 3X250ml,20240413,drinks,False
+Tesco,1.6,1.3,l,Pepsi Max Cherry No Sugar Cola Bottle 1.25L,20240413,drinks,False
+Tesco,1.6,1.3,l,Pepsi Max Lime No Sugar Cola Bottle 1.25L,20240413,drinks,False
+Tesco,1.6,1.3,l,Pepsi Max Mango 1.25L,20240413,drinks,False
+Tesco,1.6,1.3,l,Pepsi Max No Sugar Cola Bottle 1.25L,20240413,drinks,False
+Tesco,8.0,1.0,l,Diet Pepsi Cola Cans 24x330ml,20240413,drinks,False
+Tesco,8.0,1.0,l,Pepsi Max Cherry No Sugar Cola Cans 24x330ml,20240413,drinks,False
+Tesco,8.0,1.0,l,Pepsi Max No Caffeine No Sugar Cola Cans 24x330ml,20240413,drinks,False
+Tesco,8.0,1.0,l,Pepsi Max No Sugar Cola Cans 24x330ml,20240413,drinks,False
+Tesco,8.0,1.0,l,Pepsi Max No Sugar Mango 24 X 330Ml,20240413,drinks,False
+Tesco,2.0,1.3,l,Tesco Quad Strength Apple Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quad Strength Blackcurrant Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quad Strength Lime Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quad Strength Orange Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Apple & Blackcurrant Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Apple & Strawberry Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Cherries & Berries Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Lemon Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Orange & Mango Squash 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Squash Orange Lemon & Pineapple 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Summer Fruits Squash 1.5L,20240413,drinks,True
+Tesco,2.0,1.3,l,Tesco Quadruple Strength Tropical Squash No Added Sugar 1.5L,20240413,drinks,True
+Tesco,3.95,1.3,l,San Pellegrino Sparkling Natural Mineral Water 6x500ml,20240413,drinks,False
+Tesco,4.0,1.3,l,Volvic Touch of Fruit Strawberry Still Flavoured Water Multipack 6x500ml,20240413,drinks,False
+Tesco,5.25,1.3,l,Northumbria Spring Sparkling Spring Water 12X330ml,20240413,drinks,False
+Tesco,5.25,1.3,l,Northumbria Spring Still Spring Water 12X330ml,20240413,drinks,False
+Tesco,7.5,1.3,l,7UP Zero Sugar Lemon & Lime Cans 18 x 330ml,20240413,drinks,False
+Tesco,7.5,1.3,l,Tango Apple Sugar Free Cans 18x330ml,20240413,drinks,False
+Tesco,7.5,1.3,l,Tango Orange Original Cans 18x330ml,20240413,drinks,False
+Tesco,4.99,0.0,unit,Little Duck Supreme Quilted Toilet Tissue 24 Rolls,20240413,household,False
+Tesco,1.05,13.0,kg,Rajah Chaat Masala 80G,20240413,food_cupboard,False
+Tesco,1.05,13.0,kg,Rajah Chana Masala 80G,20240413,food_cupboard,False
+Tesco,1.05,13.0,kg,Rajah Chicken Masala 80G,20240413,food_cupboard,False
+Tesco,1.05,13.0,kg,Rajah Fish Masala 80G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Chinese Cinnamon Sticks 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Coriander Whole 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Cumin Whole Jeera 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Fennel Seeds 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Garam Masala Powder 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Garlic Powder 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Ginger Powder 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Ground Coriander Powder 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Ground Cumin Powder 100G,20240413,food_cupboard,False
+Tesco,1.3,13.0,kg,East End Tandoori Masala 100G,20240413,food_cupboard,False
+Tesco,2.55,13.0,kg,Delikat Chicken Seasoning 200G,20240413,food_cupboard,False
+Tesco,2.45,13.0,kg,Polli Garlic Cloves In Oil With Herbs 190G,20240413,food_cupboard,False
+Tesco,1.07,0.13,unit,Zig Zag Green 8 Paper,20240413,home,False
+Tesco,1.3,0.13,unit,Mr Muscle & Brillo Soap Pads 10 Pack,20240413,household,False
+Tesco,1.3,0.13,unit,Tesco Emery Boards 10 Pack,20240413,health_products,True
+Tesco,1.3,0.13,unit,Tesco Free Spirit Extra Pads 10 Pack,20240413,health_products,True
+Tesco,1.3,0.13,unit,Xprt. For Men 2 Blade Disposable Razors 10 Pack,20240413,health_products,False
+Tesco,1.33,0.13,unit,Tesco 10 British Mixed Weight Caged Eggs,20240413,fresh_food,True
+Tesco,1.55,0.13,unit,Bodyform Ultra Long Sanitary Towels 12 pack,20240413,health_products,False
+Tesco,1.55,0.13,unit,Bodyform Ultra Normal Sanitary Towels Wings 12 pack,20240413,health_products,False
+Tesco,1.9,0.13,unit,Always Ultra Normal Size 1 Sanitary Towels 15 Pack,20240413,health_products,False
+Tesco,12.0,0.13,unit,Seven Seas Cod Liver Oil Plus Multivitamins With Vitamin D 90 Capsules,20240413,health_products,False
+Tesco,2.1,0.13,unit,Anadin Joint Pain Relief Ibuprofen Tablets 16s,20240413,health_products,False
+Tesco,2.3,0.13,unit,Regal Original Cake Rusks 18 Pieces,20240413,food_cupboard,False
+Tesco,2.6,0.13,unit,Create A Cake Loaf Tin Liners 20,20240413,food_cupboard,False
+Tesco,2.89,0.13,unit,Fred & Flo Ultra Dry Size 7 Nappies 22Pack,20240413,baby_products,True
+Tesco,26.45,0.13,unit,Nicotinell Mint Nicotine Stop Smoking Aid 1mg Lozenge 204s,20240413,health_products,False
+Tesco,26.45,0.13,unit,Nicotinell Mint Nicotine Stop Smoking Aid 2mg Lozenge 204s,20240413,health_products,False
+Tesco,3.85,0.13,unit,Tesco 30 Cornflake Clusters,20240413,bakery,True
+Tesco,3.9,0.13,unit,Zip Firelighters Pack 30,20240413,home,False
+Tesco,4.35,0.13,unit,Fred & Flo Easy Fit Size 6 Nappy Pant 34 Pack,20240413,baby_products,True
+Tesco,5.5,0.13,unit,Echinaforce Echinacea Tablets 42'S,20240413,health_products,False
+Tesco,5.5,0.13,unit,Rascal & Friends Premium Nappies Size 3 42 Pack,20240413,baby_products,False
+Tesco,8.0,0.13,unit,Vitawell Beauty Shine & Glow Sweet Berry Gummies 60 Pack,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Hair Lush Locks Berry Burst Gummiesx60,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Hormone Support Strawberry Gummies 60'S,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Man Max Power Capsules x 60,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Night Sweet Dreams 60 Black Cherry Flavour Gummies,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Roots KSM-66 Ashwagandha Strawberry Flavour Gummies x 60,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Roots Lion's Mane Raspberry & Pomegranate Flavoured Gummies x 60,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Roots Manuka Honey Orange Flavoured Gummies x 60,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Sea Moss Gummies x 60,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Women's Health Menopause Support 60 Capsules,20240413,health_products,False
+Tesco,8.0,0.13,unit,Vitawell Womens Health Perimenopause Support 60 Capsules,20240413,health_products,False
+Tesco,2.0,0.13,m,Tesco Non Stick Baking Paper 370Mm X 15M,20240413,household,True
+Tesco,0.46,1.4,kg,Tesco White Lasagne Sauce 340G,20240413,food_cupboard,True
+Tesco,0.55,1.4,kg,Ms Molly's Digestive 400G,20240413,food_cupboard,True
+Tesco,0.55,1.4,kg,Stockwell & Co Vegetable Soup 400G,20240413,food_cupboard,False
+Tesco,1.15,1.4,kg,Hovis Simple White Bread 800G,20240413,bakery,False
+Tesco,1.4,1.4,kg,Tesco Ready To Serve Custard 1Kg,20240413,food_cupboard,True
+Tesco,1.4,1.4,kg,Tesco Reduced Fat Custard 1Kg,20240413,food_cupboard,True
+Tesco,0.45,1.4,l,Ka Sparkling Black Grape 330Ml Can,20240413,food_cupboard,False
+Tesco,0.45,1.4,l,Ka Sparkling Fruit Punch 330Ml Can,20240413,food_cupboard,False
+Tesco,0.45,1.4,l,Ka Sparkling Pineapple 330Ml Can,20240413,food_cupboard,False
+Tesco,0.65,1.4,l,Stockwell & Co Mayonnaise 450Ml,20240413,food_cupboard,False
+Tesco,1.4,1.4,l,Tesco Apple And Mango From Concentrate 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Blueberry Juice Drink 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Cranberry Juice Drink 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco No Added Sugar Cranberry Juice Drink 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco No Added Sugar Cranberry Raspberry Juice Drink 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Orange Juice Smooth 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Pineapple Juice 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Pink Grapefruit Juice 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Pomegranate Juice Drink 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Pure Apple Juice 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Pure Exotic Juice 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Pure Orange Juice With Bits 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Tomato Juice 1 Litre,20240413,drinks,True
+Tesco,1.4,1.4,l,Tesco Tropical Juice Drink 1 Litre,20240413,drinks,True
+Tesco,1.69,1.4,l,Growers Harvest Apple Juice From Concentrate 6 X 200Ml,20240413,drinks,False
+Tesco,1.69,1.4,l,Growers Harvest Orange Juice From Concentrate 6 X 200Ml,20240413,drinks,False
+Tesco,1.7,1.4,l,Coca-Cola Zero Sugar 1.25L,20240413,drinks,False
+Tesco,1.7,1.4,l,Diet Coke 1.25L,20240413,drinks,False
+Tesco,10.75,1.4,l,Coca-Cola Zero Sugar 24x330ml,20240413,drinks,False
+Tesco,10.75,1.4,l,Diet Coke 24x330ml,20240413,drinks,False
+Tesco,10.75,1.4,l,Diet Coke No Caffeine 24x330ml,20240413,drinks,False
+Tesco,2.39,1.4,l,Coca-Cola Cherry 1.75L,20240413,drinks,False
+Tesco,2.39,1.4,l,Coca-Cola Original Taste 1.75L,20240413,drinks,False
+Tesco,3.75,1.4,l,Dr Pepper 8x330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Fanta Orange 8X 330Ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Fanta Zero Fruit Twist 8x330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Fanta Zero Orange 8x330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Sprite 8x330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Sprite Zero Sugar 8x330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Tango Apple Sugar Free Soft Drink 8 x 330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Tango Mango Sugar Free Soft Drink 8 x 330ml,20240413,drinks,False
+Tesco,3.75,1.4,l,Tango Orange Original Soft Drink 8 x 330ml,20240413,drinks,False
+Tesco,5.75,1.4,l,Pepsi Max 12 X 330Ml,20240413,drinks,False
+Tesco,5.75,1.4,l,Pepsi Max Cherry 330Ml X 12 Cans,20240413,drinks,False
+Tesco,6.75,1.4,l,Fruit Shoot Apple & Blackcurrant Kids Juice Drink 24x200ml,20240413,drinks,False
+Tesco,6.5,1.1,l,Dr Pepper 18x330ml,20240413,drinks,False
+Tesco,6.5,1.1,l,Sprite 18x330ml,20240413,drinks,False
+Tesco,6.5,1.1,l,Fanta Orange 18 X 330Ml,20240413,drinks,False
+Tesco,0.7,0.14,unit,Toastabags Slow Cooker Liners X5,20240413,household,False
+Tesco,0.85,0.14,unit,Tesco Cuticle Sticks 6 Pack,20240413,health_products,True
+Tesco,0.85,0.14,unit,Warburtons Potato Cakes 6 Pack,20240413,bakery,False
+Tesco,1.15,0.14,unit,Tesco Skin Closure Strips 8'S,20240413,health_products,True
+Tesco,1.25,0.14,unit,Warburtons Crumpets 9 Pack,20240413,bakery,False
+Tesco,1.4,0.14,unit,Hoppers Chocolate Mini Rolls 10 Pack,20240413,bakery,False
+Tesco,1.4,0.14,unit,Tesco 10 Waffle Cones,20240413,food_cupboard,True
+Tesco,1.95,0.14,unit,Tesco Allergy & Hayfever Cetirizine 14S,20240413,health_products,True
+Tesco,1.95,0.14,unit,Tesco Hayfever/Allergy Relief 14S,20240413,health_products,True
+Tesco,10.0,0.14,unit,Niquitin Mint Lozenges 2Mg 72S,20240413,health_products,False
+Tesco,11.5,0.14,unit,Pampers New Baby Size 1 80 Nappies Jumbo+ Pack,20240413,baby_products,False
+Tesco,13.0,0.14,unit,Vitabiotics Osteocare Original 90 Tablets,20240413,health_products,False
+Tesco,13.25,0.14,unit,Nicotinell Fruit Stop Smoking Aid 2mg Medicated Gum 96s,20240413,health_products,False
+Tesco,13.25,0.14,unit,Nicotinell Fruit Stop Smoking Aid 4mg Medicated Gum 96s,20240413,health_products,False
+Tesco,13.25,0.14,unit,Nicotinell Mint Stop Smoking Aid 2mg Medicated Gum 96s,20240413,health_products,False
+Tesco,13.25,0.14,unit,Nicotinell Mint Stop Smoking Aid 4mg Medicated Gum 96s,20240413,health_products,False
+Tesco,13.75,0.14,unit,Nicotinell Mint Nicotine Stop Smoking Aid 1mg Lozenge 96s,20240413,health_products,False
+Tesco,13.75,0.14,unit,Nicotinell Mint Nicotine Stop Smoking Aid 2mg Lozenge 96s,20240413,health_products,False
+Tesco,14.0,0.14,unit,Pampers Baby Dry Size 3 Nappies Jumbo+ 98 Pack,20240413,baby_products,False
+Tesco,1.5,0.1,unit,Lil Lets Non Applicator Regular Tampons 16 Pack,20240413,health_products,False
+Tesco,1.5,0.1,unit,Lil Lets Non Applicator Super Plus Tampons 16 Pack,20240413,health_products,False
+Tesco,1.5,0.1,unit,Lil Lets Non Applicator Super Tampons 16 Pack,20240413,health_products,False
+Tesco,2.25,0.14,unit,Tesco Faster Healing Plasters Hydrocolloid 16S,20240413,health_products,True
+Tesco,2.3,0.14,unit,Tesco Max Strength All In One Cold & Flu 16 Capsule,20240413,health_products,True
+Tesco,2.15,0.12,unit,TENA Silhouette Black Incontinence Pads 18 pack,20240413,health_products,False
+Tesco,2.7,0.14,unit,Tesco 20 Extra Strong Drawstring Refuse Sacks 50L,20240413,household,True
+Tesco,2.75,0.14,unit,Always Discreet Small Incontinence Pads 20 Pack,20240413,health_products,False
+Tesco,2.9,0.14,unit,Tesco Free From Flapjack Bites 20 Pack,20240413,bakery,True
+Tesco,20.25,0.14,unit,Nicotinell Mint Nicotine Stop Smoking Aid 1mg Lozenge 144s,20240413,health_products,False
+Tesco,3.4,0.14,unit,Always Platinum Normal Size 1 Sanitary Towels With Wings 24S,20240413,health_products,False
+Tesco,3.5,0.14,unit,Dr Beckmann Magic Leaves Biological Laundry Detergent Sheet 25S,20240413,household,False
+Tesco,4.25,0.14,unit,Pregnacare 30S,20240413,health_products,False
+Tesco,4.35,0.14,unit,Fred & Flo Easy Fit Pants Size 7 30 Pack,20240413,baby_products,True
+Tesco,4.35,0.14,unit,Fred & Flo Easy Fit Size 6+ Nappy Pant 32 Pack,20240413,baby_products,True
+Tesco,4.35,0.14,unit,Tesco 30 Tall Pedal Bin Liners 30L,20240413,household,True
+Tesco,1.4,0.14,m,Tesco Kitchen Foil 10M X 290Mm,20240413,household,True
+Tesco,0.6,1.5,kg,Tesco Custard Cream Biscuits 400G,20240413,food_cupboard,True
+Tesco,0.73,1.5,kg,Tesco Pasta Bake Creamy Tomato & Herb 500G,20240413,food_cupboard,True
+Tesco,0.75,1.5,kg,Tesco Cornflakes Cereal 500G,20240413,food_cupboard,True
+Tesco,0.8,1.5,kg,Kuchnia Polska Sauerkraut 520G,20240413,food_cupboard,False
+Tesco,0.82,1.5,kg,Stockwell & Co Tomato Ketchup 540G,20240413,food_cupboard,False
+Tesco,1.1,1.5,kg,Tesco Bran Flakes 750G,20240413,food_cupboard,True
+Tesco,1.35,1.5,kg,Tesco Tomato Ketchup 890G,20240413,food_cupboard,True
+Tesco,1.9,1.5,kg,Mornflake Mighty Creamy Superfast Oats 1.25Kg,20240413,food_cupboard,False
+Tesco,0.45,1.5,l,Tesco Water Spalsh Blackcurrant Still Water No Added Sugar 300Ml,20240413,drinks,True
+Tesco,0.45,1.5,l,Tesco Water Splash Apple & Raspberry No Added Sugar Water 300Ml,20240413,drinks,True
+Tesco,0.45,1.5,l,Tesco Water Splash Orange & Pineapple No Added Sugar Water 300Ml,20240413,drinks,True
+Tesco,0.5,1.5,l,Old Jamaica Extra Fiery Zero 330Ml,20240413,food_cupboard,False
+Tesco,0.5,1.5,l,Old Jamaica Ginger Beer 330Ml,20240413,drinks,False
+Tesco,0.5,1.5,l,Old Jamaica Ginger Beer Light 330Ml,20240413,food_cupboard,False
+Tesco,0.5,1.5,l,Ting Grapefruit Crush 330Ml,20240413,food_cupboard,False
+Tesco,0.75,1.5,l,Tesco Extracts Aloe Vera Antibacterial Handwash 500ml,20240413,health_products,True
+Tesco,0.75,1.5,l,Tesco Extracts Eucalyptus Antibacterial Handwash 500Ml,20240413,health_products,True
+Tesco,0.75,1.5,l,Tesco Extracts Magnolia Antibacterial Hand Wash 500Ml,20240413,health_products,True
+Tesco,1.5,1.5,l,Buxton Still Natural Mineral Water Sports Cap 1L,20240413,drinks,False
+Tesco,10.5,1.3,l,Pepsi Cola Cans 24x330ml,20240413,drinks,False
+Tesco,2.7,1.5,l,Wall's Soft Scoop Vanilla Ice Cream Tub 1800ml,20240413,frozen,False
+Tesco,2.7,1.5,l,Walls Soft Scoop Vanilla Light Ice Cream Tub 1800ml,20240413,frozen,False
+Tesco,3.0,1.5,l,Vimto No Added Sugar Squash 2L,20240413,drinks,False
+Tesco,3.0,1.5,l,Vimto Original Squash 2 Litre,20240413,drinks,False
+Tesco,3.99,1.5,l,Diet Pepsi Cola Cans 8x330ml,20240413,drinks,False
+Tesco,3.99,1.5,l,Pepsi Max Cherry No Sugar Cola Cans 8x330ml,20240413,drinks,False
+Tesco,3.99,1.5,l,Pepsi Max Lime No Sugar Cola Cans 8x330ml,20240413,drinks,False
+Tesco,3.99,1.5,l,Pepsi Max Mango 8X330ml,20240413,drinks,False
+Tesco,3.99,1.5,l,Pepsi Max No Caffeine No Sugar Cola Cans 8x330ml,20240413,drinks,False
+Tesco,3.99,1.5,l,Pepsi Max No Sugar Cola Cans 8x330ml,20240413,drinks,False
+Tesco,4.0,1.5,l,Barr Irn-Bru Soft Drink 8 X 330Ml,20240413,drinks,False
+Tesco,4.0,1.5,l,Irn Bru Xtra 8X330ml,20240413,drinks,False
+Tesco,4.0,1.5,l,Pepsi Cola Cans 8x330ml,20240413,drinks,False
+Tesco,4.5,1.5,l,Lucozade Energy Original 8 Pack 380Ml,20240413,drinks,False
+Tesco,6.0,1.5,l,Ocean Spray Cranberry Classic Juice Drink 4 X 1 Litre,20240413,drinks,False
+Tesco,6.0,1.5,l,Ocean Spray Cranberry Classic Light Juice Drink 4 X 1 Litre,20240413,drinks,False
+Tesco,4.5,1.1,l,Rubicon Still Mango Juice Drink 4X1 Litre Carton,20240413,drinks,False
+Tesco,9.0,1.5,l,KX Sugar Free Blue Spark Energy Drink 24x250ml,20240413,drinks,False
+Tesco,0.3,10.0,kg,Prymat Chicken Seasoning 30G,20240413,food_cupboard,False
+Tesco,1.5,15.0,kg,Keep It Handy Super Tack 100G,20240413,home,False
+Tesco,3.0,15.0,l,Elegant Touch Get Em Off Nail Polish Remover 200Ml,20240413,health_products,False
+Tesco,0.75,0.15,unit,Ms Molly's Chocolate Chip Cake Bars 5 Pack,20240413,bakery,True
+Tesco,0.89,0.15,unit,Tesco Soft White Hot Dog Rolls 6 Pack,20240413,bakery,True
+Tesco,0.9,0.15,unit,Tesco Crusty White Rolls 6 Pack,20240413,bakery,True
+Tesco,0.9,0.15,unit,Tesco Scotch Morning Rolls 6 Pack,20240413,bakery,True
+Tesco,0.9,0.15,unit,Tesco Tiger Rolls 6 Pack,20240413,bakery,True
+Tesco,0.9,0.15,unit,Tesco White Finger Rolls 6 Pack,20240413,bakery,True
+Tesco,0.9,0.15,unit,Warburtons Crumpets 6 Pack,20240413,bakery,False
+Tesco,1.2,0.15,unit,Tesco 8 Cornflake Clusters,20240413,bakery,True
+Tesco,1.2,0.15,unit,Tesco 8 Mini White Tortilla Wraps,20240413,bakery,True
+Tesco,1.2,0.15,unit,Tesco 8 Plain Tortilla Wraps,20240413,bakery,True
+Tesco,1.2,0.15,unit,Tesco 8 Wholemeal Tortilla Wraps,20240413,bakery,True
+Tesco,1.35,0.15,unit,Tesco Corn Relief Pads 9S,20240413,health_products,True
+Tesco,1.5,0.15,unit,Keep It Handy Assorted Sized Shoe Laces 10pk,20240413,household,False
+Tesco,1.5,0.15,unit,Keep It Handy Soft Grip Gel Pegs 10pk,20240413,household,False
+Tesco,1.5,0.15,unit,Mini Cake Sparklers 10 Pack,20240413,home,False
+Tesco,1.5,0.15,unit,Multi Bright Colour Party Cup 10 Pack,20240413,home,False
+Tesco,1.5,0.15,unit,Multi Pastel Party Cups 10 Pack,20240413,home,False
+Tesco,1.5,0.15,unit,T. STRAWBERRY PLATE 23CM 10PK,20240413,home,False
+Tesco,1.5,0.15,unit,T.Retractable Ball Pens Grip Blue 10 Pack,20240413,home,False
+Tesco,1.5,0.15,unit,Tesco Balloon Plates 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Blue Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Blue Ombre Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Dinosaur Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Fabric Dressing Strips 10'S 10 X 6Cm,20240413,health_products,True
+Tesco,1.5,0.15,unit,Tesco Football Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Football Plates 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Gaming Party Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Gaming Plates 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Grip Retractable Ball Pens Asstd 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Grip Retractable Ball Pens Black 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Lemon Plate 23Cm 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Meadow Plate 23Cm 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Party Time Plate 23Cm 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Pastel Stars Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Pink Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Pink Ombre Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Rainbow Spot Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Retractable Ball Pens Rainbow Grip 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Safari Animals Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Safari Animals Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Superhero Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Unicorn Plate 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Watercolour Cup 10 Pack,20240413,home,True
+Tesco,1.5,0.15,unit,Tesco Watercolour Plate 10 Pack,20240413,home,True
+Tesco,1.75,0.15,unit,All Round Eco 12 Pack Large Flat Elastics Brown,20240413,health_products,False
+Tesco,1.8,0.15,unit,Regal Almond Cookies 12 Pack,20240413,food_cupboard,False
+Tesco,1.85,0.15,unit,Warburtons White Sliced Sandwich Rolls 12 Pack,20240413,bakery,False
+Tesco,1.9,0.15,unit,Always Ultra Size 1 Normal With Wings Sanitary Towels 13 Pack,20240413,health_products,False
+Tesco,11.5,0.15,unit,Pampers New Baby Size 2 76 Nappies Jumbo+ Pack,20240413,baby_products,False
+Tesco,2.4,0.15,unit,Beechams Flu Plus Cold and Flu Relief Caplets 16s,20240413,health_products,False
+Tesco,2.4,0.15,unit,Solpadeine Soluble 16S,20240413,health_products,False
+Tesco,3.0,0.15,unit,Clearwipes Lens Cleaners Micro Fibre,20240413,health_products,False
+Tesco,3.0,0.15,unit,Elastoplast Paw Patrol Plasters 20'S,20240413,health_products,False
+Tesco,3.0,0.15,unit,Paperchase Rainbow 20 Pack Tissue Paper,20240413,home,False
+Tesco,3.0,0.15,unit,Paperchase ReKrafted 20 Pack Tissue Paper,20240413,home,False
+Tesco,3.0,0.15,unit,TENA Light Sensitive Ultra Pads Mini 20 Pack,20240413,health_products,False
+Tesco,3.0,0.15,unit,X-Shot Air Pocket Dart Refill 20 Pack,20240413,home,False
+Tesco,3.5,0.15,unit,Weetabix Cereal 24 Pack,20240413,food_cupboard,False
+Tesco,4.5,0.15,unit,Hri Clear Complexion 30 Tablets,20240413,health_products,False
+Tesco,4.5,0.15,unit,Hri Water Balance 30 Tablets,20240413,health_products,False
+Tesco,4.5,0.15,unit,Tesco Max Echinacea Cold & Flu Relief Tablets 30,20240413,health_products,True
+Tesco,5.5,0.15,unit,Rascal & Friends Premium Nappies Size 4 36 Pack,20240413,baby_products,False
+Tesco,5.5,0.15,unit,Strepsils Orange With Vitamin C Sore Throat Lozenges 36 Pack,20240413,health_products,False
+Tesco,5.5,0.15,unit,Strepsils Strawberry Sugar Free Sore Throat Lozenges 36 Pack,20240413,health_products,False
+Tesco,5.95,0.15,unit,Spontex Disposable Gloves 40 Pack,20240413,household,False
+Tesco,7.55,0.15,unit,Tesco Wild Bird Suet Balls 50 Pack,20240413,pets,True
+Tesco,3.0,0.15,m,Paperchase Ombre 20m Washi Tape,20240413,home,False
+Tesco,3.0,0.15,m,Paperchase Rainbow 20m Washi Tape,20240413,home,False
+Tesco,0.49,1.6,kg,Tesco Cream Crackers 300G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Broccoli And Stilton Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Cream Of Chicken & Mushroom Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Cream Of Chicken Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Cream Of Mushroom Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Cream Of Tomato Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Lentil And Bacon Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Low Fat Lentil & Vegetable Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Minestrone Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Mulligatawny Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Oxtail Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Pea And Ham Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Scotch Broth Soup 400G,20240413,food_cupboard,True
+Tesco,0.62,1.6,kg,Tesco Vegetable Soup 400G,20240413,food_cupboard,True
+Tesco,1.3,1.6,kg,Kingsmill 50/50 Medium Bread 800G,20240413,bakery,False
+Tesco,1.3,1.6,kg,Kingsmill 50/50 Thick Bread 800G,20240413,bakery,False
+Tesco,1.3,1.6,kg,Kingsmill Soft White Medium 800g,20240413,bakery,False
+Tesco,1.3,1.6,kg,Kingsmill Tasty Wholemeal Medium Bread 800G,20240413,bakery,False
+Tesco,1.3,1.6,kg,Tesco Finest Oat & Barley Loaf 800G,20240413,bakery,True
+Tesco,1.3,1.6,kg,Tesco Finest Super Seeded Farmhouse Loaf 800G,20240413,bakery,True
+Tesco,1.3,1.6,kg,Tesco Finest Wholemeal Seeds And Grains Bread 800G,20240413,bakery,True
+Tesco,1.35,1.6,kg,Tesco Reduced Sugar & Salt Ketchup 845G,20240413,food_cupboard,True
+Tesco,0.79,1.6,l,Tesco Extracts Apple Conditioner 500Ml,20240413,health_products,True
+Tesco,0.79,1.6,l,Tesco Extracts Apple Shampoo 500Ml,20240413,health_products,True
+Tesco,0.79,1.6,l,Tesco Extracts Coconut Conditioner 500Ml,20240413,health_products,True
+Tesco,0.79,1.6,l,Tesco Extracts Coconut Shampoo 500Ml,20240413,health_products,True
+Tesco,0.79,1.6,l,Tesco Extracts Tropical Conditioner 500Ml,20240413,health_products,True
+Tesco,0.79,1.6,l,Tesco Extracts Tropical Shampoo 500Ml,20240413,health_products,True
+Tesco,1.6,1.6,l,San Pellegrino Sparkling Natural Mineral Water 1L,20240413,drinks,False
+Tesco,1.6,1.6,l,Tesco Extracts Magnolia Bath Foam 1 L,20240413,health_products,True
+Tesco,1.6,1.6,l,Tesco Extracts Muscle Soak Bath Foam 1 L,20240413,health_products,True
+Tesco,1.6,1.6,l,Tymbark Cactus 1 Litre,20240413,food_cupboard,False
+Tesco,1.0,1.0,l,Welch's Light Purple Grape Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.65,1.6,l,Juhayna Cocktail Fruit Drink 1 Litre,20240413,drinks,False
+Tesco,1.65,1.6,l,Juhayna Mango Fruit Drink 1 Litre,20240413,drinks,False
+Tesco,1.65,1.6,l,Juhayna Orange Fruit Drink 1 Litre,20240413,drinks,False
+Tesco,1.65,1.6,l,Juhayna Pineapple Fruit Drink 1 Litre,20240413,drinks,False
+Tesco,1.65,1.6,l,Sun Exotic Still Pineapple & Coconut Water Juice 1 Litre,20240413,food_cupboard,False
+Tesco,1.65,1.6,l,Tesco High Juice Apple & Elderflower 1L,20240413,drinks,True
+Tesco,1.65,1.6,l,Tesco High Juice Apple Squash 1L,20240413,drinks,True
+Tesco,1.65,1.6,l,Tesco High Juice Blackcurrant Squash No Added Sugar 1L,20240413,drinks,True
+Tesco,1.65,1.6,l,Tesco High Juice Orange Squash 1L,20240413,drinks,True
+Tesco,1.65,1.6,l,Tesco High Juice Orange Squash No Added Sugar 1L,20240413,drinks,True
+Tesco,1.65,1.6,l,Tesco No Added Sugar Hi Juice Orange/Mango & Passion Fruit 1Lt,20240413,drinks,True
+Tesco,2.0,1.6,l,Coca-Cola Original Taste 1.25L,20240413,drinks,False
+Tesco,2.1,1.6,l,Radnor Fizz Tropical Drink 4X330ml,20240413,drinks,False
+Tesco,4.25,1.6,l,Coca Cola Coke Zero Cherry 8X330 Ml,20240413,drinks,False
+Tesco,4.25,1.6,l,Coca Cola Zero Sugar Zero Caffeine 8X330ml,20240413,drinks,False
+Tesco,4.25,1.6,l,Coke Zero 8X330ml,20240413,drinks,False
+Tesco,4.25,1.6,l,Diet Coke 8X330ml,20240413,drinks,False
+Tesco,4.25,1.6,l,Diet Coke Caffeine Free 8X330ml,20240413,drinks,False
+Tesco,4.25,1.6,l,Diet Coke Sublime Lime 8 x 330ml,20240413,drinks,False
+Tesco,7.9,1.6,l,Coca-Cola Zero Sugar 15x330ml,20240413,drinks,False
+Tesco,7.9,1.6,l,Diet Coke 15x330ml,20240413,drinks,False
+Tesco,6.5,1.3,l,Tesco Vegetable Oil 5 Litre,20240413,food_cupboard,True
+Tesco,9.5,1.6,l,KX Blue Spark Energy Drink 24x250ml,20240413,drinks,False
+Tesco,1.45,0.0,unit,Tesco Luxury Soft Toilet Tissue 4 Roll White,20240413,household,True
+Tesco,3.15,0.0,unit,Tesco Luxury Soft White Toilet Tissue 6 Long Rolls,20240413,household,True
+Tesco,6.0,0.0,unit,Elegance Feathersoft Toilet Tissue 24 Pack,20240413,household,False
+Tesco,8.25,0.0,unit,Tesco Luxury Soft Toilet Tissue 12 Double Rolls,20240413,household,True
+Tesco,2.4,16.0,l,W7 Total Wipeout Nail Polish Remover 150Ml,20240413,health_products,False
+Tesco,0.65,0.16,unit,Suntrail Farms Price Lemons Minimum 4 Pack,20240413,fresh_food,False
+Tesco,0.78,0.16,unit,Tesco Ripe Bananas 5 Pack,20240413,fresh_food,True
+Tesco,0.8,0.16,unit,Tesco Sticky Index Markers 100 Sheet 5 Pack,20240413,home,True
+Tesco,0.8,0.16,unit,Tesco White Tissue 5 Sheets,20240413,home,True
+Tesco,0.95,0.16,unit,Tesco Assorted Jam Tarts 6 Pack,20240413,bakery,True
+Tesco,0.95,0.16,unit,Tesco Classic Round Tomatoes 6 Pack,20240413,fresh_food,True
+Tesco,0.95,0.16,unit,Tesco Lemon Curd Tarts 6 Pack,20240413,bakery,True
+Tesco,0.99,0.16,unit,Rosedene Farms Small Apple 6 Pack,20240413,fresh_food,True
+Tesco,0.99,0.16,unit,Tesco Kiwi Fruits 6 Pack,20240413,fresh_food,True
+Tesco,1.29,0.16,unit,H.W.Nevills Pain Au Chocolat 8 Pack,20240413,bakery,False
+Tesco,1.3,0.16,unit,Simply Doughnuts Mini Sugar Ring Doughnuts 8 Pack,20240413,bakery,False
+Tesco,1.3,0.16,unit,Tesco Free Spirit Discreet Extra Plus Pads 8 Pack,20240413,health_products,True
+Tesco,1.65,0.16,unit,Tesco Wild Bird Suet Balls 10 Pack,20240413,pets,True
+Tesco,12.0,0.16,unit,Pampers Baby Dry Size 4+ Jumbo+ Pack 76 Nappies,20240413,baby_products,False
+Tesco,12.85,0.16,unit,Nicorette Fruit 2mg Lozenge Nicotine 4x20 Lozenges,20240413,health_products,False
+Tesco,16.2,0.16,unit,Centrum Advance 50+ Multivitamin 100 Tablets,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Freshmint 2mg Gum Nicotine 105 Pieces,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Freshmint 4mg Gum Nicotine 105 Pieces,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Fruitfusion 2mg Gum Nicotine 105 Pieces,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Fruitfusion 4mg Gum Nicotine 105 Pieces,20240413,home,False
+Tesco,17.0,0.16,unit,Nicorette Icy White 2mg Gum Nicotine 105 Pieces,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Icy White 4mg Gum Nicotine 105 Pieces,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Original 2mg Gum Nicotine Stop Smoking Aid 105 Pieces,20240413,health_products,False
+Tesco,17.0,0.16,unit,Nicorette Sugar Free Original Gum 4Mg 105S,20240413,health_products,False
+Tesco,2.2,0.16,unit,Leo Bancroft Snagfree Hairbands Black 14 Pack,20240413,health_products,False
+Tesco,2.2,0.16,unit,Leo Bancroft Snagfree Hairbands Brown 14 Pack,20240413,health_products,False
+Tesco,1.5,0.11,unit,Lil Lets Non Applicator Super Plus Extra Tampons 14 Pack,20240413,health_products,False
+Tesco,2.3,0.16,unit,Cadbury Dairy Milk Brownie Bites 14,20240413,bakery,False
+Tesco,2.3,0.16,unit,Cadbury Dairy Milk Caramel Flap Jack Bites X14,20240413,bakery,False
+Tesco,2.3,0.16,unit,Cadbury Dairy Milk Caramel Mini Cookies X14,20240413,bakery,False
+Tesco,2.3,0.16,unit,Cadbury Dairy Milk Cornflake Cluster Bites X14,20240413,bakery,False
+Tesco,2.5,0.16,unit,Anadin Extra Pain Relief Aspirin Paracetamol Caplets 16s,20240413,health_products,False
+Tesco,2.5,0.16,unit,Tesco Chocolate Chip Mini Muffins 16 Pack,20240413,bakery,True
+Tesco,2.5,0.16,unit,Tesco Double Chocolate Mini Muffins 16 Pack,20240413,bakery,True
+Tesco,3.2,0.16,unit,Tesco 20 Drawstring Clear Recycling Bin Bags X 70L,20240413,household,True
+Tesco,3.25,0.16,unit,Always Ultra Sanitary Towels Long With Wings Size 2 X20,20240413,health_products,False
+Tesco,3.75,0.16,unit,Weetabix Chocolate Cereal 24 Pack 540G,20240413,food_cupboard,False
+Tesco,3.75,0.16,unit,Weetabix Protein Cereal 24 Pack,20240413,food_cupboard,False
+Tesco,3.0,0.13,unit,Weetabix Oatibix Cereal 24 Pack,20240413,food_cupboard,False
+Tesco,3.95,0.16,unit,Balance Active Niacinamide Spot Patches 24 Pack,20240413,health_products,False
+Tesco,4.35,0.16,unit,Fred & Flo Easy Fit Pants Size 8 28 Pack,20240413,baby_products,True
+Tesco,4.75,0.16,unit,Menopace 30S,20240413,health_products,False
+Tesco,6.5,0.16,unit,Tesco Hangers 40 Pack Black,20240413,household,True
+Tesco,7.0,0.16,unit,Pampers Premium Protection New Baby Size 2 44 Nappies,20240413,baby_products,False
+Tesco,8.0,0.16,unit,Pampers New Baby Size 1 50 Nappies Essential Pack,20240413,baby_products,False
+Tesco,9.5,0.16,unit,Haliborange Omega 3 Softies 60'S,20240413,health_products,False
+Tesco,9.9,0.16,unit,Milkaid Junior Lactose Enzyme Chewable Strawberry 60 tablets,20240413,health_products,False
+Tesco,9.9,0.16,unit,Together Health Calcium Capsules 60 Pack,20240413,health_products,False
+Tesco,3.2,0.16,m,Hemming Web 20M,20240413,household,False
+Tesco,0.79,1.7,kg,Stockwell & Co Orange Marmalade 454G,20240413,food_cupboard,False
+Tesco,0.85,1.7,kg,Creamfields Fat Free Greek Style Natural Yogurt 500G,20240413,fresh_food,True
+Tesco,0.85,1.7,kg,Creamfields Greek Style Natural Yogurt 500G,20240413,fresh_food,True
+Tesco,0.85,1.7,kg,Tesco Ready To Serve Custard 500G,20240413,food_cupboard,True
+Tesco,0.85,1.7,kg,Tesco Reduced Fat Custard 500G,20240413,food_cupboard,True
+Tesco,1.35,1.7,kg,Tesco Finest White Loaf With Sourdough 800G,20240413,bakery,True
+Tesco,1.35,1.7,kg,Tesco Finest Wholemeal Loaf 800G,20240413,bakery,True
+Tesco,1.35,1.7,kg,Warburtons Half & Half Thick Bread 800G,20240413,bakery,False
+Tesco,1.35,1.7,kg,Warburtons Half And Half Medium Bread 800G,20240413,bakery,False
+Tesco,1.35,1.7,kg,Warburtons Wholemeal Medium Bread 800G,20240413,bakery,False
+Tesco,1.39,1.7,kg,Hovis Soft White Medium Bread 800G,20240413,bakery,False
+Tesco,1.39,1.7,kg,Hovis Soft White Thick Bread 800G,20240413,bakery,False
+Tesco,1.39,1.7,kg,Hovis Wholemeal Medium Bread 800G,20240413,bakery,False
+Tesco,1.39,1.7,kg,Hovis Wholemeal Thick Bread 800G,20240413,bakery,False
+Tesco,1.7,1.7,kg,Tesco 0% Fat Natural Yogurt 1Kg,20240413,fresh_food,True
+Tesco,1.7,1.7,kg,Tesco Natural Yogurt 1Kg,20240413,fresh_food,True
+Tesco,0.55,1.7,l,Tesco Diet Lemonade 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco Lemon & Lime Zero 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco Lemonade 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco No Added Sugar Bitter Shandy 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco No Added Sugar Cloudy Lemonade 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco No Added Sugar Cream Soda 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco No Added Sugar Ginger Beer 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco No Added Sugar Pink Lemonade 330Ml,20240413,drinks,True
+Tesco,0.55,1.7,l,Tesco Orange Zero 330Ml,20240413,drinks,True
+Tesco,1.5,1.7,l,Lucozade Energy Apple Blast 900Ml,20240413,drinks,False
+Tesco,1.5,1.7,l,Lucozade Energy Caribbean Crush 900Ml,20240413,drinks,False
+Tesco,1.5,1.7,l,Lucozade Energy Orange 900Ml,20240413,drinks,False
+Tesco,1.5,1.7,l,Lucozade Energy Original 900Ml,20240413,drinks,False
+Tesco,1.5,1.7,l,Lucozade Zero Sugar Pink Lemonade 900Ml,20240413,drinks,False
+Tesco,1.7,1.7,l,Evian Sparkling Natural Bottled Mineral Water 1L,20240413,drinks,False
+Tesco,1.7,1.7,l,Rubicon Mango Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.7,1.7,l,Rubicon Still Guava Juice Drink 1 Litre Carton,20240413,drinks,False
+Tesco,1.7,1.7,l,Rubicon Still Passion Fruit Juice Drink 1 L Carton,20240413,drinks,False
+Tesco,1.7,1.7,l,Rubicon Still Pineapple Juice Drink 1 Litre,20240413,food_cupboard,False
+Tesco,1.7,1.7,l,Rubicon Still Pomegranate Juice Drink 1 Litre Carton,20240413,drinks,False
+Tesco,13.5,1.7,l,Coca Cola Regular 24 X 330 Ml Pack,20240413,drinks,False
+Tesco,2.55,1.7,l,Tesco Low Calorie Indian Tonic Water Cans 6X250ml,20240413,drinks,True
+Tesco,2.55,1.7,l,Tesco Soda Water Cans 6X250ml,20240413,drinks,True
+Tesco,2.9,1.7,l,Tesco 100% Pure Squeezed Orange Juice Smooth 1.75 Litre,20240413,drinks,True
+Tesco,2.9,1.7,l,Tesco 100% Pure Squeezed Orange Juice With Bits 1.75 L,20240413,drinks,True
+Tesco,2.9,1.7,l,Tesco Apple Juice 1.75 Litre,20240413,drinks,True
+Tesco,5.0,1.7,l,Tesco Pure Vegetable Oil 3L,20240413,food_cupboard,True
+Tesco,5.5,1.1,l,Tesco Pure Sunflower Oil 5 Litre,20240413,food_cupboard,True
+Tesco,3.3,0.0,unit,Tesco Luxury Soft 100% Recycled Toilet Tissue 6 long Rolls,20240413,household,True
+Tesco,0.52,17.0,kg,Tesco Cut Basil 30G,20240413,fresh_food,True
+Tesco,0.52,17.0,kg,Tesco Fresh Cut Coriander 30G,20240413,fresh_food,True
+Tesco,0.52,17.0,kg,Tesco Mint 30G,20240413,fresh_food,True
+Tesco,0.6,17.0,kg,Flava-It Bbq Marinade 35G,20240413,food_cupboard,False
+Tesco,0.6,17.0,kg,Flava-It Chinese Marinade 35G,20240413,food_cupboard,False
+Tesco,0.6,17.0,kg,"Flava-It Garlic, Herb & Butter Marinade 35G",20240413,food_cupboard,False
+Tesco,1.0,17.0,kg,Tesco Asafoetida 58G,20240413,food_cupboard,True
+Tesco,1.0,17.0,kg,Tesco Mustard Seeds 60G,20240413,food_cupboard,True
+Tesco,1.35,17.0,kg,Tesco Hot Curry Powder 80G,20240413,food_cupboard,True
+Tesco,1.35,17.0,kg,Tesco Medium Curry Powder 80G,20240413,food_cupboard,True
+Tesco,1.35,17.0,kg,Tesco Medium Tikka Curry Powder 80G,20240413,food_cupboard,True
+Tesco,1.35,17.0,kg,Tesco Mild Curry Powder 80G,20240413,food_cupboard,True
+Tesco,1.35,17.0,kg,Tesco Mild Tandoori Curry Powder 80G,20240413,food_cupboard,True
+Tesco,2.0,17.0,kg,Very Lazy Smoked Garlic Paste 120G,20240413,food_cupboard,False
+Tesco,3.0,17.0,kg,Very Lazy Smokey Chilli Boost 180G,20240413,food_cupboard,False
+Tesco,3.0,17.0,kg,Very Lazy Zingy Chilli Boost 180G,20240413,food_cupboard,False
+Tesco,4.15,17.0,kg,Tesco Black Peppercorns 250G,20240413,food_cupboard,True
+Tesco,0.85,0.17,unit,Tesco Classic Ball Pens Black 5 Pack,20240413,home,True
+Tesco,1.0,0.17,unit,Petface Cat Litter Tray Liners 6Pack,20240413,pets,False
+Tesco,1.0,0.17,unit,Tesco Classic Gel Pens Black 6 Pack,20240413,home,True
+Tesco,1.0,0.17,unit,Tesco Diarrhoea Relief Capsules Loperamide 6S,20240413,health_products,True
+Tesco,1.39,0.17,unit,H.W.Nevills Plain Croissants 8 Pack,20240413,bakery,False
+Tesco,1.5,0.17,unit,Keep It Handy Fuses 9Pk,20240413,home,False
+Tesco,1.5,0.17,unit,Keep It Handy Hex Keys 9Pk,20240413,home,False
+Tesco,1.7,0.17,unit,Tesco Easy Seal Ice Cube Bags 10'S,20240413,household,True
+Tesco,1.9,0.17,unit,Always Ultra Size 2 Long With Wings Sanitary Towels 11 Pack,20240413,health_products,False
+Tesco,10.0,0.17,unit,Haliborange Multivitamins Strawberry Softies 60'S,20240413,health_products,False
+Tesco,10.0,0.17,unit,Haliborange Omega3 & Multivitamins 60 Orange Gummies,20240413,health_products,False
+Tesco,10.25,0.17,unit,Centrum Advance M/Vit 60 Tablets,20240413,health_products,False
+Tesco,12.0,0.17,unit,Pampers Baby Dry Size 5 Jumbo+ Pack 72 Nappies,20240413,baby_products,False
+Tesco,12.0,0.17,unit,Pampers Premium Protection New Baby Size 3 70 Nappies,20240413,baby_products,False
+Tesco,14.0,0.17,unit,Pampers Baby Dry Size 4 Nappies Jumbo+ 84 Pack,20240413,baby_products,False
+Tesco,2.0,0.17,unit,All Round Eco Large Flat Elastic Black 12 Pack,20240413,health_products,False
+Tesco,2.0,0.17,unit,Kids Create Jumbo Markers 12pk,20240413,home,False
+Tesco,1.8,0.15,unit,Lil-Lets 12 Ultra Thin Maternity Ultra Pads Plus Wings,20240413,baby_products,False
+Tesco,2.0,0.17,unit,Tesco Colouring Pencils 12 Pack,20240413,home,True
+Tesco,1.4,0.12,unit,Tesco Finest 12 Meringue Shells,20240413,food_cupboard,True
+Tesco,2.0,0.17,unit,Weetabix Cereal 12 Pack,20240413,food_cupboard,False
+Tesco,2.25,0.15,unit,Tesco 15 Chocolate Cornflake Clusters,20240413,bakery,True
+Tesco,2.5,0.17,unit,Tesco Food Bags Click & Seal Xl 15 Pack,20240413,household,True
+Tesco,3.0,0.17,unit,Football Stationery Bumper Pack 18 Pack,20240413,home,False
+Tesco,3.0,0.17,unit,Unicorn Stationery Bumper Pack 18Pcs,20240413,home,False
+Tesco,3.4,0.17,unit,Always Platinum Size 2 Super Wings Sanitary Towels 20 Pack,20240413,health_products,False
+Tesco,4.0,0.17,unit,Tesco 24'S Paracetamol Effervescent 500Mg,20240413,health_products,True
+Tesco,4.0,0.17,unit,Tesco Blendable Colouring Pencils 24 Pack,20240413,home,True
+Tesco,5.0,0.17,unit,Chewy Vites Kids Immune Support Fruit Gummies 30 Pack,20240413,health_products,False
+Tesco,5.0,0.17,unit,Haliborange Strawberry Multivitamins Softies 30S,20240413,health_products,False
+Tesco,5.0,0.17,unit,Haliborange Vitamin D & Calcium Softies 30S,20240413,health_products,False
+Tesco,5.0,0.17,unit,Tesco Evening Primrose Oil Plus Starflower X 30,20240413,health_products,True
+Tesco,5.1,0.17,unit,Feroglobin B12 Sustained Release Caps 30,20240413,health_products,False
+Tesco,5.5,0.17,unit,Rascal & Friends Cocomelon Premium Nappy Pants Size 4 32S,20240413,baby_products,False
+Tesco,5.5,0.17,unit,Rascal & Friends Premium Nappies Size 5 X 32 Pack,20240413,baby_products,False
+Tesco,6.0,0.17,unit,Strepsils Triple Action Honey & Lemon Throat Lozenges 36 Pack,20240413,health_products,False
+Tesco,0.7,1.8,kg,Tesco Digestives 400G,20240413,food_cupboard,True
+Tesco,0.81,1.8,kg,Tesco Bbq Sauce 440G,20240413,food_cupboard,True
+Tesco,0.9,1.8,kg,Tesco 0% Fat Natural Yogurt 500G,20240413,fresh_food,True
+Tesco,0.9,1.8,kg,Tesco Natural Yogurt 500G,20240413,fresh_food,True
+Tesco,1.4,1.8,kg,Warburtons Medium Sliced White Bread 800G,20240413,bakery,False
+Tesco,1.4,1.8,kg,Warburtons Toastie Sliced White Bread 800G,20240413,bakery,False
+Tesco,1.45,1.8,kg,Tesco Crusty White Sandwich Loaf 800G,20240413,bakery,True
+Tesco,1.45,1.8,kg,Tesco Crusty White Sandwich Loaf Sliced 800G,20240413,bakery,True
+Tesco,1.45,1.8,kg,Tesco Crusty White Split Tin Bread 800G,20240413,bakery,True
+Tesco,1.45,1.8,kg,Tesco Crusty White Split Tin Sliced Bread 800G,20240413,bakery,True
+Tesco,1.8,1.8,kg,Lancashire Farm Natural Fat Free Yogurt 1Kg,20240413,food_cupboard,False
+Tesco,1.85,1.8,kg,Pakeeza Henna Very Low Fat Natural Yogurt 1Kg,20240413,food_cupboard,False
+Tesco,0.45,1.8,l,Tesco Fruit Splash No Added Sugar Apple & Blackcurrant Juice Drink 250Ml,20240413,drinks,True
+Tesco,0.45,1.8,l,Tesco Fruit Splash No Added Sugar Apple Juice Drink 250Ml,20240413,drinks,True
+Tesco,0.45,1.8,l,Tesco Fruit Splash No Added Sugar Orange Juice Drink 250Ml,20240413,drinks,True
+Tesco,0.45,1.8,l,Tesco Fruit Splash No Added Sugar Summerfruits Juice Drink 250Ml,20240413,drinks,True
+Tesco,0.6,1.8,l,Rubicon Sparkling Lychee Juice Drink 330Ml Can,20240413,drinks,False
+Tesco,0.6,1.8,l,Rubicon Sparkling Mango Juice Drink 330Ml Can,20240413,drinks,False
+Tesco,0.6,1.8,l,Rubicon Sparkling Pomegranate Juice Drink 330Ml Can,20240413,food_cupboard,False
+Tesco,1.6,1.8,l,Mr Freeze Freeze Pops 20X45ml,20240413,food_cupboard,False
+Tesco,1.75,1.8,l,Dr Witt Multivitamin Drink 1 Litre,20240413,food_cupboard,False
+Tesco,1.75,1.8,l,Dr Witt Multivitamins Metabolism Drink 1 Litre,20240413,food_cupboard,False
+Tesco,1.75,1.8,l,SCHWEPPES LEMONADE 1 LTR,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Canada Dry Ginger Ale 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Melon Watermelon Soda Mixer 1 Litre,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Peach Coconut Tiare Soda Mixer 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Pink Soda 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Slimline Elderflower Tonic Water 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Slimline Tonic Water 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Slimline Tonic Water With Lemon Zest 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Soda Water 1 Litre,20240413,drinks,False
+Tesco,1.75,1.8,l,Schweppes Tonic Water 1L,20240413,drinks,False
+Tesco,1.75,1.8,l,Tesco Double Strength Fruit & Barley No Added Sugar Orange 1L,20240413,drinks,True
+Tesco,1.75,1.8,l,Tesco Double Strength Fruit & Barley No Added Sugar Peach 1L,20240413,drinks,True
+Tesco,1.75,1.8,l,Tesco Double Strength Fruit & Barley No Added Sugar Summer Fruits 1L,20240413,drinks,True
+Tesco,1.0,1.0,l,Get More Multivitamins Sparkling Water Lemon & Lime Drink 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Get More Vitamin D Still Water Mango & Passion Fruit Drink 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Get More Vitamins B Vitamin Still Water Apple & Raspberry 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Get More Vitamins B12 Still Water Pink Grapefruit Drink 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Get More Vitamins Still Water Peach & Apricot Drink 1 Litre,20240413,drinks,False
+Tesco,1.25,1.2,l,Cherrygood Cherry Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.35,1.3,l,Ocean Spray Blueberry Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.35,1.3,l,Ocean Spray Cranberry & Raspberry Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.35,1.3,l,Ocean Spray Cranberry Classic Juice Drink 1 Litre,20240413,drinks,False
+Tesco,0.14,0.1,l,Ocean Spray Cranberry Classic Light Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.0,1.0,l,Ocean Spray No Added Sugar Pink Cranberry Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.85,1.8,l,Tesco Pure Vegetable Oil 1L,20240413,food_cupboard,True
+Tesco,1.5,1.5,l,The Real Milkshake Company Chocolate Flavoured Milk Drink 1L,20240413,drinks,False
+Tesco,1.5,1.5,l,The Real Milkshake Company Salted Caramel Flavoured Milk Drink 1L,20240413,drinks,False
+Tesco,2.2,1.8,l,Lipton Ice Tea Lemon Bottle 1.25L,20240413,drinks,False
+Tesco,2.75,1.8,l,Ribena Concentrated Blackcurrant 1.5L,20240413,drinks,False
+Tesco,2.75,1.8,l,Ribena No Added Sugar Concentrated Blackcurrant 1.5L,20240413,drinks,False
+Tesco,3.5,1.8,l,Lipton Lemon Ice Tea 6 X 330Ml,20240413,drinks,False
+Tesco,3.5,1.8,l,Lipton Peach Ice Tea 6 X 330Ml,20240413,drinks,False
+Tesco,3.5,1.8,l,Rubicon Mango 6X330ml,20240413,drinks,False
+Tesco,1.0,18.0,kg,Tesco Garlic Granules 56G,20240413,food_cupboard,True
+Tesco,1.8,18.0,kg,Tesco Miso Paste 100G,20240413,food_cupboard,True
+Tesco,1.05,0.18,unit,Tapestry Needles,20240413,household,False
+Tesco,1.05,0.18,unit,Warburtons Pancakes 6 Pack,20240413,bakery,False
+Tesco,1.09,0.18,unit,Tesco 6 Hot Cross Buns,20240413,bakery,True
+Tesco,1.4,0.18,unit,Tesco Butter Brioche Rolls 8 Pack,20240413,bakery,True
+Tesco,1.4,0.18,unit,Tesco Chocolate Chip Brioche Rolls 8 Pack,20240413,bakery,True
+Tesco,1.75,0.18,unit,Paper Recyclable Cups 10Oz 10 Pack,20240413,home,False
+Tesco,1.75,0.18,unit,Thorntons Bites Caramel Shortcakes Milk Chocolate 10Pack,20240413,bakery,False
+Tesco,11.0,0.18,unit,Seven Seas Cod Liver Oil Max Strength With Vitamin D 60 Capsules,20240413,health_products,False
+Tesco,12.0,0.18,unit,Pampers Baby Dry Size 5+ Jumbo+ Pack 68 Nappies,20240413,baby_products,False
+Tesco,2.9,0.18,unit,Tesco Free From 16 Chocolate Cornflake Clusters,20240413,food_cupboard,True
+Tesco,3.25,0.18,unit,Always Ultra Day & Night Sanitary Towels Wit Wings Size 3 18 Pack,20240413,health_products,False
+Tesco,3.3,0.18,unit,Tampax Pearl Regular Applicator Tampons 18,20240413,health_products,False
+Tesco,3.3,0.18,unit,Tampax Pearl Super Tampons Applicator 18 Pack,20240413,health_products,False
+Tesco,3.5,0.18,unit,Flash Speed Mop Dry Pads 20 Pack,20240413,household,False
+Tesco,3.5,0.18,unit,Potters Chesty Cough 20 Pastilles,20240413,health_products,False
+Tesco,3.5,0.18,unit,Potters Mucus Cough 20 Pastilles,20240413,health_products,False
+Tesco,3.5,0.18,unit,Simoniz Glass Wipes 20 Pack,20240413,home,False
+Tesco,3.5,0.18,unit,Simoniz Leather Wipes 20 Pack,20240413,home,False
+Tesco,3.5,0.18,unit,Simoniz Matte Dashboard Wipes 20 Pack,20240413,home,False
+Tesco,3.5,0.18,unit,Tesco 20 Citrus Fresh Tall & Chunky Bin Liners 60L,20240413,household,True
+Tesco,3.5,0.18,unit,Tesco Citrus Fresh 20 Wide Rim Bin Liners 70L,20240413,household,True
+Tesco,4.2,0.18,unit,Pampers New Baby Size 0 24 Nappies,20240413,baby_products,False
+Tesco,5.25,0.18,unit,Bassetts 7-11 Immune Orange X30,20240413,health_products,False
+Tesco,5.25,0.18,unit,Chewy Vites 30'S Adult Berries Multivits 75G,20240413,health_products,False
+Tesco,5.25,0.18,unit,Chewy Vites Immune Support Adults 30S,20240413,health_products,False
+Tesco,5.45,0.18,unit,Sanatogen Vital +50 Multivitamins 30 Tablets,20240413,health_products,False
+Tesco,5.5,0.18,unit,Anusol Soothing And Cleansing 30 Wipes,20240413,health_products,False
+Tesco,5.5,0.18,unit,Bassetts 3-6 Years Omega 3 & Multivitamins Orange 30S,20240413,health_products,False
+Tesco,5.5,0.18,unit,Chewy Vites Kids Multivitamin Advance Fruit Gummies 30 Pack,20240413,health_products,False
+Tesco,5.5,0.18,unit,Dulcoease 30S,20240413,health_products,False
+Tesco,5.5,0.18,unit,G Boy Wagtastic Training Pads For Dogs 30'S,20240413,pets,False
+Tesco,5.5,0.18,unit,Vitabiotics Osteocare Original 30 Tablets,20240413,health_products,False
+Tesco,6.0,0.18,unit,Tesco 34 Pc Ratchet Screwdriver Set,20240413,home,True
+Tesco,7.0,0.18,unit,Pampers Premium Protection New Baby Size 3 40 Nappies,20240413,baby_products,False
+Tesco,9.0,0.18,unit,Vitawell Relax Gummies 50s,20240413,health_products,False
+Tesco,0.65,1.9,kg,Tesco Carbonara Sauce 340G,20240413,food_cupboard,True
+Tesco,1.45,1.9,kg,Tesco Fruit & Fibre Cereal 750G,20240413,food_cupboard,True
+Tesco,1.5,1.9,kg,Hovis Seeded Batch 800G,20240413,bakery,False
+Tesco,1.5,1.9,kg,Tesco Crusty White Bloomer 800G,20240413,bakery,True
+Tesco,1.5,1.9,kg,Tesco Crusty White Bloomer Sliced 800G,20240413,bakery,True
+Tesco,1.5,1.9,kg,Tesco Crusty White Farmhouse Sliced Bread 800G,20240413,bakery,True
+Tesco,1.5,1.9,kg,Tesco Tiger Bloomer 800G,20240413,bakery,True
+Tesco,1.5,1.9,kg,Tesco Tiger Sliced Loaf 800G,20240413,bakery,True
+Tesco,1.5,1.9,kg,Tesco White Farmhouse Bread 800G,20240413,bakery,True
+Tesco,0.86,1.9,l,Tesco Mayonnaise 450Ml,20240413,food_cupboard,True
+Tesco,0.95,1.9,l,Kubus Water Strawberry Drink 500Ml,20240413,food_cupboard,False
+Tesco,1.45,1.9,l,Evian Natural Bottled Mineral Still Water 750ml,20240413,drinks,False
+Tesco,1.9,1.9,l,Almond Breeze Unsweetened Fresh Drink 1 Litre,20240413,drinks,False
+Tesco,1.9,1.9,l,Pomegreat Pomegranate Juice Drink 1 Litre,20240413,drinks,False
+Tesco,1.9,1.9,l,Rubicon Deluxe Guava 1L,20240413,drinks,False
+Tesco,1.9,1.9,l,Rubicon Deluxe Mango 1L,20240413,food_cupboard,False
+Tesco,3.0,1.9,l,Capri-Sun Zero Blackcurrant and Apple 8 x 200ml,20240413,drinks,False
+Tesco,3.0,1.9,l,Capri-Sun Zero Jungle 8 x 200ml,20240413,drinks,False
+Tesco,3.0,1.9,l,Capri-Sun Zero Orange 8 x 200ml,20240413,drinks,False
+Tesco,1.0,19.0,kg,Tesco Ground Nutmeg 52G,20240413,food_cupboard,True
+Tesco,1.0,19.0,kg,Tesco Onion Granules 52G,20240413,food_cupboard,True
+Tesco,1.0,19.0,kg,Tesco Paprika 52G,20240413,food_cupboard,True
+Tesco,1.0,19.0,kg,Tesco Sumac 52G .. ..,20240413,food_cupboard,True
+Tesco,1.8,19.0,kg,TESCO GARLIC & GINGER PASTE 95G,20240413,food_cupboard,True
+Tesco,1.8,19.0,kg,Tesco Chipotle Chilli Paste 95G,20240413,food_cupboard,True
+Tesco,0.75,0.19,unit,Tesco 4 Baking Potatoes,20240413,fresh_food,True
+Tesco,1.15,0.19,unit,Tesco Big Bite Soft White Rolls 6 Pack,20240413,bakery,True
+Tesco,1.15,0.19,unit,Tesco Finest 6 Sourdough Crumpets,20240413,bakery,True
+Tesco,1.15,0.19,unit,Tesco Large White Hot Dog Rolls 6 Pack,20240413,bakery,True
+Tesco,1.5,0.19,unit,Go Create Pastel Card 8 Sheets,20240413,home,False
+Tesco,1.5,0.19,unit,Go Create White Card 8 Sheets,20240413,home,False
+Tesco,1.5,0.19,unit,Keep It Handy Insect Catchers 8pk,20240413,household,False
+Tesco,1.5,0.19,unit,Keep It Handy Plastic Id Tags 8Pk,20240413,home,False
+Tesco,1.5,0.19,unit,Keep It Handy Vinyl Gloves 8 Pack,20240413,household,False
+Tesco,1.5,0.19,unit,Tesco Hangers 8Pk Black,20240413,household,True
+Tesco,1.55,0.19,unit,Bodyform Ultra Night Sanitary Towels Wings 8 pack,20240413,health_products,False
+Tesco,12.0,0.19,unit,Pampers Baby Dry 6 Jumbo+ 62 Nappies,20240413,baby_products,False
+Tesco,14.0,0.19,unit,Pampers Baby Dry Nappy Pants Size 4 Jumbo+ 72 Pack,20240413,baby_products,False
+Tesco,16.0,0.19,unit,Pregnacare Breast Feeding 84S,20240413,baby_products,False
+Tesco,2.25,0.19,unit,Tesco Rapid Pain Relief Ibuprofen 12S,20240413,health_products,True
+Tesco,2.0,0.13,unit,Anadin Ultra Ibuprofen Pain Relief Liquid Capsules 16s,20240413,health_products,False
+Tesco,3.1,0.19,unit,Tesco Health Gentle Removal Plaster 16 Pack,20240413,health_products,True
+Tesco,3.75,0.19,unit,Spontex Handy Sensitive Disposable Gloves 20 Pack,20240413,household,False
+Tesco,4.5,0.19,unit,Crayola My First Jumbo Crayons 24 Pack,20240413,home,False
+Tesco,5.75,0.19,unit,Bassetts 3-6 Multi Vitamin Strawberry,20240413,health_products,False
+Tesco,5.75,0.19,unit,Nytol Herbal 30S,20240413,health_products,False
+Tesco,5.8,0.19,unit,Sanatogen A-Z Complete Multivitamins 30 Tablets,20240413,health_products,False
+Tesco,0.49,2.0,kg,Ms Molly's Chocolate Chip Cookies 250G,20240413,food_cupboard,True
+Tesco,0.58,2.0,kg,Tesco Bourbon Creams Biscuits 296G,20240413,food_cupboard,True
+Tesco,0.87,2.0,kg,Hearty Food Co. Sweet & Sour Sauce 440G,20240413,food_cupboard,True
+Tesco,0.89,2.0,kg,Tesco Apricot Jam 454G,20240413,food_cupboard,True
+Tesco,0.89,2.0,kg,Tesco Raspberry Jam 454G,20240413,food_cupboard,True
+Tesco,0.89,2.0,kg,Tesco Seedless Raspberry Jam 454G,20240413,food_cupboard,True
+Tesco,0.89,2.0,kg,Tesco Strawberry Jam 454G,20240413,food_cupboard,True
+Tesco,0.89,2.0,kg,Tesco Strawberry Seedless Jam 454G,20240413,food_cupboard,True
+Tesco,0.95,2.0,kg,Eastmans 8 Sausage Rolls 480G,20240413,fresh_food,False
+Tesco,0.99,2.0,kg,Eastmans Coleslaw 500G,20240413,fresh_food,False
+Tesco,0.99,2.0,kg,Tesco Balti Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Butter Chicken Cooking Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Jalfrezi Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Korma Cooking Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Low Fat Tikka Masala Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Madras Cooking Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Rogan Josh Cooking Sauce 500G,20240413,food_cupboard,True
+Tesco,0.99,2.0,kg,Tesco Tikka Masala Cooking Sauce 500G,20240413,food_cupboard,True
+Tesco,1.1,2.0,kg,Tesco Tomato Ketchup 555G,20240413,food_cupboard,True
+Tesco,1.2,2.0,kg,Tesco Finest Dark Rye & Sunflower Farmhouse Loaf 600G,20240413,bakery,True
+Tesco,1.2,2.0,kg,Tesco Finest Sunflower & Pumpkin Loaf 600G,20240413,bakery,True
+Tesco,1.6,2.0,kg,Warburtons Farmhouse White Bread 800G,20240413,bakery,False
+Tesco,1.95,2.0,kg,Tesco 0% Fat Greek Style Yogurt 1Kg,20240413,fresh_food,True
+Tesco,1.95,2.0,kg,Tesco Greek Style Natural Yogurt 1Kg,20240413,fresh_food,True
+Tesco,0.4,2.0,l,Tesco Apple & Mango Juice From Concentrate 200Ml,20240413,drinks,True
+Tesco,0.4,2.0,l,Tesco Apple Juice From Concentrate 200Ml,20240413,drinks,True
+Tesco,0.4,2.0,l,Tesco Orange Juice Smooth From Concentrate 200Ml,20240413,drinks,True
+Tesco,0.4,2.0,l,Tesco Pineapple Juice From Concentrate 200Ml,20240413,drinks,True
+Tesco,0.89,2.0,l,Tesco Light Mayonnaise 450Ml,20240413,food_cupboard,True
+Tesco,0.91,2.0,l,Stockwell & Co Salad Cream 450Ml,20240413,food_cupboard,False
+Tesco,1.0,2.0,l,CanO Water Resealable Sparkling Spring Water 500ml,20240413,drinks,False
+Tesco,1.0,2.0,l,Cano Water Still Spring Water Resealable 500Ml,20240413,drinks,False
+Tesco,1.0,2.0,l,Cussons Creations Bee Happy Orange & Lemon Handwash 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Cussons Creations Delight: Bottled Bath Soak 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Cussons Creations Handwash Peony & Cherry Blossom 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Cussons Creations Happiness Bottled Bath Soak 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Cussons Creations Mallow Magic Bath Soak 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Cussons Creations The Moon & Back Bath Soak 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Cussons Creations Vanilla & Shea Butter Hand Wash 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Fred & Flo Baby Bath 500Ml,20240413,baby_products,True
+Tesco,1.0,2.0,l,Fred & Flo Baby Bedtime Bath 500Ml,20240413,baby_products,True
+Tesco,1.0,2.0,l,Fred & Flo Baby Head To Toe Wash 500Ml,20240413,baby_products,True
+Tesco,1.0,2.0,l,Fred & Flo Baby Lotion 500Ml,20240413,baby_products,True
+Tesco,1.0,2.0,l,Fred & Flo Baby Shampoo 500Ml,20240413,baby_products,True
+Tesco,1.2,2.0,l,Happy Monkey Chocolate Milkshake 3X200ml,20240413,drinks,False
+Tesco,1.2,2.0,l,Happy Monkey Milkshake Strawberry 3X200ml,20240413,drinks,False
+Tesco,1.5,2.0,l,Lucozade Sport Orange 750Ml,20240413,drinks,False
+Tesco,1.5,2.0,l,Lucozade Sport Raspberry 750Ml,20240413,drinks,False
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Apple & Blackcurrant No Added Sugar 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Cherries & Berries Squash 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Lime No Added Sugar 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Orange & Mango Squash No Added Sugar 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Orange Lemon & Pineapple 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Orange Squash No Added Sugar 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Quadruple Strength Summer Fruits No Added Sugar 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Sparkling Rose Grape & Rhubarb Drink 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Tesco Sparkling White Grape & Elderflower 750Ml,20240413,drinks,True
+Tesco,1.5,2.0,l,Volvic Touch of Fruit Strawberry Still Flavoured Water 750ml,20240413,drinks,False
+Tesco,2.0,2.0,l,Actiph Alkaline Ionised Water 1 Litre,20240413,drinks,False
+Tesco,2.0,2.0,l,Don Simon Mango & Passion Fruit Smoothie 1 Litre,20240413,drinks,False
+Tesco,2.0,2.0,l,Don Simon Pineapple & Coconut Smoothie 1 Litre,20240413,drinks,False
+Tesco,2.0,2.0,l,Nomadic Ayran Natural Yogurt Drink 1L,20240413,food_cupboard,False
+Tesco,2.0,2.0,l,Robinsons Fruit & Barley with Vitamins Apple & Pear Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Fruit & Barley with Vitamins Orange Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Fruit & Barley with Vitamins Peach Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Fruit & Barley with Vitamins Pink Grapefruit Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Fruit & Barley with Vitamins Summer Fruits Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Lemon No Added Sugar Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Orange No Added Sugar Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Robinsons Summer Fruits No Added Sugar Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Tesco 100% Pressed Apple Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pressed Forest Fruits Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pressed Tomato Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pure Orange Juice Smooth 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pure Squeezed Breakfast Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pure Squeezed Clementine Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pure Squeezed Orange Juice With Bits 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Pure Squeezed Pink Grapefruit Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,Tesco 100% Squeezed & Pressed Orange & Mango Juice 1 Litre,20240413,drinks,True
+Tesco,2.0,2.0,l,"Tesco Apple, Lemon & Ginger Juice 1L",20240413,drinks,True
+Tesco,2.0,2.0,l,Vimto Mango & Passion Fruit No Added Sugar 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Vimto No Added Sugar Blood Orange with a Citrus Twist Squash 1 Litre,20240413,drinks,False
+Tesco,2.0,2.0,l,Vimto No Added Sugar Squash 1 Litre,20240413,drinks,False
+Tesco,2.0,2.0,l,Vimto Real Fruit Squash 1 Litre,20240413,drinks,False
+Tesco,2.0,2.0,l,Vimto Remix Orange Raspberry Pasn/ Fruit Squash 1L,20240413,drinks,False
+Tesco,2.0,2.0,l,Yazoo Banana Milkshake 1 Litre Bottle,20240413,drinks,False
+Tesco,2.0,2.0,l,Yazoo Chocolate Milkshake 1 Litre Bottle,20240413,drinks,False
+Tesco,2.0,2.0,l,Yazoo Strawberry Milkshake 1 Litre Bottle,20240413,drinks,False
+Tesco,2.4,2.0,l,Yazoo Chocolate No Added Sugar Milk Drink 6 X 200 Ml,20240413,drinks,False
+Tesco,2.4,2.0,l,Yazoo Strawberry No Added Sugar Milk Drink 6 X 200 Ml,20240413,drinks,False
+Tesco,3.5,2.0,l,Robinsons Double Strength Apple & Blackcurrant Squash 1.75L,20240413,drinks,False
+Tesco,3.5,2.0,l,Robinsons Double Strength Lemon Squash 1.75L,20240413,drinks,False
+Tesco,3.5,2.0,l,Robinsons Double Strength Orange & Pineapple Squash 1.75L,20240413,drinks,False
+Tesco,3.5,2.0,l,Robinsons Double Strength Orange No Added Sugar Squash 1.75L,20240413,drinks,False
+Tesco,3.5,2.0,l,Robinsons Double Strength Summer Fruits Squash 1.75L,20240413,drinks,False
+Tesco,3.9,2.0,l,Relentless Origin Energy Drink 4x500ml,20240413,drinks,False
+Tesco,3.9,2.0,l,Tesco Cornish Ice Cream 2 Litres,20240413,frozen,True
+Tesco,4.0,2.0,l,Lucozade Sport Orange 4X500ml,20240413,drinks,False
+Tesco,4.0,2.0,l,Lucozade Sport Passion Fruit & Mango 4X500ml,20240413,drinks,False
+Tesco,4.0,2.0,l,Lucozade Sport Raspberry 4X500ml,20240413,drinks,False
+Tesco,3.0,1.5,l,Lucozade Sport Zero Sugar Orange & Peach 4X500ml,20240413,drinks,False
+Tesco,3.0,1.5,l,Lucozade Sport Zero Sugar Raspberry & Passion Fruit 4X500ml,20240413,drinks,False
+Tesco,5.19,2.0,l,Coca-Cola Cherry 8x330ml,20240413,drinks,False
+Tesco,5.19,2.0,l,Coca-Cola Original Taste 8x330ml,20240413,drinks,False
+Tesco,6.0,2.0,l,Tesco Pure Sunflower Oil 3L,20240413,food_cupboard,True
+Tesco,0.5,20.0,kg,Tesco Fruity Granola Shot 25G,20240413,fresh_food,True
+Tesco,0.6,20.0,kg,Tesco Fresh Cut Curled Parsley 30G,20240413,fresh_food,True
+Tesco,0.6,20.0,kg,Tesco Herbs Great For Roasting 30G,20240413,fresh_food,True
+Tesco,1.0,20.0,kg,Suhana Butter Chicken Masala Spice Mix 50g,20240413,food_cupboard,False
+Tesco,1.0,20.0,kg,Tesco Mild Chilli Powder 50G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Chilli Paste 90G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Galangal Paste 90G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Garlic Paste 90G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Ginger Paste 90G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Gochujang Paste 90G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Harissa Paste 90G,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Mushroom Paste 90g,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Smoked Tomato Paste 90g,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,"Tesco Soy, Garlic & Chilli Paste 90G",20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Tamarind Paste 90g,20240413,food_cupboard,True
+Tesco,1.8,20.0,kg,Tesco Umami Paste 90g,20240413,food_cupboard,True
+Tesco,1.75,12.0,kg,Aagrah Onion Bhaji Mix 150g,20240413,food_cupboard,False
+Tesco,0.8,0.2,unit,Tesco English Muffins 4 Pack,20240413,bakery,True
+Tesco,0.8,0.2,unit,Tesco Essentials 4 Kids Toothbrushes,20240413,health_products,True
+Tesco,0.99,0.2,unit,Suntrail Farms Price Orange Minimum 5 Pack,20240413,fresh_food,False
+Tesco,1.0,0.2,unit,Cadbury Blackcurrant Mini Rolls 5 Pack,20240413,bakery,False
+Tesco,1.0,0.2,unit,Tesco Bamboo Chopsticks 5 Pack,20240413,home,True
+Tesco,1.0,0.2,unit,Tesco Multi Colour Tags 5 Pack,20240413,home,True
+Tesco,1.0,0.2,unit,Tesco Multi Coloured Kraft Tags 5 Pack,20240413,home,True
+Tesco,1.0,0.2,unit,Tesco Silver Tags 5 Pack,20240413,home,True
+Tesco,1.19,0.2,unit,Tesco Cherry Bakewell Tarts 6 Pack,20240413,bakery,True
+Tesco,1.2,0.2,unit,Warburtons White Sliced Sandwich Rolls 6 Pack,20240413,bakery,False
+Tesco,1.2,0.2,unit,Webbox Turkey & Lamb Cat Stick Treats 6 sticks,20240413,pets,False
+Tesco,1.8,0.2,unit,Tesco 9 Classic Biscuit Mini Cupcakes,20240413,bakery,True
+Tesco,6.0,0.12,unit,Pampers Baby Dry Size 3 Essential Pack 50 Nappies,20240413,baby_products,False
+Tesco,2.0,0.2,unit,Paperchase Rainbow 10 Pack Gift Tags,20240413,home,False
+Tesco,2.0,0.2,unit,Tesco Free From 10 Waffle Cones,20240413,food_cupboard,True
+Tesco,2.35,0.2,unit,Tesco Migraine Relief 342Mg 12S,20240413,health_products,True
+Tesco,2.15,0.18,unit,TENA Discreet Normal Incontinence Pads 12 pack,20240413,health_products,False
+Tesco,3.15,0.2,unit,Elastoplast Finger Strips 16S,20240413,health_products,False
+Tesco,3.25,0.2,unit,Always Sanitary Towels Secure Night With Wings Size 4X16,20240413,health_products,False
+Tesco,3.25,0.2,unit,Tampax Pearl Compak Regular Applicator Tampons 16 Pack,20240413,health_products,False
+Tesco,3.25,0.2,unit,Tampax Pearl Compak Super Applicator Tampons 16,20240413,health_products,False
+Tesco,3.25,0.2,unit,Tampax Pearl Compak Super Plus Applicator Tampons 16 Pack,20240413,health_products,False
+Tesco,4.0,0.2,unit,Huggies Pull Ups Training Nappy Pants Boys Day 2-4Yr Size6 x20,20240413,baby_products,False
+Tesco,4.0,0.2,unit,Huggies Pull Ups Training Nappy Pants Girls Day 2-4Yr Size6 x20,20240413,baby_products,False
+Tesco,4.0,0.2,unit,Zip Natural Firelighters 20 Pack,20240413,home,False
+Tesco,3.8,0.16,unit,Staedtler Noris Colour Pencils 24 Pack,20240413,home,False
+Tesco,5.5,0.2,unit,Rascal & Friends Cocomelon Premium Nappy Pants Size 5 28S,20240413,baby_products,False
+Tesco,5.75,0.2,unit,Seven Seas Adult Complete Multivitamins 28 Tablets,20240413,health_products,False
+Tesco,5.75,0.2,unit,Seven Seas Women Complete Multivitamins 28 Tablets,20240413,health_products,False
+Tesco,6.0,0.2,unit,Bassetts 3-6 Multi Vitamin Plus Omega 3,20240413,health_products,False
+Tesco,6.0,0.2,unit,Centrum Kids Gummies Orange Mixed Berry X30,20240413,health_products,False
+Tesco,6.0,0.2,unit,Centrum Kids Immunity Support Gummies Orange 30'S,20240413,health_products,False
+Tesco,6.0,0.2,unit,Centrum Kids Multigummies Mixed Berry 30'S,20240413,health_products,False
+Tesco,6.0,0.2,unit,Haliborange Omega 3 & Multivitamins Softies 30S,20240413,health_products,False
+Tesco,6.0,0.2,unit,Perfectil 30S,20240413,health_products,False
+Tesco,6.0,0.2,unit,VITABIOTICS ULTRA SAGE 1000MG TABLETS X30,20240413,health_products,False
+Tesco,6.15,0.2,unit,CARDIOACE 30S,20240413,health_products,False
+Tesco,8.0,0.2,unit,Tesco Gel Pen Set Asstd 40 Pack,20240413,home,True
+Tesco,8.0,0.16,unit,Gaviscon Double Action Tablets Heartburn Indigestion Mint 48 pack,20240413,health_products,False
+Tesco,0.85,2.1,kg,Tesco Chocolate Chip Digestive Biscuits 400G,20240413,food_cupboard,True
+Tesco,0.85,2.1,kg,Tesco Plant Chef Lentil & Pepper Soup 400G,20240413,food_cupboard,True
+Tesco,0.85,2.1,kg,Tesco Plant Chef Sweet Potato & Coconut Soup 400G,20240413,food_cupboard,True
+Tesco,0.85,2.1,kg,Tesco Plant Chef Tomato And Basil Soup 400G,20240413,food_cupboard,True
+Tesco,0.95,2.1,kg,Creamfields Mango Passion Fruit Low Fat Yogurt 450G,20240413,fresh_food,True
+Tesco,0.95,2.1,kg,Creamfields Strawberry Low Fat Yogurt 450G,20240413,fresh_food,True
+Tesco,1.1,2.1,kg,Tesco Reduced Sugar & Salt Ketchup 530G,20240413,food_cupboard,True
+Tesco,1.45,2.1,kg,Tesco Golden Syrup 680G,20240413,food_cupboard,True
+Tesco,1.5,2.1,kg,Tesco Variety Pack Biscuits 700G,20240413,food_cupboard,True
+Tesco,1.55,2.1,kg,Tesco 50 Sausage Rolls 750G,20240413,frozen,True
+Tesco,0.7,2.1,l,Frugo Wild Punch Watermelon Strawberry Energy 330Ml,20240413,food_cupboard,False
+Tesco,1.25,2.1,l,Glaceau Smartwater 600Ml,20240413,fresh_food,False
+Tesco,1.75,2.1,l,"Kubus 100% Juice Apple, Carrot & Banana 850Ml",20240413,food_cupboard,False
+Tesco,1.75,2.1,l,Kubus Banana & Apple & Peach Carrot Juice 850Ml,20240413,food_cupboard,False
+Tesco,1.75,2.1,l,Kubus Carrot Raspberry & Apple Juice 850Ml,20240413,food_cupboard,False
+Tesco,2.0,2.1,l,Sarsons Pickling Malt Vinegar 950Ml,20240413,food_cupboard,False
+Tesco,1.65,1.6,l,Califia Farms Oat Barista Drink 1L,20240413,drinks,False
+Tesco,2.5,1.6,l,Lucozade Energy Orange 4 X 380Ml,20240413,drinks,False
+Tesco,2.5,1.6,l,Lucozade Energy Original Fridge Pack 4 X 380Ml,20240413,drinks,False
+Tesco,3.25,2.1,l,Lucozade Zero Pink Lemonade 4 X 380Ml,20240413,drinks,False
+Tesco,4.2,2.1,l,Mackie's Traditional Luxury Dairy Ice Cream 2Ltr,20240413,frozen,False
+Tesco,4.2,2.1,l,San Pellegrino Essenza Sparkling Cherry Water Multipack 6x330ml,20240413,drinks,False
+Tesco,4.2,2.1,l,San Pellegrino Essenza Sparkling Tangerine Water Multipack 6x330ml,20240413,drinks,False
+Tesco,1.0,21.0,kg,Tesco Ground Cayenne Pepper 48G,20240413,food_cupboard,True
+Tesco,1.0,21.0,kg,Tesco Smoked Paprika 48G,20240413,food_cupboard,True
+Tesco,1.6,21.0,kg,Chop Chilli Puree 75G,20240413,food_cupboard,False
+Tesco,1.6,21.0,kg,Chop Garlic Puree 75G,20240413,food_cupboard,False
+Tesco,1.6,21.0,kg,Chop Ginger Puree 75G,20240413,food_cupboard,False
+Tesco,1.6,21.0,kg,Chop Smoked Garlic Puree 75G,20240413,food_cupboard,False
+Tesco,2.1,21.0,kg,Yutaka Black Sesame Seeds 100G,20240413,food_cupboard,False
+Tesco,1.25,0.21,unit,Tesco Blowouts 6 Pack,20240413,home,True
+Tesco,1.25,0.21,unit,Tesco Caterpillar Balloons 6 Pack,20240413,home,True
+Tesco,1.25,0.21,unit,Tesco Party Foil Hats 6 Pack,20240413,home,True
+Tesco,1.25,0.21,unit,Wagon Wheels Original Biscuit 6 Pack,20240413,food_cupboard,False
+Tesco,1.9,0.21,unit,Always Ultra Size 3 Night With Wings Sanitary Towels 9 Pack,20240413,health_products,False
+Tesco,12.0,0.21,unit,Pampers Baby Dry Size 7 Jumbo+ Pack 58 Nappies,20240413,baby_products,False
+Tesco,12.5,0.21,unit,Bassetts Adults Multivitamins Raspberry & Pomegranate Flavoured 60S,20240413,health_products,False
+Tesco,12.5,0.21,unit,Vitabiotics Pregnacare Plus 60'S,20240413,health_products,False
+Tesco,2.1,0.21,unit,BIC 2 Sensitive Mens Razor 10 Pack,20240413,health_products,False
+Tesco,2.5,0.21,unit,Crayola Colouring Pencils 12 Pack,20240413,home,False
+Tesco,2.0,0.14,unit,Panadol Extra Advance Pain Relief Paracetamol Tablets 14s,20240413,health_products,False
+Tesco,3.0,0.21,unit,Yankee Classic Reeds Diffuser Sticks 14 Pack,20240413,home,False
+Tesco,3.2,0.21,unit,Sewing Kit,20240413,household,False
+Tesco,3.4,0.21,unit,Always Platinum Night Size 3 Sanitary Towels 16 Pack,20240413,health_products,False
+Tesco,3.4,0.21,unit,Beast Drawstring 10L Compostable Caddy Liners 16S,20240413,household,False
+Tesco,4.25,0.21,unit,Joie Glitter Straws 20 Pack,20240413,home,False
+Tesco,4.45,0.19,unit,Always Discreet Normal Incontinence Pads 24 Pack,20240413,health_products,False
+Tesco,5.0,0.21,unit,BIC Kids Couleur Colouring Pens 24 Pack,20240413,home,False
+Tesco,5.0,0.21,unit,Crayola Supertips 24 Pack,20240413,home,False
+Tesco,5.0,0.21,unit,Elegant Touch London Pillarbox Red Nails 24 Pack,20240413,health_products,False
+Tesco,5.0,0.21,unit,Elegant Touch London True Tiramisu Nails 24 Pack,20240413,health_products,False
+Tesco,5.0,0.21,unit,Minky Sure Grip Pegs 24 Pack,20240413,household,False
+Tesco,5.0,0.21,unit,Nelsons Homeopathy Teetha 24 Sachets,20240413,baby_products,False
+Tesco,5.5,0.21,unit,Rascal & Friends Cocomelon Premium Nappy Pants Size 6 26S,20240413,baby_products,False
+Tesco,5.5,0.21,unit,Rascal Plus Friends Premium Nappies Size 7 26 Pack,20240413,baby_products,False
+Tesco,6.25,0.21,unit,Wellman 30S,20240413,health_products,False
+Tesco,6.25,0.21,unit,Wellwoman 30S,20240413,health_products,False
+Tesco,6.4,0.21,unit,Tesco Health 1400Mg Glucosamine Sulphate 30 Tabs,20240413,health_products,True
+Tesco,2.1,0.21,m,Hemming Web 10M,20240413,household,False
+Tesco,0.37,2.2,kg,Hearty Food Co. Garlic Baguette 170G,20240413,fresh_food,True
+Tesco,0.65,2.2,kg,Barber Cream Crackers 300G,20240413,food_cupboard,False
+Tesco,0.65,2.2,kg,Tesco Ginger Nut Biscuits 300G,20240413,food_cupboard,True
+Tesco,0.65,2.2,kg,Tesco Rich Tea Biscuit 300G,20240413,food_cupboard,True
+Tesco,0.75,2.2,kg,Stockwell & Co Honey 340G,20240413,food_cupboard,False
+Tesco,0.9,2.2,kg,Lowicz Kefir Yogurt Drink 400G,20240413,food_cupboard,False
+Tesco,0.9,2.2,kg,Tesco Reduced Fat Rice Pudding 400G,20240413,food_cupboard,True
+Tesco,0.9,2.2,kg,Tesco Rice Pudding 400G,20240413,food_cupboard,True
+Tesco,1.1,2.2,kg,Tesco 0% Fat Greek Style Yogurt 500G,20240413,fresh_food,True
+Tesco,1.1,2.2,kg,Tesco Greek Style Yogurt 500G,20240413,fresh_food,True
+Tesco,1.15,2.2,kg,Alpro Vanilla Dairy Free Soya Custard 525g,20240413,food_cupboard,False
+Tesco,1.8,2.2,kg,Warburtons White Bakers Bloomer 800G,20240413,bakery,False
+Tesco,2.0,2.2,kg,Pakeeza Natural Yogurt 900G,20240413,food_cupboard,False
+Tesco,0.59,2.2,kg,Batchelors Potatoes In Water 400G,20240413,food_cupboard,False
+Tesco,0.55,2.2,l,4Move Active Magnesium Vitamin Drink 250Ml,20240413,food_cupboard,False
+Tesco,0.55,2.2,l,4Move Active Vitamins Drink 250Ml,20240413,food_cupboard,False
+Tesco,0.55,2.2,l,N-Gine Energy Drink Blue 250Ml,20240413,drinks,False
+Tesco,1.0,1.7,l,Bigga Fruit Punch Soft Drink 600Ml,20240413,food_cupboard,False
+Tesco,1.0,1.7,l,Bigga Grape Flavour Soft Drink 600Ml,20240413,food_cupboard,False
+Tesco,10.0,2.2,l,Monster Energy Ultra 9 X 500Ml,20240413,drinks,False
+Tesco,2.15,2.2,l,Baldwins Sarsaparilla 1 Litre,20240413,food_cupboard,False
+Tesco,2.15,2.2,l,Tesco Pure Sunflower Oil 1L,20240413,food_cupboard,True
+Tesco,1.95,1.9,l,Arctic Coffee Cafe Latte 1 Litre,20240413,drinks,False
+Tesco,1.95,1.9,l,Arctic Coffee Caramel Latte 1L,20240413,drinks,False
+Tesco,2.2,2.2,l,Laila Chilli & Garlic Sauce 1 Litre,20240413,food_cupboard,False
+Tesco,2.25,2.2,l,Ufc Coconut Water 1 Litre,20240413,food_cupboard,False
+Tesco,2.25,2.2,l,Ufc Refresh Coconut Water With Watermelon 1L,20240413,food_cupboard,False
+Tesco,2.5,1.7,l,Grace Aloe Vera Drink 1.5 Litres,20240413,food_cupboard,False
+Tesco,3.3,2.2,l,KX Blue Spark Energy Drink 6 x 250ml,20240413,drinks,False
+Tesco,3.3,2.2,l,KX Sugar Free Blue Spark Energy Drink 6x250ml,20240413,drinks,False
+Tesco,2.5,1.5,l,Fruit Shoot Apple & Blackcurrant Kids Juice Drink 8x200ml,20240413,drinks,False
+Tesco,2.5,1.5,l,Fruit Shoot Apple Kids Juice Drink 8x200ml,20240413,drinks,False
+Tesco,2.5,1.5,l,Fruit Shoot Orange Kids Juice Drink 8x200ml,20240413,drinks,False
+Tesco,2.5,1.5,l,Fruit Shoot Summer Fruits Kids Juice Drink 8x200ml,20240413,drinks,False
+Tesco,4.0,2.2,l,Schweppes Soda Water 12x150ml,20240413,drinks,False
+Tesco,4.5,2.2,l,Get More Vitamins Recovery Still Water Cranberry Drink 4X500ml,20240413,drinks,False
+Tesco,4.5,2.2,l,Get More Vitamins Recovery Still Water Orange Drink 4X500ml,20240413,drinks,False
+Tesco,4.0,2.0,l,Wow Hydrate Protein Summer Fruits 4X500ml,20240413,drinks,False
+Tesco,4.0,2.0,l,Wow Hydrate Protein Tropical 4X500ml,20240413,drinks,False
+Tesco,4.5,2.2,l,Wowhydrate Orange Electrolyte & Vitamin Water 4X500ml,20240413,drinks,False
+Tesco,0.45,22.0,kg,Prymat Sweet Paprika 20G,20240413,food_cupboard,False
+Tesco,1.0,22.0,kg,Tesco Garlic Powder 45G ..,20240413,food_cupboard,True
+Tesco,1.0,22.0,kg,Tesco Ground Turmeric 45G,20240413,food_cupboard,True
+Tesco,1.0,22.0,kg,Tesco Hot Paprika 45G,20240413,food_cupboard,True
+Tesco,1.0,22.0,kg,Tesco Nigella Seeds 45G,20240413,food_cupboard,True
+Tesco,2.25,22.0,kg,Tesco Ground Black Pepper 100G,20240413,food_cupboard,True
+Tesco,2.5,22.0,kg,"Schwartz Nadiya Mango, Lime & Coriander All Purpose Seasoning 115g",20240413,food_cupboard,False
+Tesco,3.5,22.0,kg,Tesco Chilli Spanish Olives With Cheese 160G,20240413,fresh_food,True
+Tesco,0.9,0.22,unit,Tesco 4 Large White Baps,20240413,bakery,True
+Tesco,0.9,0.22,unit,Tesco Large Seeded Burger Buns 4 Pack,20240413,bakery,True
+Tesco,0.9,0.22,unit,Tesco Large White Bap 4 Pack,20240413,bakery,True
+Tesco,0.9,0.22,unit,Tesco Large Wholemeal Baps 4 Pack,20240413,bakery,True
+Tesco,0.95,0.19,unit,Dina Paninette 5 Large White Bread Wraps,20240413,bakery,False
+Tesco,1.29,0.22,unit,Tesco Bramley Apple Pies 6 Pack,20240413,bakery,True
+Tesco,1.29,0.22,unit,Tesco Coconut Macaroons 6 Pack,20240413,bakery,True
+Tesco,1.3,0.22,unit,Korbond Easy Threading Needles 110260,20240413,household,False
+Tesco,1.3,0.22,unit,Tesco Free Range Eggs Mixed Sized 6 Pack,20240413,fresh_food,True
+Tesco,1.35,0.22,unit,Tesco 6 Banana Pancakes,20240413,bakery,True
+Tesco,1.35,0.22,unit,Tesco Finest 6 Mini Brioche Buns,20240413,bakery,True
+Tesco,13.0,0.22,unit,Tesco Health Co-Enzyme Q10 100Mg 60 Caps,20240413,health_products,True
+Tesco,13.5,0.22,unit,Bach Rescue Night Gummies Raspberry 60 Pack,20240413,health_products,False
+Tesco,14.0,0.22,unit,Pampers Baby Dry Nappy Pants Size 5 Jumbo+ 64 Pack,20240413,baby_products,False
+Tesco,1.5,0.15,unit,Lil Lets Non Applicator Ultra Tampons 10 Pack,20240413,health_products,False
+Tesco,2.25,0.22,unit,Mcvities Jaffa Cake Bars 10 Pack,20240413,bakery,False
+Tesco,2.25,0.22,unit,Mr Kipling Gooey Brownie Bites Double Chocolate 10 Pack,20240413,bakery,False
+Tesco,2.25,0.22,unit,Mr Kipling Gooey Brownie Bites Salted Caramel 10 Pack,20240413,bakery,False
+Tesco,4.0,0.22,unit,Huggies Pull Ups Training Nappy Pants Boys Night 2-4Yr Size6 x18,20240413,baby_products,False
+Tesco,4.0,0.22,unit,Huggies Pull Ups Training Nappy Pants Girls Night 2-4Yr Size6 x18,20240413,baby_products,False
+Tesco,4.45,0.22,unit,Tesco 20 Extra Strong Refuse Sacks 75L,20240413,household,True
+Tesco,4.5,0.22,unit,EVO REFILL 20 TOBACCO STICKS AZURE,20240413,home,False
+Tesco,4.5,0.22,unit,Evo Gold Activ Blend Tobacco Sticks 20 Pack,20240413,home,False
+Tesco,4.5,0.22,unit,Evo Refill 20 Ruby Tobacco Sticks,20240413,home,False
+Tesco,4.5,0.22,unit,Evo Refill 20 Tobacco Sticks Bronze,20240413,home,False
+Tesco,4.5,0.22,unit,Evo Refill 20 Tobacco Sticks Green Option,20240413,home,False
+Tesco,4.5,0.22,unit,Evo Refill 20 Tobacco Sticks Magenta,20240413,home,False
+Tesco,4.5,0.22,unit,Evo Refill 20 Tobacco Sticks Purple Option,20240413,home,False
+Tesco,4.5,0.22,unit,Haliborange Effervescent Vitamin C Orange Tablets,20240413,health_products,False
+Tesco,5.25,0.22,unit,Panadol Extra Pain Relief Paracetamol Soluble Tablets 24s,20240413,health_products,False
+Tesco,5.4,0.22,unit,Strepsils Sore Throat & Cough Lozenges 24 Pack,20240413,health_products,False
+Tesco,5.5,0.22,unit,Lansinoh Breastmilk Storage Bags X25,20240413,baby_products,False
+Tesco,6.5,0.22,unit,Bassetts 7-11 Multi Vitamin Raspberry,20240413,health_products,False
+Tesco,6.5,0.22,unit,Centrum Advance 50+ Multivitamin 30 Tablets,20240413,health_products,False
+Tesco,6.5,0.22,unit,Centrum Advance Multivitamin 30 Tablets,20240413,health_products,False
+Tesco,6.5,0.22,unit,Haliborange Omega 3 Teen Softies 30'S,20240413,health_products,False
+Tesco,6.5,0.22,unit,Wellkid Multivitamins Mixed Fruit Flavoured Chewable Tablets 30S,20240413,health_products,False
+Tesco,6.6,0.22,unit,Bassetts 12-18 Multi Vitamin Plus Evening Primrose Oil,20240413,health_products,False
+Tesco,8.75,0.22,unit,Buscopan Ibs Relief 40'S,20240413,health_products,False
+Tesco,2.19,0.22,l,Tesco Lightweight Cat Litter 10L,20240413,pets,True
+Tesco,0.85,2.3,kg,Ms Molly's Lemon Swirl Cheesecake 375G,20240413,frozen,True
+Tesco,0.85,2.3,kg,Ms Molly's Strawberry Swirl Cheesecake 375G,20240413,frozen,True
+Tesco,0.85,2.3,kg,Tesco Rice Snaps Cereal 375G,20240413,food_cupboard,True
+Tesco,1.0,2.3,kg,Stockwell & Co 24 Wheat Biscuits 432G,20240413,food_cupboard,False
+Tesco,1.05,2.3,kg,Tesco Fine Cut Orange Marmalade 454G,20240413,food_cupboard,True
+Tesco,1.15,2.3,kg,Tesco Frosted Flakes Cereal 500G,20240413,food_cupboard,True
+Tesco,1.85,2.3,kg,Hovis Granary Thick Bread 800G,20240413,bakery,False
+Tesco,1.85,2.3,kg,Hovis Granary Wholemeal Bread 800G,20240413,bakery,False
+Tesco,1.85,2.3,kg,Hovis Original 7 Seeds Bread 800G,20240413,bakery,False
+Tesco,1.85,2.3,kg,Hovis Seed Sensations Maltd Wholegrain 800G,20240413,bakery,False
+Tesco,2.3,2.3,kg,Quaker Rolled Porridge Oats 1kg,20240413,food_cupboard,False
+Tesco,2.3,2.3,kg,Scott's Porage Original Porridge Oats 1kg,20240413,food_cupboard,False
+Tesco,3.7,2.3,kg,Humza Paratha Original 1.6Kg,20240413,food_cupboard,False
+Tesco,3.75,2.3,kg,Heinz Cream Of Chicken Soup 4 X 400G,20240413,food_cupboard,False
+Tesco,3.75,2.3,kg,Heinz Cream Of Tomato Soup 4 X 400G,20240413,food_cupboard,False
+Tesco,1.15,2.3,l,Robinsons Ready to Drink Raspberry & Apple Juice Drink 500ml,20240413,drinks,False
+Tesco,1.7,2.3,l,San Pellegrino Sparkling Natural Mineral Water Glass Bottle 750ml,20240413,drinks,False
+Tesco,3.0,2.3,l,Get More Vits B Vitamins Sparkling Apple & Raspberry 4x330ml,20240413,drinks,False
+Tesco,3.0,2.3,l,Get More Vits Multivitamins Sparkling Lemon & Lime 4 x 330ml,20240413,drinks,False
+Tesco,3.0,2.3,l,Get More Vits Vitamin D Sparkling Mango & Passionfruit 4x330ml,20240413,drinks,False
+Tesco,3.5,2.3,l,Coca-Cola Zero Sugar 6x250ml,20240413,drinks,False
+Tesco,3.5,2.3,l,Diet Coke 6 X 250Ml,20240413,drinks,False
+Tesco,1.49,0.0,unit,Tesco Luxury Soft Coconut Oil X4,20240413,household,True
+Tesco,1.49,0.0,unit,Tesco Luxury Soft Quilted Toilet Tissue 4 Rolls,20240413,household,True
+Tesco,3.25,0.0,unit,Tesco Luxury Soft Coconut Oil Toilet Tissue 6 Long Rolls,20240413,household,True
+Tesco,3.25,0.0,unit,Tesco Luxury Soft Quilted Toilet Tissue 6 Long Rolls,20240413,household,True
+Tesco,1.0,23.0,kg,Tesco Ground Cumin 43G,20240413,food_cupboard,True
+Tesco,2.5,23.0,kg,"Schwartz Nadiya Bell Pepper, Oregano & Garlic All Purpose Seasoning 110g",20240413,food_cupboard,False
+Tesco,1.15,0.23,unit,Tesco 5 Custard Doughnuts,20240413,bakery,True
+Tesco,1.15,0.23,unit,Tesco 5 Jam Doughnuts,20240413,bakery,True
+Tesco,1.15,0.23,unit,Tesco 5 Sugar Ring Doughnuts,20240413,bakery,True
+Tesco,1.15,0.19,unit,Tesco 6 Mini Garlic & Coriander Naans,20240413,bakery,True
+Tesco,1.4,0.23,unit,Warburtons Brown Sandwich Thins 6 Pack,20240413,bakery,False
+Tesco,1.4,0.23,unit,Warburtons Half & Half Thins 6 Pack,20240413,bakery,False
+Tesco,1.4,0.23,unit,Warburtons Hot Dog Rolls 6 Pack,20240413,bakery,False
+Tesco,1.4,0.23,unit,Warburtons White Sandwich Thins 6 Pack,20240413,bakery,False
+Tesco,1.4,0.23,unit,Warburtons Wholemeal Rolls 6 Pack,20240413,bakery,False
+Tesco,1.2,0.2,unit,Weight Watchers Wraps 6 Pack,20240413,bakery,False
+Tesco,1.6,0.23,unit,Multi Purpose Needles,20240413,household,False
+Tesco,6.0,0.14,unit,Pampers Baby Dry Size 4 Essential Pack 44 Nappies,20240413,baby_products,False
+Tesco,12.0,0.23,unit,Pampers Baby Dry Size 8 Jumbo+ 52 Nappies,20240413,baby_products,False
+Tesco,13.75,0.23,unit,Niquitin Mini's Mint 2mg Lozenges Nicotine x60,20240413,health_products,False
+Tesco,14.0,0.23,unit,Centrum Men Multivitamin 60 Tablets,20240413,health_products,False
+Tesco,14.0,0.23,unit,Centrum Women Multivitamin 60 Tablets,20240413,health_products,False
+Tesco,14.0,0.23,unit,Pampers Premium Protection Size 4 62 Nappies,20240413,baby_products,False
+Tesco,19.0,0.23,unit,Vitabiotics Pregnacare Max Tablets X84,20240413,health_products,False
+Tesco,2.75,0.23,unit,Always Discreet Normal Incontinence Pads 12 Pack,20240413,health_products,False
+Tesco,2.75,0.23,unit,BIC Kids Colouring Pencils 12 Pack,20240413,home,False
+Tesco,3.2,0.23,unit,Totm Applicator Tampons Super 14S,20240413,health_products,False
+Tesco,3.25,0.23,unit,Always Ultra Sanitary Towels Secure Night Extra Wings Size 5 14Ct,20240413,health_products,False
+Tesco,3.75,0.23,unit,Strepsils Triple Action Honey & Lemon Throat Lozenges 16 Pack,20240413,health_products,False
+Tesco,5.5,0.23,unit,Panadol ActiFast Pain Relief Paracetamol Soluble Tablets 24s,20240413,health_products,False
+Tesco,6.0,0.23,unit,Tesco 26Pc Multi Purpose Tool Set,20240413,home,True
+Tesco,7.5,0.23,unit,Huggies Pull Ups Training Nappy Pants Boys Night 2-4Yr Size6 x32,20240413,baby_products,False
+Tesco,7.5,0.23,unit,Huggies Pull Ups Training Nappy Pants Girls Night 2-4Yr Size6 x32,20240413,baby_products,False
+Tesco,0.3,2.4,kg,Tesco Essentials Soap 125G,20240413,health_products,True
+Tesco,0.49,2.4,kg,Tesco Cranberry Sauce 200G,20240413,food_cupboard,True
+Tesco,0.49,2.4,kg,Tesco Malted Milk Biscuits 200G,20240413,food_cupboard,True
+Tesco,0.49,2.4,kg,Tesco Nice Biscuits 200G,20240413,food_cupboard,True
+Tesco,0.49,2.4,kg,Tesco Shortcake Biscuits 200G,20240413,food_cupboard,True
+Tesco,0.89,2.4,kg,Tesco Choco Hoops Cereal 375G,20240413,food_cupboard,True
+Tesco,0.89,2.4,kg,Tesco Choco Snaps 375G,20240413,food_cupboard,True
+Tesco,0.89,2.4,kg,Tesco Honey Hoops Cereal 375G,20240413,food_cupboard,True
+Tesco,0.89,2.4,kg,Tesco Multigrain Hoops Cereal 375G,20240413,food_cupboard,True
+Tesco,1.1,2.4,kg,Tesco Family Size Crumble Mix 450G,20240413,food_cupboard,True
+Tesco,1.2,2.4,kg,Tesco Black Bean Cooking Sauce 500G,20240413,food_cupboard,True
+Tesco,1.2,2.4,kg,Tesco Free From Hunters Cooking Sauce 510G,20240413,food_cupboard,True
+Tesco,1.2,2.4,kg,Tesco Free From Korma 500G,20240413,food_cupboard,True
+Tesco,1.2,2.4,kg,Tesco Hot Chilli Sauce 500G,20240413,food_cupboard,True
+Tesco,1.2,2.4,kg,Tesco Mild Chilli Sauce 500G,20240413,food_cupboard,True
+Tesco,1.2,2.4,kg,Tesco Sweet & Sour Sauce 510G,20240413,food_cupboard,True
+Tesco,1.9,2.4,kg,Warburtons Seeded Batch Bread 800G,20240413,bakery,False
+Tesco,1.99,2.4,kg,Hartleys Multipack Ready To Eat Strawberry Jelly 6 X125g,20240413,food_cupboard,False
+Tesco,1.5,1.8,kg,Yop Strawberry Flavour Yogurt Drink 825g,20240413,drinks,False
+Tesco,1.5,1.8,kg,Yop Vanilla Flavour Yogurt Drink 825g,20240413,drinks,False
+Tesco,2.4,2.4,kg,Tesco Swiss Style Muesli 1Kg,20240413,food_cupboard,True
+Tesco,2.4,2.4,kg,Tesco Swiss Style No Added Sugar Muesli 1Kg,20240413,food_cupboard,True
+Tesco,0.7,2.4,l,Rubicon Still Lychee Juice Drink 288Ml Carton,20240413,drinks,False
+Tesco,0.7,2.4,l,Rubicon Still Mango Juice Drink 288Ml Carton,20240413,drinks,False
+Tesco,0.7,2.4,l,Rubicon Still Pineapple Juice Drink 288Ml,20240413,food_cupboard,False
+Tesco,1.2,2.4,l,Rockstar Refresh Strawberry & Lime 500Ml,20240413,drinks,False
+Tesco,1.0,2.0,l,Rubicon Raw Energy Raspberry Blueberry 500Ml,20240413,drinks,False
+Tesco,1.0,2.0,l,Rubicon Raw Zero Added Sugar Peach & Berry Energy Drink 500ml,20240413,drinks,False
+Tesco,1.2,2.4,l,Tesco Extracts Coconut Shower Gel 500Ml,20240413,health_products,True
+Tesco,1.2,2.4,l,Tesco Extracts Mango Shower Gel 500ml,20240413,health_products,True
+Tesco,1.2,2.4,l,Tesco Extracts Pink Pink Grapefruit & Basil Shower Gel 500Ml,20240413,health_products,True
+Tesco,1.2,2.4,l,Tesco Extracts Sea Minerals Shower Gel 500Ml,20240413,health_products,True
+Tesco,1.2,2.4,l,Tesco Light Mayonnaise 500Ml,20240413,food_cupboard,True
+Tesco,1.2,2.4,l,Tesco Mayonnaise 500Ml,20240413,food_cupboard,True
+Tesco,1.8,2.4,l,Tesco Green Escape Smoothie 750Ml,20240413,drinks,True
+Tesco,1.8,2.4,l,Tesco Mango Passion Fruit Smoothie 750Ml,20240413,drinks,True
+Tesco,1.8,2.4,l,Tesco Pineapple Paradise Fruit Smoothie 750Ml,20240413,drinks,True
+Tesco,1.8,2.4,l,Tesco Pomegranate Crush Fruit Smoothie 750Ml,20240413,drinks,True
+Tesco,1.8,2.4,l,Tesco Strawberry Sensation Smoothie 750Ml,20240413,drinks,True
+Tesco,1.5,1.8,l,Capri-Sun Zero Jungle 4 x 200ml,20240413,drinks,False
+Tesco,1.5,1.8,l,Capri-Sun Zero Orange 4 x 200ml,20240413,drinks,False
+Tesco,2.0,2.4,l,Ribena Blackcurrant 850Ml,20240413,drinks,False
+Tesco,2.0,2.4,l,Ribena No Added Sugar Blackcurrant 850Ml,20240413,drinks,False
+Tesco,2.0,2.4,l,Ribena No Added Sugar Strawberry 850Ml,20240413,drinks,False
+Tesco,1.5,1.8,l,Tropicana Rise & Shine Pressed Apple Juice Drink 850ml,20240413,drinks,False
+Tesco,1.5,1.8,l,Tropicana Rise & Shine Smooth Orange Juice Drink 850ml,20240413,drinks,False
+Tesco,4.0,2.0,l,San Pellegrino Blood Orange Soft Drink Multipack 6x330ml,20240413,drinks,False
+Tesco,4.0,2.0,l,San Pellegrino Lemon Soft Drink Multipack 6x330ml,20240413,drinks,False
+Tesco,4.0,2.0,l,San Pellegrino Orange Soft Drink Multipack 6x330ml,20240413,drinks,False
+Tesco,8.5,0.0,unit,Velvet Classic Quilted Toilet Tissue 24 Rolls,20240413,household,False
+Tesco,2.5,24.0,kg,"Schwartz Nadiya Paprika, Garlic & Parsley All Purpose Seasoning 105g",20240413,food_cupboard,False
+Tesco,0.24,0.24,unit,Tesco Limes Each,20240413,fresh_food,True
+Tesco,0.95,0.24,unit,Tesco 4 pack Garlic,20240413,fresh_food,True
+Tesco,1.19,0.24,unit,Tesco Limes Minimum 5 Pack,20240413,fresh_food,True
+Tesco,1.9,0.24,unit,Always Ultra Size 4 Secure Night With Wings Sanitary Towels 8Pk,20240413,health_products,False
+Tesco,1.9,0.24,unit,Always Ultra Size 5 Secure Night Extra Plus Wings Sanitary Towels 8Pk,20240413,health_products,False
+Tesco,1.9,0.24,unit,Tesco Ibuprofen Long Lasting 8 Capsules,20240413,health_products,True
+Tesco,2.15,0.22,unit,TENA Discreet Extra Incontinence Pads 10 pack,20240413,health_products,False
+Tesco,2.9,0.24,unit,Tesco Free From 12 Rocky Road Mini Bites,20240413,bakery,True
+Tesco,2.9,0.24,unit,Tesco Free From Double Chocolate Mini Muffin 12 Pack,20240413,bakery,True
+Tesco,24.0,0.24,unit,NIQUITIN Mini's Mint 2mg Lozenges Nicotine x100,20240413,health_products,False
+Tesco,4.8,0.24,unit,Alka Seltzer Xs Double Action Tablets 20S,20240413,health_products,False
+Tesco,5.8,0.24,unit,Strepsils Extra Blackcurrent Sore Throat Lozenges 24 Pack,20240413,health_products,False
+Tesco,5.8,0.24,unit,Strepsils Extra Cherry Throat & Pain Relief Lozenges 24 Pack,20240413,health_products,False
+Tesco,7.15,0.24,unit,Tesco St Johns Wort 30S,20240413,health_products,True
+Tesco,7.35,0.24,unit,Centrum Men 50+ Multivitamin 30 Tablets,20240413,health_products,False
+Tesco,7.35,0.24,unit,Centrum Men Multivitamin 30 Tablets,20240413,health_products,False
+Tesco,7.35,0.24,unit,Centrum Women 50+ M/Vit 30 Tablets,20240413,health_products,False
+Tesco,7.35,0.24,unit,Vitabiotics Visionace Tablets X30,20240413,health_products,False
+Tesco,9.5,0.24,unit,Bronchostop Pastilles 40S,20240413,health_products,False
+Tesco,0.5,2.5,kg,Stockwell & Co Gravy Granules 200G,20240413,food_cupboard,False
+Tesco,0.85,2.5,kg,Hearty Food Co. 2 Garlic Baguettes 338G,20240413,frozen,True
+Tesco,1.0,2.5,kg,Hovis Small Wholemeal Medium Bread 400G,20240413,bakery,False
+Tesco,1.0,2.5,kg,Tesco Ready To Serve Custard 400G,20240413,food_cupboard,True
+Tesco,1.0,2.5,kg,Warburtons Small Medium Sliced White Bread 400G,20240413,bakery,False
+Tesco,1.0,2.5,kg,Warburtons Small Wholemeal Medium Bread 400G,20240413,bakery,False
+Tesco,1.0,2.5,kg,Warburtons Toastie Sliced Small White Bread 400G,20240413,bakery,False
+Tesco,1.1,2.5,kg,Tesco Brown Sauce 435G,20240413,food_cupboard,True
+Tesco,1.25,2.5,kg,Tesco Honey Nut Corn Flakes 500G,20240413,food_cupboard,True
+Tesco,2.5,2.5,kg,Onken Biopot Natural Yogurt 1Kg,20240413,fresh_food,False
+Tesco,2.5,2.5,kg,Onken Natural Set Yogurt 1Kg,20240413,fresh_food,False
+Tesco,2.5,2.5,kg,Tesco Fruit & Nut Granola 1Kg,20240413,food_cupboard,True
+Tesco,2.5,2.5,kg,Tesco Honey & Almond Granola 1Kg,20240413,food_cupboard,True
+Tesco,2.5,2.5,kg,Tesco Strawberry Granola 1Kg,20240413,food_cupboard,True
+Tesco,2.5,2.5,kg,Tesco Tropical Fruits Granola 1Kg,20240413,food_cupboard,True
+Tesco,0.75,2.5,l,Xprt. For Men Refreshing Shower Gel 300Ml,20240413,health_products,False
+Tesco,0.75,2.5,l,Xprt. For Men Stimulating Shower Gel 300Ml,20240413,health_products,False
+Tesco,1.0,2.5,l,Cussons Creations Delight: Bottled Shower Gel 400Ml,20240413,health_products,False
+Tesco,1.25,2.5,l,Barr Irn Bru 500 M,20240413,drinks,False
+Tesco,1.25,2.5,l,Pro Formula Complete Gum Health Mouthwash 500Ml,20240413,health_products,False
+Tesco,1.25,2.5,l,Pro-Formula Whitening Mouthwash 500Ml,20240413,health_products,False
+Tesco,1.0,2.0,l,Relentless Origin Energy Drink 500ml,20240413,drinks,False
+Tesco,1.0,2.0,l,Relentless Raspberry Zero Energy Drink 500ml,20240413,drinks,False
+Tesco,1.25,2.5,l,Tesco Lemon Juice 500Ml,20240413,food_cupboard,True
+Tesco,2.0,2.5,l,Fruit Shoot Apple & Blackcurrant Kids Juice Drink 4x200ml,20240413,drinks,False
+Tesco,2.0,2.5,l,Fruit Shoot Orange Kids Juice Drink 4x200ml,20240413,drinks,False
+Tesco,2.0,2.5,l,Fruit Shoot Summer Fruits Kids Juice Drink 4x200ml,20240413,drinks,False
+Tesco,2.5,2.5,l,Baylis & Harding Funky Farm Bath & Shower Gel 1L,20240413,baby_products,False
+Tesco,1.5,1.5,l,Capri-Sun Double Strength Orange Multivitamin Squash 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Coco Cabana Coconut Water 1 Litre,20240413,drinks,False
+Tesco,2.5,2.5,l,Don Simon Orange Juice Smooth 1Ltr,20240413,drinks,False
+Tesco,2.5,2.5,l,Don Simon Orange Juicy Bits 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Get More Vitamins Multivitamin Squash Apple & Blackcurrant 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Get More Vitamins Multivitamin Squash Orange & Mango 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Get More Vitamins Multivitamin Squash Summer Fruits 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,"Robinsons Creations Pineapple, Mango & Passion Fruit Squash 1L",20240413,drinks,False
+Tesco,2.5,2.5,l,Robinsons Fruit Creations Blackberry & Blueberry Squash 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Robinsons Fruit Creations Lemon & Raspberry Squash 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Robinsons Fruit Creations Orange & Mango Squash 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Robinsons Fruit Creations Peach & Raspberry Squash 1L,20240413,drinks,False
+Tesco,2.5,2.5,l,Robinsons Fruit Creations Strawberry & Watermelon Squash 1L,20240413,drinks,False
+Tesco,3.35,2.5,l,Aqua Libra Sparkling Blood Orange & Mango 4X330ml,20240413,drinks,False
+Tesco,3.35,2.5,l,"Aqua Libra Sparkling Water Cucumber, Mint & Lime 4x330ml",20240413,drinks,False
+Tesco,3.35,2.5,l,Aqua Libra Sparkling Water Raspberry & Blackcurrant 4x330ml,20240413,drinks,False
+Tesco,3.75,2.5,l,Vitasoy Soya Drink 6 X 250Ml,20240413,food_cupboard,False
+Tesco,3.5,1.8,l,Crisp 'N Dry 100% Rapeseed Oil 2 Litre,20240413,food_cupboard,False
+Tesco,5.0,2.5,l,Grace Mighty Malt Drink Original 6 X 330Ml,20240413,food_cupboard,False
+Tesco,4.5,2.2,l,Kelly's Cornish Vanilla Dairy Ice Cream 2 Litres,20240413,frozen,False
+Tesco,4.0,2.0,l,Supermalt Malt Drink 6 X 330Ml,20240413,food_cupboard,False
+Tesco,0.65,17.0,kg,Schwartz garlic & Herb Potato Wedges Recipe Mix 38g,20240413,food_cupboard,False
+Tesco,1.0,25.0,kg,Tesco Caraway Seeds 40G,20240413,food_cupboard,True
+Tesco,1.0,25.0,kg,Tesco Ground Cinnamon 40G,20240413,food_cupboard,True
+Tesco,1.0,25.0,kg,Tesco Ground Cloves 40G,20240413,food_cupboard,True
+Tesco,1.0,25.0,kg,Tesco Ground Sweet Cinnamon 40G,20240413,food_cupboard,True
+Tesco,2.25,25.0,kg,Schwartz Medium Curry Powder 90G,20240413,food_cupboard,False
+Tesco,2.5,25.0,kg,East End Whole Cloves 100G,20240413,food_cupboard,False
+Tesco,1.5,25.0,l,Tesco Blue Food Colouring 60ml,20240413,food_cupboard,True
+Tesco,1.5,25.0,l,Tesco Green Food Colouring 60ml,20240413,food_cupboard,True
+Tesco,1.5,25.0,l,Tesco Pink Food Colouring 60ml,20240413,food_cupboard,True
+Tesco,1.5,25.0,l,Tesco Red Food Colouring 60ml,20240413,food_cupboard,True
+Tesco,1.5,25.0,l,Tesco Yellow Food Colouring 60ml,20240413,food_cupboard,True
+Tesco,0.25,0.25,unit,Tesco Tape 15Mm,20240413,home,True
+Tesco,0.99,0.25,unit,Tesco 4 Brioche Buns,20240413,bakery,True
+Tesco,1.0,0.25,unit,Ink Stamps 4 Pack,20240413,home,False
+Tesco,1.0,0.25,unit,Jena Palm Leaf Bowl 18Cm - 4 Pack,20240413,home,False
+Tesco,1.0,0.25,unit,Jena Palm Leaf Plate 21Cm - 4 Pack,20240413,home,False
+Tesco,1.0,0.25,unit,Kids Create Pack of 4 Glue Spreaders,20240413,home,False
+Tesco,1.0,0.25,unit,Tesco Handwriting Pens 4 Pack,20240413,home,True
+Tesco,1.0,0.25,unit,Tesco Highlighters 4 Pack,20240413,home,True
+Tesco,1.0,0.25,unit,Tesco Multiseed Deli Rolls 4 Pack,20240413,bakery,True
+Tesco,1.0,0.25,unit,Tesco Permanent Markers Asstd 4 Pack,20240413,home,True
+Tesco,1.0,0.25,unit,Tesco Rectangular Highlighters Asstd 4 Pack,20240413,home,True
+Tesco,1.0,0.25,unit,Tesco White Sub Rolls 4 Pack,20240413,bakery,True
+Tesco,1.0,0.25,unit,Tesco Whiteboard Markers Asstd 4 Pack Millimetre,20240413,home,True
+Tesco,1.0,0.25,unit,Tesco Wholemeal Deli Rolls 4 Pack,20240413,bakery,True
+Tesco,1.5,0.25,unit,Balloon Party Hats 6 Pack,20240413,home,False
+Tesco,1.5,0.25,unit,Keep It Handy Mini Storage Boxes 6 Pack,20240413,home,False
+Tesco,1.5,0.25,unit,Keep It Handy Tea Spoons 6pk,20240413,home,False
+Tesco,1.5,0.25,unit,Mini Bubbles 6 Pack,20240413,home,False
+Tesco,1.5,0.25,unit,Sheldons Oven Bottom Muffins 6 Pack,20240413,bakery,False
+Tesco,1.5,0.25,unit,TESCO 6 METAL SKEWERS,20240413,home,True
+Tesco,1.5,0.25,unit,Tesco Medium Free Range Eggs 6 Pack,20240413,fresh_food,True
+Tesco,14.95,0.25,unit,Wellman Gummies X60,20240413,health_products,False
+Tesco,14.95,0.25,unit,Wellwoman Gummies X60,20240413,health_products,False
+Tesco,10.0,0.17,unit,Nip+Fab Salicylic Fix Night 60 Pads,20240413,health_products,False
+Tesco,15.25,0.25,unit,Niquitin Minis Mint 4Mg Lozenge 60S,20240413,health_products,False
+Tesco,2.0,0.25,unit,Elastoplast Essentials Fabric Mix Pack Plasters 8+4s,20240413,health_products,False
+Tesco,2.0,0.25,unit,Elastoplast Essentials Water Resistant Mix Pack 8+4s,20240413,health_products,False
+Tesco,2.0,0.25,unit,Paper Recyclable Cups 16Oz 8Pk,20240413,home,False
+Tesco,2.5,0.25,unit,BIC Twin Lady Womens Razors 10 Pack,20240413,health_products,False
+Tesco,2.5,0.25,unit,Big Hair Tools Xxl Flat Elastic Black 10 Pack,20240413,health_products,False
+Tesco,2.5,0.25,unit,Big Hair Tools Xxl Hair Elastic Brown 10 Pack,20240413,health_products,False
+Tesco,2.5,0.25,unit,Eco Blue Paper Recyclable Cups,20240413,home,False
+Tesco,2.5,0.25,unit,Hgl Bouncy Balls 10 Pack,20240413,home,False
+Tesco,2.5,0.25,unit,Red Paper Recyclable Cups 16Oz 10 Pack,20240413,home,False
+Tesco,2.5,0.25,unit,Silver & Gold Cone Poppers 10 Pack,20240413,home,False
+Tesco,2.5,0.25,unit,TOTM Organic Medium Flow Pads 10 Pack,20240413,health_products,False
+Tesco,2.5,0.25,unit,Tesco Bright Colour Multi Party Bag 10 Pack,20240413,home,True
+Tesco,2.5,0.25,unit,Tesco Dinosaur Party Bags X10,20240413,home,True
+Tesco,2.5,0.25,unit,Tesco Fineliner Assorted 10 Pack,20240413,home,True
+Tesco,2.5,0.25,unit,Tesco Unicorn Party Bags X10,20240413,home,True
+Tesco,21.0,0.25,unit,Wellwoman Max Tablets 84,20240413,health_products,False
+Tesco,3.0,0.25,unit,BIC Kids Erasable Pencil 12 Pack,20240413,home,False
+Tesco,3.0,0.25,unit,Crayola Supertips 12 Pack,20240413,home,False
+Tesco,3.0,0.25,unit,Gro-Sure Fibre Pots Round 8cm - 12 Pack,20240413,home,False
+Tesco,3.0,0.25,unit,Tesco Party Cake Selection 12 Pack,20240413,bakery,True
+Tesco,3.5,0.25,unit,Panadol ActiFast Pain Relief Paracetamol 500mg Tablets 14s,20240413,health_products,False
+Tesco,4.0,0.25,unit,Nurofen Express Pain Relief Sodium Ibuprofen 256mg Caplets 16 Pack,20240413,health_products,False
+Tesco,4.0,0.25,unit,Nurofen Express Pain Relief Sodium Ibuprofen 256mg Tablets 16 Pack,20240413,health_products,False
+Tesco,4.0,0.25,unit,Nurofen Joint & Back Pain Relief Ibuprofen Soft Caplets 16 Pack,20240413,health_products,False
+Tesco,4.0,0.25,unit,OTRICAPS BLOCKED NOSE & SINUSITIS RELIEF 30mg/25mg/5mg 16 CAPSULES,20240413,health_products,False
+Tesco,4.45,0.22,unit,Always Discreet Long Incontinence Pads 20 Pack,20240413,health_products,False
+Tesco,4.95,0.25,unit,Xprt. Satin Sensitive Mini Wax Strips 20 Pack,20240413,health_products,False
+Tesco,5.0,0.25,unit,Tesco Coloured Gel & Ballpoint Penset 20 Pk- Bulk Tray,20240413,home,True
+Tesco,5.0,0.25,unit,Vitabiotics Ultra Vitamin C Effervescent Orange Tablets 20S,20240413,health_products,False
+Tesco,5.5,0.25,unit,Rascal & Friends Premium Nappy Pants Size 7 22 Pack,20240413,baby_products,False
+Tesco,5.0,0.21,unit,Gaviscon Double Action Tablets Heartburn Indigestion Mint 24 pack,20240413,health_products,False
+Tesco,6.0,0.25,unit,Gaviscon Double Action Tablets Heartburn Indigestion Mixed Berry 24 pack,20240413,health_products,False
+Tesco,4.0,0.17,unit,T-Zone Salicylic Acid & Tea Tree Blemish Clearing Spot Patches x24,20240413,health_products,False
+Tesco,7.5,0.25,unit,Bassetts Adult Multi Vitamin Raspberry & Pomegranate,20240413,health_products,False
+Tesco,7.5,0.25,unit,Centrum MultiGummies Mixed Fruit Multivitamin Gummies 30s,20240413,health_products,False
+Tesco,7.5,0.25,unit,Chewy Vites Adult Probiotics 30S,20240413,health_products,False
+Tesco,7.5,0.25,unit,Chewy Vites Kids Multivitamin & Probio Fruit Gummies 30 Pack,20240413,health_products,False
+Tesco,7.5,0.25,unit,Nicorette Fruitfusion 2mg Gum Nicotine 30 Pieces,20240413,health_products,False
+Tesco,7.5,0.25,unit,Nicorette Icy White 2mg Gum Nicotine Stop Smoking Aid 30 Pieces,20240413,health_products,False
+Tesco,7.5,0.25,unit,Tesco Milk Thistle 30S,20240413,health_products,True
+Tesco,3.0,0.25,m,Tesco Recycled Wrapping Paper 12M,20240413,home,True
+Tesco,0.69,2.6,kg,Stockwell & Co Apple Sauce 270g,20240413,food_cupboard,False
+Tesco,0.77,2.6,kg,Ms Molly's Chocolate Digestives Biscuits 300G,20240413,food_cupboard,True
+Tesco,0.99,2.6,kg,Ms Molly's Jelly & Custard Dessert 3 Pack 375G,20240413,fresh_food,True
+Tesco,0.99,2.6,kg,Tesco Pillows Choco-Nut Cereal 375G,20240413,food_cupboard,True
+Tesco,0.99,2.6,kg,Tesco Pillows With Milk Chocolate Filling 375G,20240413,food_cupboard,True
+Tesco,1.1,2.6,kg,Tesco Reduced Sugar & Salt Brown Sauce 425G,20240413,food_cupboard,True
+Tesco,1.3,2.6,kg,Schneiderbrot Vollkornbrot Rye Bread 500G,20240413,bakery,False
+Tesco,1.3,2.6,kg,Tesco Free From Tomato And Herb Sauce 500G,20240413,food_cupboard,True
+Tesco,1.99,2.6,kg,Ambrosia Deluxe Custard 750g,20240413,food_cupboard,False
+Tesco,0.57,2.6,kg,Stockwell & Co Sliced Beetroot 340G,20240413,food_cupboard,False
+Tesco,0.85,2.6,l,Barr Irn Bru 330Ml (L),20240413,drinks,False
+Tesco,1.15,2.6,l,Tesco 50% Less Fat Salad Cream 450Ml,20240413,food_cupboard,True
+Tesco,1.15,2.6,l,Tesco Salad Cream 450Ml,20240413,food_cupboard,True
+Tesco,1.3,2.6,l,Grace Aloe Vera Drink 500Ml,20240413,food_cupboard,False
+Tesco,1.3,2.6,l,Grace Aloe Vera Mango Drink 500Ml,20240413,food_cupboard,False
+Tesco,1.3,2.6,l,Rockstar Energy Drink Punched Tropical Guava 500ml,20240413,drinks,False
+Tesco,1.95,2.6,l,Olympia Sour Soup Seasoning 750Ml,20240413,food_cupboard,False
+Tesco,2.25,2.6,l,Robinsons Barley Water Lemon 850ml,20240413,drinks,False
+Tesco,2.25,2.6,l,Robinsons Barley Water Orange 850ml,20240413,drinks,False
+Tesco,2.6,2.6,l,Roses Lime Juice Cordial 1L,20240413,drinks,False
+Tesco,2.65,2.6,l,Kujawski Extra Virgin Rapeseed Oil 1 Litre,20240413,food_cupboard,False
+Tesco,3.4,2.6,l,Touch of Lemon & Lime Sparkling Sugar Free Flavoured Water 4x330ml,20240413,drinks,False
+Tesco,3.4,2.6,l,Touch of Mango Passion Sparkling Sugar Free Flavoured Water 4x330ml,20240413,drinks,False
+Tesco,3.4,2.6,l,Touch of Strawberry Sparkling Sugar Free Flavoured Water 4x330ml,20240413,drinks,False
+Tesco,3.5,2.6,l,Copella Apple Juice 1.35L,20240413,drinks,False
+Tesco,2.8,2.1,l,Supermalt Ginger Beer 4X330ml,20240413,food_cupboard,False
+Tesco,4.5,2.2,l,Monster Energy Drink Ultra 4x500ml,20240413,drinks,False
+Tesco,5.2,2.6,l,Monster Energy Drink Ultra Fiesta Mango 4x500ml,20240413,drinks,False
+Tesco,5.2,2.6,l,Monster Energy Drink Ultra Rosa 4x500ml,20240413,drinks,False
+Tesco,4.5,2.2,l,Monster Energy Drink Zero Sugar 4x500ml,20240413,drinks,False
+Tesco,4.5,2.2,l,Monster Energy Lewis Hamilton Zero Sugar 4X500ml,20240413,drinks,False
+Tesco,5.2,2.6,l,Monster Energy Ultra Peachy Keen Zero Sugar 4x500ml,20240413,drinks,False
+Tesco,5.2,2.6,l,Monster Energy Ultra Watermelon Drink 500Ml X 4,20240413,drinks,False
+Tesco,4.5,2.2,l,Monster Energy Zero Sugar 4x500ml,20240413,drinks,False
+Tesco,0.52,26.0,kg,Tesco Rosemary 20G,20240413,fresh_food,True
+Tesco,0.52,26.0,kg,Tesco Thyme 20G,20240413,fresh_food,True
+Tesco,0.7,26.0,kg,Maggi So Juicy Piri Piri Recipe Mix 27g,20240413,food_cupboard,False
+Tesco,1.0,26.0,kg,Tesco Garam Masala Spice Blend 38G,20240413,food_cupboard,True
+Tesco,1.0,26.0,kg,Tesco Ground Ginger 38G,20240413,food_cupboard,True
+Tesco,2.25,26.0,kg,Schwartz Hot Curry Powder 85G,20240413,food_cupboard,False
+Tesco,2.25,26.0,kg,Schwartz Mild Curry Powder 85G,20240413,food_cupboard,False
+Tesco,2.65,26.0,kg,Tesco Whole Black Peppercorns 100G,20240413,food_cupboard,True
+Tesco,1.3,0.26,unit,Tesco Double Chocolate Cookies 5 Pack,20240413,bakery,True
+Tesco,1.3,0.26,unit,Tesco Milk Chocolate Cookie 5 Pack,20240413,bakery,True
+Tesco,1.3,0.26,unit,Tesco Oat And Raisin Cookies 5 Pack,20240413,bakery,True
+Tesco,1.3,0.26,unit,Tesco White Chocolate Cookies 5 Pack,20240413,bakery,True
+Tesco,10.0,0.26,unit,Pampers Baby Dry Pants Essential Pack Size 4 38 Nappies,20240413,baby_products,False
+Tesco,6.0,0.16,unit,Pampers Baby Dry Size 5 Essential Pack 39 Nappies,20240413,baby_products,False
+Tesco,11.5,0.26,unit,Haliborange Vitamin D3 Adult Gummies Orange Flavoured 45Pk,20240413,health_products,False
+Tesco,14.0,0.26,unit,Pampers Baby Dry Nappy Pants Size 6 Jumbo+ 54 Pack,20240413,baby_products,False
+Tesco,14.0,0.26,unit,Pampers Premium Protection Size 5 54 Nappies,20240413,baby_products,False
+Tesco,2.1,0.26,unit,Tesco Finest 8 Salted Caramel Meringue Shells With Dark Chocolate,20240413,food_cupboard,True
+Tesco,1.4,0.17,unit,Tesco Finest Meringue Nests 8S,20240413,food_cupboard,True
+Tesco,2.3,0.26,unit,Always Maxi Size 3 Night Sanitary Towels 9 Pack,20240413,health_products,False
+Tesco,2.55,0.26,unit,Tesco Flat Top Wheelie Bin Liners 10 Pack 240L,20240413,household,True
+Tesco,2.6,0.26,unit,Regal Sliced Madeira Cake 10 Pieces,20240413,food_cupboard,False
+Tesco,3.1,0.26,unit,Cherry Blossom Shoe Wipes 12 Pack,20240413,household,False
+Tesco,4.1,0.26,unit,Zip 100% Natural Twisted Firestarters X16,20240413,household,False
+Tesco,5.2,0.26,unit,Tesco Health Junior Nappies 20 Pack,20240413,baby_products,True
+Tesco,5.2,0.26,unit,Tesco Health Junior Plus 20 Nappies,20240413,baby_products,True
+Tesco,6.3,0.26,unit,Elegant Touch French 117 Pink Nails,20240413,health_products,False
+Tesco,0.85,2.7,kg,Creamfields 4 Pack Strawberry Raspberry Yogurt Pouches 320G,20240413,fresh_food,True
+Tesco,1.3,2.7,kg,Tesco Free From Carbonara Sauce 485G,20240413,food_cupboard,True
+Tesco,1.3,2.7,kg,Tesco Free From White Lasagne Sauce 480G,20240413,food_cupboard,True
+Tesco,2.7,2.7,kg,Flahavan's Irish Organic Jumbo Oats 1Kg,20240413,food_cupboard,False
+Tesco,2.7,2.7,kg,Flahavans Irish Organic Porridge 1Kg,20240413,food_cupboard,False
+Tesco,0.8,2.7,l,Kubus 100% Multivitamin Juice 300Ml,20240413,food_cupboard,False

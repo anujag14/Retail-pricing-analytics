@@ -1,0 +1,2001 @@
+supermarket,prices_(£),prices_unit_(£),unit,names,date,category,own_brand
+Aldi,3.09,0.14,unit,Mamia Ultra-fit Peppa Pig Nappy Pants 22 Pack/Size 6,20240413,baby_products,False
+Aldi,3.09,0.17,unit,Mamia Ultra-fit Peppa Pig Nappy Pants 18 Pack/Size 7,20240413,baby_products,False
+Aldi,3.59,0.09,unit,Mamia Ultra-fit Nappy Pants 40 Pack/Size 4,20240413,baby_products,False
+Aldi,4.79,0.32,unit,Mamia Boy's Night Pants 15 Pack,20240413,baby_products,False
+Aldi,4.79,0.32,unit,Mamia Girl's Night Pants 15 Pack,20240413,baby_products,False
+Aldi,0.85,0.04,unit,Mamia Newborn Nappies 24 Pack/Size 1 2-5kg/4-11lbs,20240413,baby_products,False
+Aldi,2.79,0.13,unit,Mamia Nappies Ultra Dry Air System 22 Pack/Size 7 (XXL),20240413,baby_products,False
+Aldi,2.89,0.05,unit,Mamia Newborn Nappies 56 Pack/Size 3 Midi 4-9kg/9-20lbs,20240413,baby_products,False
+Aldi,2.25,0.04,unit,Mamia Newborn Nappies 60 Pack/Size 2 Mini 3-6kg/6-13lbs,20240413,baby_products,False
+Aldi,3.59,0.13,unit,Mamia Ultra-fit Nappy Pants 28 Pack/Size 7,20240413,baby_products,False
+Aldi,0.65,0.01,unit,Mamia Fragranced Baby Wipes 60 Pack,20240413,baby_products,False
+Aldi,0.69,0.01,unit,Mamia Extra Sensitive Baby Wipes 60 Pack,20240413,baby_products,False
+Aldi,0.65,0.01,unit,Mamia Sensitive Baby Wipes 60 Pack,20240413,baby_products,False
+Aldi,2.89,0.06,unit,Mamia Ultra-fit Maxi Nappies 48 Pack/Size 4,20240413,baby_products,False
+Aldi,2.89,0.1,unit,Mamia Ultra-fit XL Nappies 30 Pack/Size 6,20240413,baby_products,False
+Aldi,4.99,0.06,unit,Mamia Ultra-fit Nappies - Jumbo Pack 78 Pack/Size 4+,20240413,baby_products,False
+Aldi,4.99,0.06,unit,Mamia Ultra-fit Nappies - Jumbo Pack 84 Pack/Size 4,20240413,baby_products,False
+Aldi,4.99,0.07,unit,Mamia Ultra-fit Nappies - Jumbo Pack 72 Pack/Size 5,20240413,baby_products,False
+Aldi,3.49,0.01,unit,Mamia Sensitive Fragrance Free Baby Wipes 6x60 Pack,20240413,baby_products,False
+Aldi,3.59,0.1,unit,Mamia Ultra-fit Nappy Pants 36 Pack/Size 5,20240413,baby_products,False
+Aldi,0.59,0.01,unit,Mamia Toddler Toilet Wipes 60 Pack,20240413,baby_products,False
+Aldi,2.89,0.07,unit,Mamia Nappies 40 Pack/Size 5,20240413,baby_products,False
+Aldi,1.89,12.6,kg,Mamia Organic Strawberry & Apple Oaty Bars 6x25g,20240413,baby_products,False
+Aldi,4.99,0.08,unit,Mamia Ultra-fit Junior Nappies - Jumbo Pack 64 Pack/Siz,20240413,baby_products,False
+Aldi,4.99,0.11,unit,Mamia Ultra-fit XL+ Nappies - Jumbo Pack 46 Pack/Size 6,20240413,baby_products,False
+Aldi,3.59,0.11,unit,Mamia Ultra-fit XL Nappy Pants 32 Pack/Size 6,20240413,baby_products,False
+Aldi,4.99,0.08,unit,Mamia Ultra-fit XL Nappies - Jumbo Pack 60 Pack/Size 6,20240413,baby_products,False
+Aldi,2.89,0.11,unit,Mamia Ultra-fit XL Nappies 26 Pack/Size 6+,20240413,baby_products,False
+Aldi,1.89,12.6,kg,Mamia Organic Carrot Cake Oaty Bars 6x25g,20240413,baby_products,False
+Aldi,8.49,9.43,kg,Mamia First Infant Milk 900g,20240413,baby_products,False
+Aldi,1.89,12.6,kg,Mamia Organic Banana Soft Oaty Bars 6x25g,20240413,baby_products,False
+Aldi,0.49,7.0,kg,Mamia Organic Prunes 70g,20240413,baby_products,False
+Aldi,0.49,7.0,kg,Mamia Organic Pears 70g,20240413,baby_products,False
+Aldi,0.49,7.0,kg,Mamia Organic Mangoes 70g,20240413,baby_products,False
+Aldi,0.72,5.5,kg,Mamia Organic Chicken Casserole With Rice 130g,20240413,baby_products,False
+Aldi,0.72,5.5,kg,Mamia Organic Beef Casserole With Vegetables 130g,20240413,baby_products,False
+Aldi,0.72,5.5,kg,Mamia Organic Spaghetti Bolognese With Cheese 130g,20240413,baby_products,False
+Aldi,0.95,4.8,kg,Mamia Organic Chicken Paella 200g,20240413,baby_products,False
+Aldi,0.95,4.8,kg,Mamia Organic Beef Stew 200g,20240413,baby_products,False
+Aldi,0.95,4.8,kg,Mamia Organic Bolognese Pasta Bake 200g,20240413,baby_products,False
+Aldi,2.99,6.6,kg,Mamia Organic Red Burst Purée 5x90g,20240413,baby_products,False
+Aldi,2.99,6.6,kg,Mamia Organic Purple Burst Purée 5x90g,20240413,baby_products,False
+Aldi,0.59,5.9,kg,Mamia Summer Fruits Jelly Pouches 4x100g,20240413,baby_products,False
+Aldi,0.59,5.9,kg,Mamia Apple & Blackcurrant Jelly Pouches 4x100g,20240413,baby_products,False
+Aldi,1.79,37.3,kg,Mamia Organic Sweetcorn Rings 4x12g,20240413,baby_products,False
+Aldi,1.79,37.3,kg,Mamia Organic Cauliflower Puffs 4x12g,20240413,baby_products,False
+Aldi,0.55,27.5,kg,Mamia Organic Carrot Puffs 20g,20240413,baby_products,False
+Aldi,0.55,27.5,kg,Mamia Organic Tomato Wheels 20g,20240413,baby_products,False
+Aldi,0.75,18.8,kg,Mamia 7+ Months Organic Apple Rice Cakes 40g,20240413,baby_products,False
+Aldi,0.59,4.9,kg,"Mamia Organic Apples, Carrots & Parsnips Fruit Pouch 12",20240413,baby_products,False
+Aldi,0.59,4.9,kg,Mamia Organic Strawberries & Apples Fruit Pouch 120g,20240413,baby_products,False
+Aldi,0.59,4.9,kg,Mamia Organic Bananas & Apples Fruit Pouch 120g,20240413,baby_products,False
+Aldi,0.59,4.9,kg,"Mamia Organic Mangoes, Apples, Bananas & Peaches Fruit",20240413,baby_products,False
+Aldi,0.65,7.2,kg,Mamia Organic Mixed Fruit Greek Style Yogurt Pouch 90g,20240413,baby_products,False
+Aldi,0.65,7.2,kg,Mamia Organic Mango Greek Style Yoghurt 90g,20240413,baby_products,False
+Aldi,0.65,7.2,kg,Mamia Organic Strawberry Greek Style Yogurt 90g,20240413,baby_products,False
+Aldi,1.09,10.9,kg,Mamia Organic Banana Breakfast Purée 100g,20240413,baby_products,False
+Aldi,1.09,10.9,kg,Mamia Organic Mango Breakfast Purée 100g,20240413,baby_products,False
+Aldi,1.59,8.4,kg,Mamia Organic Tomato Pasta 190g,20240413,baby_products,False
+Aldi,1.59,8.4,kg,Mamia Organic Beef Stew With Potatoes 190g,20240413,baby_products,False
+Aldi,1.49,12.4,kg,Mamia Organic Apple Soft Biscotti Biscuit 6x20g,20240413,baby_products,False
+Aldi,1.49,12.4,kg,Mamia Organic Strawberry Soft Biscotti Biscuit 6x20g,20240413,baby_products,False
+Aldi,1.59,8.4,kg,Mamia Organic Spaghetti Bolognese With Cheese 190g,20240413,baby_products,False
+Aldi,2.59,5.8,kg,Mamia Just Apples Purée 5x90g,20240413,baby_products,False
+Aldi,2.59,5.8,kg,Mamia Organic Just Bananas Purée 5x90g,20240413,baby_products,False
+Aldi,1.59,8.4,kg,Mamia Organic Thai Style Chicken Curry With Rice 190g,20240413,baby_products,False
+Aldi,1.59,8.4,kg,Mamia Organic Chicken Casserole With Rice 190g,20240413,baby_products,False
+Aldi,1.59,8.4,kg,Mamia Organic Coconut & Chicken Risotto 190g,20240413,baby_products,False
+Aldi,1.89,15.8,kg,Mamia Organic Strawberry Fruity Bars 6x20g,20240413,baby_products,False
+Aldi,1.89,15.8,kg,Mamia Organic Apple Fruity Bars 6x20g,20240413,baby_products,False
+Aldi,1.09,10.9,kg,Mamia Organic Raspberry & Blueberry Porridge 100g,20240413,baby_products,False
+Aldi,1.09,10.9,kg,Mamia Organic Apple & Banana Porridge 100g,20240413,baby_products,False
+Aldi,1.29,12.9,kg,Mamia Organic Banana Rusk Biscotti Fingers 100g,20240413,baby_products,False
+Aldi,1.29,12.9,kg,Mamia Organic Strawberry Rusk Biscotti Fingers 100g,20240413,baby_products,False
+Aldi,0.59,5.9,kg,Mamia Organic Green Veggies 100g,20240413,baby_products,False
+Aldi,0.59,5.9,kg,Mamia Organic Orange Veggies 100g,20240413,baby_products,False
+Aldi,0.59,5.9,kg,Mamia Organic Red Veggies 100g,20240413,baby_products,False
+Aldi,0.95,4.8,kg,Mamia Organic Bolognese Pasta Bake Tray Meal 200g,20240413,baby_products,False
+Aldi,0.95,4.8,kg,Mamia Organic Vegetables & Rice Tray Meal 200g,20240413,baby_products,False
+Aldi,0.95,4.8,kg,Mamia Organic Vegetable & Beef Hotpot Tray Meal 200g,20240413,baby_products,False
+Aldi,0.99,11.0,kg,Peppa Pig Really Cheesy Flavour Lentil Puffs 5 X 18g,20240413,baby_products,False
+Aldi,1.99,41.5,kg,"Kiddylicious Fruit Wriggles, Strawberry, Infant Snack,",20240413,baby_products,False
+Aldi,1.99,41.5,kg,"Kiddylicious Fruit Wriggles, Apple, Infant Snack, 12 Mo",20240413,baby_products,False
+Aldi,1.99,41.5,kg,"Kiddylicious Crispy Tiddlers, Raspberry, Infant Snack,",20240413,baby_products,False
+Aldi,2.25,20.5,kg,"Organix Raspberry & Apple, Apple & Orange Mini Oaty Bit",20240413,baby_products,False
+Aldi,2.25,18.8,kg,Organix Strawberry & Banana Porridge 6+ Months 120g,20240413,baby_products,False
+Aldi,2.49,24.9,kg,Organix Cocoa & Vanilla Gruffalo Biscuits 12+ Months (1,20240413,baby_products,False
+Aldi,1.99,41.5,kg,Kiddylicious Strawberry Crispy Tiddlers 12 Months+ (48g,20240413,baby_products,False
+Aldi,1.99,36.6,kg,"Kiddylicious Mini Coconut Rolls, Infant Snack, 12 Month",20240413,baby_products,False
+Aldi,1.99,33.2,kg,Piccolo Organic Multigrain Puffs Tomato Rings 7+ Months,20240413,baby_products,False
+Aldi,1.99,33.2,kg,Piccolo Organic Multigrain Puffs Carrot Stars 60g 4 X 1,20240413,baby_products,False
+Aldi,1.99,55.3,kg,"Ella's Kitchen Pineapple, Mango + Orange Melty Hoops 10",20240413,baby_products,False
+Aldi,1.99,55.3,kg,"Ella's Kitchen Sweet Potato, Apple + Rosemary Melty Hoo",20240413,baby_products,False
+Aldi,2.29,22.9,kg,Bear Strawberry + Apple Little Paws 5 X 20g,20240413,baby_products,False
+Aldi,2.29,22.9,kg,Bear Real Yummy Raspberry + Blueberry Little Paws 5 X 2,20240413,baby_products,False
+Aldi,1.29,12.9,kg,Ella's Kitchen Jacket Potato With Beans 6+ Months 100g,20240413,baby_products,False
+Aldi,1.29,12.9,kg,Ella's Kitchen Creamy Pesto Pasta With Chicken + Mushro,20240413,baby_products,False
+Aldi,1.29,12.9,kg,Ella's Kitchen Sweet Potato Falafel With Hummus 6+ Mont,20240413,baby_products,False
+Aldi,1.29,12.9,kg,Ella's Kitchen Veggie Dahl With Cauliflower 6+ Months 1,20240413,baby_products,False
+Aldi,1.25,9.1,kg,Skittles Chewies Vegan Sweets Fruit Flavoured Pouch Bag,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Skinny Whip Mint & Dark Chocolate 5 X 20g,20240413,food_cupboard,False
+Aldi,0.72,1.4,kg,Cucina Macaroni Pasta 500g,20240413,food_cupboard,False
+Aldi,1.65,16.2,kg,Maltesers Milk Chocolate & Honeycomb Bites Bag Fairtrad,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Skinny Whip Chocolate Orange 5 X 20g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Skinny Whip Toffee 5 X 20g,20240413,food_cupboard,False
+Aldi,0.25,13.2,kg,Skinny Crunch Light Chocolate Fudge 19g,20240413,food_cupboard,False
+Aldi,0.25,13.2,kg,Skinny Crunch Light Salted Caramel 19g,20240413,food_cupboard,False
+Aldi,1.99,18.1,kg,Specially Selected Pink Himalayan Rock Salt 110g,20240413,food_cupboard,True
+Aldi,1.99,49.7,kg,Specially Selected Rainbow Peppercorns 40g,20240413,food_cupboard,True
+Aldi,0.69,3.9,kg,Four Seasons Mandarin Segments In Juice 300g (175 G Dra,20240413,food_cupboard,False
+Aldi,1.65,15.4,kg,M&M's Crispy Milk Chocolate Bites Pouch Bag 107g,20240413,food_cupboard,False
+Aldi,1.65,13.2,kg,Galaxy Minstrels Chocolate Pouch Bag 125g,20240413,food_cupboard,False
+Aldi,1.65,14.7,kg,"Revels Milk Chocolate With Raisins, Coffee Or Orange Bi",20240413,food_cupboard,False
+Aldi,1.85,11.2,kg,Pringles Original 165g,20240413,food_cupboard,False
+Aldi,0.69,17.3,kg,"Ready, Set…Cook! Smoked Paprika 40g",20240413,food_cupboard,False
+Aldi,1.39,36.8,kg,Extra Peppermint Sugarfree Chewing Gum Multipack 3x 9 P,20240413,food_cupboard,False
+Aldi,1.99,6.6,l,Coco Loco Organic Coconut Oil 300ml,20240413,food_cupboard,False
+Aldi,0.65,3.3,kg,The Pantry Bicarbonate Of Soda 200g,20240413,food_cupboard,False
+Aldi,0.65,0.9,kg,"Ready, Set…Cook! Table Salt 750g",20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,Harvest Morn Honey Nut Cornflakes 500g,20240413,food_cupboard,False
+Aldi,1.19,9.9,kg,Chupa Chups The Best Of 10 Assorted Flavour Lollipops 1,20240413,food_cupboard,False
+Aldi,0.25,13.2,kg,Skinny Crunch Light Raspberry & White Chocolate 19g,20240413,food_cupboard,False
+Aldi,1.39,36.8,kg,Wrigley's Extra White Bubblemint 37.8g,20240413,food_cupboard,False
+Aldi,1.19,11.9,kg,Snackrite Prawn Crackers 100g,20240413,food_cupboard,False
+Aldi,0.55,15.7,kg,Bramwells Medium Peri-peri Marinade 35g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Foodie Market Crunchy Peanut Butter 280g,20240413,food_cupboard,False
+Aldi,1.59,6.4,kg,Bramwells Peri-peri Sauce & Marinade 250g,20240413,food_cupboard,False
+Aldi,1.59,6.4,kg,Bramwells Peri-peri Hot Sauce & Marinade 250g,20240413,food_cupboard,False
+Aldi,0.95,12.7,kg,Dominion Sugar Free Mini Gums 75g,20240413,food_cupboard,False
+Aldi,0.95,12.7,kg,Dominion Sugar Free Sweet Liquorice 75g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Dominion Blackcurrant & Liquorice Sweets 200g,20240413,food_cupboard,False
+Aldi,1.85,5.3,kg,Specially Selected Kalamata Greek Olives 350g (180g Dra,20240413,food_cupboard,True
+Aldi,3.09,6.18,kg,The Foodie Market Soft Apricots 500g,20240413,food_cupboard,False
+Aldi,0.85,2.3,kg,Harvest Morn Crisp Rice Cereal 375g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Lightly Sea Salted Hand Cooked Crisp,20240413,food_cupboard,True
+Aldi,1.99,10.0,kg,Brochan Raspberry & Honey Porridge Oat Bars 4x50g,20240413,food_cupboard,False
+Aldi,0.45,6.9,kg,Brochan Golden Syrup Flavoured Porridge Pot 65g,20240413,food_cupboard,False
+Aldi,0.95,1.9,kg,Worldwide Foods Boil In Bag Long Grain Rice 500g,20240413,food_cupboard,False
+Aldi,0.39,1.56,kg,The Foodie Market Totally Nuts & Seeds 25g,20240413,food_cupboard,False
+Aldi,0.39,1.56,kg,The Foodie Market Exotic Coconut Mix 25g,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,The Fishmonger Tuna Steaks In Brine 110g,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,The Fishmonger Tuna Steaks In Sunflower Oil 110g,20240413,food_cupboard,False
+Aldi,1.69,4.2,kg,Nutoka Hazelnut Chocolate Spread 400g,20240413,food_cupboard,False
+Aldi,0.79,4.0,kg,Dominion Butter Mintoes 200g,20240413,food_cupboard,False
+Aldi,1.09,1.1,kg,Brochan Scottish Porridge Oats 1kg,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Minestrone Soup 400g,20240413,food_cupboard,False
+Aldi,1.59,0.56,kg,Specially Selected Tomato & Chilli Chutney 285g,20240413,food_cupboard,True
+Aldi,0.89,2.2,kg,Duncan's Lentil & Bacon Soup 400g,20240413,food_cupboard,False
+Aldi,0.89,2.3,kg,Duncan's Scotch Broth 380g,20240413,food_cupboard,False
+Aldi,0.54,2.7,kg,Everyday Essentials Roasted & Salted Peanuts 200g,20240413,food_cupboard,False
+Aldi,1.69,16.9,kg,Knoppers Milk Hazelnut Wafer 100g,20240413,food_cupboard,False
+Aldi,0.89,2.4,kg,Harvest Morn Choco Rice 375g,20240413,food_cupboard,False
+Aldi,1.49,7.8,kg,Specially Selected Tomato & Grilled Peppers Stir Throug,20240413,food_cupboard,True
+Aldi,1.49,7.8,kg,Specially Selected Tomato & Olive Pasta Sauce 190g,20240413,food_cupboard,True
+Aldi,0.59,2.4,kg,Simmers Abernethy 250g,20240413,food_cupboard,False
+Aldi,1.35,9.0,kg,Snackrite Salted Peanuts & Cashews 150g,20240413,food_cupboard,False
+Aldi,1.35,9.0,kg,Snackrite Roasted & Salted Mixed Nuts 150g,20240413,food_cupboard,False
+Aldi,1.35,9.0,kg,Snackrite Roasted & Salted Peanuts & Cashews 150g,20240413,food_cupboard,False
+Aldi,1.99,10.0,kg,Choceur Milk & White Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.25,7.5,kg,Werther's Original Eclairs 166g,20240413,food_cupboard,False
+Aldi,1.59,12.7,kg,Moser Roth Dark Chocolate Hazelnut Bars 5x25g,20240413,food_cupboard,True
+Aldi,0.49,2.0,kg,Four Seasons Chickpeas In Water 400g (240g Drained),20240413,food_cupboard,False
+Aldi,0.99,79.2,kg,Everyday Essentials Roasted Salted Cashews 125g,20240413,food_cupboard,False
+Aldi,0.33,1.4,kg,Everyday Essentials Red Kidney Beans In Water 400g (240,20240413,food_cupboard,False
+Aldi,1.25,10.0,kg,Werther's Original Creamy Filling 125g,20240413,food_cupboard,False
+Aldi,1.49,99.3,kg,Snackrite Salted Cashews 150g,20240413,food_cupboard,False
+Aldi,0.7,0.5,kg,Everyday Essentials Self Raising Flour 1.5kg,20240413,food_cupboard,False
+Aldi,1.69,6.6,kg,Specially Selected Creamy Caesar Salad Dressing 250g,20240413,food_cupboard,True
+Aldi,1.99,11.1,kg,Dairyfine Milk Chocolate Deeno The Dinosaur 10x18g,20240413,food_cupboard,False
+Aldi,0.79,20.8,l,The Pantry Madagascan Vanilla Extract 38ml,20240413,food_cupboard,False
+Aldi,1.09,0.44,kg,Cucina Spinach & Ricotta Tortelloni 250g,20240413,food_cupboard,False
+Aldi,1.29,3.23,kg,Snackrite Roasted & Salted Peanuts 400g,20240413,food_cupboard,False
+Aldi,1.49,4.1,kg,Specially Selected Jalfrezi Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Rogan Josh Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Balti Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Madras Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Korma Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Tikka Masala Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Butter Chicken Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Hot & Spicy Cherry Tomato & Chilli P,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Full & Smoky Cherry Tomato & Pancett,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Bolognese Pasta Sauce With Vino 340g,20240413,food_cupboard,True
+Aldi,1.85,9.7,kg,Specially Selected Pesto Alla Genovese 190g,20240413,food_cupboard,True
+Aldi,1.85,9.7,kg,Specially Selected Pesto Rosso 190g,20240413,food_cupboard,True
+Aldi,2.49,5.0,l,Specially Selected British Rapeseed Oil 500ml,20240413,food_cupboard,True
+Aldi,0.28,2.3,kg,Everyday Essentials Golden Vegetable Savoury Rice 120g,20240413,food_cupboard,False
+Aldi,0.89,4.8,kg,Specially Selected Gourmet Sea Salt Savoury Crackers 18,20240413,food_cupboard,True
+Aldi,0.89,4.8,kg,Specially Selected Gourmet Black Pepper Savoury Cracker,20240413,food_cupboard,True
+Aldi,0.89,4.8,kg,Specially Selected Gourmet Rosemary Savoury Crackers 18,20240413,food_cupboard,True
+Aldi,0.89,2.2,kg,The Deli Pickled Silverskin Onions 440g (255g Drained),20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,The Deli Pickled Sweet Silverskin Onions 440g (255g Dra,20240413,food_cupboard,False
+Aldi,0.59,6.9,kg,Bramwells Minestrone Soup In A Cup 104g,20240413,food_cupboard,False
+Aldi,0.59,6.9,kg,Bramwells Tomato Soup In A Cup 91g,20240413,food_cupboard,False
+Aldi,0.59,6.9,kg,Bramwells Chicken Soup In A Cup 59g,20240413,food_cupboard,False
+Aldi,0.35,0.6,l,Bramwells Malt Vinegar 568ml,20240413,food_cupboard,False
+Aldi,0.35,0.6,l,Bramwells Distilled Vinegar 568ml,20240413,food_cupboard,False
+Aldi,1.75,3.5,kg,Harvest Morn Honey & Nut Crunchy Clusters 500g,20240413,food_cupboard,False
+Aldi,1.75,3.5,kg,Harvest Morn Chocolate Crunchy Clusters 500g,20240413,food_cupboard,False
+Aldi,0.45,2.7,kg,Quixo Sage & Onion Stuffing Mix 170g,20240413,food_cupboard,False
+Aldi,0.95,4.8,kg,Snackrite Nacho Cheese Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.95,4.8,kg,Snackrite Lightly Salted Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Vegetable Soup 400g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Cream Of Chicken Soup 400g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Cream Of Tomato Soup 400g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Cream Of Mushroom Soup 400g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Minestrone Soup 400g,20240413,food_cupboard,False
+Aldi,0.42,1.0,kg,Bramwells Baked Beans In Rich Tomato Sauce 410g,20240413,food_cupboard,False
+Aldi,0.99,5.2,kg,Cucina Pesto Basil 190g,20240413,food_cupboard,False
+Aldi,0.99,5.2,kg,Cucina Pesto Sun-dried Tomato 190g,20240413,food_cupboard,False
+Aldi,0.75,10.0,kg,Stonemill Garlic Purée 75g,20240413,food_cupboard,True
+Aldi,0.75,10.0,kg,Stonemill Ginger Purée 75g,20240413,food_cupboard,True
+Aldi,0.75,10.7,kg,Stonemill Chilli Purée 70g,20240413,food_cupboard,True
+Aldi,0.99,2.5,kg,Bramwells Chunky Chicken & Vegetable Soup 400g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Bramwells Chunky Beef & Vegetable Soup 400g,20240413,food_cupboard,False
+Aldi,1.45,14.5,kg,"Ready, Set…Cook! Ground White Pepper 100g",20240413,food_cupboard,False
+Aldi,1.45,14.5,kg,"Ready, Set…Cook! Ground Black Pepper 100g",20240413,food_cupboard,False
+Aldi,1.45,14.5,kg,"Ready, Set…Cook! Whole Black Peppercorns 100g",20240413,food_cupboard,False
+Aldi,1.19,1.14,unit,Specially Selected Meringue Nests 8 Pack,20240413,food_cupboard,True
+Aldi,0.62,1.6,kg,Bramwells Carrot & Coriander Soup 400g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Chicken & Noodle Soup 400g,20240413,food_cupboard,False
+Aldi,1.45,4.8,kg,Harvest Morn Milk & Cereal Breakfast Biscuits 300g,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Asia Specialities Sweet & Sour Cooking Sauce 500g,20240413,food_cupboard,False
+Aldi,1.19,1.7,kg,The Deli Pickled Sliced Beetroot 710g (462g Drained),20240413,food_cupboard,False
+Aldi,1.59,12.7,kg,Moser Roth Salted Caramel Dark Chocolate Bar 5x25g,20240413,food_cupboard,True
+Aldi,0.89,5.9,kg,The Pantry White Cooking Chocolate 150g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,The Pantry Dark Cooking Chocolate 150g,20240413,food_cupboard,False
+Aldi,0.79,0.5,kg,The Pantry Self Raising Flour 1.5kg,20240413,food_cupboard,False
+Aldi,0.79,0.5,kg,The Pantry Plain Flour 1.5kg,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,The Pantry Demerara Cane Sugar 500g,20240413,food_cupboard,False
+Aldi,1.49,1.49,kg,The Pantry Caster Sugar 1kg,20240413,food_cupboard,False
+Aldi,1.49,4.4,kg,Specially Selected Classic Strawberry Jam 340g,20240413,food_cupboard,True
+Aldi,1.49,4.1,kg,Specially Selected Saag Masala Curry Sauce 360g,20240413,food_cupboard,True
+Aldi,0.75,1.5,kg,Cucina Spaghetti 500g,20240413,food_cupboard,False
+Aldi,1.25,3.4,kg,The Deli Pickled Gherkins 680g (370g Drained),20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Finlays Sea Salt Potato Crisps 150g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Finlays Mature Cheddar & Chargrilled Onion Flavour Pota,20240413,food_cupboard,False
+Aldi,1.49,4.4,kg,Specially Selected Raspberry Conserve 340g,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Golden Apricot Conserve 340g,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Vibrant Blackcurrant Conserve 340g,20240413,food_cupboard,True
+Aldi,0.44,1.8,l,The Pantry Lemon Juice 250ml,20240413,food_cupboard,False
+Aldi,1.39,6.5,kg,The Fishmonger Pink Salmon 213g,20240413,food_cupboard,False
+Aldi,0.52,5.9,kg,The Fishmonger Sardines In Sunflower Oil 125g (90g Drai,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Cucina Lasagne Sheets 500g,20240413,food_cupboard,False
+Aldi,0.89,3.6,kg,Savour Bakes Original Rye Crispbread 250g,20240413,food_cupboard,False
+Aldi,0.75,6.0,kg,Savour Bakes Cheese Twists 125g,20240413,food_cupboard,False
+Aldi,0.75,6.0,kg,Savour Bakes Chive & Onion Twists 125g,20240413,food_cupboard,False
+Aldi,0.75,3.0,kg,Savour Bakes Scottish Rough Oatcakes 250g,20240413,food_cupboard,False
+Aldi,0.75,3.0,kg,Savour Bakes Scottish Seeded Oatcakes 250g,20240413,food_cupboard,False
+Aldi,0.75,3.0,kg,Savour Bakes Scottish Pepper Oatcakes 250g,20240413,food_cupboard,False
+Aldi,0.45,2.3,kg,Belmont Fig Rolls 200g,20240413,food_cupboard,True
+Aldi,1.19,4.0,kg,Belmont Jaffa Cakes 300g,20240413,food_cupboard,True
+Aldi,0.45,1.5,kg,Belmont Custard Creams 300g,20240413,food_cupboard,True
+Aldi,1.19,6.3,kg,Belmont Chocolate Wacko Biscuit Bars 189g/9 Pack,20240413,food_cupboard,True
+Aldi,1.19,6.3,kg,Belmont Caramel Wacko Biscuit Bars 189g/9 Pack,20240413,food_cupboard,True
+Aldi,1.09,5.4,kg,Belmont Seal Bars 202.4g/8 Pack,20240413,food_cupboard,True
+Aldi,1.19,6.9,kg,Belmont Milk Chocolate Wafer Bars 173g/9 Pack,20240413,food_cupboard,True
+Aldi,1.35,6.0,kg,Belmont Milk Chocolate Caramel Wafer Bars 224g,20240413,food_cupboard,True
+Aldi,0.85,4.1,kg,Belmont All Butter Shortbread Fingers 210g,20240413,food_cupboard,True
+Aldi,1.19,6.9,kg,Belmont Choco Break Bars 172g/8 Pack,20240413,food_cupboard,True
+Aldi,1.49,2.1,kg,Belmont Biscuit Assortment 700g/4 Pack,20240413,food_cupboard,True
+Aldi,0.55,18.3,kg,Belmont Rich Tea 300g,20240413,food_cupboard,True
+Aldi,0.59,4.2,kg,Belmont Jammy Wheels 140g,20240413,food_cupboard,True
+Aldi,0.49,2.5,kg,Belmont Malted Milk 200g,20240413,food_cupboard,True
+Aldi,1.29,8.6,kg,Belmont Milkshake Biscuits 150g,20240413,food_cupboard,True
+Aldi,1.29,8.0,kg,Belmont Groovy Biscuits 162g,20240413,food_cupboard,True
+Aldi,0.55,1.4,kg,Belmont Digestives 400g,20240413,food_cupboard,True
+Aldi,0.55,1.8,kg,Belmont Crumbly Oaties 300g,20240413,food_cupboard,True
+Aldi,0.45,2.9,kg,Belmont Cookies & Cream 154g,20240413,food_cupboard,True
+Aldi,0.77,2.6,kg,Belmont Milk Chocolate Oaties 300g,20240413,food_cupboard,True
+Aldi,0.99,8.3,kg,Belmont Milk Chocolate Viennese Fingers 120g,20240413,food_cupboard,True
+Aldi,0.99,8.3,kg,Belmont Jam & Cream Viennese Fingers 120g,20240413,food_cupboard,True
+Aldi,0.77,2.6,kg,Belmont Milk Chocolate Digestives 300g,20240413,food_cupboard,True
+Aldi,0.77,2.6,kg,Belmont Dark Chocolate Digestives 300g,20240413,food_cupboard,True
+Aldi,0.28,1.5,kg,Everyday Essentials Garden Peas In Water 300g (185g Dra,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Harvest Morn Cornflakes 500g,20240413,food_cupboard,False
+Aldi,0.89,3.6,l,Just Good Sauce Co. Peri-peri Mayonnaise 250ml,20240413,food_cupboard,False
+Aldi,1.35,3.7,kg,Bilash Mango Chutney 370g,20240413,food_cupboard,False
+Aldi,2.15,2.2,l,Solesta Sunflower Oil 1l,20240413,food_cupboard,False
+Aldi,1.85,1.9,l,Solesta Vegetable Oil 1l,20240413,food_cupboard,False
+Aldi,0.42,5.6,kg,Dominion Fizzy Strawberry Lances 75g,20240413,food_cupboard,False
+Aldi,0.42,5.6,kg,Dominion Fizzy Cola Flavour Lances 75g,20240413,food_cupboard,False
+Aldi,0.42,5.6,kg,Dominion Strawberry Laces 75g,20240413,food_cupboard,False
+Aldi,0.42,5.6,kg,Dominion Fizzy Rainbow Belts 75g,20240413,food_cupboard,False
+Aldi,0.42,5.6,kg,Dominion Strawberry Pencils 75g,20240413,food_cupboard,False
+Aldi,0.79,4.7,kg,Snackrite Multipack Mini Cheese Bakes 7x24g,20240413,food_cupboard,False
+Aldi,1.79,3.6,kg,Inspired Cuisine Medium Fajita Dinner Kit 500g,20240413,food_cupboard,False
+Aldi,0.55,36.7,kg,"Ready, Set…Cook! Dried Basil 15g",20240413,food_cupboard,False
+Aldi,0.75,18.8,kg,"Ready, Set…Cook! Ground Cinnamon 40g",20240413,food_cupboard,False
+Aldi,0.69,23.8,kg,"Ready, Set…Cook! Dried Crushed Chillies 29g",20240413,food_cupboard,False
+Aldi,0.65,13.8,kg,"Ready, Set…Cook! Cajun Seasoning 47g",20240413,food_cupboard,False
+Aldi,0.85,16.3,kg,"Ready, Set…Cook! Chicken Seasoning 52g",20240413,food_cupboard,False
+Aldi,0.65,16.3,kg,"Ready, Set…Cook! Ground Cumin 40g",20240413,food_cupboard,False
+Aldi,0.75,18.8,kg,"Ready, Set…Cook! Chilli Powder 40g",20240413,food_cupboard,False
+Aldi,0.59,53.6,kg,"Ready, Set…Cook! Dried Mixed Herbs 11g",20240413,food_cupboard,False
+Aldi,0.59,53.6,kg,"Ready, Set…Cook! Dried Oregano 11g",20240413,food_cupboard,False
+Aldi,0.69,17.3,kg,"Ready, Set…Cook! Paprika 40g",20240413,food_cupboard,False
+Aldi,0.59,148.0,kg,"Ready, Set…Cook! Ground Turmeric 40g",20240413,food_cupboard,False
+Aldi,0.99,7.9,kg,Belmont Mini Iced Rings 126g,20240413,food_cupboard,True
+Aldi,0.49,6.5,kg,Bramwells Salmon Paste 75g,20240413,food_cupboard,False
+Aldi,0.49,6.5,kg,Bramwells Chicken Paste 75g,20240413,food_cupboard,False
+Aldi,0.49,6.5,kg,Bramwells Beef Paste 75g,20240413,food_cupboard,False
+Aldi,0.99,8.3,kg,Belmont Multipack Mini Choc Chip Cookies 6 Pack,20240413,food_cupboard,True
+Aldi,0.75,3.6,kg,The Deli Sliced Jalapeños 210g (110g Drained),20240413,food_cupboard,False
+Aldi,0.75,0.08,kg,"Ready, Set…Cook! Curry Powder Medium 90g",20240413,food_cupboard,False
+Aldi,1.59,12.7,kg,Moser Roth Mint Dark Chocolate Bars 5x25g,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,Moser Roth Orange & Almond Dark Chocolate Bars 5x25g,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,Moser Roth Sea Salt Dark Chocolate Bars 5x25g,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,Moser Roth 85% Cocoa Chocolate Bars 5x25g,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,Moser Roth 70% Cocoa Dark Chocolate 5x25g,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,Moser Roth Madagascan Vanilla Chocolate 5x25g,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,Moser Roth Milk Chocolate Bar 5x25g,20240413,food_cupboard,True
+Aldi,0.38,1.06,kg,Everyday Essentials Peeled Potatoes In Water 560g (360g,20240413,food_cupboard,False
+Aldi,0.79,2.0,kg,Bramwells Beef Ravioli 400g,20240413,food_cupboard,False
+Aldi,1.09,3.9,kg,Worldwide Foods Steamed Basmati Rice 280g,20240413,food_cupboard,False
+Aldi,1.09,1.09,unit,Worldwide Foods Long Grain Rice 300g,20240413,food_cupboard,False
+Aldi,1.09,1.09,unit,Worldwide Foods Steamed Pilau Rice 280g,20240413,food_cupboard,False
+Aldi,0.79,2.1,kg,Harvest Morn Honey Hoops 375g,20240413,food_cupboard,False
+Aldi,0.79,2.1,kg,Harvest Morn Choco Hoops 375g,20240413,food_cupboard,False
+Aldi,0.49,2.0,kg,Four Seasons Red Kidney Beans In Water 400g (240g Drain,20240413,food_cupboard,False
+Aldi,0.49,2.1,kg,Four Seasons Butter Beans In Water 400g (240g Drained),20240413,food_cupboard,False
+Aldi,0.69,2.9,kg,Four Seasons Mixed Beans In Water 400g (240g Drained),20240413,food_cupboard,False
+Aldi,0.49,2.1,kg,Four Seasons Cannellini Beans In Water 400g (240g Drain,20240413,food_cupboard,False
+Aldi,0.99,10.3,kg,Quixo Chicken Stock Pots 4x24g Pots,20240413,food_cupboard,False
+Aldi,0.99,10.3,kg,Quixo Beef Stock Pots 4x24g Pots,20240413,food_cupboard,False
+Aldi,0.99,10.3,kg,Quixo Vegetable Stock Pots 4x24g Pots,20240413,food_cupboard,False
+Aldi,2.29,6.4,kg,Bramwells Bockwurst Sausages 550g (360g Drained),20240413,food_cupboard,False
+Aldi,0.79,9.0,kg,The Fishmonger Mackerel Fillets In Tomato Sauce 125g,20240413,food_cupboard,False
+Aldi,0.95,3.8,l,Just Good Sauce Co. Chunky Burger Sauce Fully Loaded 25,20240413,food_cupboard,False
+Aldi,0.95,3.8,l,Just Good Sauce Co. Garlic & Herb Burger Sauce 250ml,20240413,food_cupboard,False
+Aldi,1.25,2.5,kg,Harvest Morn Choco Pillows Cereal 500g,20240413,food_cupboard,False
+Aldi,1.49,7.5,kg,Dominion Original Jelly Beans 200g,20240413,food_cupboard,False
+Aldi,1.49,7.5,kg,Dominion Jelly Beans Sours 200g,20240413,food_cupboard,False
+Aldi,1.19,7.8,kg,Dairyfine Caramel Crunch 152g,20240413,food_cupboard,False
+Aldi,0.69,2.8,kg,Worldwide Foods Mexican Style Rice 250g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Jalapeno Fusions Tuna 80g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Soy & Ginger Fusions Tuna 80g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Chilli & Garlic Fusions Tuna 80g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Lemon & Thyme Fusions Tuna 80g,20240413,food_cupboard,False
+Aldi,0.55,7.3,kg,Dominion Raspberry Flavour Mushrooms 75g,20240413,food_cupboard,False
+Aldi,0.99,1.9,kg,Bramwells 30% Less Fat Salad Cream 520g,20240413,food_cupboard,False
+Aldi,0.99,2.0,l,Bramwells Light Mayonnaise 500g/500ml,20240413,food_cupboard,False
+Aldi,0.69,27.6,kg,Worldwide Special Golden Vegetable Rice 250g,20240413,food_cupboard,False
+Aldi,0.99,1.9,kg,Bramwells Salad Cream 520g,20240413,food_cupboard,False
+Aldi,1.99,3.5,kg,Harvest Morn Cinnamon Chips 565g,20240413,food_cupboard,False
+Aldi,0.59,4.9,kg,Make In Minutes Beef Flavour Savoury Rice 120g,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Bilash Tikka Masala Curry Cooking Sauce 500g,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Bilash Korma Curry Cooking Sauce 500g,20240413,food_cupboard,False
+Aldi,0.95,7.9,kg,Dairyfine Giant Buttons Milk Chocolate 120g,20240413,food_cupboard,False
+Aldi,0.95,7.9,kg,Dairyfine Giant White Chocolate Buttons 120g,20240413,food_cupboard,False
+Aldi,0.95,7.9,kg,Dairyfine Giant Caramel Buttons 120g,20240413,food_cupboard,False
+Aldi,0.85,2.8,kg,Asia Specialities Ready To Wok Medium Noodles 300g,20240413,food_cupboard,False
+Aldi,2.29,4.6,kg,Specially Selected Very Berry Muesli 500g,20240413,food_cupboard,True
+Aldi,2.19,4.4,kg,Specially Selected Very Berry Granola 500g,20240413,food_cupboard,True
+Aldi,2.19,4.4,kg,Specially Selected Really Nutty Granola 500g,20240413,food_cupboard,True
+Aldi,1.85,1.9,kg,Harvest Morn Raisin & Almond Granola 1kg,20240413,food_cupboard,False
+Aldi,1.85,1.9,kg,Harvest Morn Tropical Fruits Granola 1kg,20240413,food_cupboard,False
+Aldi,2.29,4.6,kg,Specially Selected Really Nutty Muesli 500g,20240413,food_cupboard,True
+Aldi,2.15,1.8,kg,Harvest Morn Original Swiss Style Muesli 1.1kg,20240413,food_cupboard,False
+Aldi,2.15,1.8,kg,Harvest Morn Swiss Style Museli With No Added Sugar 1.1,20240413,food_cupboard,False
+Aldi,0.85,2.2,kg,Bramwells Meatballs In A Rich Gravy 380g,20240413,food_cupboard,False
+Aldi,0.85,2.2,kg,Bramwells Meatballs In Tomato Sauce 380g,20240413,food_cupboard,False
+Aldi,0.39,1.3,kg,Four Seasons Marrowfat Peas 300g (180g Drained),20240413,food_cupboard,False
+Aldi,0.35,117.0,kg,Four Seasons Mushy Peas 300g,20240413,food_cupboard,False
+Aldi,0.79,2.9,kg,Four Seasons Pineapple Slices In Juice 432g (272g Drain,20240413,food_cupboard,False
+Aldi,0.69,3.9,kg,Four Seasons Mandarin Segments 300g (175g Drained),20240413,food_cupboard,False
+Aldi,0.25,0.6,kg,Everyday Essentials Rice Pudding 400g,20240413,food_cupboard,False
+Aldi,0.85,10.9,kg,Make In Minutes Asia Inspired Cantonese Style Hoisin Du,20240413,food_cupboard,False
+Aldi,0.79,2.0,kg,Dessert Menu Rice Pudding 400g,20240413,food_cupboard,False
+Aldi,1.35,7.9,kg,Dominion Leo Lion Fruit Jellies 170g,20240413,food_cupboard,False
+Aldi,1.35,7.9,kg,Dominion Walter Worm Chewy Fruit Gums 170g,20240413,food_cupboard,False
+Aldi,1.35,7.9,kg,Dominion Wendy Worm Chewy Fruit Gums 170g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Snackrite Ready Salted Stackers 165g,20240413,food_cupboard,False
+Aldi,1.49,9.0,kg,Snackrite Sour Cream & Onion Crisps 165g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Snackrite Stackers BBQ 165g,20240413,food_cupboard,False
+Aldi,1.49,9.0,kg,Snackrite Stackers Salt & Vinegar 165g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Belmont Milk Chocolate Cookies 200g,20240413,food_cupboard,True
+Aldi,0.99,5.0,kg,Belmont White Chocolate Cookies 200g,20240413,food_cupboard,True
+Aldi,0.99,5.0,kg,Belmont Triple Chocolate Cookies 200g,20240413,food_cupboard,True
+Aldi,0.69,2.6,kg,Bramwells Bramley Apple Sauce 270g,20240413,food_cupboard,False
+Aldi,1.99,4.0,kg,Harvest Morn Choco Wheaties 500g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Finlays Ridge Cut Prawn Cocktail Flavour Potato Crisps,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Finlays Ridge Cut Sea Salt & Cider Vinegar Potato Crisp,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Finlays Ridge Cut Lightly Salted Flavour Potato Crisps,20240413,food_cupboard,False
+Aldi,1.39,6.5,kg,The Fishmonger Wild Pacific Pink Salmon 213g,20240413,food_cupboard,False
+Aldi,0.49,3.9,kg,The Fishmonger Sardines In Tomato Sauce 125g,20240413,food_cupboard,False
+Aldi,0.52,5.9,kg,The Fishmonger Sardines In Sunflower Oil 125g (88g Drai,20240413,food_cupboard,False
+Aldi,2.49,5.0,l,Specially Selected Scottish Cold Pressed Rapeseed Oil 5,20240413,food_cupboard,True
+Aldi,0.89,5.1,kg,Quixo Natural Breadcrumbs 175g,20240413,food_cupboard,False
+Aldi,0.89,5.1,kg,Quixo Golden Breadcrumbs 175g,20240413,food_cupboard,False
+Aldi,0.79,9.0,kg,The Fishmonger Mackerel In Tomato Sauce 125g,20240413,food_cupboard,False
+Aldi,0.69,1.4,kg,Cucina Penne Pasta 500g,20240413,food_cupboard,False
+Aldi,0.49,1.6,kg,Savour Bakes Cream Crackers 300g,20240413,food_cupboard,False
+Aldi,1.49,10.3,kg,Belmont Chunky Biscuits 6 Pack,20240413,food_cupboard,True
+Aldi,0.89,7.1,kg,Belmont Memento Milk Chocolate Butter Biscuits 125g,20240413,food_cupboard,True
+Aldi,0.89,7.1,kg,Belmont Memento Dark Chocolate Butter Biscuits 125g,20240413,food_cupboard,True
+Aldi,1.59,9.4,kg,The Deli Grilled Peppers 280g (170g Drained),20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Chicken Noodle Soup 400g,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Lentil & Vegetable Soup 380g,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Worldwide Foods Special Coconut Rice 250g,20240413,food_cupboard,False
+Aldi,0.99,10.4,kg,Specially Selected Scottish Tablet 95g,20240413,food_cupboard,True
+Aldi,1.39,9.3,kg,Specially Selected Scottish Tablet 150g,20240413,food_cupboard,True
+Aldi,1.39,9.3,kg,Specially Selected Scottish Fudge 150g,20240413,food_cupboard,True
+Aldi,1.39,9.3,kg,Specially Selected Scottish Macaroon 150g,20240413,food_cupboard,True
+Aldi,1.29,7.4,kg,Specially Selected Scottish Fiery Chilli Oatcake Bites,20240413,food_cupboard,True
+Aldi,1.29,7.4,kg,Specially Selected Scottish Lockerbie Cheddar Oatcake B,20240413,food_cupboard,True
+Aldi,1.29,7.4,kg,Specially Selected Scottish Black Pepper Oatcake Bites,20240413,food_cupboard,True
+Aldi,0.57,1.4,kg,Bramwells Baked Beans & Pork Sausages In Rich Tomato Sa,20240413,food_cupboard,False
+Aldi,0.28,0.7,kg,Everyday Essentials Baked Beans 410g,20240413,food_cupboard,False
+Aldi,0.79,1.9,kg,Bramwells Macaroni Cheese 410g,20240413,food_cupboard,False
+Aldi,0.65,5.4,kg,Belmont Toffyooze 120g,20240413,food_cupboard,True
+Aldi,1.59,5.1,kg,Specially Selected Caramelised Red Onion Chutney 310g,20240413,food_cupboard,True
+Aldi,0.72,0.15,kg,Cucina Creamy Tomato Pasta Bake Sauce 480g,20240413,food_cupboard,False
+Aldi,0.72,0.15,kg,Cucina Tomato & Bacon Pasta Bake Sauce 495g,20240413,food_cupboard,False
+Aldi,0.72,0.15,kg,Cucina Cheese Pasta Bake Sauce 485g,20240413,food_cupboard,False
+Aldi,1.09,1.1,kg,The Pantry Granulated Sugar 1kg,20240413,food_cupboard,False
+Aldi,1.89,0.38,unit,Specially Selected Orkney Caramel Shortbreads 200g/5 Pa,20240413,food_cupboard,True
+Aldi,3.99,5.3,kg,Snackrite Multipack Variety Crisps 30x25g,20240413,food_cupboard,False
+Aldi,0.75,3.0,kg,Worldwide Foods Wholegrain Rice & Quinoa 250g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Snackrite Multipack Ready Salted Crisps 6x25g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,Snackrite Cheese & Onion Flavour Crisps Multipack 6x25g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,Snackrite Multipack Crisps Salt & Vinegar 6x25g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,Snackrite Multipack Prawn Cocktail Potato Crisps 6x25g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Snackrite Ready Salted Crisps Multipack 6x25g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,Snackrite Multipack Salt & Vinegar Potato Crisps 6x25g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,Snackrite Multipack Cheese & Onion Flavour Crisps 6x25g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Harvest Morn Yoghurt Coated Rice Cakes 150g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Harvest Morn Chocolate Coated Rice Cakes 150g,20240413,food_cupboard,False
+Aldi,0.75,3.0,kg,"Worldwide Foods Special Wholegrain, Wild & Red Rice 250",20240413,food_cupboard,False
+Aldi,0.75,3.0,kg,"Worldwide Foods Special Quinoa, Pumpkin & Sunflower See",20240413,food_cupboard,False
+Aldi,1.29,2.58,kg,Highland Kitchen Red Split Lentils 500g,20240413,food_cupboard,False
+Aldi,1.19,3.0,kg,Specially Selected Tomato & Chorizo Soup 400g,20240413,food_cupboard,True
+Aldi,2.09,6.2,kg,Bramwells Corned Beef 340g,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Cucina Spirali Pasta 500g,20240413,food_cupboard,False
+Aldi,0.55,1.4,kg,Belmont Digestive Biscuits 400g,20240413,food_cupboard,True
+Aldi,0.43,0.43,unit,Bramwells Short Cut Spaghetti 400g,20240413,food_cupboard,False
+Aldi,0.45,1.8,kg,Worldwide Foods Classic Basmati Rice 250g,20240413,food_cupboard,False
+Aldi,0.45,1.8,kg,Worldwide Classic Long Grain Rice 250g,20240413,food_cupboard,False
+Aldi,0.45,1.8,kg,Worldwide Foods Classic Pilau Rice 250g,20240413,food_cupboard,False
+Aldi,0.45,1.8,kg,Worldwide Classic Egg Fried Rice 250g,20240413,food_cupboard,False
+Aldi,0.45,1.8,kg,Worldwide Foods Classic Wholegrain Rice 250g,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,The Pantry Demerara Sugar 500g,20240413,food_cupboard,False
+Aldi,0.79,9.0,kg,The Fishmonger Mackerel Fillets In Sunflower Oil 125g (,20240413,food_cupboard,False
+Aldi,0.79,9.0,kg,The Fishmonger Mackerel In Sunflower Oil 125g (85g Drai,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Oxtail Soup 400g,20240413,food_cupboard,False
+Aldi,0.65,12.5,kg,"Ready, Set…Cook! Dried Garlic Granules 52g",20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Spicy Tomato Soup 400g,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Spicy Parsnip Soup 400g,20240413,food_cupboard,False
+Aldi,1.99,2.0,kg,Kavanagh's Organic Porridge Oats 1kg,20240413,food_cupboard,False
+Aldi,0.95,4.8,kg,Snackrite Tangy Cheese Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.95,4.8,kg,Snackrite Salted Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.95,4.8,kg,Snackrite Cool Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.95,4.8,kg,Snackrite Chilli Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.28,0.7,kg,Everyday Essentials Baked Beans In Tomato Sauce 420g,20240413,food_cupboard,False
+Aldi,0.42,1.0,kg,Bramwells Baked Beans In Rich Tomato Sauce 420g,20240413,food_cupboard,False
+Aldi,0.19,0.5,kg,Everyday Essentials Spaghetti Loops In Tomato Sauce 410,20240413,food_cupboard,False
+Aldi,0.89,1.8,kg,The Pantry Icing Sugar 500g,20240413,food_cupboard,False
+Aldi,1.29,1.29,kg,Cucina Fusilli Pasta 1kg,20240413,food_cupboard,False
+Aldi,1.59,4.5,l,Bramwells New York Steakhouse BBQ Sauce 350ml,20240413,food_cupboard,False
+Aldi,1.59,4.5,l,Bramwells Skeeter's Original BBQ Sauce 350ml,20240413,food_cupboard,False
+Aldi,0.49,3.3,kg,Belmont Raspberry Jam & Vanilla Cream Biscuits 150g,20240413,food_cupboard,True
+Aldi,0.95,1.9,l,Bramwells Squeezy Real Mayonnaise 500ml,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Four Seasons Fruit Cocktail In Syrup 410g (250g Drained,20240413,food_cupboard,False
+Aldi,1.09,6.4,kg,Specially Selected Luxury Beetroot & Seed Savoury Crack,20240413,food_cupboard,True
+Aldi,6.09,6.1,l,Solesta Olive Oil 1l,20240413,food_cupboard,False
+Aldi,6.09,6.1,l,Solesta Light Olive Oil 1l,20240413,food_cupboard,False
+Aldi,1.09,5.5,kg,Dairyfine Milk Chocolate 200g,20240413,food_cupboard,False
+Aldi,1.09,5.5,kg,Dairyfine Dark Chocolate 200g,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,The Foodie Market Chocolate Fruit & Nut Mix 25g,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,The Foodie Market Sticky Toffee Mix 25g,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,The Foodie Market Apricot & Almond Mix 25g,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,The Foodie Market Cashew & Cranberry Mix 25g,20240413,food_cupboard,False
+Aldi,1.25,9.1,kg,Starburst Vegan Chewy Sweets Fruit Flavoured Pouch Bag,20240413,food_cupboard,False
+Aldi,1.69,3.4,l,The Deli Balsamic Vinegar Of Modena 500ml,20240413,food_cupboard,False
+Aldi,1.59,5.1,kg,Specially Selected Sweet Beetroot & Red Onion Chutney 3,20240413,food_cupboard,True
+Aldi,6.29,6.3,l,Solesta Extra Virgin Olive Oil 1l,20240413,food_cupboard,False
+Aldi,1.25,2.5,kg,Harvest Morn Choco Pillows 500g,20240413,food_cupboard,False
+Aldi,1.19,9.8,kg,Dairyfine Crispy Choc Um's 121g,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Harvest Morn Frosted Flakes 500g,20240413,food_cupboard,False
+Aldi,0.75,10.7,kg,Harvest Morn Banoffee Flavour Protein Oats 70g,20240413,food_cupboard,False
+Aldi,0.75,10.7,kg,Harvest Morn Caramelised Biscuit Flavour Protein Oats 7,20240413,food_cupboard,False
+Aldi,1.99,13.3,kg,Brochan Protein Flapjacks 3x50g,20240413,food_cupboard,False
+Aldi,0.95,1.9,l,Bramwells Lighter Than Light Mayonnaise 500 Ml,20240413,food_cupboard,False
+Aldi,0.99,2.0,l,Bramwells Lighter Than Light Mayonnaise 500ml,20240413,food_cupboard,False
+Aldi,1.99,13.3,kg,Brochan Salted Caramel Flavour Protein Flapjacks 3x50g,20240413,food_cupboard,False
+Aldi,1.39,5.5,kg,Harvest Morn Honey & Yogurt Breakfast Biscuits 253g/5 P,20240413,food_cupboard,False
+Aldi,1.39,5.5,kg,Harvest Morn Strawberry & Yogurt Breakfast Biscuits 253,20240413,food_cupboard,False
+Aldi,1.15,5.2,kg,Dairyfine Roar Bars 221g,20240413,food_cupboard,False
+Aldi,0.95,4.2,kg,Harvest Morn Milk & Cereal Breakfast Biscuits 225g/6 Pa,20240413,food_cupboard,False
+Aldi,0.95,4.2,kg,Harvest Morn Cocoa Breakfast Biscuits 225g/6 Pack,20240413,food_cupboard,False
+Aldi,1.49,3.3,kg,Harvest Morn Protein Chocolate Flavour Bites 450g,20240413,food_cupboard,False
+Aldi,2.39,6.0,kg,Harvest Morn Protein Granola - Chocolate 400g,20240413,food_cupboard,False
+Aldi,2.39,6.0,kg,Harvest Morn Protein Granola - Berry 400g,20240413,food_cupboard,False
+Aldi,1.39,2.8,kg,Specially Selected Bucatini Pasta Di Gragnano P.G.I. 50,20240413,food_cupboard,True
+Aldi,1.39,2.8,kg,Specially Selected Rigatoni Pasta Di Gragnano P.G.I. 50,20240413,food_cupboard,True
+Aldi,1.09,10.9,kg,The Foodie Market Dino Gems Fruit Sweets 5x20g/5 Pack,20240413,food_cupboard,False
+Aldi,1.09,10.9,kg,The Foodie Market Dino Tails Fruit Sweets 5x20g/5 Pack,20240413,food_cupboard,False
+Aldi,1.99,31.1,kg,Wrigley's Extra 46 Spearmint 64g,20240413,food_cupboard,False
+Aldi,1.99,31.1,kg,Wrigley's Extra 46 Peppermint 64g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Four Seasons Petit Pois And Baby Carrots In Water 400g,20240413,food_cupboard,False
+Aldi,1.19,1.7,kg,The Deli Pickled Sliced Beetroot 710g (460g Drained),20240413,food_cupboard,False
+Aldi,0.75,1.9,kg,Specially Selected Pomodorini Cherry Tomatoes 400g,20240413,food_cupboard,True
+Aldi,0.87,1.6,kg,Bramwells Tomato Ketchup 550g,20240413,food_cupboard,False
+Aldi,0.87,1.6,kg,Bramwells Tomato Ketchup 520g,20240413,food_cupboard,False
+Aldi,0.99,2.0,l,Bramwells Light Mayonnaise 500ml,20240413,food_cupboard,False
+Aldi,0.75,3.6,kg,The Deli Sliced Jalapenos 210g (110 Drained),20240413,food_cupboard,False
+Aldi,1.49,12.4,kg,Harvest Morn Cocoa & Vanilla Flavour Oat Bites 4x30g,20240413,food_cupboard,False
+Aldi,1.49,12.4,kg,Harvest Morn Sticky Toffee Flavour Oat Bites 4x30g,20240413,food_cupboard,False
+Aldi,1.79,4.8,kg,Harvest Morn Chocolate Flavoured Crispy Cereal Balls 37,20240413,food_cupboard,False
+Aldi,1.79,4.8,kg,Harvest Morn Chocolate Crispy Wheat Chips 375g,20240413,food_cupboard,False
+Aldi,0.75,3.8,kg,Belmont Cream Crunchies 200g,20240413,food_cupboard,True
+Aldi,1.85,12.33,kg,Snackrite Almonds & Cashews With Smoky BBQ Seasoning 15,20240413,food_cupboard,False
+Aldi,1.85,12.33,kg,Snackrite Almonds & Cashews With Salt & Pepper Seasonin,20240413,food_cupboard,False
+Aldi,1.85,12.33,kg,Snackrite Almonds & Cashews With Mighty Yeast Extract S,20240413,food_cupboard,False
+Aldi,0.65,3.3,kg,Belmont Coconut Rings 200g,20240413,food_cupboard,True
+Aldi,1.29,17.2,kg,Specially Selected Cheddar Cheese Bites 75g,20240413,food_cupboard,True
+Aldi,1.29,17.2,kg,Specially Selected Goat's Cheese & Black Pepper Bites 7,20240413,food_cupboard,True
+Aldi,1.29,17.2,kg,Specially Selected Parmesan & Garlic Cheese Bites 75g,20240413,food_cupboard,True
+Aldi,1.49,9.9,kg,Savour Bakes Italian Crackers 150g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Bramwells Honey Chipotle BBQ Sauce 280g,20240413,food_cupboard,False
+Aldi,1.29,4.0,kg,Bramwells Habanero Relish 310g,20240413,food_cupboard,False
+Aldi,2.7,3.6,kg,Dolmio Bolognese Original Pasta Sauce 750g,20240413,food_cupboard,False
+Aldi,3.99,3.99,kg,The Foodie Market Smooth Peanut Butter 1kg,20240413,food_cupboard,False
+Aldi,3.99,3.99,kg,The Foodie Market Crunchy Peanut Butter 1kg,20240413,food_cupboard,False
+Aldi,0.89,5.4,kg,The Deli Black Pitted Olives 330g (165g Drained),20240413,food_cupboard,False
+Aldi,0.89,5.4,kg,The Deli Green Pitted Olives 340g (165g Drained),20240413,food_cupboard,False
+Aldi,1.25,9.5,kg,Skittles Giants Vegan Chewy Sweets Fruit Flavoured Pouc,20240413,food_cupboard,False
+Aldi,1.25,9.2,kg,Skittles Vegan Chewy Sweets Fruit Flavoured Pouch Bag 1,20240413,food_cupboard,False
+Aldi,1.39,2.8,kg,Specially Selected Egg Tagliatelle Pasta 500g,20240413,food_cupboard,True
+Aldi,1.85,1.9,kg,Worldwide Foods Basmati Rice 1kg,20240413,food_cupboard,False
+Aldi,0.99,1.3,kg,Harvest Morn Bran Flakes 750g,20240413,food_cupboard,False
+Aldi,1.69,14.1,kg,Knoppers Coconut (120g) 3 X 40g,20240413,food_cupboard,False
+Aldi,1.19,3.1,kg,Specially Selected Butternut Squash & Prosciutto Soup 4,20240413,food_cupboard,True
+Aldi,1.19,3.0,kg,Specially Selected Cream Of Roast Chicken & Tarragon So,20240413,food_cupboard,True
+Aldi,1.09,5.5,kg,Dairyfine Wholenut Milk Chocolate 200g,20240413,food_cupboard,False
+Aldi,1.09,5.5,kg,Dairyfine Fruit & Nut Milk Chocolate 200g,20240413,food_cupboard,False
+Aldi,0.89,2.4,kg,Harvest Morn Craze Milk Chocolate Cereal 375g,20240413,food_cupboard,False
+Aldi,1.39,8.7,kg,Dairyfine Curious Inventions Milk Chocolate 160g,20240413,food_cupboard,False
+Aldi,1.39,8.7,kg,Dairyfine Curious Inventions White Chocolate 160g,20240413,food_cupboard,False
+Aldi,1.09,10.9,kg,Choceur White Almond Chocolate 100g,20240413,food_cupboard,True
+Aldi,1.09,10.9,kg,Choceur Milk Almond Chocolate 100g,20240413,food_cupboard,True
+Aldi,1.09,10.9,kg,Choceur Dark Almond Chocolate 100g,20240413,food_cupboard,True
+Aldi,1.09,0.44,kg,Cucina Mushroom Filled Tortelloni 250g,20240413,food_cupboard,False
+Aldi,1.89,12.6,kg,Specially Selected Moroccan Inspired Mixed Nuts 150g,20240413,food_cupboard,True
+Aldi,2.49,10.0,l,Specially Selected Chilli Infused Olive Oil 250ml,20240413,food_cupboard,True
+Aldi,2.49,10.0,l,Specially Selected Basil Infused Olive Oil 250ml,20240413,food_cupboard,True
+Aldi,2.49,10.0,l,Specially Selected Garlic Infused Olive Oil 250ml,20240413,food_cupboard,True
+Aldi,0.89,2.4,kg,Harvest Morn Choco Rice Cereal 375g,20240413,food_cupboard,False
+Aldi,0.49,2.5,kg,Belmont Nice Biscuits 200g,20240413,food_cupboard,True
+Aldi,1.49,7.8,kg,Specially Selected Tomato & Mascarpone Stir Through Sau,20240413,food_cupboard,True
+Aldi,1.49,7.8,kg,Specially Selected Tomato & Olive Stir Through Sauce 19,20240413,food_cupboard,True
+Aldi,1.59,4.0,kg,Dairyfine Duo Chocolate Flavoured Spread 400g,20240413,food_cupboard,False
+Aldi,0.85,4.7,kg,Dairyfine Milk Chocolate Raisins 180g,20240413,food_cupboard,False
+Aldi,0.85,4.7,kg,Dairyfine Chocolate Coated Peanuts 180g,20240413,food_cupboard,False
+Aldi,1.69,11.3,kg,The Foodie Market Strawberry & Banana Dino Fruit Bars 5,20240413,food_cupboard,False
+Aldi,1.69,11.3,kg,The Foodie Market Mango & Banana Dino Fruit Bars 5x30g,20240413,food_cupboard,False
+Aldi,0.89,1.6,kg,Bramwells Tomato Ketchup 560g,20240413,food_cupboard,False
+Aldi,0.89,1.7,kg,Bramwells Reduced Sugar & Salt Tomato Ketchup 530g,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,Snackrite Salt & Vinegar Roasted Peanuts 25g,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,Snackrite Fully Loaded Buffalo Wings Roasted Peanuts 25,20240413,food_cupboard,False
+Aldi,0.39,15.6,kg,Snackrite Fully Loaded Jalapeño Roasted Peanuts 25g,20240413,food_cupboard,False
+Aldi,1.09,5.9,kg,Specially Selected Luxury Chilli Savoury Crackers 185g,20240413,food_cupboard,True
+Aldi,1.09,6.4,kg,Specially Selected Luxury Sesame & Garlic Crackers 170g,20240413,food_cupboard,True
+Aldi,0.95,2.1,kg,Inspired Cuisine Mashed Potato 450g,20240413,food_cupboard,False
+Aldi,0.59,1.4,kg,Dessert Menu Evaporated Milk 410g,20240413,food_cupboard,False
+Aldi,1.39,36.8,kg,Extra Cool Breeze Sugarfree Chewing Gum Multipack 3 X 1,20240413,food_cupboard,False
+Aldi,1.39,36.8,kg,Extra Spearmint Sugarfree Chewing Gum Multipack 3 X 12.,20240413,food_cupboard,False
+Aldi,1.39,36.8,kg,Airwaves Menthol & Eucalyptus Sugarfree Chewing Gum Mul,20240413,food_cupboard,False
+Aldi,0.55,15.7,kg,Bramwells Chinese Marinade 35g,20240413,food_cupboard,False
+Aldi,0.55,15.7,kg,Bramwells Barbecue Marinade 35g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Hand Cooked Black Pepper & Sea Salt,20240413,food_cupboard,True
+Aldi,1.25,4.5,kg,Foodie Market Smooth Peanut Butter 280g,20240413,food_cupboard,False
+Aldi,1.59,6.4,kg,Bramwells Peri-peri Sauce & Marinade Lemon & Herb 250g,20240413,food_cupboard,False
+Aldi,0.95,12.7,kg,Dominion Sugar Free Soft Foam Sweets 75g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Crinkle Cut Lightly Salted Potato Cr,20240413,food_cupboard,True
+Aldi,0.55,5.4,kg,Everyday Essentials Tuna Chunks In Brine 145g (102g Dra,20240413,food_cupboard,False
+Aldi,1.85,5.3,kg,Specially Selected Colossal Greek Olives 345g (180g Dra,20240413,food_cupboard,True
+Aldi,1.49,3.0,kg,Harvest Morn Chocolate Crisp Cereal 500g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Mature Cheddar & Red Onion Hand Cook,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Strawberry Preserve 340g,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Raspberry Preserve 340g,20240413,food_cupboard,True
+Aldi,1.99,10.0,kg,Brochan Apple & Cinnamon Porridge Oat Bars 4x50g,20240413,food_cupboard,False
+Aldi,0.49,7.5,kg,Brochan Original Porridge Pot 65g,20240413,food_cupboard,False
+Aldi,0.9,0.9,kg,Everyday Essentials Porridge Oats 1kg,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,The Fishmonger Tuna Steaks In Spring Water 110g,20240413,food_cupboard,False
+Aldi,0.49,7.5,kg,Brochan Apple & Blueberry Flavour Porridge Pot 65g,20240413,food_cupboard,False
+Aldi,0.49,7.5,kg,"Brochan Strawberry, Raspberry & Cranberry Flavour Porri",20240413,food_cupboard,False
+Aldi,0.79,4.0,kg,Dominion Mint Humbugs Boiled Sweets 200g,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Pea & Ham Soup 400g,20240413,food_cupboard,False
+Aldi,1.59,5.1,kg,Specially Selected Caramelised Red Onion Sweet Chutney,20240413,food_cupboard,True
+Aldi,0.89,2.2,kg,Duncan's Chicken Broth 400g,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Chicken & Leek Soup 400g,20240413,food_cupboard,False
+Aldi,1.69,14.1,kg,Knoppers Nut Bar (120g) 3x40g,20240413,food_cupboard,False
+Aldi,2.7,3.6,kg,Dolmio Bolognese Onion And Garlic Pasta Sauce 750g,20240413,food_cupboard,False
+Aldi,1.49,7.8,kg,Specially Selected Tomato & Mascarpone Stir Through Pas,20240413,food_cupboard,True
+Aldi,1.25,13.3,kg,Skittles Squishy Cloudz Chewy Sweets Fruit Flavoured Sw,20240413,food_cupboard,False
+Aldi,2.25,35.2,kg,Extra White Bubblemint Sugarfree Chewing Gum Bottle 64g,20240413,food_cupboard,False
+Aldi,1.39,36.8,kg,Extra Strawberry Flavour Sugarfree Chewing Gum Multipac,20240413,food_cupboard,False
+Aldi,1.19,8.9,kg,Dairyfine Chocolate Choc Um's 133g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Dairyfine Bubbly Caramel Chocolate 100g,20240413,food_cupboard,False
+Aldi,1.49,14.9,kg,Moser Roth Organic Blonde Chocolate 100g,20240413,food_cupboard,True
+Aldi,1.19,8.5,kg,Dairyfine Peanut Choc Um's 140g,20240413,food_cupboard,False
+Aldi,1.25,9.3,kg,Werther's Original Butter Candies 135g,20240413,food_cupboard,False
+Aldi,1.25,15.6,kg,Werther's Original Sugar Free Butter Candies 80g,20240413,food_cupboard,False
+Aldi,0.7,0.5,kg,Everyday Essentials Plain Flour 1.5kg,20240413,food_cupboard,False
+Aldi,1.69,6.6,kg,Specially Selected French Salad Dressing 255g,20240413,food_cupboard,True
+Aldi,1.69,6.6,kg,Specially Selected Balsamic Salad Dressing 255g,20240413,food_cupboard,True
+Aldi,1.99,9.95,kg,The Foodie Market Roasted Pistachios 200g,20240413,food_cupboard,False
+Aldi,1.99,9.95,kg,Snackrite Roasted & Salted Pistachios 200g,20240413,food_cupboard,False
+Aldi,1.09,3.2,kg,Grandessa Squeezy Honey 340g,20240413,food_cupboard,False
+Aldi,1.09,0.44,kg,Cucina Three Cheese Tortelloni 250g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Choceur Dark Hazelnut Chocolate 100g,20240413,food_cupboard,True
+Aldi,1.99,4.0,kg,Harvest Morn Frosted Wheaties 500g,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Chocolate Fudge Brownies Fibre Now Bars 5x,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Salted Caramel Squares Fibre Now Bars 5x24,20240413,food_cupboard,False
+Aldi,1.09,5.5,kg,Dairyfine Fruit & Nut Chocolate 200g,20240413,food_cupboard,False
+Aldi,1.09,5.5,kg,Dairyfine Whole Nut Chocolate 200g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Sea Salt & Chardonnay Vinegar Hand C,20240413,food_cupboard,True
+Aldi,0.99,4.0,kg,Worldwide Foods Red & White Quinoa 250g,20240413,food_cupboard,False
+Aldi,0.89,2.4,kg,Harvest Morn Multi-grain Hoops Cereal 375g,20240413,food_cupboard,False
+Aldi,0.99,7.9,kg,Belmont Milk Chocolate Fingers 125g,20240413,food_cupboard,True
+Aldi,0.99,7.9,kg,Belmont White Chocolate Fingers 125g,20240413,food_cupboard,True
+Aldi,0.89,20.2,kg,Dominion Sugar Free Creamy Cappuccino Sweets 44g,20240413,food_cupboard,False
+Aldi,0.89,20.2,kg,Dominion Sugar Free Creamy Butterscotch Sweets 44g,20240413,food_cupboard,False
+Aldi,0.79,1.7,kg,Grandessa Thick Cut Marmalade 454g,20240413,food_cupboard,False
+Aldi,0.85,3.9,kg,Harvest Morn Apple & Raisin Crispy Fruit Slices 218g,20240413,food_cupboard,False
+Aldi,0.85,3.9,kg,Harvest Morn Forest Fruits Crispy Fruit Slices 218g,20240413,food_cupboard,False
+Aldi,1.99,0.06,unit,Harvest Morn Wheat Bisks Cereal 645g,20240413,food_cupboard,False
+Aldi,0.49,1.3,kg,Four Seasons Black Beans In Water 390g (235g Drained),20240413,food_cupboard,False
+Aldi,0.49,1.3,kg,Four Seasons Green Lentils In Water 390g (235g Drained),20240413,food_cupboard,False
+Aldi,0.72,1.9,kg,Four Seasons Taco Mixed Beans 395g,20240413,food_cupboard,False
+Aldi,0.72,1.9,kg,Four Seasons Midly Spiced Red Kidney Beans In Chilli Sa,20240413,food_cupboard,False
+Aldi,1.65,3.3,kg,Harvest Morn Fruit Wheats With A Blueberry Filling 500g,20240413,food_cupboard,False
+Aldi,1.65,3.3,kg,Harvest Morn Apricot Fruit Wheats 500g,20240413,food_cupboard,False
+Aldi,1.49,3.0,kg,Harvest Morn Crisp Cereal Strawberry 500g,20240413,food_cupboard,False
+Aldi,1.25,1.7,kg,Harvest Morn Fruit & Fibre Cereal 750g,20240413,food_cupboard,False
+Aldi,2.39,6.0,kg,Foodie Market Honey & Seeds Protein Granola 400g,20240413,food_cupboard,False
+Aldi,2.39,6.0,kg,Foodie Market Apricot & Cranberry Protein Granola 400g,20240413,food_cupboard,False
+Aldi,0.95,1.9,kg,The Pantry Sultanas 500g,20240413,food_cupboard,False
+Aldi,1.25,2.5,kg,The Pantry Raisins 500g,20240413,food_cupboard,False
+Aldi,0.85,10.9,kg,Make In Minutes Asia Inspired Singapore Style Curry Noo,20240413,food_cupboard,False
+Aldi,0.85,10.9,kg,Make In Minutes Asia Inspired Thai Style Sweet Chilli N,20240413,food_cupboard,False
+Aldi,0.65,3.3,kg,Bramwells Wholegrain Mustard 200g,20240413,food_cupboard,False
+Aldi,0.65,3.3,kg,Bramwells Dijon Mustard 200g,20240413,food_cupboard,False
+Aldi,0.65,3.3,kg,Bramwells English Mustard 200g,20240413,food_cupboard,False
+Aldi,1.29,4.7,kg,Snackrite Microwave Popcorn Salted 91g,20240413,food_cupboard,False
+Aldi,1.29,4.7,kg,Snackrite Microwave Popcorn Sweet 273g,20240413,food_cupboard,False
+Aldi,0.39,2.0,kg,Belmont Bourbon Creams 200g,20240413,food_cupboard,True
+Aldi,0.59,2.9,kg,Belmont Choc Chip Cookies 200g,20240413,food_cupboard,True
+Aldi,0.99,0.12,unit,Bilash Plain Poppadoms 64g/8 Pack,20240413,food_cupboard,False
+Aldi,0.35,3.5,kg,Make In Minutes Instant Noodles BBQ Beef Flavour 100g,20240413,food_cupboard,False
+Aldi,0.35,0.35,kg,Make In Minutes Instant Noodles Curry Flavour 100g,20240413,food_cupboard,False
+Aldi,0.35,3.5,kg,Make In Minutes Instant Noodles - Chicken Flavour 100g,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Make In Minutes Cup Shotz - Roast Chicken Flavour Pasta,20240413,food_cupboard,False
+Aldi,1.65,3.3,kg,Harvest Morn Raisin Fruit Wheats 500g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Dominion Lemon Sherbert Sweets 200g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Dominion Rhubarb & Custard Sweets 200g,20240413,food_cupboard,False
+Aldi,0.99,4.3,kg,Dairyfine Titan 6 Pack,20240413,food_cupboard,False
+Aldi,1.15,4.5,kg,Dairyfine Dreemy Bars 256g/16 Bars*,20240413,food_cupboard,False
+Aldi,0.99,0.43,unit,Dairyfine Racer 6 Pack,20240413,food_cupboard,False
+Aldi,0.99,4.7,kg,Dairyfine Jive 5 Pack,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Make In Minutes Cup Shotz - Yummy Chicken Pasta 55g,20240413,food_cupboard,False
+Aldi,1.99,1.0,unit,Choceur Milk Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,1.0,unit,Choceur White Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,1.0,unit,Choceur Rich & Creamy Dark Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,10.0,kg,Choceur Smooth & Creamy Fruit & Nut Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,10.0,kg,Choceur Smooth & Creamy Milk Almond Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,10.0,kg,Choceur Smooth & Creamy Dark Hazelnut Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,1.0,unit,Choceur Smooth & Creamy Caramel Chocolate 200g,20240413,food_cupboard,True
+Aldi,1.99,1.0,unit,Choceur Milk Chocolate With Salted Pretzel Pieces 200g,20240413,food_cupboard,True
+Aldi,1.25,5.0,kg,Foodie Market Sunflower Seeds 250g,20240413,food_cupboard,False
+Aldi,1.25,5.0,kg,Foodie Market Seed Mix 250g,20240413,food_cupboard,False
+Aldi,1.55,25.83,kg,The Foodie Market Pine Nuts 60g,20240413,food_cupboard,False
+Aldi,1.55,6.2,kg,Foodie Market Pumpkin Seeds 250g,20240413,food_cupboard,False
+Aldi,1.25,8.33,kg,Foodie Market Sweet Cranberries 150g,20240413,food_cupboard,False
+Aldi,1.65,5.5,kg,Foodie Market Raisins & Cranberries 300g,20240413,food_cupboard,False
+Aldi,1.65,6.6,kg,The Foodie Market Fruit & Nut Mix 250g,20240413,food_cupboard,False
+Aldi,1.99,8.3,kg,Grandessa Mighty Yeast Extract 240g,20240413,food_cupboard,False
+Aldi,1.39,6.95,kg,The Foodie Market Whole Chia Seeds 200g,20240413,food_cupboard,False
+Aldi,2.49,11.7,kg,The Fishmonger Wild Pacific Red Salmon 213g,20240413,food_cupboard,False
+Aldi,0.89,20.2,kg,Dominion Sugar Free Rhubarb & Custard Sweets 44g,20240413,food_cupboard,False
+Aldi,0.89,20.2,kg,Dominion Sugar Free Clear Fruits 44g,20240413,food_cupboard,False
+Aldi,0.89,20.2,kg,Dominion Sugar Free Clear Mints 44g,20240413,food_cupboard,False
+Aldi,0.89,20.2,kg,Dominion Sugar Free Creamy Strawberry Sweets 44g,20240413,food_cupboard,False
+Aldi,0.99,0.99,kg,Choceur Milk Hazelnut Chocolate 100g,20240413,food_cupboard,True
+Aldi,0.99,5.2,kg,The Deli Cornichons With Herbs 350g (190g Drained),20240413,food_cupboard,False
+Aldi,0.99,5.2,kg,The Deli Crinkle Cut Gherkins 350g (190g Drained),20240413,food_cupboard,False
+Aldi,1.89,4.7,kg,Bramwells Chilli Con Carne 400g,20240413,food_cupboard,False
+Aldi,2.09,5.2,kg,Bramwells Classic Stewed Steak 400g,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Fiesta Hot Chilli Con Carne Cooking Sauce 500g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Sweet Chilli Multigrain Waves 6x25g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Sour Cream & Black Pepper Multigrain Waves 6x,20240413,food_cupboard,False
+Aldi,0.99,14.1,kg,Dominion Sugar Free Blackcurrant & Liquorice Sweets 70g,20240413,food_cupboard,False
+Aldi,0.99,14.1,kg,Dominion Sugar Free Cola Sherbet Sweets 70g,20240413,food_cupboard,False
+Aldi,0.99,14.1,kg,Dominion Sugar Free Lemon Sherbets Sweets 70g,20240413,food_cupboard,False
+Aldi,1.09,5.45,kg,Snackrite Chilli Roasted Peanuts 200g,20240413,food_cupboard,False
+Aldi,1.09,5.45,kg,Snackrite Honey Roast Peanuts 200g,20240413,food_cupboard,False
+Aldi,1.09,5.45,kg,Snackrite Chilli Peanuts 200g,20240413,food_cupboard,False
+Aldi,1.35,3.38,kg,Snackrite Dry Roasted Peanuts 400g,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Bramwells Express Cup Shotz Macaroni Cheese Pasta 68g,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Make In Minutes Cupshotz - Chicken & Sweetcorn 54g,20240413,food_cupboard,False
+Aldi,0.59,4.9,kg,Make In Minutes Savoury Rice - Chicken Flavour 120g,20240413,food_cupboard,False
+Aldi,0.59,4.9,kg,Make In Minutes Golden Veg Flavour Savoury Rice 120g,20240413,food_cupboard,False
+Aldi,0.52,0.5,kg,Worldwide Long Grain White Rice 1kg,20240413,food_cupboard,False
+Aldi,1.25,1.3,kg,Worldwide Foods Easy Cook Long Grain Rice 1kg,20240413,food_cupboard,False
+Aldi,0.47,1.1,kg,Everyday Essentials Tomato & Herb Pasta Sauce 440g,20240413,food_cupboard,False
+Aldi,0.89,3.6,kg,Bramwells Bacon Mayonnaise 250ml,20240413,food_cupboard,False
+Aldi,0.59,2.0,kg,Belmont Ginger Nut Biscuits 300g,20240413,food_cupboard,True
+Aldi,0.49,7.2,kg,Bramwells Express Cup Shotz Tomato & Herb Flavour Pasta,20240413,food_cupboard,False
+Aldi,0.65,1.3,kg,Cucina Chunky Mushroom Tomato Pasta Sauce 500g,20240413,food_cupboard,False
+Aldi,1.69,8.5,kg,Specially Selected Quadruple Chocolate All Butter Cooki,20240413,food_cupboard,True
+Aldi,0.49,1.6,kg,Four Seasons Sliced Carrots In Water 300g (160g Drained,20240413,food_cupboard,False
+Aldi,3.69,14.8,l,Specially Selected 100% Pure Canadian Maple Syrup Grade,20240413,food_cupboard,True
+Aldi,1.09,5.5,kg,Savour Bakes Savoury Crackers Lightly Salted 200g,20240413,food_cupboard,False
+Aldi,0.99,8.3,kg,Dominion Sour Watermelon Gummy Candies 120g,20240413,food_cupboard,False
+Aldi,0.99,8.3,kg,Dominion Juicy Strawberry Gummy Candies 120g,20240413,food_cupboard,False
+Aldi,0.99,8.3,kg,Dominion Fizzy Pineapple Gummy Candies 120g,20240413,food_cupboard,False
+Aldi,1.09,3.6,kg,Quixo For Meat Gravy Granules 300g,20240413,food_cupboard,False
+Aldi,1.09,3.6,kg,Quixo Gravy Granules For Chicken 300g,20240413,food_cupboard,False
+Aldi,1.09,3.6,kg,Quixo Onion Gravy Granules 300g,20240413,food_cupboard,False
+Aldi,1.59,9.4,kg,The Deli Sundried Tomatoes 280g (170g Drained),20240413,food_cupboard,False
+Aldi,1.59,9.4,kg,The Deli Chargrilled Peppers 280g (170g Drained),20240413,food_cupboard,False
+Aldi,0.28,0.6,kg,Everyday Essentials Spaghetti 500g,20240413,food_cupboard,False
+Aldi,0.75,2.2,kg,Everyday Essentials Clear Honey 340g,20240413,food_cupboard,False
+Aldi,0.59,8.4,kg,Dairyfine Milk Chocolate Buttons 70g,20240413,food_cupboard,False
+Aldi,0.36,8.2,kg,Bramwells Spaghetti Bolognese Mix 44g,20240413,food_cupboard,False
+Aldi,0.36,7.2,kg,Bramwells Chilli Con Carne Mix 50g,20240413,food_cupboard,False
+Aldi,0.36,9.0,kg,Bramwells Beef Casserole Seasoning Mix 40g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Specially Selected Multipack Hand Cooked Sea Salt Potat,20240413,food_cupboard,True
+Aldi,1.15,9.58,kg,Snackrite Eatz. Smokehouse BBQ Snack Mix 120g,20240413,food_cupboard,False
+Aldi,1.15,9.58,kg,Snackrite Wasabi Peas 120g,20240413,food_cupboard,False
+Aldi,1.35,5.4,kg,Worldwide Foods Good Grains French Inspired Lentils 250,20240413,food_cupboard,False
+Aldi,1.35,5.4,kg,Good Grains Spanish Style Grains Wholegrain Rice 250g,20240413,food_cupboard,False
+Aldi,0.65,3.7,kg,Bramwells Horseradish Sauce 175g,20240413,food_cupboard,False
+Aldi,0.65,3.7,kg,Bramwells British Tartare Sauce 175g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Dairyfine Bubbly Milk Chocolate 100g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Dairyfine Mint Bubbly Chocolate 100g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Dairyfine Bubbly Orange Chocolate 100g,20240413,food_cupboard,False
+Aldi,1.79,3.6,kg,Fiesta Smoky BBQ Fajita Dinner Kit 500g,20240413,food_cupboard,False
+Aldi,1.35,10.8,kg,Savour Bakes Thins Cheddar & Cracked Black Pepper Flatb,20240413,food_cupboard,False
+Aldi,1.35,10.8,kg,Savour Bakes Thins Multi-seed Flatbreads 125g,20240413,food_cupboard,False
+Aldi,0.41,7.2,kg,Harvest Morn Original Instant Oats 50g,20240413,food_cupboard,False
+Aldi,0.41,7.2,kg,Harvest Morn Golden Syrup Flavour Instant Oats 57g,20240413,food_cupboard,False
+Aldi,0.89,2.0,kg,Bramwells Brown Sauce 455g,20240413,food_cupboard,False
+Aldi,1.49,7.5,kg,Snackrite Ready Salted Potato Hoops 8x25g,20240413,food_cupboard,False
+Aldi,0.95,10.0,kg,Harvest Morn Benefit Chocolate Fudge Cereal Bar 5x19g,20240413,food_cupboard,False
+Aldi,0.95,10.0,kg,Harvest Morn Benefit Salted Caramel Cereal Bar 5x19g,20240413,food_cupboard,False
+Aldi,0.95,10.0,kg,Harvest Morn Benefit Jaffa Cereal Bar 5x19g,20240413,food_cupboard,False
+Aldi,0.95,10.0,kg,Harvest Morn Benefit Summer Fruits Cereal Bar 5x19g,20240413,food_cupboard,False
+Aldi,0.95,3.5,kg,Harvest Morn Instant Oats Original 10x27g,20240413,food_cupboard,False
+Aldi,0.95,3.0,kg,Harvest Morn Instant Oats Golden Syrup Flavour 8x39g,20240413,food_cupboard,False
+Aldi,0.75,8.3,kg,Bramwells Express Chicken & Mushroom Flavour Snack Nood,20240413,food_cupboard,False
+Aldi,0.75,8.3,kg,Bramwells Express Spicy Curry Flavour Snack Noodles Pot,20240413,food_cupboard,False
+Aldi,2.09,10.5,kg,Dairyfine Strawberry Yogurt Mini Delights 200g/11 Pack,20240413,food_cupboard,False
+Aldi,2.09,10.5,kg,Dairyfine Hazelnut Crisp Mini Delights 200g/11 Pack,20240413,food_cupboard,False
+Aldi,2.09,10.5,kg,Dairyfine Milk Chocolate Mini Delights 200g/11 Pack,20240413,food_cupboard,False
+Aldi,2.09,10.5,kg,Dairyfine Cookies & Milk Mini Delights 200g/11 Pack,20240413,food_cupboard,False
+Aldi,0.99,0.66,unit,Dairyfine Mint Creme 150g,20240413,food_cupboard,False
+Aldi,0.99,0.66,unit,Dairyfine Turkish Delight 150g,20240413,food_cupboard,False
+Aldi,1.89,12.6,kg,Dairyfine Hazelnut Spirals 150g /7 Pack,20240413,food_cupboard,False
+Aldi,1.89,12.6,kg,Dairyfine Spirals - Double Chocolate 7 Pack,20240413,food_cupboard,False
+Aldi,0.55,3.1,kg,Bramwells Mint Sauce 180g,20240413,food_cupboard,False
+Aldi,1.69,8.5,kg,Specially Selected Salted Caramel All Butter Cookies 20,20240413,food_cupboard,True
+Aldi,0.36,9.0,kg,Bramwells Chicken Casserole Seasoning Mix 40g,20240413,food_cupboard,False
+Aldi,0.36,9.2,kg,Bramwells Sausage Casserole Seasoning Mix 39g,20240413,food_cupboard,False
+Aldi,0.75,3.0,l,Bramwells Classic Caesar Salad Dressing 250ml,20240413,food_cupboard,False
+Aldi,0.75,3.0,l,Bramwells Fat Free Vinaigrette Dressing 250ml,20240413,food_cupboard,False
+Aldi,0.75,3.0,l,Bramwells House Salad Dressing 250ml,20240413,food_cupboard,False
+Aldi,0.75,3.0,l,Bramwells Honey & Mustard Dressing 250ml,20240413,food_cupboard,False
+Aldi,0.75,3.0,l,Bramwells Mango & Chilli Dressing 250ml,20240413,food_cupboard,False
+Aldi,0.59,8.4,kg,Dairyfine White Chocolate Buttons 70g,20240413,food_cupboard,False
+Aldi,1.75,14.0,kg,Choceur Salted Caramel Waves 125g,20240413,food_cupboard,True
+Aldi,1.75,14.0,kg,Choceur Milk Chocolate Waves 125g,20240413,food_cupboard,True
+Aldi,1.75,14.0,kg,Choceur Mint Waves 125g,20240413,food_cupboard,True
+Aldi,1.75,14.0,kg,Choceur Orange Waves 125g,20240413,food_cupboard,True
+Aldi,1.49,6.0,kg,Harvest Morn Chocolate Chip Soft Bakes 5x50g,20240413,food_cupboard,False
+Aldi,1.49,6.0,kg,Harvest Morn Red Berries Soft Bakes 5x50g,20240413,food_cupboard,False
+Aldi,1.49,6.0,kg,Harvest Morn Choco Hazelnut Flavour Filled Soft Bakes 5,20240413,food_cupboard,False
+Aldi,1.49,6.0,kg,Harvest Morn Strawberry Filled Soft Bakes 5x50g,20240413,food_cupboard,False
+Aldi,0.57,2.9,kg,Everyday Essentials Lightly Salted Tortilla Chips 200g,20240413,food_cupboard,False
+Aldi,0.39,12.0,kg,Bramwells Mild Peppercorn Sauce Mix 25g,20240413,food_cupboard,False
+Aldi,0.59,3.9,l,Asia Specialities Dark Soy Sauce 150ml,20240413,food_cupboard,False
+Aldi,0.59,3.9,l,Asia Specialities Light Soy Sauce 150ml,20240413,food_cupboard,False
+Aldi,2.49,4.98,kg,The Foodie Market Dried Prunes 500g,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Delicious Desserts Custard 500g,20240413,food_cupboard,False
+Aldi,0.41,0.8,kg,Everyday Essentials Penne Pasta 500g,20240413,food_cupboard,False
+Aldi,0.49,12.3,kg,Brochan Strawberry & Yogurt Porridge Oat Bar 40g,20240413,food_cupboard,False
+Aldi,0.49,12.3,kg,"Brochan Orange, Ginger & Dark Chocolate Porridge Oat Ba",20240413,food_cupboard,False
+Aldi,1.19,3.1,kg,Specially Selected Smooth & Warming Butternut Squash &,20240413,food_cupboard,True
+Aldi,0.99,5.2,kg,Make In Minutes Cheesy Pasta Made With Durum Wheat 190g,20240413,food_cupboard,False
+Aldi,1.09,0.7,kg,The Pantry Strong White Flour 1.5kg,20240413,food_cupboard,False
+Aldi,1.25,5.7,kg,Harvest Morn Yogurt & Strawberry Bars 218g,20240413,food_cupboard,False
+Aldi,1.25,5.7,kg,Harvest Morn Yogurt & Forest Fruit Bars 218g,20240413,food_cupboard,False
+Aldi,0.79,1.3,kg,Harvest Morn Malted Wheaties 625g,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,Harvest Morn Honey Nut Crunchy Cornflakes 500g,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Harvest Morn Original Benefit 500g,20240413,food_cupboard,False
+Aldi,1.25,3.3,kg,Harvest Morn Red Fruit Benefit Cereal 375g,20240413,food_cupboard,False
+Aldi,1.25,1.7,kg,Harvest Morn Fruit & Fibre Wheat Flakes 750g,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Harvest Morn Corn Flakes 500g,20240413,food_cupboard,False
+Aldi,0.99,0.21,l,Bramwells Real Mayonnaise 476g,20240413,food_cupboard,False
+Aldi,0.89,1.9,kg,Bramwells Original BBQ Sauce 480g,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,Snackrite Multipack Ridged Lights Ready Salted Crisps 6,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,Snackrite Multipack Thick Cut Variety Ridge Lights Cris,20240413,food_cupboard,False
+Aldi,0.45,2.6,kg,Four Seasons Garden Peas 290g (175g Drained),20240413,food_cupboard,False
+Aldi,1.19,1.7,kg,The Pantry Golden Syrup 700g,20240413,food_cupboard,False
+Aldi,0.85,2.3,kg,Harvest Morn Crisp Rice 375g,20240413,food_cupboard,False
+Aldi,0.65,5.4,kg,Bramwells Chicken Stock Cubes 120g/12 Pack,20240413,food_cupboard,False
+Aldi,0.65,5.4,kg,Bramwells Vegetable Stock Cubes 120g/12 Pack,20240413,food_cupboard,False
+Aldi,0.89,5.3,kg,The Foodie Market Raisins Mini Snacks 12x14g,20240413,food_cupboard,False
+Aldi,0.39,1.56,kg,The Foodie Market Berry Fruity 25g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Multipack Cheese Curls 10x15g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Crispy Fries 10x15g,20240413,food_cupboard,False
+Aldi,1.29,7.4,kg,Snackrite Multipack Cheese Puffs 10x18g,20240413,food_cupboard,False
+Aldi,1.29,7.4,kg,Snackrite Multipack Monster Claws 10x18g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Snackrite Cheese Puffs 150g,20240413,food_cupboard,False
+Aldi,2.15,10.8,kg,Choceur Milk Chocolate 40g,20240413,food_cupboard,True
+Aldi,2.15,10.8,kg,Choceur Dark Chocolate 40g,20240413,food_cupboard,True
+Aldi,2.15,10.8,kg,Choceur White Chocolate 40g,20240413,food_cupboard,True
+Aldi,1.69,4.3,kg,Hunters Mild Chicken Curry 392g,20240413,food_cupboard,False
+Aldi,1.69,4.3,kg,Bramwells Hot Chicken Curry 392g,20240413,food_cupboard,False
+Aldi,1.29,3.23,kg,Snackrite Salted Peanuts 400g,20240413,food_cupboard,False
+Aldi,1.49,9.93,kg,Snackrite Roasted & Salted Pistachios 150g,20240413,food_cupboard,False
+Aldi,0.99,4.3,kg,Belmont Jammie Cart Wheels 228g/6 Pack,20240413,food_cupboard,True
+Aldi,1.39,1.4,kg,Worldwide Foods Easy Cook Brown Rice 1kg,20240413,food_cupboard,False
+Aldi,1.85,1.9,kg,Worldwide Foods Classic Basmati Rice 1kg,20240413,food_cupboard,False
+Aldi,0.95,1.9,kg,Worldwide Foods Easy Cook Boil In The Bag Long Grain Ri,20240413,food_cupboard,False
+Aldi,1.49,6.0,kg,The Pantry Cocoa Powder 250g,20240413,food_cupboard,False
+Aldi,1.79,5.1,kg,Harvest Morn Multigrain Shapes 350g,20240413,food_cupboard,False
+Aldi,0.89,5.9,kg,Savour Bakes Baked Cheese Thins 150g,20240413,food_cupboard,False
+Aldi,1.35,9.4,kg,Harvest Morn Chocolate Crispy Chunks Cereal Bar 144g,20240413,food_cupboard,False
+Aldi,1.35,9.4,kg,Harvest Morn Caramel & Chocolate Crispy Chunks Cereal B,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Jalapeño Tuna Fusions 80g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Soy & Ginger Tuna Fusions 80g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Chilli & Garlic Tuna Fusions 80g,20240413,food_cupboard,False
+Aldi,0.99,12.4,kg,The Fishmonger Lemon & Thyme Tuna Fusions 80g,20240413,food_cupboard,False
+Aldi,0.55,4.6,kg,Asia Specialities Sweet Chilli & Garlic Stir Fry Sauce,20240413,food_cupboard,False
+Aldi,0.55,4.6,kg,Asia Specialities Chow Mein Stir Fry Sauce 120g,20240413,food_cupboard,False
+Aldi,0.55,4.6,kg,Asia Specialities Sweet & Sour Stir Fry Sauce 120g,20240413,food_cupboard,False
+Aldi,1.05,4.7,kg,Harvest Morn Fruit & Grain Apple Bars 6x37g,20240413,food_cupboard,False
+Aldi,1.05,4.7,kg,Harvest Morn Strawberry Fruit & Grain Cereal Bars 222g/,20240413,food_cupboard,False
+Aldi,1.09,0.44,kg,Cucina Tortellini Three Cheese 250g,20240413,food_cupboard,False
+Aldi,1.99,7.9,kg,"Ready, Set…Cook! Thai Red Curry Kit 253g",20240413,food_cupboard,False
+Aldi,1.99,7.5,kg,"Ready, Set…Cook! Pad Thai Meal Kit 265g",20240413,food_cupboard,False
+Aldi,1.99,7.9,kg,"Ready, Set…Cook! Thai Green Curry Kit 253g",20240413,food_cupboard,False
+Aldi,1.09,0.22,kg,Cucina Gnocchi 500g,20240413,food_cupboard,False
+Aldi,1.09,0.44,kg,Cucina Tortelloni Spinach & Ricotta 250g,20240413,food_cupboard,False
+Aldi,1.49,14.9,kg,Moser Roth Organic Peruvian 85% Cocoa Dark Chocolate 10,20240413,food_cupboard,True
+Aldi,1.49,14.9,kg,Moser Roth Organic Peruvian 70% Cocoa Dark Chocolate 10,20240413,food_cupboard,True
+Aldi,1.49,14.9,kg,Moser Roth Organic Caramel & Sea Salt Peruvian Milk Cho,20240413,food_cupboard,True
+Aldi,0.65,5.4,kg,Bramwells Beef Stock Cubes 120g/12 Pack,20240413,food_cupboard,False
+Aldi,0.75,8.3,kg,Make In Minutes Beef & Tomato Flavour Snack Noodles Pot,20240413,food_cupboard,False
+Aldi,2.69,6.6,kg,The Fishmonger Tuna Chunks In Sunflower Oil 4x145g (4x1,20240413,food_cupboard,False
+Aldi,1.09,3.2,kg,Grandessa Smooth Peanut Butter 340g,20240413,food_cupboard,False
+Aldi,1.09,3.2,kg,Grandessa Crunchy Peanut Butter 340g,20240413,food_cupboard,False
+Aldi,1.19,3.1,kg,Bramwells Sweet Pickle 390g,20240413,food_cupboard,False
+Aldi,1.65,8.25,kg,Foodie Market Mixed Nuts 200g,20240413,food_cupboard,False
+Aldi,1.75,8.75,kg,Foodie Market Brazil Nuts 200g,20240413,food_cupboard,False
+Aldi,0.65,6.4,kg,The Fishmonger Tuna Chunks In Spring Water 145g (102g D,20240413,food_cupboard,False
+Aldi,2.59,6.4,kg,The Fishmonger Tuna Chunks In Brine 4x145g (4x102g Drai,20240413,food_cupboard,False
+Aldi,1.99,4.0,kg,Harvest Morn Bitesize Wheat Shreds 500g,20240413,food_cupboard,False
+Aldi,0.89,3.6,kg,The Foodie Market Gluten Free Red Lentil & Beetroot Fus,20240413,food_cupboard,False
+Aldi,0.89,3.6,kg,The Foodie Market Gluten Free Green Pea Penne 250g,20240413,food_cupboard,False
+Aldi,0.89,3.6,kg,The Foodie Market Gluten Free Chickpea Fusilli 250g,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,The Fishmonger Tuna Steak In Sunflower Oil 110g,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,The Fishmonger Tuna Steak In Brine 110g,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,The Fishmonger Tuna Steak In Spring Water 110g,20240413,food_cupboard,False
+Aldi,1.79,89.5,kg,Specially Selected Milk Chocolate Just Divine Biscuits,20240413,food_cupboard,True
+Aldi,1.49,24.8,kg,Harvest Morn Salted Caramel Flavour High Protein Bar 60,20240413,food_cupboard,False
+Aldi,0.75,10.7,kg,Harvest Morn Protein Oats Golden Syrup Flavour 70g,20240413,food_cupboard,False
+Aldi,0.75,10.7,kg,Harvest Morn Protein Oats Chocolate 70g,20240413,food_cupboard,False
+Aldi,1.29,5.2,kg,Savour Bakes Garlic & Herb Cracker Sharing Tub 250g,20240413,food_cupboard,False
+Aldi,1.29,5.2,kg,Savour Bakes Cheese Crackers Sharing Tub 250g,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Fibre Now Cinnamon Squares 120g/5 Pack,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Fibre Now Chocolate Orange 120g/5 Pack,20240413,food_cupboard,False
+Aldi,1.69,16.9,kg,The Foodie Market Raspberry Dinos 5x20g,20240413,food_cupboard,False
+Aldi,1.15,1.0,kg,Dairyfine Jive Bar 12 Pack,20240413,food_cupboard,False
+Aldi,0.65,13.0,kg,The Fishmonger Anchovies Fillets In Olive Oil 50g (30g,20240413,food_cupboard,False
+Aldi,1.19,3.0,kg,Dairyfine Romeo 4 Pack,20240413,food_cupboard,False
+Aldi,1.99,5.0,kg,Bramwells Minced Beef & Onion 400g,20240413,food_cupboard,False
+Aldi,0.99,7.4,kg,Belmont Multipack Safari Snacks 7x19g,20240413,food_cupboard,True
+Aldi,0.55,4.6,kg,Asia Specialities Teriyaki Stir Fry Sauce 120g,20240413,food_cupboard,False
+Aldi,1.39,15.4,kg,Snackrite BBQ Lentil Chips Multipack 6x15g,20240413,food_cupboard,False
+Aldi,1.39,15.4,kg,Snackrite Sea Salt Lentil Chips Multipack 6x15g,20240413,food_cupboard,False
+Aldi,1.35,10.3,kg,Snackrite Prawn Cocktail Melts Multipack 10x13g,20240413,food_cupboard,False
+Aldi,1.15,6.4,kg,The Pantry Pink & White Mini Marshmallows 180g,20240413,food_cupboard,False
+Aldi,1.09,12.8,kg,Snackrite BBQ Lentil Chips 85g,20240413,food_cupboard,False
+Aldi,1.09,12.8,kg,Snackrite Sea Salt Lentil Chips 85g,20240413,food_cupboard,False
+Aldi,1.19,5.7,kg,Harvest Morn Crunchy Oats & Dark Chocolate Granola Bars,20240413,food_cupboard,False
+Aldi,0.49,2.0,kg,Four Seasons Chick Peas In Water 400g (240g Drained),20240413,food_cupboard,False
+Aldi,1.05,4.7,kg,Harvest Morn Blueberry Fruit & Grain Bars 6x37g,20240413,food_cupboard,False
+Aldi,1.75,8.75,kg,The Foodie Market Walnut Halves 200g,20240413,food_cupboard,False
+Aldi,1.75,87.5,kg,The Foodie Market Cashew Nuts 200g,20240413,food_cupboard,False
+Aldi,1.75,87.5,kg,The Foodie Market Whole Almonds 200g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,The Foodie Market Smooth Peanut Butter 280g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,The Foodie Market Crunchy Peanut Butter 280g,20240413,food_cupboard,False
+Aldi,0.69,6.9,kg,The Pantry Milk Chocolate Chips 100g,20240413,food_cupboard,False
+Aldi,0.69,6.9,kg,The Pantry Dark Chocolate Chips 100g,20240413,food_cupboard,False
+Aldi,0.69,6.9,kg,The Pantry White Chocolate Chips 100g,20240413,food_cupboard,False
+Aldi,0.72,2.5,kg,Four Seasons Supersweet Sweetcorn In Water 340g (285g D,20240413,food_cupboard,False
+Aldi,1.19,3.7,kg,Dessert Menu Strawberry Flavour Dessert Sauce 325g,20240413,food_cupboard,False
+Aldi,0.49,19.6,kg,Foodie Market Sour Cream & Chive Hummus Bites 25g,20240413,food_cupboard,False
+Aldi,0.65,28.3,kg,Foodie Market Sweet Chilli Lentil Hoops 23g,20240413,food_cupboard,False
+Aldi,0.65,28.3,kg,Foodie Market Salt & Vinegar Lentil Hoops 23g,20240413,food_cupboard,False
+Aldi,0.72,7.1,kg,The Fishmonger Tuna Chunks In Sunflower Oil 145g (102g,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Cucina Wholewheat Fusilli 500g,20240413,food_cupboard,False
+Aldi,0.75,1.5,kg,Cucina Wholewheat Spaghetti Pasta 500g,20240413,food_cupboard,False
+Aldi,1.99,120.6,kg,Four Seasons Supersweet Sweetcorn In Water 4x198g (4x16,20240413,food_cupboard,False
+Aldi,0.39,0.9,kg,Everyday Essentials Strawberry Jam 454g,20240413,food_cupboard,False
+Aldi,0.89,2.0,kg,Grandessa Strawberry Jam 454g,20240413,food_cupboard,False
+Aldi,0.89,2.0,kg,Grandessa Seedless Raspberry Jam 454g,20240413,food_cupboard,False
+Aldi,0.65,28.3,kg,The Foodie Market Sour Cream Flavour Rice Cakes 23g,20240413,food_cupboard,False
+Aldi,0.65,28.3,kg,Savour Bakes Salt & Vinegar Snack Rice Cakes 23g,20240413,food_cupboard,False
+Aldi,0.49,1.2,kg,Cucina Chunky Chopped Tomatoes In A Rich Tomato Juice 4,20240413,food_cupboard,False
+Aldi,0.65,16.3,kg,Specially Selected Steak Fajita Tortilla Chips 40g,20240413,food_cupboard,True
+Aldi,0.65,16.3,kg,Specially Selected Sea Salt & Lime Tortilla Chips 40g,20240413,food_cupboard,True
+Aldi,0.49,1.2,kg,Cucina Peeled Plum Tomatoes In A Rich Tomato Juice 400g,20240413,food_cupboard,False
+Aldi,1.19,3.7,kg,Dessert Menu Toffee Flavour Dessert Sauce 325g,20240413,food_cupboard,False
+Aldi,1.89,2.5,kg,Dessert Menu Strawberry Flavour Jelly 6x125g,20240413,food_cupboard,False
+Aldi,1.89,2.5,kg,Dessert Menu Raspberry Flavour Jelly 6x125g,20240413,food_cupboard,False
+Aldi,1.19,3.7,kg,Dessert Menu Chocolate Flavour Dessert Sauce 325g,20240413,food_cupboard,False
+Aldi,2.15,10.8,kg,Choceur Milk Chocolate Smooth Praline 40g,20240413,food_cupboard,True
+Aldi,1.99,9.95,kg,Foodie Market Roasted Pistachios 200g,20240413,food_cupboard,False
+Aldi,1.59,4.5,l,Bramwells Skeeter's Smokey Chipotle BBQ Sauce 350ml,20240413,food_cupboard,False
+Aldi,0.79,2.3,kg,Four Seasons Small New Potatoes In Water 560g (345g Dra,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,The Pantry Dark Brown Soft Sugar 500g,20240413,food_cupboard,False
+Aldi,1.35,10.8,kg,Savour Bakes Thins Rosemary & Sea Salt Flatbreads 125g,20240413,food_cupboard,False
+Aldi,0.65,4.6,kg,Quixo Dumpling Mix 142g,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,The Pantry Light Brown Soft Sugar 500g,20240413,food_cupboard,False
+Aldi,0.65,6.4,kg,The Fishmonger Tuna Chunks In Brine 145g (102g Drained),20240413,food_cupboard,False
+Aldi,0.89,11.8,kg,"Ready, Set…Cook! Peri Peri Salt 75g",20240413,food_cupboard,False
+Aldi,0.89,11.8,kg,"Ready, Set…Cook! Chilli & Garlic Seasoning 55g",20240413,food_cupboard,False
+Aldi,0.89,11.8,kg,"Ready, Set…Cook! Garlic & Herb Seasoning 58g",20240413,food_cupboard,False
+Aldi,0.89,11.8,kg,"Ready, Set…Cook! Southern Fried Seasoning 47g",20240413,food_cupboard,False
+Aldi,0.85,6.3,kg,Dessert Menu Raspberry Flavour Jelly 135g,20240413,food_cupboard,False
+Aldi,0.85,6.3,kg,Dessert Menu Strawberry Flavour Jelly 135g,20240413,food_cupboard,False
+Aldi,0.85,2.8,kg,Asia Specialities Ready To Wok Medium Noodles 2x150g,20240413,food_cupboard,False
+Aldi,1.35,6.75,kg,Snackrite Fully Loaded Jalapeño Peanuts 200g,20240413,food_cupboard,False
+Aldi,1.35,6.75,kg,Snackrite Fully Loaded Buffalo Wings Peanuts 200g,20240413,food_cupboard,False
+Aldi,2.99,8.8,kg,Specially Selected Orange Blossom Honey 340g,20240413,food_cupboard,True
+Aldi,2.99,8.8,kg,Specially Selected Spanish Forest Honey 340g,20240413,food_cupboard,True
+Aldi,2.99,8.8,kg,Specially Selected Organic Acacia Honey 340g,20240413,food_cupboard,True
+Aldi,0.85,6.3,kg,Dessert Menu Orange Flavour Jelly 135g,20240413,food_cupboard,False
+Aldi,0.65,0.65,unit,The Pantry Aspartame Sweetener Tablets 300 Pack,20240413,food_cupboard,False
+Aldi,0.85,8.5,kg,Asia Specialities Sweet Chilli Rice Crackers 100g,20240413,food_cupboard,False
+Aldi,1.89,12.6,kg,Specially Selected Hickory Smoked Mixed Nuts 150g,20240413,food_cupboard,True
+Aldi,0.85,8.5,kg,Asia Specialities Lightly Salted Rice Crackers 100g,20240413,food_cupboard,False
+Aldi,1.79,5.1,kg,Harvest Morn Multigrain Dino Shapes 350g,20240413,food_cupboard,False
+Aldi,0.99,11.8,kg,Harvest Morn Fibre Now 4 Strawberry & Yogurt Popcorn Ba,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Four Seasons Fruit Cocktail In Syrup 411g (250g Drained,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Fibre Now Peanut Butter Squares 5x24g,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Fibre Now Blueberry Squares 5x24g,20240413,food_cupboard,False
+Aldi,1.69,16.9,kg,Specially Selected Cheddar Cheese & Onion Chutney Biscu,20240413,food_cupboard,True
+Aldi,1.65,13.75,kg,The Pantry Blanched Hazelnuts 120g,20240413,food_cupboard,False
+Aldi,1.49,5.9,kg,Belmont Milk Chocolate Covered Cookies & Cream Biscuits,20240413,food_cupboard,True
+Aldi,1.49,5.9,kg,Belmont White Chocolate Covered Cookies & Cream Biscuit,20240413,food_cupboard,True
+Aldi,1.15,7.7,kg,Finlays Pickled Onion Flavoured Potato Crisps 150g,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,The Pantry Ground Almonds 150g,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,The Pantry Flaked Almonds 150g,20240413,food_cupboard,False
+Aldi,0.89,11.9,kg,The Pantry Aspartame Granulated Sweetener 75g,20240413,food_cupboard,False
+Aldi,1.09,4.4,kg,Worldwide Asian Style Sticky Rib Rice 250g,20240413,food_cupboard,False
+Aldi,1.09,4.4,kg,Worldwide Foods Louisiana Style Dirty Rice 250g,20240413,food_cupboard,False
+Aldi,0.99,7.6,kg,Snackrite Cheese Mega Puffs 130g,20240413,food_cupboard,False
+Aldi,0.99,7.6,kg,Snackrite Fiery Hot Mega Puffs 130g,20240413,food_cupboard,False
+Aldi,0.39,1.0,kg,Everyday Essentials Peeled Plum Tomatoes In Tomato Juic,20240413,food_cupboard,False
+Aldi,1.09,4.4,kg,Belmont Milk Chocolate Malted Milk 250g,20240413,food_cupboard,True
+Aldi,1.69,8.5,kg,Specially Selected Chocolate & Hazelnut All Butter Cook,20240413,food_cupboard,True
+Aldi,1.15,7.7,kg,Finlays Flamegrilled Aberdeen Angus Flavoured Potato Cr,20240413,food_cupboard,False
+Aldi,0.75,3.0,l,Bramwells Thousand Island Dressing 250ml,20240413,food_cupboard,False
+Aldi,1.09,4.4,kg,Worldwide Foods Indian Style Naga Naga Rice 250g,20240413,food_cupboard,False
+Aldi,1.09,4.4,kg,Worldwide Foods East Asian Style Korean BBQ Rice 250g,20240413,food_cupboard,False
+Aldi,1.35,6.8,kg,Bramwells Chopped Pork & Ham 200g,20240413,food_cupboard,False
+Aldi,0.85,6.8,kg,Snackrite Jalapeño Flavour Pretzel Pieces 125g,20240413,food_cupboard,False
+Aldi,0.85,6.8,kg,Snackrite Honey & Mustard Flavour Pretzel Pieces 125g,20240413,food_cupboard,False
+Aldi,1.79,89.5,kg,Specially Selected Salted Caramel Just Divine Biscuits,20240413,food_cupboard,True
+Aldi,0.45,4.1,kg,Bramwells Express Pasta With Tomato & Onion Sauce 110g,20240413,food_cupboard,False
+Aldi,1.25,13.0,kg,Snackrite BBQ Curlers 6x16g,20240413,food_cupboard,False
+Aldi,1.25,13.0,kg,Snackrite Salt & Vinegar Curlers 6x16g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Multi Grain Waves Honey Glazed BBQ Flavour 6x,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite BBQ Flavour Popouts 100g,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite Sour Cream Flavour Popouts 100g,20240413,food_cupboard,False
+Aldi,1.25,7.35,kg,The Foodie Market Yogurt Coated Cranberries 170g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Snackrite Salt & Vinegar Crunchy Sticks 150g,20240413,food_cupboard,False
+Aldi,2.49,4.98,kg,The Foodie Market Pitted Dates 500g,20240413,food_cupboard,False
+Aldi,1.49,17.74,kg,Snackrite Thai Style Sriracha 3x28g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Chicken Noodle Soup 400g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Harvest Morn Yoghurt Flavoured Rice Cakes 100g,20240413,food_cupboard,False
+Aldi,0.99,9.9,kg,Harvest Morn Chocolate Rice Cakes 100g,20240413,food_cupboard,False
+Aldi,0.85,1.9,kg,Bramwells BBQ Sauce 460g,20240413,food_cupboard,False
+Aldi,0.59,17.9,kg,Bramwells Shake 'N' Bake Mediterranean Chicken Seasonin,20240413,food_cupboard,False
+Aldi,0.59,18.4,kg,Bramwells Shake 'N' Bake Garlic & Herb Seasoning Mix 32,20240413,food_cupboard,False
+Aldi,1.49,4.4,kg,Specially Selected Tomato & Mascarpone Pasta Sauce 340g,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,"Specially Selected Sun-dried Tomato, Basil & Garlic Pas",20240413,food_cupboard,True
+Aldi,0.99,5.0,kg,Napolina Tomato Puree 200g,20240413,food_cupboard,False
+Aldi,2.75,8.5,kg,Mini Cheddars Jacob's 14 Red Leicester Flavour 14 X Pac,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite Salt & Vinegar Popouts 100g,20240413,food_cupboard,False
+Aldi,0.79,6.0,kg,Belmont Safari Snacks 132g/6 Pack,20240413,food_cupboard,True
+Aldi,0.99,0.2,l,Bramwells Light Mayonnaise 504g,20240413,food_cupboard,False
+Aldi,0.65,1.3,kg,Cucina Smooth Tomato Pasta Sauce 500g,20240413,food_cupboard,False
+Aldi,0.65,1.3,kg,Cucina Onion & Garlic Pasta Sauce 500g,20240413,food_cupboard,False
+Aldi,0.65,1.3,kg,Cucina Tomato & Basil Sauce For Meatballs 500g,20240413,food_cupboard,False
+Aldi,0.65,1.3,kg,Cucina Bolognese Sauce 500g,20240413,food_cupboard,False
+Aldi,0.65,0.14,kg,Cucina Creamy Lasagne Sauce 470g,20240413,food_cupboard,False
+Aldi,0.65,0.13,kg,Cucina Tomato Lasagne Sauce 500g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Cucina Stir In Pasta Sauce Sun-dried Tomato 150g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Cucina Stir In Tomato & Basil Pasta Sauce 150g,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Bramwells Express Tomato & Herb Flavour Pasta Cup Shotz,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Bramwells Express Sweet & Sour Noodles Cup Shotz 67g,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Bramwells Express Macaroni Cheese Pasta Cupshotz 68g,20240413,food_cupboard,False
+Aldi,0.49,3.9,kg,Savour Bakes Original Grissini Breadsticks 125g,20240413,food_cupboard,False
+Aldi,1.39,4.6,kg,Asia Specialities Sweet Chilli Sauce 300g,20240413,food_cupboard,False
+Aldi,1.09,3.6,kg,Quixo For Meat Reduced Salt Gravy Granules 300g,20240413,food_cupboard,False
+Aldi,0.89,11.9,kg,The Pantry Sucralose Sweetener 75g,20240413,food_cupboard,False
+Aldi,0.89,11.9,kg,The Pantry Stevia Granulated Sweetener 75g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Crinkle Cut Roast Beef & Horseradish,20240413,food_cupboard,True
+Aldi,0.49,2.1,kg,Four Seasons Cannellini Beans In Water 400g (235g Drain,20240413,food_cupboard,False
+Aldi,0.65,4.3,kg,Savour Bakes Scottish Thin Oatcakes 125g,20240413,food_cupboard,False
+Aldi,0.65,4.3,kg,Savour Bakes Scottish Thick Oatcakes 150g,20240413,food_cupboard,False
+Aldi,0.65,5.4,kg,Quixo Ham Stock 12 Cubes 120g,20240413,food_cupboard,False
+Aldi,0.95,12.7,kg,Dominion Sugar Free Jelly Bears 75g,20240413,food_cupboard,False
+Aldi,1.19,3.1,kg,"Specially Selected Sundried Tomato, Lentil & Smoked Pap",20240413,food_cupboard,True
+Aldi,0.55,7.3,kg,Dominion Dolly Mixtures 75g,20240413,food_cupboard,False
+Aldi,0.55,7.3,kg,Dominion Milk Bottles 75g,20240413,food_cupboard,False
+Aldi,0.55,7.3,kg,Dominion Foam Bananas & Shrimps 75g,20240413,food_cupboard,False
+Aldi,1.49,1.4,kg,"Ready, Set…Cook! Salt Grinder 110g",20240413,food_cupboard,False
+Aldi,1.49,3.0,kg,Stonemill Pepper Grinder 50g,20240413,food_cupboard,True
+Aldi,0.65,3.8,kg,The Pantry Baking Powder 170g,20240413,food_cupboard,False
+Aldi,0.79,4.0,kg,Dominion Mint Imperials 200g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Bramwells Chunky Vegetable Soup 400g,20240413,food_cupboard,False
+Aldi,0.55,1.1,kg,Cucina Tomato Passata 500g,20240413,food_cupboard,False
+Aldi,0.59,2.9,kg,Cucina Tomato Purée 200g,20240413,food_cupboard,False
+Aldi,0.89,5.4,kg,The Deli Black Pitted Olives 340g (165g Drained),20240413,food_cupboard,False
+Aldi,1.19,10.4,kg,Snackrite Multipack Teddy Faces Ready Salted Crisps 6x1,20240413,food_cupboard,False
+Aldi,3.09,6.18,kg,The Foodie Market Soft Dried Apricots 500g,20240413,food_cupboard,False
+Aldi,0.89,7.5,kg,Belmont Mini Double Chocolate Cookies 6x20g,20240413,food_cupboard,True
+Aldi,0.89,3.2,kg,Snackrite Sour Cream & Chive Dip 280g,20240413,food_cupboard,False
+Aldi,0.89,3.0,kg,Snackrite Mild Salsa Dip 300g,20240413,food_cupboard,False
+Aldi,0.89,3.0,kg,Snackrite Hot Salsa Dip 300g,20240413,food_cupboard,False
+Aldi,0.45,4.1,kg,"Make In Minutes Pasta & Sauce Cheese, Leek & Ham Flavou",20240413,food_cupboard,False
+Aldi,0.45,4.1,kg,Bramwells Express Pasta With Macaroni Cheese Sauce 110g,20240413,food_cupboard,False
+Aldi,0.45,4.1,kg,Bramwells Express Pasta With Cheese & Broccoli Sauce 11,20240413,food_cupboard,False
+Aldi,0.45,4.1,kg,Bramwells Express Pasta With Chicken & Mushroom Sauce 1,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Cucina Tomato & Smoked Bacon Stir In Pasta Sauce 150g,20240413,food_cupboard,False
+Aldi,1.09,5.4,kg,Belmont Seal Mint Bars 202.4g,20240413,food_cupboard,True
+Aldi,1.35,12.1,kg,Harvest Morn Crispy Chunks Marshmallow 112g/4 Pack,20240413,food_cupboard,False
+Aldi,1.39,7.3,l,Solesta Sunflower Spray Light 190ml,20240413,food_cupboard,False
+Aldi,1.39,7.3,l,Solesta Spray Light Olive Oil 190ml,20240413,food_cupboard,False
+Aldi,1.89,4.7,kg,Bramwells Classic Chicken In White Sauce 400g,20240413,food_cupboard,False
+Aldi,1.99,5.0,kg,Bramwells Classic Irish Stew 400g,20240413,food_cupboard,False
+Aldi,1.99,5.0,kg,Belmont Biscuits Smooth Biscuit Spread 400g,20240413,food_cupboard,True
+Aldi,1.99,5.0,kg,Belmont Biscuits Crunchy Biscuit Spread 400g,20240413,food_cupboard,True
+Aldi,1.19,5.7,kg,Harvest Morn Crunchy Maple Syrup Granola Bars 5x42g,20240413,food_cupboard,False
+Aldi,1.19,5.7,kg,Harvest Morn Crunchy Oats & Honey Granola Bars 5x42g,20240413,food_cupboard,False
+Aldi,1.59,0.01,kg,Specially Selected Jalapeno Chilli Jam 305g,20240413,food_cupboard,True
+Aldi,0.79,2.0,l,"Ready, Set…Cook! Coconut Milk 400ml",20240413,food_cupboard,False
+Aldi,0.79,2.0,l,"Ready, Set…Cook! Reduced Fat Coconut Milk 400ml",20240413,food_cupboard,False
+Aldi,0.65,0.65,unit,The Pantry Sucralose Sweetener Tablets 300 Pack,20240413,food_cupboard,False
+Aldi,0.65,0.65,unit,The Pantry Stevia Sweetener Tablets 100 Pack,20240413,food_cupboard,False
+Aldi,1.45,3.2,kg,Grandessa Clear Honey 454g,20240413,food_cupboard,False
+Aldi,1.59,6.4,kg,Bramwells Peri-peri Garlic Sauce & Marinade 250g,20240413,food_cupboard,False
+Aldi,1.49,3.0,kg,"Ready, Set…Cook! Dried Black Peppercorn Grinder 50g",20240413,food_cupboard,False
+Aldi,1.25,3.4,kg,The Deli Pickled Gherkins With Chilli 680g (370g Draine,20240413,food_cupboard,False
+Aldi,1.49,4.4,kg,Specially Selected Apricot Conserve 340g,20240413,food_cupboard,True
+Aldi,1.49,4.4,kg,Specially Selected Blackcurrant Conserve 340g,20240413,food_cupboard,True
+Aldi,0.55,68.8,kg,"Ready, Set…Cook! Dried Parsley 8g",20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Four Seasons Peach Slices In Light Syrup 411g (250g Dra,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Four Seasons Peach Slices In Juice 411g (250g Drained),20240413,food_cupboard,False
+Aldi,1.09,8.7,kg,Gianni's Plain Waffle Cones 125g/10 Pack,20240413,food_cupboard,False
+Aldi,0.69,2.8,kg,Worldwide Foods Special Savoury Chicken Rice 250g,20240413,food_cupboard,False
+Aldi,4.59,9.2,l,Specially Selected Terra Di Bari Castel Del Monte Extra,20240413,food_cupboard,True
+Aldi,2.19,4.4,l,The Foodie Market Organic Apple Cider Vinegar 500ml,20240413,food_cupboard,False
+Aldi,0.49,7.5,kg,Brochan No Added Sugar Original Scottish Oat Porridge P,20240413,food_cupboard,False
+Aldi,0.45,6.9,kg,Brochan Cinnamon Flavoured Porridge Pot 65g,20240413,food_cupboard,False
+Aldi,0.95,3.8,kg,Belmont Caramelised Biscuits 250g,20240413,food_cupboard,True
+Aldi,0.85,10.9,kg,Make In Minutes Asia Inspired Japanese Style Katsu Curr,20240413,food_cupboard,False
+Aldi,0.95,3.8,kg,Asia Specialities Medium Egg Noodles 250g,20240413,food_cupboard,False
+Aldi,1.55,3.1,l,The Deli Cider Vinegar 500ml,20240413,food_cupboard,False
+Aldi,1.55,3.1,l,The Deli Red Wine Vinegar 500ml,20240413,food_cupboard,False
+Aldi,1.55,3.1,l,The Deli White Wine Vinegar 500ml,20240413,food_cupboard,False
+Aldi,0.99,8.3,kg,Belmont Jammy Wheels Minis 6x20g,20240413,food_cupboard,True
+Aldi,4.49,20.0,kg,Specially Selected Multifloral Manuka Honey Mgo 100+ 22,20240413,food_cupboard,True
+Aldi,0.99,11.8,kg,Harvest Morn Fibre Now Peanut Butter Popcorn Bars 84g/4,20240413,food_cupboard,False
+Aldi,0.99,11.8,kg,Harvest Morn Fibre Now Milk Chocolate Popcorn Bars 4x21,20240413,food_cupboard,False
+Aldi,0.89,3.6,l,Just Good Sauce Co. Roasted Garlic Mayonnaise 250ml,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Roast Chicken & Thyme Perfections 150g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Snackrite Perfections Thai Sweet Chilli Crisps 150g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Lentil Soup 400g,20240413,food_cupboard,False
+Aldi,0.62,1.6,kg,Bramwells Pea & Ham Soup 400g,20240413,food_cupboard,False
+Aldi,1.49,14.9,kg,Moser Roth Organic Vegan Dark Chocolate 100g,20240413,food_cupboard,True
+Aldi,1.49,14.9,kg,Moser Roth Organic Vegan Blonde Cocoa Bar 100g,20240413,food_cupboard,True
+Aldi,1.49,14.9,kg,Moser Roth Organic Vegan Classic Cocoa Bar 100g,20240413,food_cupboard,True
+Aldi,1.25,10.4,kg,Harvest Morn Birthday Cake Fibre Now Bars 5x24g,20240413,food_cupboard,False
+Aldi,1.25,10.4,kg,Harvest Morn Fibre Now Lemon Drizzle Bars 5x24g,20240413,food_cupboard,False
+Aldi,1.49,24.8,kg,Harvest Morn Birthday Cake High Protein Bar 60g,20240413,food_cupboard,False
+Aldi,0.69,2.8,kg,Worldwide Foods Special Lime & Coriander Rice 250g,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Worldwide Foods Special Mixed Pepper Rice 250g,20240413,food_cupboard,False
+Aldi,0.69,2.8,kg,Worldwide Foods Special Peri Peri Rice 250g,20240413,food_cupboard,False
+Aldi,1.99,3.8,kg,Harvest Morn Wheat Bisks Chocolate Chip Crispy Bites Ce,20240413,food_cupboard,False
+Aldi,1.39,6.95,kg,The Foodie Market Flaxseed 200g,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite BBQ Pop Outs 100g,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite Salt & Vinegar Pop Outs 100g,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Four Seasons Fruit Cocktail In Juice 411g (250g Drained,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Asia Specialities Chinese Style Curry Cooking Sauce 500,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Four Seasons Fruit Cocktail In Light Syrup 411g (250g D,20240413,food_cupboard,False
+Aldi,0.99,2.0,kg,Fiesta Mild Chilli Con Carne Cooking Sauce 500g,20240413,food_cupboard,False
+Aldi,1.19,9.2,kg,Belmont Milk Chocolate Rounds 130g,20240413,food_cupboard,True
+Aldi,1.09,8.1,kg,Belmont Take Away Milk Chocolate Biscuits 135g,20240413,food_cupboard,True
+Aldi,1.19,14.0,kg,Snackrite Mini Poppadoms 85g,20240413,food_cupboard,False
+Aldi,1.99,5.7,kg,"Ready, Set...Cook! Sesame Teriyaki Noodle Meal Kit 352g",20240413,food_cupboard,False
+Aldi,1.99,7.3,kg,"Ready, Set...Cook! Massaman Curry Meal Kit 272g",20240413,food_cupboard,False
+Aldi,1.99,7.6,kg,"Ready, Set…Cook! Khao Soi Meal Kit 262g",20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,Snackrite Popcorn Sweet 110g,20240413,food_cupboard,False
+Aldi,0.99,9.0,kg,Snackrite Popcorn Sweet & Salted 110g,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite Sour Cream & Onion Pop Outs 100g,20240413,food_cupboard,False
+Aldi,2.59,4.5,kg,The Fishmonger Tuna Chunks In Spring Water 4x145g (4x10,20240413,food_cupboard,False
+Aldi,1.79,4.8,kg,Harvest Morn Cocoa Peanut Butter Balls 375g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Dominion Lemon Sherbets 200g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Dominion Fruit Sherbets 200g,20240413,food_cupboard,False
+Aldi,1.39,4.5,kg,Asia Specialities Teriyaki Sauce 310g,20240413,food_cupboard,False
+Aldi,1.39,5.0,kg,Asia Specialities Satay Sauce 280g,20240413,food_cupboard,False
+Aldi,1.39,4.4,kg,Asia Specialities Hoisin Sauce 315g,20240413,food_cupboard,False
+Aldi,0.65,13.0,kg,The Fishmonger Anchovy Fillets In Olive Oil 50g (30g Dr,20240413,food_cupboard,False
+Aldi,1.55,3.1,kg,The Pantry Cornflour 500g,20240413,food_cupboard,False
+Aldi,0.35,17.5,kg,The Foodie Market Raspberry Dinos 20g,20240413,food_cupboard,False
+Aldi,0.35,17.5,kg,The Foodie Market Strawberry Dinos 20g,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Everyday Essentials Milk Chocolate 100g,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Everyday Essentials White Chocolate 100g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Gammon Flavour Crisps 150g,20240413,food_cupboard,True
+Aldi,0.34,1.4,kg,Everyday Essentials Peach Slices In A Light Syrup 411g,20240413,food_cupboard,False
+Aldi,0.75,0.09,kg,"Ready, Set…Cook! Mild Curry Powder 85g",20240413,food_cupboard,False
+Aldi,0.75,0.09,kg,"Ready, Set…Cook! Garam Masala 85g",20240413,food_cupboard,False
+Aldi,1.59,5.6,kg,Specially Selected Spiced Apple & Pear Chutney 285g,20240413,food_cupboard,True
+Aldi,1.69,16.9,kg,The Foodie Market Strawberry Dinos 5x20g,20240413,food_cupboard,False
+Aldi,3.75,2.3,kg,Heinz Cream Of Tomato Soup 4 X 400g,20240413,food_cupboard,False
+Aldi,1.25,8.1,kg,Mcvitie's Club Orange Chocolate Biscuit Bars 7 Pack,20240413,food_cupboard,False
+Aldi,3.75,2.3,kg,Heinz Cream Of Chicken Soup 4 X 400g,20240413,food_cupboard,False
+Aldi,3.75,2.3,kg,Heinz Beanz In A Rich Tomato Sauce 4 X 415g,20240413,food_cupboard,False
+Aldi,0.59,2.95,kg,Everyday Essentials Fruit & Nut Mix 200g,20240413,food_cupboard,False
+Aldi,1.29,4.0,kg,Bramwells Sweetcorn & Red Pepper Relish 320g,20240413,food_cupboard,False
+Aldi,1.29,4.0,kg,Bramwells Caramelised Red Onion Relish 320g,20240413,food_cupboard,False
+Aldi,0.38,1.06,kg,Everyday Essentials Peeled Potatoes In Water 560g (354g,20240413,food_cupboard,False
+Aldi,1.75,3.5,kg,Harvest Morn Honey Nut Crunchy Cluster Cereal 500g,20240413,food_cupboard,False
+Aldi,1.75,3.5,kg,Harvest Morn Honey Nut Chocolate Crunchy Cluster 500g,20240413,food_cupboard,False
+Aldi,2.65,5.0,kg,Mcvitie's Milk Chocolate Digestive Biscuits 2x266g,20240413,food_cupboard,False
+Aldi,0.95,31.7,kg,Dominion Complimints Sugar Free Spearmint Mints 30g/60,20240413,food_cupboard,False
+Aldi,0.95,31.7,kg,Dominion Complimints Sugar Free Peppermint Mints 30g/60,20240413,food_cupboard,False
+Aldi,0.95,31.7,kg,Dominion Complimints Sugar Free Strong Mints 30g,20240413,food_cupboard,False
+Aldi,1.85,5.3,kg,Specially Selected Greek Kalamata Olives 350g (200g Dra,20240413,food_cupboard,True
+Aldi,1.85,5.3,kg,Specially Selected Greek Halkadiki Olives 350g (200g Dr,20240413,food_cupboard,True
+Aldi,0.85,5.7,kg,Dominion Cola Bottles 150g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Dominion Jelly Cherries Fruit Gums 150g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Dominion Gummy Mix 150g,20240413,food_cupboard,False
+Aldi,0.85,5.7,kg,Dominion Teeth & Lips Gums 150g,20240413,food_cupboard,False
+Aldi,1.79,4.8,kg,Harvest Morn Caramelised Biscuit Cereal 375g,20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Finlays Ridge Cut Hot Chicken Wings Flavour Potato Cris,20240413,food_cupboard,False
+Aldi,0.95,7.3,kg,Savour Bakes Salt & Vinegar Rice Cakes 130g,20240413,food_cupboard,False
+Aldi,0.95,7.3,kg,Savour Bakes Sweet Chilli Rice Cakes 130g,20240413,food_cupboard,False
+Aldi,0.99,7.6,kg,Savour Bakes Multigrain Rice Cakes 130g,20240413,food_cupboard,False
+Aldi,0.99,7.6,kg,Savour Bakes Corn Cakes 130g,20240413,food_cupboard,False
+Aldi,0.99,7.6,kg,Savour Bakes Lightly Salted Rice Cakes 130g,20240413,food_cupboard,False
+Aldi,0.89,11.1,kg,Snackrite Spicy Nibbley Nobblies 80g,20240413,food_cupboard,False
+Aldi,0.95,5.9,kg,Dominion All Sports Fruit Gums 160g,20240413,food_cupboard,False
+Aldi,0.95,5.9,kg,Dominion Fruit Gums 160g,20240413,food_cupboard,False
+Aldi,0.95,5.9,kg,Dominion Rainbow Dots 160g,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Worldwide Foods Indian Style Grains 250g,20240413,food_cupboard,False
+Aldi,0.39,1.0,kg,Everyday Essentials Peeled Plum Tomatoes 400g,20240413,food_cupboard,False
+Aldi,0.85,3.7,kg,Dominion Liquorice Allsorts 230g,20240413,food_cupboard,False
+Aldi,0.85,3.7,kg,Dominion Vegan Wine Gums 230g,20240413,food_cupboard,False
+Aldi,1.39,8.7,kg,Specially Selected All Butter Shortbread Fingers 160g,20240413,food_cupboard,True
+Aldi,1.39,8.7,kg,Specially Selected All Butter Shortbread Rounds 160g,20240413,food_cupboard,True
+Aldi,1.39,8.7,kg,Specially Selected All Butter Lemon Shortbread Rounds 1,20240413,food_cupboard,True
+Aldi,1.39,8.7,kg,Specially Selected Belgian Chocolate Chip Shortbread Ro,20240413,food_cupboard,True
+Aldi,1.59,12.7,kg,The Foodie Market Yogurt Coated Raisins 5x25g,20240413,food_cupboard,False
+Aldi,0.85,3.7,kg,Dominion Fruit Pastilles 230g,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's French Onion Soup 400g,20240413,food_cupboard,False
+Aldi,1.99,3.1,kg,Four Seasons Supersweet Sweetcorn In Water 4x200g (4x16,20240413,food_cupboard,False
+Aldi,1.59,12.7,kg,The Foodie Market Strawberry Yogurt Bites 5x25g,20240413,food_cupboard,False
+Aldi,0.99,4.0,kg,Worldwide Foods Winter Grains 250g,20240413,food_cupboard,False
+Aldi,1.59,5.1,kg,Specially Selected Jalapeno Chilli Jam 340g,20240413,food_cupboard,True
+Aldi,2.59,6.0,kg,"Snackrite Family Snacks 18x18g, 6x17g/24 Pack",20240413,food_cupboard,False
+Aldi,0.89,11.1,kg,Snackrite Saucy Nibbley Nobblies 80g,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Bramwells Roasted Vegetable Cous Cous 100g,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Bramwells Lemon & Coriander Cous Cous 100g,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Bramwells Sundried Tomato & Garlic Cous Cous 100g,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Bramwells Moroccan Medley Cous Cous 100g,20240413,food_cupboard,False
+Aldi,1.19,1.7,kg,The Deli Pickled Baby Beetroot 710g (462g Drained),20240413,food_cupboard,False
+Aldi,0.39,1.0,kg,Everyday Essentials Chopped Tomatoes In Tomato Juice 40,20240413,food_cupboard,False
+Aldi,0.95,1.9,l,Bramwells Real Mayonnaise 500ml,20240413,food_cupboard,False
+Aldi,0.55,1.4,kg,Cucina Chunky Chopped Tomatoes With Herbs In Tomato Jui,20240413,food_cupboard,False
+Aldi,0.72,2.8,kg,Four Seasons Supersweet Sweetcorn In Water 325g (260g D,20240413,food_cupboard,False
+Aldi,1.49,24.8,kg,Harvest Morn Jaffa Flavour High Protein Bar 60g,20240413,food_cupboard,False
+Aldi,1.49,24.8,kg,Harvest Morn Mint Flavour High Protein Bar 60g,20240413,food_cupboard,False
+Aldi,1.19,9.9,kg,Dairyfine Giant Chocolate Buttons Orange 120g,20240413,food_cupboard,False
+Aldi,1.19,9.9,kg,Dairyfine Giant Chocolate Buttons Blended 120g,20240413,food_cupboard,False
+Aldi,3.79,21.1,kg,Harvest Morn High Protein Peanut Butter Bars 3x60g,20240413,food_cupboard,False
+Aldi,3.79,21.1,kg,Harvest Morn Cookie Dough Flavour High Protein Bar 3x60,20240413,food_cupboard,False
+Aldi,1.15,11.5,kg,Snackrite Eatz. Protein Snack Mix 100g,20240413,food_cupboard,False
+Aldi,0.65,6.4,kg,Fishmonger Tuna Chunks In Spring Water 145g (102g Drain,20240413,food_cupboard,False
+Aldi,0.89,12.7,kg,Bramwells Cheesy Pasta Pot 70g,20240413,food_cupboard,False
+Aldi,1.79,6.4,kg,Harvest Morn Strawberry Top Twists 4x70g,20240413,food_cupboard,False
+Aldi,1.79,6.4,kg,Harvest Morn Chocolate Top Twists 4x70g,20240413,food_cupboard,False
+Aldi,0.65,24.1,kg,The Foodie Market Hand Popped Popcorn 27g,20240413,food_cupboard,False
+Aldi,0.65,24.1,kg,The Foodie Market Hand Popped Popcorn Salted Caramel 27,20240413,food_cupboard,False
+Aldi,0.99,8.3,kg,Snackrite Chip Shop Curry Snack Mix 120g,20240413,food_cupboard,False
+Aldi,0.99,11.6,kg,Snackrite Chilli Rice Crackers 85g,20240413,food_cupboard,False
+Aldi,0.99,11.6,kg,Snackrite Wasabi Snack Mix 85g,20240413,food_cupboard,False
+Aldi,1.35,5.87,kg,The Foodie Market Banana Chips 230g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Bramwells Chunky Salsa Topping 280g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Bramwells Soured Cream Topping 280g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Bramwells Chunky Guacamole Topping 280g,20240413,food_cupboard,False
+Aldi,1.35,6.75,kg,Snackrite Salt & Vinegar Peanuts 200g,20240413,food_cupboard,False
+Aldi,1.25,10.1,kg,Mcvitie's 7 Gold Bars 124g,20240413,food_cupboard,False
+Aldi,0.55,15.7,kg,Bramwells Salt & Pepper Seasoning 35g,20240413,food_cupboard,False
+Aldi,1.49,22.9,kg,Specially Selected Sriracha Sweet & Sour Seasoning 65g,20240413,food_cupboard,True
+Aldi,1.69,6.6,kg,Specially Selected Pesto Salad Dressing 255g,20240413,food_cupboard,True
+Aldi,1.09,7.3,kg,Snackrite Thick Cut Ridged Flame Grilled Steak Flavour,20240413,food_cupboard,False
+Aldi,1.09,7.3,kg,Snackrite Thick Cut Ridged Thai Sweet Chicken Flavour C,20240413,food_cupboard,False
+Aldi,1.09,3.8,kg,Bramwells American Style Mustard 290g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Bramwells Sweet Whiskey BBQ Sauce 280g,20240413,food_cupboard,False
+Aldi,1.25,4.5,kg,Bramwells Jerk BBQ Sauce 280g,20240413,food_cupboard,False
+Aldi,1.29,4.0,kg,Bramwells House Burger Relish 320g,20240413,food_cupboard,False
+Aldi,2.75,8.5,kg,Mini Cheddars Jacob's Original 14 X Pack,20240413,food_cupboard,False
+Aldi,0.49,4.9,kg,Make In Minutes Spice Infusion Cous Cous 100g,20240413,food_cupboard,False
+Aldi,1.15,2.9,kg,Everyday Essentials Chocolate Hazelnut Spread 400g,20240413,food_cupboard,False
+Aldi,0.75,3.8,kg,Dominion Mini Fruit Gems 200g,20240413,food_cupboard,False
+Aldi,1.29,8.3,kg,The Deli Pickled Pink Onions 340g (156g Drained),20240413,food_cupboard,False
+Aldi,0.59,2.9,kg,Cucina Tomato Purée Double Concentrate 200g,20240413,food_cupboard,False
+Aldi,0.99,5.0,kg,Dominion Aniseed Twists Boiled Sweets 200g,20240413,food_cupboard,False
+Aldi,1.09,4.4,kg,Belmont Milk Chocolate Rich Tea Biscuits 248g,20240413,food_cupboard,True
+Aldi,3.39,5.2,kg,Heinz Tomato Ketchup 650g,20240413,food_cupboard,False
+Aldi,3.39,5.2,kg,Heinz 50% Less Sugar & Salt Tomato Ketchup 625g,20240413,food_cupboard,False
+Aldi,2.99,7.5,kg,Heinz Spaghetti 4 X 400g,20240413,food_cupboard,False
+Aldi,2.99,7.5,kg,Heinz Hoops 4 X 400g,20240413,food_cupboard,False
+Aldi,0.49,2.0,kg,Everyday Essentials Chocolate Chip Cookies 250g,20240413,food_cupboard,False
+Aldi,1.99,4.4,l,Asia Specialities Sriracha Hot Chilli Sauce 535g,20240413,food_cupboard,False
+Aldi,1.75,2.5,kg,Specially Selected Garlic Passata Rustica 690g,20240413,food_cupboard,True
+Aldi,1.75,2.5,kg,Specially Selected Basil & Oregano Passata Rustica 690g,20240413,food_cupboard,True
+Aldi,1.75,5.2,kg,Dominion Flix 'N' Mix 340g,20240413,food_cupboard,False
+Aldi,0.99,6.2,kg,Dairyfine Munchy Peanut Cereal Bars 5x32g,20240413,food_cupboard,False
+Aldi,0.99,6.2,kg,Dairyfine Munchy Chocolate & Raisin Cereal Bars 5x32g,20240413,food_cupboard,False
+Aldi,0.99,6.2,kg,Dairyfine Choc Chip Munchy Cereal Bars 5x32g,20240413,food_cupboard,False
+Aldi,1.29,23.5,kg,Harvest Morn Chocolate Peanut & Caramel Flavour Protein,20240413,food_cupboard,False
+Aldi,1.29,23.5,kg,Harvest Morn Chocolate Salted Caramel Flavour Protein B,20240413,food_cupboard,False
+Aldi,1.69,10.1,kg,Snickers Bars (166.8g) 4 X 41.7g,20240413,food_cupboard,False
+Aldi,1.69,42.9,kg,"Mars Caramel, Nougat & Milk Chocolate Bars Multipack 39",20240413,food_cupboard,False
+Aldi,0.99,6.2,kg,Dairy Fine Raisin Munchy Cereal Bars 5x32g,20240413,food_cupboard,False
+Aldi,0.99,6.2,kg,Dairy Fine Peanut Munchy Cereal Bars 5x32g,20240413,food_cupboard,False
+Aldi,0.99,6.2,kg,Dairy Fine Choc Chips Munchy Cereal Bars 5x32g,20240413,food_cupboard,False
+Aldi,0.89,3.6,kg,Bramwells Lemon & Black Pepper Mayo 250ml,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,The Pantry Walnut Pieces 150g,20240413,food_cupboard,False
+Aldi,1.29,12.9,kg,The Pantry Pecan Halves 100g,20240413,food_cupboard,False
+Aldi,1.69,16.9,kg,The Foodie Market Apple Dinos 5x20g,20240413,food_cupboard,False
+Aldi,1.69,16.9,kg,The Foodie Market Blackcurrant Dinos 5x20g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Bramwells Chunky Lamb Soup 400g,20240413,food_cupboard,False
+Aldi,2.89,24.1,kg,Harvest Morn Chocolate Peanut & Caramel Flavour Vitamin,20240413,food_cupboard,False
+Aldi,2.89,24.1,kg,Harvest Morn Chocolate Salted Caramel Flavour Vitamin &,20240413,food_cupboard,False
+Aldi,0.89,2.2,kg,Duncan's Selections Garden Vegetable Soup 400g,20240413,food_cupboard,False
+Aldi,0.79,1.7,kg,Grandessa Fine Cut Marmalade 454g,20240413,food_cupboard,False
+Aldi,0.49,12.3,kg,Bramwells Cheese Sauce Mix 40g,20240413,food_cupboard,False
+Aldi,0.49,19.6,kg,Bramwells Peppercorn Simmer Sauce Mix 25g,20240413,food_cupboard,False
+Aldi,0.49,24.5,kg,Bramwells Parsley Simmer Sauce Mix 20g,20240413,food_cupboard,False
+Aldi,1.49,67.7,kg,Snackrite Tiles Salt & Vinegar Flavour 6x22g,20240413,food_cupboard,False
+Aldi,1.35,13.5,kg,The Foodie Market Dried Mango 100g,20240413,food_cupboard,False
+Aldi,0.65,28.3,kg,Snackrite Sour Cream Popouts 23g,20240413,food_cupboard,False
+Aldi,1.25,14.7,kg,Snackrite BBQ Popouts 5x17g,20240413,food_cupboard,False
+Aldi,1.25,14.7,kg,Snackrite Sour Cream Popouts 5x17g,20240413,food_cupboard,False
+Aldi,0.49,7.2,kg,Bramwells Express Curry Noodles 60g,20240413,food_cupboard,False
+Aldi,1.85,12.33,kg,Snackrite Honey & Lime Cashews 150g,20240413,food_cupboard,False
+Aldi,1.85,12.33,kg,Snackrite Hot Honey Cashews 150g,20240413,food_cupboard,False
+Aldi,0.65,14.4,kg,Snackrite Ready Salted Crisps 45% Less Salt 45g,20240413,food_cupboard,False
+Aldi,0.65,28.3,kg,Snackrite BBQ Popouts 23g,20240413,food_cupboard,False
+Aldi,1.65,13.2,kg,M&M's Crunchy Peanut & Milk Chocolate Bites Pouch Bag 1,20240413,food_cupboard,False
+Aldi,1.65,13.2,kg,M&M's Milk Chocolate Bites Pouch Bag 125g,20240413,food_cupboard,False
+Aldi,1.59,18.71,kg,The Foodie Market Lime Infused Dried Mango 85g,20240413,food_cupboard,False
+Aldi,1.59,18.71,kg,The Foodie Market Dried Pineapple Chunks 85g,20240413,food_cupboard,False
+Aldi,1.59,12.23,kg,"The Foodie Market Papaya, Mango & Banana Chips 130g",20240413,food_cupboard,False
+Aldi,1.15,7.7,kg,Specially Selected Kentucky Smoked BBQ Crinkle Cut Cris,20240413,food_cupboard,True
+Aldi,0.45,18.0,kg,Snackrite Strawberry Yogurt Bites 25g,20240413,food_cupboard,False
+Aldi,0.45,18.0,kg,Snackrite Yogurt Coated Raisins 25g,20240413,food_cupboard,False
+Aldi,0.45,18.0,kg,Snackrite Banana Yogurt Bites 25g,20240413,food_cupboard,False
+Aldi,0.39,19.5,kg,The Foodie Market Apple Dinos Fruit Roll 20g,20240413,food_cupboard,False
+Aldi,0.39,19.5,kg,The Foodie Market Blackcurrant Dinos Fruit Roll 20g,20240413,food_cupboard,False
+Aldi,2.45,5.4,kg,Dominion Fruit Chews Sweets 450g,20240413,food_cupboard,False
+Aldi,0.95,31.7,kg,Dominion Strawberry & Peach Flavour Complimints 30g,20240413,food_cupboard,False
+Aldi,1.49,14.19,kg,Snackrite Protein Snack Mix 3x35g,20240413,food_cupboard,False
+Aldi,0.79,4.7,kg,Savour Bakes Wheat Crackers 170g,20240413,food_cupboard,False
+Aldi,0.79,4.7,kg,Savour Bakes Multigrain Crackers 170g,20240413,food_cupboard,False
+Aldi,1.49,16.02,kg,Snackrite Smokehouse BBQ Snack Mix 3x31g,20240413,food_cupboard,False
+Aldi,0.99,5.4,kg,Ye Olde Oak 8 Hot Dogs In Brine 400g (184g Drained),20240413,food_cupboard,False
+Aldi,1.1,7.6,kg,Tunnock's Milk Chocolate Tea Cakes 6x24g,20240413,food_cupboard,False
+Aldi,1.65,6.9,kg,Tunnock's Caramel Wafer Biscuits 8x30g,20240413,food_cupboard,False
+Aldi,1.25,7.1,kg,Haribo Starmix 175g,20240413,food_cupboard,False
+Aldi,1.25,7.1,kg,Haribo Tangfastics Bag 175g,20240413,food_cupboard,False
+Aldi,1.09,7.8,kg,Maoam Stripes 140g,20240413,food_cupboard,False
+Aldi,1.09,7.8,kg,Maoam Pinballs 140g,20240413,food_cupboard,False
+Aldi,1.09,7.8,kg,Maoam Joystixx 140g,20240413,food_cupboard,False
+Aldi,1.25,7.1,kg,Haribo Supermix Bag 175g,20240413,food_cupboard,False
+Aldi,1.25,7.1,kg,Haribo Giant Strawbs Bag 175g,20240413,food_cupboard,False
+Aldi,2.39,7.1,kg,Haribo Super Mini Mix Multipack Bag 336g,20240413,food_cupboard,False
+Aldi,2.99,12.0,kg,Marmite Classic Yeast Extract Spread 250g,20240413,food_cupboard,False
+Aldi,2.55,14.8,kg,Kinder Bueno Milk And Hazelnuts Bars (172g) 4x43g,20240413,food_cupboard,False
+Aldi,4.69,7.4,kg,Nutella® Hazelnut Spread With Cocoa 630g,20240413,food_cupboard,False
+Aldi,1.45,10.0,kg,Kitkat 2 Finger Original (144.9g) 7 X 20.7g,20240413,food_cupboard,False
+Aldi,1.29,13.6,kg,Cadbury Dairy Milk Chocolate Bar 95g,20240413,food_cupboard,False
+Aldi,1.29,13.6,kg,Cadbury Dairy Milk Fruit And Nut Chopped Chocolate Bar,20240413,food_cupboard,False
+Aldi,1.29,12.0,kg,Cadbury Twirl Chocolate Bar 5 Pack 5 X 21.5g,20240413,food_cupboard,False
+Aldi,1.35,9.1,kg,Cadbury Crunchie Bars (104.4g) 4 X 26.1g,20240413,food_cupboard,False
+Aldi,1.19,6.6,kg,Tunnock's Snowballs Coconut Covered Marshmallows 6x30g,20240413,food_cupboard,False
+Aldi,1.85,11.2,kg,Pringles Sour Cream & Onion 165g,20240413,food_cupboard,False
+Aldi,1.35,9.0,kg,Cadbury Double Decker Chocolate Bar 4 Pack 4x37.3g,20240413,food_cupboard,False
+Aldi,1.85,11.2,kg,Pringles Texas BBQ Sauce 165g,20240413,food_cupboard,False
+Aldi,2.25,4.5,kg,Kellogg's Corn Flakes 500g,20240413,food_cupboard,False
+Aldi,3.99,7.98,kg,Lurpak Spreadable Slightly Salted Butter Blended With R,20240413,food_cupboard,False
+Aldi,1.65,13.1,kg,Kinder Medium Chocolate Bars (126g) 6x21g,20240413,food_cupboard,False
+Aldi,2.49,5.8,l,Hellmann's Uefa Euro 2024 Limited Edition Condiment Lig,20240413,food_cupboard,False
+Aldi,2.49,5.8,l,Hellmann's Mayonnaise Real 430,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,Golden Wonder Fully Flavoured Cheese & Onion 6x25g,20240413,food_cupboard,False
+Aldi,1.55,9.7,kg,Kitkat Chunky Bars (160g) 4 X 40g,20240413,food_cupboard,False
+Aldi,2.79,12.5,kg,Knorr Stock Pots Chicken 8x28g,20240413,food_cupboard,False
+Aldi,2.79,12.5,kg,Knorr Stock Pot Vegetable 8x28g,20240413,food_cupboard,False
+Aldi,2.79,12.5,kg,Knorr Stock Pots Beef 224g,20240413,food_cupboard,False
+Aldi,3.99,0.11,unit,Weetabix Cereal 36 X Biscuits,20240413,food_cupboard,False
+Aldi,2.25,7.5,kg,Kellogg's Crunchy Nut 300g,20240413,food_cupboard,False
+Aldi,0.39,2.0,kg,Claylands Biscuits Bourbon Creams 200g,20240413,food_cupboard,False
+Aldi,0.49,0.49,unit,Millions Bubblegum Flavour 45g,20240413,food_cupboard,False
+Aldi,0.49,0.49,unit,Millions Strawberry 45g,20240413,food_cupboard,False
+Aldi,2.99,9.9,kg,Walkers Classic Pack 12 X 25g,20240413,food_cupboard,False
+Aldi,0.3,1.5,kg,Claylands Biscuits Custard Creams 200g,20240413,food_cupboard,False
+Aldi,1.75,4.4,kg,Carnation ® Sweetened Condensed Milk Can 397g,20240413,food_cupboard,False
+Aldi,1.89,4.2,kg,Flora Buttery 450g,20240413,food_cupboard,False
+Aldi,1.89,4.2,kg,Flora Lighter 450g,20240413,food_cupboard,False
+Aldi,0.99,7.1,kg,Swizzels Drumstick Squashies Sour Cherry & Apple Flavou,20240413,food_cupboard,False
+Aldi,0.99,7.1,kg,Swizzels Drumstick Squashies Original Raspberry & Milk,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,Whitworths Dark Soft Brown Sugar 500g,20240413,food_cupboard,False
+Aldi,1.09,2.2,kg,Whitworths Light Soft Brown Sugar 500g,20240413,food_cupboard,False
+Aldi,1.19,7.5,kg,Great Food Affair Bruschetta 150g,20240413,food_cupboard,False
+Aldi,0.89,1.8,kg,Whitworths Icing Sugar 500g,20240413,food_cupboard,False
+Aldi,1.35,13.5,kg,Galaxy Smooth Milk Chocolate Block Bar Vegetarian 100g,20240413,food_cupboard,False
+Aldi,1.35,12.3,kg,Galaxy Smooth Mint Chocolate Block Bar 110g,20240413,food_cupboard,False
+Aldi,2.49,5.4,kg,Hp Classic BBQ Sauce 465g,20240413,food_cupboard,False
+Aldi,0.99,6.6,kg,Jacob's Tuc Original Snack Crackers 150g,20240413,food_cupboard,False
+Aldi,1.35,14.2,kg,Snack A Jacks Salt & Vinegar Multipack Rice Cakes Crisp,20240413,food_cupboard,False
+Aldi,1.35,14.2,kg,Snack A Jacks Sour Cream & Chive Multipack Rice Cakes C,20240413,food_cupboard,False
+Aldi,1.35,14.2,kg,Snack A Jacks Sweet Chilli Multipack Rice Cakes Crisps,20240413,food_cupboard,False
+Aldi,0.99,7.1,kg,Swizzels Drumstick Squashies Rhubarb & Custard Flavour,20240413,food_cupboard,False
+Aldi,0.45,5.3,kg,Koka Oriental Instant Noodles The Original Spicy Stir-f,20240413,food_cupboard,False
+Aldi,0.45,5.3,kg,Koka The Original Tom Yum Flavour Oriental Instant Nood,20240413,food_cupboard,False
+Aldi,0.45,5.3,kg,Koka The Original Spicy Stir-fried Oriental Instant Noo,20240413,food_cupboard,False
+Aldi,0.45,5.3,kg,Koka The Original Vegetable Flavour Oriental Instant No,20240413,food_cupboard,False
+Aldi,1.25,9.6,kg,Poppets Toffee Milk Choc Coated Chewy Toffee 130g,20240413,food_cupboard,False
+Aldi,2.85,13.2,kg,Walkers French Fries Flavour Crispy Potato Snacks 12 X,20240413,food_cupboard,False
+Aldi,1.25,16.7,kg,Golden Wonder Ringos Cheese & Onion 6 X 12.5g,20240413,food_cupboard,False
+Aldi,1.25,16.7,kg,Golden Wonder Ringos Salt & Vinegar 6 X 12.5g,20240413,food_cupboard,False
+Aldi,2.49,5.0,kg,Shreddies The Frosted One 500g,20240413,food_cupboard,False
+Aldi,2.49,5.0,kg,Shreddies The Coco One 500g,20240413,food_cupboard,False
+Aldi,1.49,14.9,kg,"Eat Real Kids Veggie Straws With Tomato, Kale & Spinach",20240413,food_cupboard,False
+Aldi,2.99,18.7,kg,Nature Valley Protein Peanut & Chocolate Bars (160g) 4,20240413,food_cupboard,False
+Aldi,2.99,18.7,kg,Nature Valley Protein Salted Caramel Nut (160g) 4 X 40g,20240413,food_cupboard,False
+Aldi,0.99,6.6,kg,Jacob's Baked Cheddars Cheese Crackers 150g,20240413,food_cupboard,False
+Aldi,2.49,5.9,kg,Heinz Saucy Sauce Mayo Ketchup Sauce 425g,20240413,food_cupboard,False
+Aldi,2.49,6.2,kg,Heinz Mayo Mustard Sauce 400g,20240413,food_cupboard,False
+Aldi,2.49,6.2,kg,Heinz Mayoracha Mayo Sriracha Sauce 400g,20240413,food_cupboard,False
+Aldi,0.8,8.9,kg,Batchelors Super Noodles Southern Fried Chicken Flavour,20240413,food_cupboard,False
+Aldi,0.8,8.9,kg,Batchelors Super Noodles Chicken & Mushroom Flavour 90g,20240413,food_cupboard,False
+Aldi,0.8,8.9,kg,Batchelors Super Noodles Chow Mein Flavour 90g,20240413,food_cupboard,False
+Aldi,0.8,9.9,kg,Batchelors Low Fat Super Noodles Chicken & Herb Flavour,20240413,food_cupboard,False
+Aldi,2.49,5.0,kg,Weetabix Crispy Minis Chocolate Chip 500g,20240413,food_cupboard,False
+Aldi,1.99,4.7,kg,Weetos Chocolatey Hoops 420g,20240413,food_cupboard,False
+Aldi,1.99,4.7,kg,Weetos Chocolatey Hoops Honeycomb Flavour 420g,20240413,food_cupboard,False
+Aldi,0.99,4.5,kg,Lees' 12 Caramel Teacakes 220g,20240413,food_cupboard,False
+Aldi,1.15,2.3,kg,Gold Star Gold Star Chip Shop Style Pickled Onions 500g,20240413,food_cupboard,False
+Aldi,0.99,1.5,kg,Gold Star Chip Shop Style Brown Sauce 670g,20240413,food_cupboard,False
+Aldi,1.49,6.8,kg,Yeung's Concentrated Chinese Curry Mix 220g,20240413,food_cupboard,False
+Aldi,1.25,7.4,kg,Mrs Tilly's Scottish Tablet Popcorn 170g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Taylors Potato Crisps Mature Cheddar & Onion Flavour 15,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Taylors Potato Crisps Pickled Onion Flavour 150g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Taylors Ridge Cut Potato Crisps Lightly Sea Salted 150g,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Taylors Ridge Cut Potato Crisps Sea Salt & Cider Vinega,20240413,food_cupboard,False
+Aldi,1.29,6.5,kg,The Big Night In Popcorn Sweet 200g,20240413,food_cupboard,False
+Aldi,1.29,6.5,kg,The Big Night In Popcorn Sweet & Salted 200g,20240413,food_cupboard,False
+Aldi,1.29,6.5,kg,The Big Night In Popcorn Butter Toffee 200g,20240413,food_cupboard,False
+Aldi,1.49,18.6,kg,Shore Lightly Salted Seaweed Chips 80g,20240413,food_cupboard,False
+Aldi,1.49,18.6,kg,Shore Sweet Sriracha Seaweed Chips 80g,20240413,food_cupboard,False
+Aldi,0.69,16.8,kg,Maggi Cajun 38g,20240413,food_cupboard,False
+Aldi,0.69,16.8,kg,Maggi Butter Chicken 41g,20240413,food_cupboard,False
+Aldi,0.69,16.8,kg,Maggi Pan-perfect Sweet Teriyaki 37g,20240413,food_cupboard,False
+Aldi,0.69,16.8,kg,Maggi Air Fryer Fajita 27g,20240413,food_cupboard,False
+Aldi,0.69,16.8,kg,Maggi Air Fryer Shawarma 25g,20240413,food_cupboard,False
+Aldi,0.69,16.8,kg,Maggi Air Fryer Piri Piri 27g,20240413,food_cupboard,False
+Aldi,2.75,3.4,kg,Heinz Baked Beanz Snap Pots 4x200g,20240413,food_cupboard,False
+Aldi,2.75,3.4,kg,Heinz Hoops Snap Pots (760g) 4 X 190g,20240413,food_cupboard,False
+Aldi,2.75,3.4,kg,Heinz Baked Beanz Snap Pots 4 X 200g,20240413,food_cupboard,False
+Aldi,1.19,10.3,kg,Mcvitie's Iced Gems Multipack Biscuits 5 X 23g,20240413,food_cupboard,False
+Aldi,2.89,11.2,kg,Milky Way Nougat & Milk Chocolate Snack Bars Multipack,20240413,food_cupboard,False
+Aldi,2.89,9.0,kg,Twix Caramel & Milk Chocolate Fingers Biscuit Snack Bar,20240413,food_cupboard,False
+Aldi,1.49,10.8,kg,Jacob's Twiglets 6 X 23g,20240413,food_cupboard,False
+Aldi,0.85,7.7,kg,Mcvitie's 10 Jaffa Cakes The Original 10 X Jaffa Cakes,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Crosse & Blackwell Ltd Cauliflower & Wensleydale 400g,20240413,food_cupboard,False
+Aldi,1.25,1.8,kg,Napolina Sieved Tomatoes Passata 690g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Napolina Chopped Tomatoes With Garlic 400g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Crosse & Blackwell Ltd Broccoli & Stilton 400g,20240413,food_cupboard,False
+Aldi,0.99,2.5,kg,Crosse & Blackwell Ltd Spicy Parsnip & Carrot 400g,20240413,food_cupboard,False
+Aldi,1.25,12.5,kg,Golden Wonder Chippies Salt & Vinegar Flavour Potato St,20240413,food_cupboard,False
+Aldi,1.25,12.5,kg,Golden Wonder Chippies Chip Shop Curry Flavour Potato S,20240413,food_cupboard,False
+Aldi,3.75,7.5,kg,Golden Wonder Fully Flavoured Variety Pack 20 X 25g,20240413,food_cupboard,False
+Aldi,1.99,4.4,kg,Rose's Lime Fine Cut Marmalade 454g,20240413,food_cupboard,False
+Aldi,1.99,4.4,kg,Rose's Lemon & Lime Fine Cut Marmalade 454g,20240413,food_cupboard,False
+Aldi,1.49,11.5,kg,Walkers Wotsits Prawn Cocktail Sharing Snacks Crisps 13,20240413,food_cupboard,False
+Aldi,1.49,14.3,kg,Walkers Squares Salt & Vinegar Sharing Snacks Crisps 10,20240413,food_cupboard,False
+Aldi,1.49,10.6,kg,Walkers Crinkles Simply Salted Sharing Bag Crisps 140g,20240413,food_cupboard,False
+Aldi,1.49,10.6,kg,Walkers Crinkles Cheddar Cheese & Onion Sharing Bag Cri,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Walkers Wotsits Sweet & Spicy Sharing Snacks Crisps 150,20240413,food_cupboard,False
+Aldi,1.49,11.8,kg,Walkers Wotsits Really Cheesy Sharing Snacks Crisps 126,20240413,food_cupboard,False
+Aldi,0.75,7.5,kg,Naked Singapore Style Curry Egg Noodles 100g,20240413,food_cupboard,False
+Aldi,0.75,7.5,kg,Naked Japanese Style Chicken Yakisoba Flavour Egg Noodl,20240413,food_cupboard,False
+Aldi,0.75,7.5,kg,Naked Korean Style Beef Flavour Egg Noodles 100g,20240413,food_cupboard,False
+Aldi,1.25,13.0,kg,Nik Naks Nice 'N' Spicy Sharing Crisps 95g,20240413,food_cupboard,False
+Aldi,1.99,5.5,kg,Weetabix Melts Milk Chocolate 360g,20240413,food_cupboard,False
+Aldi,1.99,5.5,kg,Weetabix Chocolatey Hazelnut Melts 360g,20240413,food_cupboard,False
+Aldi,1.29,8.6,kg,Golden Wonder Fully Flavoured Pickled Onion 6 X 25g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Seabrook Sea Salt & Vinegar Flavour The Original Crinkl,20240413,food_cupboard,False
+Aldi,1.49,11.5,kg,Kettle Sea Salt And Cruished Black Peppercorns Potato C,20240413,food_cupboard,False
+Aldi,1.49,9.9,kg,Kettle® Chips Kettle Lightly Salted Potato Chips 130g,20240413,food_cupboard,False
+Aldi,1.49,11.5,kg,Kettle® Chips Kettle Sea Salt & Balsamic Vinegar Of Mod,20240413,food_cupboard,False
+Aldi,2.99,10.7,kg,Rice Krispies Squares Gooey Marshmallow Bars (224g) 8 X,20240413,food_cupboard,False
+Aldi,2.99,10.7,kg,Kellogg's Rice Krispies Squares Chocolatey Bars (288g),20240413,food_cupboard,False
+Aldi,2.25,6.8,kg,Kellogg's Frosties Breakfast Cereal 330g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Seabrook Smoky Bacon Flavour The Original Crinkle Cut C,20240413,food_cupboard,False
+Aldi,1.85,10.0,kg,Pringles Cheese & Onion 185g,20240413,food_cupboard,False
+Aldi,1.85,10.0,kg,Pringles Paprika 185g,20240413,food_cupboard,False
+Aldi,1.85,10.0,kg,Pringles Prawn Cocktail Flavour 185g,20240413,food_cupboard,False
+Aldi,1.25,9.5,kg,Oreo Original Vanilla Sandwich Biscuits 6 Snack Packs 1,20240413,food_cupboard,False
+Aldi,2.99,7.8,kg,Kellogg's Pop Tarts S'mores Choco & Marshmallow Flavour,20240413,food_cupboard,False
+Aldi,1.75,9.7,kg,Snack A Jacks Chocolate Chip Sharing Rice Cakes 180g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Carr's Melts Original Crackers 150g,20240413,food_cupboard,False
+Aldi,1.25,8.3,kg,Carr's Melts Cheese Crackers 150g,20240413,food_cupboard,False
+Aldi,1.19,13.2,kg,Golden Cross Party Wheels Cheese & Onion Flavour 90g,20240413,food_cupboard,False
+Aldi,1.19,13.2,kg,Golden Cross Party Wheels Hot & Spicy Flavour 90g,20240413,food_cupboard,False
+Aldi,0.99,13.8,kg,Golden Cross Johnny's Onion Rings Onion Flavour Maize S,20240413,food_cupboard,False
+Aldi,0.99,6.9,kg,Colman's Sauce Tartare 144g,20240413,food_cupboard,False
+Aldi,0.99,6.0,kg,Colman's Sauce Mint 165g,20240413,food_cupboard,False
+Aldi,1.49,10.6,kg,Walkers Max Punchy Paprika Sharing Crisps 140g,20240413,food_cupboard,False
+Aldi,1.49,10.6,kg,Walkers Max Strong Jalapeño & Cheese Sharing Crisps 140,20240413,food_cupboard,False
+Aldi,1.49,10.6,kg,Walkers Max Strong Hot Chicken Wings Sharing Crisps 140,20240413,food_cupboard,False
+Aldi,2.99,7.8,kg,Kellogg's Pop Tarts Frosted Hot Fudge Sundae Flavour (3,20240413,food_cupboard,False
+Aldi,1.69,4.2,l,Lacura Hairspray Strong Hold 400ml,20240413,health_products,True
+Aldi,1.59,5.3,l,Lacura Shampoo - Mighty 300ml,20240413,health_products,True
+Aldi,1.59,5.3,l,Lacura Conditioner - Mighty 300ml,20240413,health_products,True
+Aldi,0.39,0.02,unit,Health Essentials Paracetamol 16 Pack/500mg,20240413,health_products,False
+Aldi,0.39,0.02,unit,Galpharm Paracetamol 500mg Caplets 16 Pack,20240413,health_products,False
+Aldi,2.29,0.02,unit,Activ-max Vitamin D Tablets 105 Pack,20240413,health_products,False
+Aldi,0.59,0.02,unit,Lacura 3-in-1 Gentle Cleansing Facial Wipes 25 Pack,20240413,health_products,True
+Aldi,0.79,0.06,unit,Galpharm One-a-day Allergy And Hayfever Relief 10mg Tab,20240413,health_products,False
+Aldi,0.89,0.45,unit,Dentitex Medium Whitening Toothbrush 2 Pack,20240413,health_products,False
+Aldi,0.85,2.8,l,Lacura Cleanse & Nourish Shea Butter & Ginger Hand Wash,20240413,health_products,True
+Aldi,0.4,0.03,unit,Flamingo Ibuprofen Tablets 16 X Tablets,20240413,health_products,False
+Aldi,0.85,2.8,l,Lacura Cleanse & Protect Thyme & Tea Tree Hand Wash 300,20240413,health_products,True
+Aldi,0.85,2.8,l,Lacura Cleanse & Moisturise Jojoba & Camomile Hand Wash,20240413,health_products,True
+Aldi,2.49,33.2,l,Colgate Sensitive Instant Relief Enamel Repair Toothpas,20240413,health_products,False
+Aldi,2.49,33.2,l,Colgate Max White Luminous Whitening Toothpaste 75,20240413,health_products,False
+Aldi,2.49,33.2,l,Colgate Sensitive Instant Relief Repair + Enamel Streng,20240413,health_products,False
+Aldi,0.99,0.05,unit,Activ Max Orange Flavour Effervescent Tablets 20 Pack,20240413,health_products,False
+Aldi,0.99,0.05,unit,Activ Max Mango Flavour Effervescent Tablets 20 Pack,20240413,health_products,False
+Aldi,1.99,1.99,unit,Tampax Regular Tampons With Cardboard Applicator 20 Pac,20240413,health_products,False
+Aldi,1.99,1.99,unit,Tampax Super Plus Tampons With Cardboard Applicator 20,20240413,health_products,False
+Aldi,1.99,1.99,unit,Tampax Super Tampons With Cardboard Applicator 20 Pack,20240413,health_products,False
+Aldi,2.25,0.08,unit,Bodyform Cour-v Ultra Normal Sanitary Towels 30 Pack,20240413,health_products,False
+Aldi,2.49,49.8,l,Lacura SPF 50+ Kids Sensitive Sun Lotion Roll On 50ml,20240413,health_products,True
+Aldi,2.49,49.8,l,Lacura SPF 50+ Kids Coloured Roll-on 50ml,20240413,health_products,True
+Aldi,1.99,0.02,unit,Activ Max High Strength Vitamin D 25µG Food Supplement,20240413,health_products,False
+Aldi,1.99,0.03,unit,Activ Max High Strength Vitamin C Food Supplement Table,20240413,health_products,False
+Aldi,0.59,7.9,l,Lacura Nourishing Hand Cream With Shea Butter 75ml,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Refine Luscious Lengths Shampoo 250ml,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Refine Luscious Lengths Conditioner 250ml,20240413,health_products,True
+Aldi,0.35,1.2,l,Lacura Moisture Shower Crème With Shea Butter Extract 3,20240413,health_products,True
+Aldi,0.35,1.2,l,Lacura Revive Shower Gel With Sea Minerals Extract 300m,20240413,health_products,True
+Aldi,1.29,2.6,l,Lacura Anti-dandruff Moisture Shampoo 500ml,20240413,health_products,True
+Aldi,3.49,0.06,unit,Activ Max Children's Multivitamin Gummies One A-day Ora,20240413,health_products,False
+Aldi,3.49,0.06,unit,Activ Max Children's Multivitamins Gummies One A-day St,20240413,health_products,False
+Aldi,3.49,0.06,unit,Activ Max Multivitamin Gummies Two-a-day 60 Pack,20240413,health_products,False
+Aldi,1.15,7.7,l,Lacura Moisturising Face Wash 150ml,20240413,health_products,True
+Aldi,3.29,65.8,l,Lacura Q10 Renew Anti Wrinkle Multi Intensive Serum 50m,20240413,health_products,True
+Aldi,3.29,65.8,l,Lacura Q10 Renew Eye Cream 20ml,20240413,health_products,True
+Aldi,2.99,2.99,unit,Lacura Healthy Glow Glycolic Toner 250ml,20240413,health_products,True
+Aldi,0.99,13.2,l,Colgate White Teeth Whitening Toothpaste 75,20240413,health_products,False
+Aldi,0.99,13.2,l,Colgate Triple Action Toothpaste 75ml,20240413,health_products,False
+Aldi,1.89,3.8,l,Original Source Mint & Tea Tree Vegan Shower Gel 500ml,20240413,health_products,False
+Aldi,1.89,3.8,l,Original Source Coconut & Shea Butter Vegan Shower Gel,20240413,health_products,False
+Aldi,3.5,0.16,unit,Always Ultra Day & Night Sanitary Towels (Size 3) Wings,20240413,health_products,False
+Aldi,3.5,0.11,unit,Always Ultra Day Sanitary Towels Normal (Size 1) 32 Pac,20240413,health_products,False
+Aldi,3.5,0.15,unit,Always Ultra Day Sanitary Towels Long (Size 2) Wings 24,20240413,health_products,False
+Aldi,3.5,0.18,unit,Always Ultra Sanitary Towels Secure Night (Size 4) Wing,20240413,health_products,False
+Aldi,0.9,1.8,l,Lacura Men Wake-up 2 In 1 Shower Gel 500ml,20240413,health_products,True
+Aldi,0.9,1.8,l,Lacura Refresh Shower Gel 500ml,20240413,health_products,True
+Aldi,0.9,1.8,l,Lacura Revive Shower Gel 500ml,20240413,health_products,True
+Aldi,0.89,0.89,l,Lacura Family Bath Foam 1l,20240413,health_products,True
+Aldi,1.15,7.7,l,Lacura Exfoliating Face Wash 150ml,20240413,health_products,True
+Aldi,0.9,1.8,l,Lacura Moisture Shower Gel 500ml,20240413,health_products,True
+Aldi,5.99,30.0,l,Lacura Sun SPF 30 Once A Day Sun Spray 200ml,20240413,health_products,True
+Aldi,2.49,12.5,l,Lacura SPF 15 Moisturising Sun Lotion 200ml,20240413,health_products,True
+Aldi,2.49,12.5,l,Lacura SPF 30 Moisturising Sun Lotion 200ml,20240413,health_products,True
+Aldi,1.25,5.6,l,Lynx Shower Gel Africa 225,20240413,health_products,False
+Aldi,2.75,7.6,kg,Dove Beauty Bar Original 4x90g,20240413,health_products,False
+Aldi,0.95,2.7,l,Alberto Balsam Sunkissed Raspberry Shampoo 350ml,20240413,health_products,False
+Aldi,2.99,17.6,l,Aussie Mega Hair Conditioner For Everyday Conditioning,20240413,health_products,False
+Aldi,2.49,33.2,l,Sensodyne Daily Care Gentle Whitening Sensitive Toothpa,20240413,health_products,False
+Aldi,2.49,33.2,l,Sensodyne Daily Care Original Toothpaste 75ml,20240413,health_products,False
+Aldi,1.19,0.01,unit,Lacura Cotton Wool Pads 100 Pack,20240413,health_products,True
+Aldi,0.99,0.4,l,Lacura Men's Sensitive Shave Foam 250ml,20240413,health_products,True
+Aldi,0.99,0.5,l,Lacura Men's Moisturising Shave Gel 200ml,20240413,health_products,True
+Aldi,7.49,74.9,l,Hotel Collection No39 Poppy & Barley Eau De Parfum 100m,20240413,health_products,False
+Aldi,0.99,0.5,l,Lacura For Men Sensitive Shave Gel 200ml,20240413,health_products,True
+Aldi,2.49,0.07,unit,"Always Daily Protect Extra Long Panty Liners, Odour Loc",20240413,health_products,False
+Aldi,2.49,0.05,unit,"Always Daily Protect Long Panty Liners, Odour Lock, 46",20240413,health_products,False
+Aldi,2.49,33.2,l,Colgate Max White Stain Guard Toothpaste 75ml,20240413,health_products,False
+Aldi,0.45,1.8,l,Lacura Coconut & Shea Butter Shower Gel 250ml,20240413,health_products,True
+Aldi,0.99,4.4,l,Radox Mineral Therapy Body Wash Feel Refreshed 225ml,20240413,health_products,False
+Aldi,1.59,31.8,l,Lacura Sun Moisturising Sun Lotion SPF 30 High 50ml,20240413,health_products,True
+Aldi,1.59,31.8,l,Lacura Sun Kids Sensitive Sun Lotion SPF 50+ Very High,20240413,health_products,True
+Aldi,1.15,7.7,l,Lacura Apricot Face Scrub 150ml,20240413,health_products,True
+Aldi,1.09,4.4,l,Lacura Cotton 48hr Anti-perspirant Deodorant 250ml,20240413,health_products,True
+Aldi,1.09,4.4,l,Lacura Floral Bouquet 48hr Anti-perspirant Deodorant 25,20240413,health_products,True
+Aldi,1.09,4.4,l,Lacura Men's Impact 48hr Anti-perspirant Deodorant 250m,20240413,health_products,True
+Aldi,1.09,4.4,l,Lacura Invisible 48hr Anti-perspirant Deodorant 250ml,20240413,health_products,True
+Aldi,1.09,4.4,l,Lacura Men's Energy 48hr Anti-perspirant Deodorant 250m,20240413,health_products,True
+Aldi,1.09,4.4,l,Lacura Men's Invisible 48hr Anti-perspirant Deodorant 2,20240413,health_products,True
+Aldi,0.75,1.5,l,Lacura Extra Hygiene Protecting Antibacterial Hand Wash,20240413,health_products,True
+Aldi,0.75,1.5,l,Lacura Antibacterial Moisture Hand Wash 500ml,20240413,health_products,True
+Aldi,0.75,1.5,l,Lacura Antibacterial Aloe Vera Hand Wash 500ml,20240413,health_products,True
+Aldi,13.49,1.12,unit,Tena Pants Super M 12 Pack,20240413,health_products,False
+Aldi,13.49,1.12,unit,Tena Pants Super L 12 Pack,20240413,health_products,False
+Aldi,3.99,16.0,l,Lacura Bonded Conditioner 250ml,20240413,health_products,True
+Aldi,3.99,16.0,l,Lacura Bonded Shampoo 250ml,20240413,health_products,True
+Aldi,1.95,9.8,l,Sure Men Anti-perspirant Aerosol Invisible Ice Fresh 20,20240413,health_products,False
+Aldi,1.95,9.8,l,Sure Men Anti-perspirant Aerosol Active Dry 200,20240413,health_products,False
+Aldi,1.95,9.8,l,Sure Anti-perspirant Aerosol Invisible Pure 200,20240413,health_products,False
+Aldi,1.95,9.8,l,Sure Men Anti-perspirant Aerosol Quantum Dry 200,20240413,health_products,False
+Aldi,0.45,1.8,l,Lacura Kickstart Coconut & Shea Butter Shower Gel 250ml,20240413,health_products,True
+Aldi,2.25,0.1,unit,Bodyform Cour-v Ultra Long Sanitary Towels Wings 22 Pac,20240413,health_products,False
+Aldi,2.25,0.13,unit,Bodyform Cour-v Ultra Night Sanitary Towels Wings 18 Pa,20240413,health_products,False
+Aldi,2.25,0.09,unit,Bodyform Cour-v Ultra Normal Sanitary Towels Wings 24 P,20240413,health_products,False
+Aldi,0.75,1.5,l,Lacura Moisture Antibacterial Handwash 500ml,20240413,health_products,True
+Aldi,0.75,1.5,l,Lacura Protect Antibacterial Handwash 500ml,20240413,health_products,True
+Aldi,0.75,1.5,l,Lacura Aloe Vera Antibacterial Handwash 500ml,20240413,health_products,True
+Aldi,1.99,8.0,l,Lacura Hotel Collection No.3 Pomegranate Luxury Hand &,20240413,health_products,True
+Aldi,1.99,8.0,l,"Lacura Hotel Collection No.1 Lime, Basil & Mandarin Lux",20240413,health_products,True
+Aldi,3.29,16.5,l,Lacura SPF 15 Clear Sun Spray 200ml,20240413,health_products,True
+Aldi,0.99,2.0,l,Dentitex 10 In 1 Mouthwash 500ml,20240413,health_products,False
+Aldi,0.99,2.0,l,Dentitex Cool Mint Mouthwash 500ml,20240413,health_products,False
+Aldi,0.99,2.0,l,Dentitex Alcohol Free Cool Mint Mouthwash 500ml,20240413,health_products,False
+Aldi,0.59,0.02,unit,Lacura 3 In 1 Biodegradable Facial Wipes For Sensitive,20240413,health_products,True
+Aldi,0.45,1.8,l,Lacura® Revive Shower Gel 250ml,20240413,health_products,True
+Aldi,1.35,2.7,l,Lacura® White Mulberry Luxurious Hand Wash Antibacteria,20240413,health_products,True
+Aldi,1.35,2.7,l,Lacura® Cypress & Sea Fennel Luxurious Hand Wash Antiba,20240413,health_products,True
+Aldi,0.85,5.7,l,Lacura Men Ember Body Spray 150ml,20240413,health_products,True
+Aldi,0.85,5.7,l,Lacura Men Desert Heat Body Spray 150ml,20240413,health_products,True
+Aldi,0.85,5.7,l,Lacura Men Noir Body Spray 150ml,20240413,health_products,True
+Aldi,3.99,20.0,l,Lacura SPF 30 Hydrating Sun Spray 200ml,20240413,health_products,True
+Aldi,3.99,20.0,l,Lacura SPF 15 Hydrating Sun Spray 200ml,20240413,health_products,True
+Aldi,1.15,1.15,unit,Colgate Kids Toothbrush 6- 50ml/ Each,20240413,health_products,False
+Aldi,1.15,1.15,unit,Colgate Kids Extra Soft Toothbrush 4- 50ml,20240413,health_products,False
+Aldi,3.29,16.5,l,Lacura SPF 50+ Kids Sensitive Sun Spray 200ml,20240413,health_products,True
+Aldi,3.29,16.5,l,Lacura SPF 50+ Kids Coloured Sun Spray 200ml,20240413,health_products,True
+Aldi,2.89,14.5,l,Lacura SPF 50+ Baby Sensitive Lotion 200ml,20240413,health_products,True
+Aldi,2.89,14.5,l,Lacura SPF 50+ Sensitive Lotion 200ml,20240413,health_products,True
+Aldi,3.29,16.5,l,Lacura SPF 15 Moisturising Sun Spray 200ml,20240413,health_products,True
+Aldi,3.29,16.5,l,Lacura SPF 30 Moisturising Sun Spray 200ml,20240413,health_products,True
+Aldi,3.29,16.5,l,Lacura SPF 30 Clear Sun Spray 200ml,20240413,health_products,True
+Aldi,3.29,16.5,l,Lacura SPF 50+ Moisturising Sun Spray 200ml,20240413,health_products,True
+Aldi,1.99,10.0,l,Lacura Moisturising After Sun Spray 200ml,20240413,health_products,True
+Aldi,1.99,10.0,l,Lacura Moisturising After Sun Lotion 200ml,20240413,health_products,True
+Aldi,0.79,1.6,l,Lacura Apple Conditioner 500ml,20240413,health_products,True
+Aldi,0.79,1.6,l,Lacura Apple Shampoo 500ml,20240413,health_products,True
+Aldi,0.79,1.6,l,Lacura Coconut Conditioner 500ml,20240413,health_products,True
+Aldi,0.79,1.6,l,Lacura Coconut Shampoo 500ml,20240413,health_products,True
+Aldi,2.79,6.2,l,Dove Body Wash Deeply Nourishing 450ml,20240413,health_products,False
+Aldi,7.49,74.9,l,"Hotel Collection No. 1 Lime, Basil & Mandarin Eau De Pa",20240413,health_products,False
+Aldi,7.49,74.9,l,Hotel Collection No. 3 Pomegranate Eau De Parfum 100ml,20240413,health_products,False
+Aldi,0.85,17.0,l,Lacura Ocean 48hr Anti-perspirant Deodorant 50ml,20240413,health_products,True
+Aldi,0.85,17.0,l,Lacura Invisible 48hr Anti-perspirant Deodorant 50ml,20240413,health_products,True
+Aldi,3.95,0.44,unit,Sana Medium Pants For Heavy Bladder Weakness 9 Pack,20240413,health_products,False
+Aldi,3.95,0.49,unit,Sana Incontinence Large Pants 8 Pack,20240413,health_products,False
+Aldi,0.99,0.05,unit,Activ-max One-a-day Orange Flavoured Vitamin C Efferves,20240413,health_products,False
+Aldi,0.99,0.05,unit,Activ-max One-a-day Orange Flavoured Vitamin C + Zinc E,20240413,health_products,False
+Aldi,0.69,0.04,unit,Health Essentials Pain Relief Plus Tablets 16 Pack,20240413,health_products,False
+Aldi,1.39,5.6,l,Lacura Volume Conditioner 250ml,20240413,health_products,True
+Aldi,1.05,1.4,l,Lacura Relax & Unwind Lavender & Waterlily Bath Soak 75,20240413,health_products,True
+Aldi,0.45,1.8,l,Lacura Refresh Shower Gel 250ml,20240413,health_products,True
+Aldi,0.85,1.7,l,Mamia Bed Time Bath 500ml,20240413,health_products,False
+Aldi,0.45,1.8,l,Lacura Moisture Shower Gel Jojoba Oil & Camomile Extrac,20240413,health_products,True
+Aldi,0.55,1.8,l,Lacura For Men Noir Shower Gel 300ml,20240413,health_products,True
+Aldi,0.45,1.8,l,Lacura Kick Start Juicy Mango Shower Gel 250ml,20240413,health_products,True
+Aldi,0.85,1.7,l,Mamia Baby Shampoo 500ml,20240413,health_products,False
+Aldi,1.35,2.7,l,Lacura Rhubarb & Rose Luxurious Hand Wash 500ml,20240413,health_products,True
+Aldi,1.35,2.7,l,Lacura Orange & Bergamot Luxurious Hand Wash 500ml,20240413,health_products,True
+Aldi,3.99,20.0,l,Lacura Hydrating Sun Spray SPF 15 200ml,20240413,health_products,True
+Aldi,0.79,0.06,unit,Bell's Healthcare Hayfever & Allergy Relief 10mg Tablet,20240413,health_products,False
+Aldi,0.79,0.06,unit,Bell's Healthcare Allergy Relief 10 Mg Film-coated Tabl,20240413,health_products,False
+Aldi,0.79,0.06,unit,Galpharm Hayfever And Allergy Relief 14 X Tablets,20240413,health_products,False
+Aldi,1.49,14.9,l,"Hotel Collection No. 1 Lime, Basil & Mandarin Luxury Pe",20240413,health_products,False
+Aldi,2.99,2.99,unit,Lacura Original Hot Cloth Cleanser 200ml,20240413,health_products,True
+Aldi,2.99,2.99,unit,Lacura Retinol Toner 250ml,20240413,health_products,True
+Aldi,1.05,1.4,l,Lacura Bath Soak Herbal - Muscle Ease 750ml,20240413,health_products,True
+Aldi,1.05,1.4,l,Lacura Bath Soak Herbal - Stress Therapy 750ml,20240413,health_products,True
+Aldi,1.69,4.2,l,Lacura Hairspray Natural Hold 400ml,20240413,health_products,True
+Aldi,1.69,4.2,l,Lacura Hairspray Extra Strong Hold 400ml,20240413,health_products,True
+Aldi,0.59,1.2,l,Lacura Family Hand Wash - Almond Milk 500ml,20240413,health_products,True
+Aldi,1.59,3.2,l,Lacura Professional Moisture Lock Shampoo 500ml,20240413,health_products,True
+Aldi,1.59,3.2,l,Lacura Professional Colour Protection Shampoo 500ml,20240413,health_products,True
+Aldi,1.59,3.2,l,Lacura Professional Conditioner - Colour Protection 500,20240413,health_products,True
+Aldi,1.09,2.2,l,Lacura Kids Body Wash & Foam Bath 500ml,20240413,health_products,True
+Aldi,1.09,2.2,l,Lacura Sensitive Shower Cream 500ml,20240413,health_products,True
+Aldi,1.09,2.2,l,Lacura Moisture Plus Shower Gel 500ml,20240413,health_products,True
+Aldi,0.59,7.9,l,Lacura Intensive Hand Cream With Glycerin 75ml,20240413,health_products,True
+Aldi,0.59,7.9,l,Lacura Moisturising Hand Cream With Oatmeal & Glycerin,20240413,health_products,True
+Aldi,0.89,0.45,unit,Dentitex Soft Complete Toothbrush 2 Pack,20240413,health_products,False
+Aldi,3.99,0.13,unit,Tampax Compak Regular Tampons With Applicator X32 32 Pa,20240413,health_products,False
+Aldi,3.99,0.13,unit,Tampax Compak Super Tampons With Applicator X32 32 Pack,20240413,health_products,False
+Aldi,0.52,0.02,unit,Lunex Panty Liners - Large 28 Pack,20240413,health_products,False
+Aldi,0.85,17.0,l,Lacura Cotton Women's Roll On 50ml,20240413,health_products,True
+Aldi,0.85,17.0,l,Lacura Men's Roll-on Deodorant Original 50ml,20240413,health_products,True
+Aldi,0.85,17.0,l,Lacura Men's Roll-on Deodorant Sensitive 50ml,20240413,health_products,True
+Aldi,1.59,0.4,unit,Lacura For Men 3 Blade Disposable Razor 4 Pack,20240413,health_products,True
+Aldi,1.49,0.37,unit,Lacura Female Disposable Razors 4 Pack,20240413,health_products,True
+Aldi,3.89,3.89,unit,Lacura For Men Advanced 5 Blade Men's Razor 1 Pack,20240413,health_products,True
+Aldi,3.89,0.97,unit,Lacura Men's 5 Blade Razor Refill 4 Pack,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Hair Refine UV Colour Protect Conditioner 250ml,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Hair Refine Oil Complex Conditioner 250ml,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Hair Refine UV Colour Protect Shampoo 250ml,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Hair Refine Oil Complex Shampoo 250ml,20240413,health_products,True
+Aldi,3.79,75.8,l,Lacura Rejuvelate Day Cream SPF 30 50ml,20240413,health_products,True
+Aldi,3.79,75.8,l,Lacura Rejuvelate Night Cream 50ml,20240413,health_products,True
+Aldi,7.49,149.8,l,Lacura Caviar Anti-age Night Cream 50ml,20240413,health_products,True
+Aldi,7.49,149.8,l,Lacura Caviar Anti-age Day Cream 50ml,20240413,health_products,True
+Aldi,0.69,5.5,l,Dentitex Fresh Breath Toothpaste 125ml,20240413,health_products,False
+Aldi,0.69,5.5,l,Dentitex Sensitive Toothpaste 125ml,20240413,health_products,False
+Aldi,0.69,5.5,l,Dentitex Whitening Toothpaste 125ml,20240413,health_products,False
+Aldi,1.59,5.3,l,Lacura Shampoo - Moisture 300ml,20240413,health_products,True
+Aldi,1.59,5.3,l,Lacura Conditioner - Moisture 300ml,20240413,health_products,True
+Aldi,1.29,2.6,l,Lacura Anti-dandruff Shampoo 500ml,20240413,health_products,True
+Aldi,3.99,4.4,l,Tresemme Tresemme Conditioner Moisture Rich 900ml,20240413,health_products,False
+Aldi,3.99,4.4,l,Tresemme Shampoo Rich Moisture 900ml,20240413,health_products,False
+Aldi,0.99,0.02,unit,Activ-max Chewable Vitamin C Tablets 60 Pack,20240413,health_products,False
+Aldi,1.49,14.9,l,Hotel Collection No.3 Pomegranate Luxury Perfumed Hand,20240413,health_products,False
+Aldi,1.99,0.2,kg,Activ-max Children's Chewable Multivitamin Tablets 63g,20240413,health_products,False
+Aldi,0.35,1.2,l,Lacura Moisture Shower Crème - Shea & Vanilla 300ml,20240413,health_products,True
+Aldi,0.89,0.05,unit,Lunex Tampons With Applicators - Regular 20 Pack,20240413,health_products,False
+Aldi,0.89,0.05,unit,Lunex Tampons With Applicators - Super 20 Pack,20240413,health_products,False
+Aldi,0.89,0.05,unit,Lunex Tampons With Applicators - Super Plus 20 Pack,20240413,health_products,False
+Aldi,0.52,0.02,unit,Lunex Pantyliner Normal 32 Pack,20240413,health_products,False
+Aldi,0.52,0.02,unit,Lunex Panty Liners - Long 24 Pack,20240413,health_products,False
+Aldi,1.29,2.6,l,Lacura 2in1 Anti-dandruff Shampoo 500ml,20240413,health_products,True
+Aldi,1.59,3.2,l,Lacura Professional Conditioner - Moisture Lock 500ml,20240413,health_products,True
+Aldi,0.45,1.8,l,Lacura Kick Start Mint & Tea Tree Shower Gel 250ml,20240413,health_products,True
+Aldi,0.45,1.8,l,Lacura Men Wake-up Shower Gel 250ml,20240413,health_products,True
+Aldi,3.99,20.0,l,Lacura Ultra Light SPF 30 Sun Spray 200ml,20240413,health_products,True
+Aldi,0.59,0.02,unit,Lacura 3-in-1 Refreshing Cleansing Facial Wipes 25 Pack,20240413,health_products,True
+Aldi,1.39,5.6,l,Lacura Volume Shampoo 250ml,20240413,health_products,True
+Aldi,0.55,1.8,l,Lacura For Men Desert Heat Shower Gel 300ml,20240413,health_products,True
+Aldi,0.45,0.03,unit,Lunex Ultra Towels With Wings - Regular 14 Pack,20240413,health_products,False
+Aldi,0.45,0.04,unit,Lunex Ultra Towels With Wings - Super 12 Pack,20240413,health_products,False
+Aldi,0.45,0.05,unit,Lunex Ultra Towels With Wings - Night 10 Pack,20240413,health_products,False
+Aldi,1.09,0.09,unit,Sana Normal For Light To Moderate Bladder Weakness 12 P,20240413,health_products,False
+Aldi,1.09,0.11,unit,Sana Extra For Moderate Bladder Weakness 10 Pack,20240413,health_products,False
+Aldi,0.45,0.03,unit,Lunex Ultra Towel Without Wings - Regular 16 Pack,20240413,health_products,False
+Aldi,1.25,5.6,l,Lynx Excite Shower Gel Excite 225ml,20240413,health_products,False
+Aldi,1.25,5.6,l,Lynx Shower Gel Black 225ml,20240413,health_products,False
+Aldi,1.25,5.6,l,Lynx Sport Shower Gel Recharge 225,20240413,health_products,False
+Aldi,0.95,2.7,l,Alberto Balsam Sunkissed Raspberry Conditioner 350ml,20240413,health_products,False
+Aldi,2.99,17.6,l,Aussie Bonza Colour Conditioner - Vegan - Colour-protec,20240413,health_products,False
+Aldi,2.99,12.0,l,Aussie Mighty Mega Shampoo - Vegan - Lightweight & Gent,20240413,health_products,False
+Aldi,2.99,17.6,l,"Aussie Miracle Moist Hair Conditioner , Moisturising Co",20240413,health_products,False
+Aldi,2.99,12.0,l,"Aussie Colour Mate Shampoo , Colour Safe Shampoo 250ml",20240413,health_products,False
+Aldi,2.99,12.0,l,"Aussie Miracle Moist Shampoo - Moisture-quenching, Repl",20240413,health_products,False
+Aldi,0.55,1.8,l,Lacura For Men Activate Shower Gel 300ml,20240413,health_products,True
+Aldi,2.49,0.05,unit,"Always Daily Fresh Normal Panty Liners, Odour Lock, 54",20240413,health_products,False
+Aldi,0.85,1.7,l,Mamia Baby Lotion 500ml,20240413,health_products,False
+Aldi,1.15,1.15,unit,Colgate Big Kids' Smiles 6+ Years Toothpaste 50,20240413,health_products,False
+Aldi,1.89,3.8,l,Original Source Zesty Lemon & Tea Tree Shower 500ml,20240413,health_products,False
+Aldi,1.95,9.8,l,Sure Anti-perspirant Aerosol Bright Bouquet 200,20240413,health_products,False
+Aldi,1.95,9.8,l,Sure Anti-perspirant Aerosol Cotton Dry 200,20240413,health_products,False
+Aldi,1.15,1.15,unit,Colgate Little Kids' Smiles 3+ Years Toothpaste 50ml,20240413,health_products,False
+Aldi,0.99,4.4,l,Radox Mineral Therapy Body Wash Feel Awake 225ml,20240413,health_products,False
+Aldi,0.99,4.4,l,Radox Mineral Therapy Body Wash Feel Active 225ml,20240413,health_products,False
+Aldi,0.99,4.4,l,Radox Mineral Therapy Body Wash Feel Moisturised 225ml,20240413,health_products,False
+Aldi,4.39,0.18,unit,Tena Discreet Normal Incontinence Pads Duo 24 Pack,20240413,health_products,False
+Aldi,2.49,10.0,l,Head & Shoulders Classic Clean Anti Dandruff Shampoo Fo,20240413,health_products,False
+Aldi,2.49,10.0,l,Head & Shoulders Apple Fresh Anti Dandruff Shampoo For,20240413,health_products,False
+Aldi,3.35,16.8,l,Lynx Aerosol Bodyspray Africa 200,20240413,health_products,False
+Aldi,3.35,16.8,l,Lynx Deodorant Bodyspray Black 200,20240413,health_products,False
+Aldi,3.35,16.8,l,Lynx Epic Fresh Body Spray For Men Grapefruit & Tropica,20240413,health_products,False
+Aldi,3.49,34.9,l,"Calpol Sugar Free Infant Suspension, Paracetamol Medica",20240413,health_products,False
+Aldi,1.99,0.03,unit,Activ Max A-Z Multivitamin & Minerals Food Supplement T,20240413,health_products,False
+Aldi,0.4,0.03,unit,Health Essentials Ibuprofen 200mg Coated Tablets 16 Pac,20240413,health_products,False
+Aldi,3.49,34.9,l,"Calpol Sixplus Sugar Free Suspension, Paracetamol Medic",20240413,health_products,False
+Aldi,0.65,10.0,kg,Vitacat Pawsome Pockets With Chicken 65g,20240413,pets,False
+Aldi,0.49,2.45,unit,Earls Meaty Beef Strips 200g,20240413,pets,False
+Aldi,0.49,2.45,unit,Earls Meaty Strips With Chicken 200g/20 Pack,20240413,pets,False
+Aldi,0.65,10.0,kg,Vitacat Pawsome Pockets With Salmon 65g,20240413,pets,False
+Aldi,0.49,2.45,unit,Earls Tasty Chicken Twists 105g,20240413,pets,False
+Aldi,0.65,10.0,kg,Vitacat Pawsome Pockets With Cheese 65g,20240413,pets,False
+Aldi,0.75,4.17,kg,Earls Mini Chew Bones With Chicken 180g/4 Pack,20240413,pets,False
+Aldi,0.75,1.88,kg,Vitacat Cat Cans - Salmon In Jelly 400g,20240413,pets,False
+Aldi,0.75,4.17,kg,Earls Mini Beef Chew Bones 180g,20240413,pets,False
+Aldi,0.65,3.6,kg,Earls Dental Sticks Original 180g,20240413,pets,False
+Aldi,0.49,2.45,unit,"Earls Chicken, Beef & Lamb Meaty Rolls 135g",20240413,pets,False
+Aldi,3.39,1.41,kg,Earls Multipack Dog Food Meaty Chunks In Jelly 6x400g,20240413,pets,False
+Aldi,2.19,0.22,l,Vitacat Cat Litter 10l,20240413,pets,False
+Aldi,1.99,18.09,kg,Langham's Yummy Chicken Twists 110g,20240413,pets,False
+Aldi,0.75,3.75,kg,Earls Mega Chew Bones With Chicken 200g/2 Pack,20240413,pets,False
+Aldi,0.75,3.75,kg,Earls Mega Chew Bones With Beef 200g/2 Pack,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Chicken & Turkey 150g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Turkey & Lamb 150g,20240413,pets,False
+Aldi,0.65,3.6,kg,Earls Dental Sticks Minty 180g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Pâté With Chicken 1+ Years Cat Food 100g,20240413,pets,False
+Aldi,10.99,2.29,kg,Vitacat Senior Poultry Selection In Jelly 48x100g,20240413,pets,False
+Aldi,10.99,2.29,kg,Vitacat Meaty Selection In Gravy 48x100g,20240413,pets,False
+Aldi,10.99,2.29,kg,Vitacat Poultry Selection In Jelly 48x100g,20240413,pets,False
+Aldi,10.99,2.29,kg,Vitacat Fish Selection In Jelly 48x100g,20240413,pets,False
+Aldi,0.95,7.6,kg,Earls Mini Bone Dog Treats 125g,20240413,pets,False
+Aldi,0.95,6.79,kg,Earls Mini Nibble Dog Treats 140g,20240413,pets,False
+Aldi,0.79,2.0,kg,Langham's Grain Free Chicken Dog Food With Potato And V,20240413,pets,False
+Aldi,0.79,2.0,kg,Langham's Lamb & Chicken Dog Food With Rice And Vegetab,20240413,pets,False
+Aldi,0.99,13.2,kg,Vitacat Cat Food Tasty Licks With Salmon 5x15g,20240413,pets,False
+Aldi,1.79,16.27,kg,Langham's Meaty Sausage Dog Treats 110g,20240413,pets,False
+Aldi,0.75,1.88,kg,Vitacat Cat Food With Chicken In Jelly 400g,20240413,pets,False
+Aldi,0.75,1.88,kg,Vitacat Cat Food With Salmon In Jelly 400g,20240413,pets,False
+Aldi,0.99,13.2,kg,Vitacat Tasty Licks Cat Food With Chicken 5x15g,20240413,pets,False
+Aldi,1.79,19.89,kg,Langham's Chicken Dumbbells 90g,20240413,pets,False
+Aldi,1.79,19.89,kg,Langham's Chicken Calcium Bones 90g,20240413,pets,False
+Aldi,1.79,19.89,kg,Langham's Chicken Sticks With Carrot 90g,20240413,pets,False
+Aldi,1.79,19.89,kg,Langham's Duck Sticks With Sweet Potato 90g,20240413,pets,False
+Aldi,1.09,0.01,unit,Pet Collection Degradable Dog Poop Bags 100 Bags,20240413,pets,False
+Aldi,0.99,19.8,kg,Vitacat Tasty Sticks With Chicken & Liver 50g,20240413,pets,False
+Aldi,0.99,19.8,kg,Vitacat Tasty Sticks With Salmon 50g,20240413,pets,False
+Aldi,0.99,19.8,kg,Vitacat Tasty Sticks With Turkey & Lamb 50g,20240413,pets,False
+Aldi,0.65,0.36,kg,Earls Dental Sticks 180g,20240413,pets,False
+Aldi,0.95,1.9,kg,Earls Crunchies 500g,20240413,pets,False
+Aldi,3.39,1.41,kg,Earls Multipack Dog Food Meaty Chunks In Gravy 6x400g,20240413,pets,False
+Aldi,1.99,16.58,kg,Langham's Meaty Chicken Breast Fillets 120g,20240413,pets,False
+Aldi,1.99,16.58,kg,Langham's Delicious Duck Breast Fillets Dog Treats 120g,20240413,pets,False
+Aldi,1.99,16.58,kg,Langham's Meaty Beef Strip Dog Treats 120g,20240413,pets,False
+Aldi,0.65,2.17,kg,Earls Tender Pâté Tray With Lamb 300g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Select Tender Pâté Cat Tray With Beef 100g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Select Tender Pâté Cat Tray With Turkey 100g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Select Tender Pâté Cat Tray With Salmon 100g,20240413,pets,False
+Aldi,3.19,4.0,kg,Vitacat Healthy Balance Chicken & Wholegrains 800g,20240413,pets,False
+Aldi,3.19,4.0,kg,Vitacat Healthy Balance Rich In Salmon & Wholegrains 80,20240413,pets,False
+Aldi,0.75,1.88,kg,Vitacat Cat Cans - Chicken In Jelly 400g,20240413,pets,False
+Aldi,0.39,39.0,kg,Vitacat Select Tender Pâté With Beef 100g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Select Tender Pâté With Turkey 100g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Select With Chicken In Jelly 100g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Beef & Liver 150g,20240413,pets,False
+Aldi,0.39,3.9,kg,Vitacat Select Tender Pâté With Salmon 100g,20240413,pets,False
+Aldi,0.95,1.9,kg,Earls Gravy Bones Beef & Chicken 500g,20240413,pets,False
+Aldi,0.95,1.9,kg,Earls Marrols Oven Baked Meaty Rolls 500g,20240413,pets,False
+Aldi,0.49,5.76,kg,Vitacat Select Gourmet Mousse With Turkey 85g,20240413,pets,False
+Aldi,0.49,5.76,kg,Vitacat Select Gourmet Mousse With Ocean Fish 85g,20240413,pets,False
+Aldi,0.49,5.76,kg,Vitacat Select Gourmet Mousse With Liver 85g,20240413,pets,False
+Aldi,4.59,2.55,kg,Earls Tender Pate Meaty Selection 12x150g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Beef & Turkey 150g,20240413,pets,False
+Aldi,3.19,3.13,kg,Vitacat Premium Poultry Selection 12x85g,20240413,pets,False
+Aldi,3.19,3.13,kg,Vitacat Select Premium Fish Variety Selection In Jelly,20240413,pets,False
+Aldi,0.65,2.17,kg,Earls Tender Pâté With Beef 300g,20240413,pets,False
+Aldi,0.65,2.17,kg,Earls Tender Pâté With Lamb 300g,20240413,pets,False
+Aldi,0.65,2.17,kg,Earls Tender Pâté With Chicken 300g,20240413,pets,False
+Aldi,5.09,1.7,kg,Earls Moist & Meaty Complete Meaty Chunks With Beef 3kg,20240413,pets,False
+Aldi,5.09,1.7,kg,Earls Moist & Meaty Complete Meaty Chunks With Chicken,20240413,pets,False
+Aldi,2.99,24.9,kg,Earls Mixed Pouches In Gravy 12x100g,20240413,pets,False
+Aldi,2.99,24.9,kg,Earls Mixed Pouches In Jelly 12x100g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Turkey And Lamb 150g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Chicken And Turkey 150g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Beef And Liver 150g,20240413,pets,False
+Aldi,0.49,3.3,kg,Earls Select Tender Pâté With Beef And Turkey 150g,20240413,pets,False
+Aldi,2.89,0.96,kg,Earls Complete Dry Dog Food With Beef And Vegetables 3k,20240413,pets,False
+Aldi,2.89,0.96,kg,Earls Complete Dry Dog Food With Chicken And Vegetables,20240413,pets,False
+Aldi,8.99,0.75,kg,Earls Adult Worker Dog Food With Beef & Vegetables 12kg,20240413,pets,False
+Aldi,8.99,0.75,kg,Earls Adult Worker Dog Food With Chicken & Vegetables 1,20240413,pets,False
+Aldi,2.69,2.24,kg,Vitacat Fish Selection In Jelly 12x100g,20240413,pets,False
+Aldi,2.69,2.24,kg,Vitacat 1+ Years Poultry Selection In Jelly 12x100g,20240413,pets,False
+Aldi,2.69,2.24,kg,Vitacat 7+ Years Poultry Selection In Jelly 12x100g,20240413,pets,False
+Aldi,2.69,2.24,kg,Vitacat Meaty Selection In Gravy 12x100g,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Meaty Chunks With Chicken In Jelly 400g,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Meaty Chunks With Beef In Gravy 400g,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Meaty Chunks With Beef In Jelly 400g,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Meaty Chunks With Chicken In Gravy 400g,20240413,pets,False
+Aldi,2.69,1.35,kg,Vitacat Complete Pet Food For Adult Cats With Tuna & Sa,20240413,pets,False
+Aldi,2.69,1.35,kg,Vitacat Complete Pet Food For Adult Cats With Chicken &,20240413,pets,False
+Aldi,0.65,10.8,kg,Vitacat Marvellous Mix Cat Treats Original Mix 60g,20240413,pets,False
+Aldi,5.49,2.32,kg,Earls Langham's Premium Multipack Dog Food Trays 6x395g,20240413,pets,False
+Aldi,5.29,2.65,kg,Langham's Grain Free Dog Food 2kg,20240413,pets,False
+Aldi,15.99,3.92,kg,Whiskas 1+ Poultry Feasts Wet Cat Food In Jelly 48 X 85,20240413,pets,False
+Aldi,4.99,2.63,kg,Whiskas 1+ Chicken Adult Dry Cat Food 1.9kg,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls A Complete Pet Food With Chicken In Jelly For Adu,20240413,pets,False
+Aldi,5.49,2.32,kg,Earl's Langham's Dog Food Tray - Grain Free Mixed Selec,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Beef In Jelly Canned Dog Food 400g,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Beef In Gravy Canned Dog Food 400g,20240413,pets,False
+Aldi,0.59,1.48,kg,Earls Chicken In Gravy Canned Dog Food 400g,20240413,pets,False
+Aldi,5.29,2.65,kg,Langhams Grain Free Recipe Rich In Turkey Dog Food 2kg,20240413,pets,False
+Aldi,13.49,3.97,kg,Whiskas 1+ Poultry Feasts In Jelly (3.40kg) 40 X 85g,20240413,pets,False
+Aldi,0.65,0.65,unit,Aldi Woven Reusable Bag 1 Pack,20240413,household,False
+Aldi,2.49,2.49,unit,Beautiful Blooms Tulips,20240413,household,False
+Aldi,4.99,4.99,unit,Beautiful Blooms Spring Posy,20240413,household,False
+Aldi,3.99,3.99,unit,Beautiful Blooms Rainbow Tulips,20240413,household,False
+Aldi,1.79,0.0,unit,Saxon Standard Toilet Tissue 4 Rolls,20240413,household,False
+Aldi,2.69,0.0,unit,Saxon Quilted Toilet Tissue 4 Pack,20240413,household,False
+Aldi,4.99,0.0,unit,Saxon Softest Premium Toilet Tissue 12 Rolls,20240413,household,False
+Aldi,5.29,0.0,unit,Saxon Softest Aloe Vera Toilet Tissue 8 Rolls,20240413,household,False
+Aldi,1.29,0.0,unit,Saxon Luxury Toilet Tissue 2 Rolls,20240413,household,False
+Aldi,5.29,0.0,unit,Saxon Quilted Toilet Tissue 8 Pack,20240413,household,False
+Aldi,2.69,0.0,unit,Saxon Softest Aloe Vera Toilet Tissue 4 Pack,20240413,household,False
+Aldi,2.69,0.0,unit,Saxon Softest Coconut Oil Toilet Tissue 4 Pack,20240413,household,False
+Aldi,4.99,0.0,unit,Saxon Softest Premium Toilet Tissue 24 Rolls,20240413,household,False
+Aldi,2.55,0.0,unit,Saxon Luxury Toilet Tissue 4 Rolls,20240413,household,False
+Aldi,5.99,0.37,unit,"Energizer Alkaline Power AA Batteries, 16 Pack",20240413,household,False
+Aldi,3.49,0.18,unit,"Fairy All In One Dishwasher Tablets Lemon, 19 Pack",20240413,household,False
+Aldi,0.55,0.01,unit,Saxon Fresh & Clean Biodegradable Sensitive Toilet Tiss,20240413,household,False
+Aldi,0.55,0.01,unit,Saxon Fresh & Clean Biodegradable Toilet Tissue Wipes 4,20240413,household,False
+Aldi,0.99,0.05,m,Everyday Essentials Wrapping Foil 20m,20240413,household,False
+Aldi,3.19,0.01,unit,Saxon Kitchen Roll 3 Rolls,20240413,household,False
+Aldi,1.39,1.2,l,Almat So Soft Honeysuckle & Cedarwood Fabric Conditione,20240413,household,False
+Aldi,1.99,0.0,unit,Saxon Soft White 2 Ply Toilet Tissue 9 Pack,20240413,household,False
+Aldi,2.99,0.0,unit,Saxon Softest Aloe Vera 3 Ply Toilet Tissue 9 Pack,20240413,household,False
+Aldi,0.85,0.01,unit,Softly Everyday Tissues 72 Sheets,20240413,household,False
+Aldi,0.45,0.05,unit,Kleenex® Balsam Pocket Tissues Single Pack 1 Pack,20240413,household,False
+Aldi,1.45,0.0,unit,Saxon Softer Luxury Toilet Tissue 4 Pack,20240413,household,False
+Aldi,1.25,0.03,unit,Everyday Essentials Refuse Sacks 40 Pack/70l,20240413,household,False
+Aldi,2.19,0.03,m,Magnum Non-pvc Cling Film 75m,20240413,household,False
+Aldi,1.59,0.16,unit,Powerforce Heavy Duty Refuse Sacks 10 Pack/100l,20240413,household,False
+Aldi,1.49,0.0,unit,Saxon Quilted 3 Ply Toilet Tissue 4 Pack,20240413,household,False
+Aldi,2.99,0.0,unit,Saxon Aloe Vera 3 Ply Toilet Tissue 9 Pack,20240413,household,False
+Aldi,2.99,0.0,unit,Saxon Quilted 3 Ply Toilet Tissue 9 Pack,20240413,household,False
+Aldi,0.75,0.01,unit,Saxon Ultra Soft White Tissue Rainbow Cube 129g/56 Shee,20240413,household,False
+Aldi,0.75,0.01,unit,Saxon Ultra Soft White Tissue Leaves Cube 129g/56 Sheet,20240413,household,False
+Aldi,0.75,0.01,unit,Saxon Ultra Soft White Tissue Floral Cube 129g/56 Sheet,20240413,household,False
+Aldi,1.49,0.0,unit,Saxon Aloe Vera 3 Ply Toilet Tissue 4 Pack,20240413,household,False
+Aldi,3.99,20.0,l,Hotel Collection Refill Reed Diffuser N°3 Pomegranate 2,20240413,household,False
+Aldi,3.99,20.0,l,"Hotel Collection Refill Reed Diffuser N°1 Lime, Basil &",20240413,household,False
+Aldi,1.09,1.09,unit,Magnum Greaseproof Baking Paper 10m,20240413,household,False
+Aldi,1.59,0.4,unit,Powerforce Microfibre Cloths 4 Pack,20240413,household,False
+Aldi,4.29,4.29,unit,Beautiful Blooms Oriental Lily,20240413,household,False
+Aldi,2.39,2.39,unit,Beautiful Blooms Carnations,20240413,household,False
+Aldi,2.25,2.25,unit,Beautiful Blooms Alstroemeria,20240413,household,False
+Aldi,2.79,2.79,unit,Beautiful Blooms Chrysanthemum,20240413,household,False
+Aldi,5.99,5.99,unit,Beautiful Blooms Large Mixed Bouquet,20240413,household,False
+Aldi,3.99,3.99,unit,Beautiful Blooms Medium Mixed Bouquet,20240413,household,False
+Aldi,3.49,3.49,unit,Beautiful Blooms Lily Bouquet,20240413,household,False
+Aldi,4.99,4.99,unit,Beautiful Blooms Rose Duo Bouquet,20240413,household,False
+Aldi,2.59,2.59,unit,Beautiful Blooms Roses,20240413,household,False
+Aldi,3.19,3.19,unit,Beautiful Blooms Fairtrade Roses,20240413,household,False
+Aldi,2.99,2.99,unit,Beautiful Blooms Le Petit Bouquet,20240413,household,False
+Aldi,0.89,0.01,unit,Saxon Blue Palm Leaves Pocket Tissues 1 Pack,20240413,household,False
+Aldi,2.99,0.0,unit,Saxon Coconut 3 Ply Toilet Tissue 9 Pack,20240413,household,False
+Aldi,0.85,0.01,unit,Saxon Everday Tissues 1 Pack/72 Sheets,20240413,household,False
+Aldi,2.15,0.11,unit,Powerforce Drawstring Refuse Sacks 20 Pack/75l,20240413,household,False
+Aldi,2.15,0.11,unit,Powerforce Tie Handle Refuse Sacks 20 Pack/75l,20240413,household,False
+Aldi,1.35,0.05,unit,Powerforce Pedal Bin Liners With Tie Handle 30 Pack/25l,20240413,household,False
+Aldi,2.15,0.11,unit,Powerforce Swing Bin Liners With Drawstring Handle 20 P,20240413,household,False
+Aldi,2.15,0.11,unit,Powerforce Swing Bin Liners With Tie Handle 20 Pack/50l,20240413,household,False
+Aldi,1.25,0.02,unit,Magnum Small Food & Freezer Bags 80 Pack,20240413,household,False
+Aldi,1.25,0.03,unit,Magnum Medium Food & Freezer Bags 50 Pack,20240413,household,False
+Aldi,3.49,0.12,m,Magnum Strong Kitchen Foil 30m,20240413,household,False
+Aldi,0.55,0.01,unit,Saxon Sensitive Toilet Tissue Wipes 40 Pack,20240413,household,False
+Aldi,0.55,0.01,unit,Saxon Fresh Toilet Tissue Wipes 40 Pack,20240413,household,False
+Aldi,2.49,0.25,unit,Activ Energy AA Batteries 10 Pack,20240413,household,False
+Aldi,2.49,0.25,unit,Activ Energy AAA Batteries 10 Pack,20240413,household,False
+Aldi,1.49,0.0,unit,Saxon Softest Aloe Vera 3 Ply Toilet Tissue 4 Pack,20240413,household,False
+Aldi,1.59,0.32,unit,Powerforce Knitted Dish Cloths 5 Pack,20240413,household,False
+Aldi,1.59,0.32,unit,Powerforce Traditional Dish Cloths 5 Pack,20240413,household,False
+Aldi,1.59,0.32,unit,Powerforce Ribbed Dish Cloths 5 Pack,20240413,household,False
+Aldi,0.49,0.49,unit,Aldi Reusable Produce Bags 2 Pack,20240413,household,False
+Aldi,0.65,0.65,unit,Aldi Reusable Bag 1 Pack,20240413,household,False
+Aldi,1.29,0.03,unit,Everyday Essentials Refuse Sacks 40 Pack,20240413,household,False
+Aldi,1.39,0.01,unit,Softly Extra Large White Tissues 1 Pack,20240413,household,False
+Aldi,1.45,0.0,unit,Saxon Luxury Toilet Tissue 4 Pack,20240413,household,False
+Aldi,2.85,0.0,unit,Saxon Luxury Toilet Tissue 9 Pack,20240413,household,False
+Aldi,2.39,0.0,unit,Everyday Essentials Toilet Tissue 6 Pack,20240413,household,False
+Aldi,0.3,0.3,unit,Aldi Welsh Flexiloop Bag 1 Pack,20240413,household,False
+Aldi,0.3,0.3,unit,Aldi Scottish Flexiloop Bag 1 Pack,20240413,household,False
+Aldi,4.99,0.0,unit,Saxon Premium Toilet Tissue 24 Rolls,20240413,household,False
+Aldi,0.53,0.01,unit,Softly Pocket Tissues 6 Pack,20240413,household,False
+Aldi,1.25,0.02,unit,Softly Ultrasoft Regular Tissues 80 Sheets,20240413,household,False
+Aldi,1.25,0.02,unit,Softly Balsam Tissues 80 Sheets,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Antibacterial Surface Cleaner 750ml,20240413,household,False
+Aldi,1.39,1.2,l,Almat So Soft Luxurious Fabric Conditioner Strawberry &,20240413,household,False
+Aldi,1.39,1.2,l,Almat So Soft Luxurious Fabric Conditioner Nectar & Blo,20240413,household,False
+Aldi,0.69,4.6,kg,Scentcerity Odour Neutraliser - Lavender Breeze 150g,20240413,household,False
+Aldi,0.69,4.6,kg,Scentcerity Odour Neutraliser - Fresh Linen 150g,20240413,household,False
+Aldi,0.25,0.25,unit,Aldi Reusable Produce Bag 1 Bag,20240413,household,False
+Aldi,0.3,0.3,unit,Aldi Eco Loop Carrier Bag 1 Bag,20240413,household,False
+Aldi,1.25,0.02,unit,Softly Balmsam Regular Tissues 80 Sheets 1 Pack,20240413,household,False
+Aldi,1.39,0.01,unit,Softly Extra Large Tissues 243g,20240413,household,False
+Aldi,1.35,0.01,unit,Everyday Essentials Jumbo Kitchen Towel 1 Roll,20240413,household,False
+Aldi,2.55,0.01,unit,Saxon Ultra Kitchen Towels 2 Rolls,20240413,household,False
+Aldi,3.39,0.01,unit,Saxon Kitchen Towels 4 Rolls,20240413,household,False
+Aldi,1.99,0.02,unit,Saxon Blast Kitchen Towel 100 Sheets 1 Roll,20240413,household,False
+Aldi,0.79,1.58,l,Magnum Washing Up Liquid - Eucalyptus 500ml,20240413,household,False
+Aldi,3.99,0.11,unit,Magnum Triple Chamber Dishwasher Tablets - Original 37,20240413,household,False
+Aldi,3.99,0.11,unit,Magnum Triple Chamber Dishwasher Tablets - Lemon 37 Pac,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Multi Purpose Cleaner With Bleach 750ml,20240413,household,False
+Aldi,1.69,0.85,unit,Powerforce Toilet Freshener 2 Pack,20240413,household,False
+Aldi,1.69,0.85,unit,Powerforce Power 5 Toilet Freshener 2 Pack,20240413,household,False
+Aldi,1.35,1.35,unit,Powerforce Household Gloves - Small 1 Pack,20240413,household,False
+Aldi,1.35,1.35,unit,Powerforce Household Gloves - Medium 1 Pack,20240413,household,False
+Aldi,1.35,1.35,unit,Powerforce Household Gloves - Large 1 Pack,20240413,household,False
+Aldi,2.79,1.9,l,Almat Super Concentrated Bio Liquid Wash 1.47l/42 Washe,20240413,household,False
+Aldi,2.79,1.9,l,Almat Super Concentrated Non-bio Liquid Wash 1.47l/42 W,20240413,household,False
+Aldi,2.79,1.9,l,Almat Super Concentrated Colour Liquid Wash 1.47l/42 Wa,20240413,household,False
+Aldi,3.39,33.9,l,"Hotel Collection Reed Diffuser - Lime, Basil & Mandarin",20240413,household,False
+Aldi,3.39,33.9,l,Hotel Collection Reed Diffuser - Pomegranate 100ml,20240413,household,False
+Aldi,1.99,99.5,l,Scentcerity Refills Plug In - Lavender 20ml,20240413,household,False
+Aldi,2.19,2.19,unit,Scentcerity Complete Plug In - Lavender 20ml,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Window Cleaner 750ml,20240413,household,False
+Aldi,0.69,2.9,l,Scentcerity Calming Zen Room Spray 240ml,20240413,household,False
+Aldi,1.39,1.2,l,Almat So Soft Luxurious Fabric Conditioner- Lily Bloom,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Fabric Conditioner - Clear Skies 1.26l/42,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Fabric Conditioner - Pure & Gentle 1.26l/,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Sunshine Fabric Conditioner 1.26l,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Lavender Blossom Fabic Conditioner 1.26l,20240413,household,False
+Aldi,0.69,4.6,kg,Scentcerity Odour Neutraliser - Fresh Sweet Pea 150g,20240413,household,False
+Aldi,0.69,4.6,kg,Scentcerity Gel Air Freshener - Vanilla And Magnolia 15,20240413,household,False
+Aldi,0.69,4.6,kg,Scentcerity Gel Air Freshener - Apple & Cinnamon 150g,20240413,household,False
+Aldi,0.85,3.4,l,Powerforce Polish 250ml,20240413,household,False
+Aldi,0.85,2.83,l,Powerforce Multi-surface Polish 300ml,20240413,household,False
+Aldi,1.39,5.6,l,Scentcerity Linen & Freesia Room Mist 250ml,20240413,household,False
+Aldi,1.39,5.6,l,Scentcerity Fuchsia Bloom Dry Room Spray 250ml,20240413,household,False
+Aldi,1.39,5.6,l,Scentcerity Citrus Breeze Dry Room Spray 250ml,20240413,household,False
+Aldi,1.39,5.6,l,Scentcerity Vanilla Dry Room Spray 250ml,20240413,household,False
+Aldi,0.69,2.9,l,Scentcerity Room Spray - Linen 240ml,20240413,household,False
+Aldi,0.69,2.9,l,Scentcerity Room Spray - Lavender 240ml,20240413,household,False
+Aldi,0.69,2.9,l,Scentcerity Vanilla Room Spray 240ml,20240413,household,False
+Aldi,0.95,0.95,l,Powerforce All In 1 Cleaner - Lemon 1l,20240413,household,False
+Aldi,0.95,0.95,l,Powerforce All In 1 Cleaner - Cotton Fresh 1l,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Kitchen Cleaner 750ml,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Window & Glass 750ml,20240413,household,False
+Aldi,1.99,99.5,l,Scentcerity Fresh Linen And Freesia Plug-in Refill 20ml,20240413,household,False
+Aldi,1.99,99.5,l,Scentcerity Vanilla Bean And Orchid Plug-in Refill 20ml,20240413,household,False
+Aldi,2.19,2.19,unit,Scentcerity Fresh Linen And Freesia Plug-in Diffuser Ea,20240413,household,False
+Aldi,2.19,2.19,unit,Scentcerity Vanilla Bean And Orchid Plug-in Diffuser 20,20240413,household,False
+Aldi,1.29,0.65,l,Powerforce Citrus Fresh Bleach 2l,20240413,household,False
+Aldi,0.6,0.8,l,Powerforce Thick Bleach - Citrus Fresh 750ml,20240413,household,False
+Aldi,0.6,0.8,l,Powerforce Thick Bleach Original 750ml,20240413,household,False
+Aldi,1.29,0.65,l,Powerforce Thick Bleach Citrus Bleach 2l,20240413,household,False
+Aldi,1.29,0.65,l,Powerforce Citrus Fresh Thick Bleach 2l,20240413,household,False
+Aldi,1.05,0.11,unit,Powerforce Strong & Absorbent All Purpose Cloths 10 Pac,20240413,household,False
+Aldi,1.25,0.42,unit,Powerforce Cistern Blocks Blue Water 135g,20240413,household,False
+Aldi,1.25,0.42,unit,Powerforce Cistern Bleach Block 3 Pack,20240413,household,False
+Aldi,0.6,0.8,l,Powerforce Citrus Fresh Thick Bleach 750ml,20240413,household,False
+Aldi,0.6,0.8,l,Powerforce Original Thick Bleach 750ml,20240413,household,False
+Aldi,0.79,1.05,l,Powerforce Ultimate Thick Bleach Ocean 750ml,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Black Cherry 90ml,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Twilight 90ml,20240413,household,False
+Aldi,0.95,3.8,l,Powerforce 4 In 1 Action Concentrated Disinfectant Line,20240413,household,False
+Aldi,0.95,3.8,l,Powerforce 4 In 1 Action Concentrated Disinfectant Pink,20240413,household,False
+Aldi,0.95,3.8,l,Powerforce 4 In 1 Action Lavender Concentrated Disinfec,20240413,household,False
+Aldi,1.29,1.72,l,Domestos Thick Bleach Original 750ml,20240413,household,False
+Aldi,3.39,33.9,l,Hotel Collection No. 14 Velvety Rose Fragranced Reed Di,20240413,household,False
+Aldi,3.39,33.9,l,Hotel Collection No.18 Fig & Cassis Fragranced Reed Dif,20240413,household,False
+Aldi,3.39,33.9,l,Hotel Collection No.2 Blackberry & Bay Fragranced Reed,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Winter Lodge Fragranced Reed Diffuser 90ml,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Mandarin & Cranberry Fragranced Reed Diffus,20240413,household,False
+Aldi,3.15,9.4,kg,Hotel Collection No.14 Velvety Rose Fragranced Candle 3,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Vanilla Frosting Fragranced Reed Diffuser 9,20240413,household,False
+Aldi,0.99,0.01,unit,Powerforce Antibacterial Citrus Biodegradable Surface W,20240413,household,False
+Aldi,0.99,0.01,unit,Powerforce Biodegradable Surface Wipes 72 Pack,20240413,household,False
+Aldi,0.79,0.05,unit,Powerforce Apple Antibacterial Biodegradable Floor Wipe,20240413,household,False
+Aldi,0.79,0.05,unit,Powerforce Fresh Antibacterial Biodegradable Floor Wipe,20240413,household,False
+Aldi,2.25,1.95,l,"Lenor Fabric Conditioner Spring Awakening 33 Washes, 1.",20240413,household,False
+Aldi,2.25,1.95,l,"Fairy Fabric Conditioner Original , 1.155l",20240413,household,False
+Aldi,0.79,0.79,unit,Hotel Collection Pomegranate Wax Melts 6x12g,20240413,household,False
+Aldi,0.79,0.79,unit,Hotel Collection Freesia & Pear Scented Wax Melts 6x12g,20240413,household,False
+Aldi,0.79,0.79,unit,Hotel Collection Peony Blush Scented Wax Melts 6x12g,20240413,household,False
+Aldi,0.79,0.79,unit,"Hotel Collection Lime, Basil & Mandarin Wax Melts 6x12g",20240413,household,False
+Aldi,2.99,8.8,kg,Scentcerity Paradise Beach 340g,20240413,household,False
+Aldi,0.75,0.13,unit,Powerforce Non Scratch Sponge Scourers 6 Pack,20240413,household,False
+Aldi,0.75,0.13,unit,Powerforce Finger Grip Sponge Scourers 6 Pack,20240413,household,False
+Aldi,0.95,0.95,l,Powerforce All In 1 Lavender Shine And Clean 1l,20240413,household,False
+Aldi,0.79,0.05,unit,Powerforce Fresh Antibacterial Floor Wipes 15 Pack,20240413,household,False
+Aldi,0.79,0.05,unit,Powerforce Apple Antibacterial Floor Wipes 15 Pack,20240413,household,False
+Aldi,2.39,3.32,l,Almat 2 In 1 Bio Laundry Gel 720ml/24 Washes,20240413,household,False
+Aldi,2.39,3.32,l,Almat Non- Bio Laundry Gel 720ml/24 Washes,20240413,household,False
+Aldi,2.39,3.32,l,Almat Bio Laundry Gel 720ml/24 Washes,20240413,household,False
+Aldi,2.49,2.54,l,Almat Floral Super Concentrated Tropical Laundry Deterg,20240413,household,False
+Aldi,2.49,2.54,l,Almat Floral Super Concentrated Lavender Laundry Deterg,20240413,household,False
+Aldi,2.49,2.54,l,Almat Floral Super Concentrated Coconut Laundry Deterge,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Sunshine Fabric Conditioner 1.26l/42 Wash,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Lavender Fabric Conditioner 1.26l/42 Wash,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Pure & Gentle Fabric Conditioner 1.26l/42,20240413,household,False
+Aldi,1.39,1.1,l,Almat So Soft Clear Skies Fabric Conditioner 1.26l/42 W,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Shower Shine 750ml,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Fragranced Reed Diffuser - Fresh Cotton 90m,20240413,household,False
+Aldi,2.79,31.0,l,Scentcerity Fragranced Reed Diffuser Fresh Raspberry 90,20240413,household,False
+Aldi,0.85,1.13,l,Powerforce Bathroom Cleaner 750ml,20240413,household,False
+Aldi,3.09,0.08,unit,Magnum All In 1 Lemon Zest Dishwasher Tablets 40 Pack,20240413,household,False
+Aldi,0.79,1.58,l,Powerforce Fresh Linen Spray 500ml,20240413,household,False
+Aldi,0.79,1.58,l,Powerforce Pink Grapefruit Spray 500ml,20240413,household,False
+Aldi,0.79,1.58,l,Powerforce Lavender Spray 500ml,20240413,household,False
+Aldi,2.55,9.27,kg,Almat So Soft Coconut Laundry Scent Booster 275g/15 Was,20240413,household,False
+Aldi,2.55,9.27,kg,Almat So Soft Fresh Blue Laundry Scent Booster 275g/15,20240413,household,False
+Aldi,2.55,9.27,kg,Almat So Soft Blossom Laundry Scent Booster 275g/15 Was,20240413,household,False
+Aldi,2.99,8.8,kg,Purewick Sweet Cherry Scented Candle 340g,20240413,household,False
+Aldi,2.99,8.8,kg,Purewick Vanilla Blush Scented Candle 340g,20240413,household,False

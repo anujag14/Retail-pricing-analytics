@@ -1,0 +1,2001 @@
+supermarket,prices_(£),prices_unit_(£),unit,names,date,category,own_brand
+Morrisons,2.1,4.2,kg,Alpro Vanilla Yoghurt Alternative,20240413,free-from,False
+Morrisons,2.1,4.2,kg,Alpro Plain No Sugars Yoghurt Alternative,20240413,free-from,False
+Morrisons,2.3,2.3,l,Alpro Barista Coconut Milk,20240413,free-from,False
+Morrisons,3.25,8.13,kg,Morrisons The Best Thick Pork Sausages,20240413,free-from,True
+Morrisons,3.25,8.67,kg,Morrisons The Best Pork Chipolatas 12 Pack,20240413,free-from,True
+Morrisons,3.25,8.13,kg,Morrisons The Best Thick Cumberland Sausages,20240413,free-from,True
+Morrisons,1.75,3.5,kg,Vitalite Dairy Free Spread,20240413,free-from,False
+Morrisons,1.75,3.5,kg,Alpro Blueberry & Cherry Yoghurt Alternative,20240413,free-from,False
+Morrisons,3.25,8.13,kg,Morrisons The Best Thick Old English Sausages,20240413,free-from,True
+Morrisons,1.75,3.5,kg,Alpro Strawberry-Banana & Peach-P…,20240413,free-from,False
+Morrisons,3.25,8.13,kg,Morrisons The Best Thick Pork…,20240413,free-from,True
+Morrisons,3.25,8.13,kg,Morrisons The Best Thick Lincolnshire Sausages,20240413,free-from,True
+Morrisons,2.5,8.3,l,"Twister Mini Pineapple,Lemon-Lime…",20240413,free-from,False
+Morrisons,1.25,0.21,unit,Mrs Crimble's Gluten Free 6 Big…,20240413,free-from,False
+Morrisons,3.25,8.67,kg,Morrisons The Best Cumberland Chi…,20240413,free-from,True
+Morrisons,3.5,8.8,kg,Warburtons Gluten Free Tiger Bloomer,20240413,free-from,False
+Morrisons,3.0,4.0,l,Swedish Glace Dairy Free Smooth V…,20240413,free-from,False
+Morrisons,2.5,6.2,l,Calippo Mini Orange & Lime Ice Lollies,20240413,free-from,False
+Morrisons,1.69,8.4,kg,Morrisons Free From Chocola…,20240413,free-from,True
+Morrisons,2.5,6.2,l,Calippo Cola Ice Lollies,20240413,free-from,False
+Morrisons,1.5,17.6,kg,Properchips Barbecue Lentil Chips,20240413,free-from,False
+Morrisons,2.0,10.0,kg,Arla Lactofree Mature Cheddar Grated Cheese,20240413,free-from,False
+Morrisons,1.75,4.0,kg,Alpro Peach And Exotic Fruit Yoghurt Alternative,20240413,free-from,False
+Morrisons,1.9,27.1,kg,Properchips BBQ Lentil Chips,20240413,free-from,False
+Morrisons,1.69,11.3,kg,Morrisons Free From Double Chocolate Cookies,20240413,free-from,True
+Morrisons,1.35,15.9,kg,Popworks Sweet & Salty Sharing Popped Crisps,20240413,free-from,False
+Morrisons,1.75,7.9,kg,Genius Gluten Free Crumpets,20240413,free-from,False
+Morrisons,2.25,5.63,kg,Napolina Gluten Free Fusilli,20240413,free-from,False
+Morrisons,1.8,18.0,kg,Morrisons Free From 5 Swirl…,20240413,free-from,True
+Morrisons,2.3,2.3,l,Rude Health Organic Almond Drink,20240413,free-from,False
+Morrisons,3.5,8.8,kg,Warburtons Gluten Free Arti…,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Hazelnut Long Life Drink,20240413,free-from,False
+Morrisons,1.35,0.68,unit,Genius Gluten Brioche Burger Buns,20240413,free-from,False
+Morrisons,1.25,1.25,l,Blue Diamond Almonds Almo…,20240413,free-from,False
+Morrisons,1.79,17.0,kg,Perkier Crunchy Peanut Protein Bars,20240413,free-from,False
+Morrisons,1.7,10.6,kg,Nairn's Gluten Free Biscuit Breaks Chunky O…,20240413,free-from,False
+Morrisons,1.7,1.7,l,Oatly Chilled Organic Oat Drink,20240413,free-from,False
+Morrisons,3.0,8.4,kg,Nature's Path Gluten Free Mesa Sunrise Cereal,20240413,free-from,False
+Morrisons,2.45,5.7,kg,Genius Gluten Free Triple Seeded Sandwich Loaf,20240413,free-from,False
+Morrisons,1.7,10.6,kg,Nairn's Gluten Free Biscuit Breaks Chunky…,20240413,free-from,False
+Morrisons,1.69,11.9,kg,Morrisons Free From Jammy Wheels,20240413,free-from,True
+Morrisons,3.0,11.1,l,Magnum Vegan Classic Chocolate Ice Cream Sticks,20240413,free-from,False
+Morrisons,1.69,9.4,kg,Morrisons Free From Cream Crunchies,20240413,free-from,True
+Morrisons,1.69,9.4,kg,Morrisons Free From Cookies & Cream Cookies,20240413,free-from,True
+Morrisons,2.45,5.7,kg,Genius Gluten Free White Sandwich Loaf,20240413,free-from,False
+Morrisons,1.69,11.3,kg,Morrisons Free From Chocolate Orange Cookies,20240413,free-from,True
+Morrisons,2.25,5.63,kg,Napolina Gluten Free Spaghetti,20240413,free-from,False
+Morrisons,1.45,1.45,l,Koko Fresh Original Plus Calcium Milk Alternative,20240413,free-from,False
+Morrisons,3.0,11.1,l,Magnum Vegan Almond Ice Cream Sticks,20240413,free-from,False
+Morrisons,1.69,10.6,kg,Morrisons Free From Digestive Biscuits,20240413,free-from,True
+Morrisons,1.79,17.0,kg,Perkier Cacao & Orange Protein Bars,20240413,free-from,False
+Morrisons,2.5,8.9,l,Twister Peek-A-Blue,20240413,free-from,False
+Morrisons,3.2,10.0,kg,Genius Gluten Free Denby Dale…,20240413,free-from,False
+Morrisons,2.2,11.0,kg,Genius Gluten Free Sausage Rolls,20240413,free-from,False
+Morrisons,1.45,1.4,l,Koko Dairy Free Unsweetened,20240413,free-from,False
+Morrisons,1.4,9.3,kg,Schar Gluten Free Jaffa Cakes,20240413,free-from,False
+Morrisons,1.5,1.5,l,Mighty Ultimate Barista Oat Mil…,20240413,free-from,False
+Morrisons,2.5,8.9,l,Twister Zingerrr Ice Lollies,20240413,free-from,False
+Morrisons,2.15,10.9,kg,Genius Gluten Free Pancakes,20240413,free-from,False
+Morrisons,2.45,5.7,kg,Genius Gluten Free Toastie Sandwich Loaf,20240413,free-from,False
+Morrisons,2.0,6.7,kg,Kirsty's Vegetable Lasagne,20240413,free-from,False
+Morrisons,1.7,1.7,l,Oat-Ly Chocolate Oat Drink,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Soya Light Long Life Drink,20240413,free-from,False
+Morrisons,1.5,11.1,kg,Mister Freed Avocado Guacamol…,20240413,free-from,False
+Morrisons,2.45,5.7,kg,Genius Gluten Free Brown Sandwich Loaf,20240413,free-from,False
+Morrisons,1.5,12.0,kg,Schar Gluten Free Vanilla Wafers,20240413,free-from,False
+Morrisons,1.69,9.4,kg,Morrisons Free From Ginger Snaps,20240413,free-from,True
+Morrisons,2.0,4.2,l,Morrisons Free From Ice Cream Strawberry,20240413,free-from,True
+Morrisons,1.7,12.4,kg,Nairn's Gluten Free Cracked…,20240413,free-from,False
+Morrisons,1.7,12.4,kg,Nairn's Gluten Free Seeded Crackers,20240413,free-from,False
+Morrisons,1.7,11.3,kg,Nairn's Gluten Free Flatbre…,20240413,free-from,False
+Morrisons,2.35,2.4,kg,Warburtons Glutenfree Soft Sliced Seeded Rolls,20240413,free-from,False
+Morrisons,2.25,3.0,l,Califia Farms Mocha Cold Brew Coffee With Almond,20240413,free-from,False
+Morrisons,1.5,11.1,kg,Mister Freed Cheezie Cheese…,20240413,free-from,False
+Morrisons,1.0,35.7,kg,Popworks Sweet & Salty Popped Crisps,20240413,free-from,False
+Morrisons,2.3,2.3,l,Rude Health Long Life Organic C…,20240413,free-from,False
+Morrisons,1.25,6.9,kg,Mrs Crimble's Gluten Free 6 Big Coconut Macaroons,20240413,free-from,False
+Morrisons,2.0,4.2,l,Morrisons Free From Ice Cream Chocolate,20240413,free-from,True
+Morrisons,2.0,12.1,kg,Zest Vegan Basil Pesto,20240413,free-from,False
+Morrisons,2.0,12.2,kg,Zest Vegan Red Pesto,20240413,free-from,False
+Morrisons,1.25,0.62,unit,Morrisons Free From Cherry Bakewells,20240413,free-from,True
+Morrisons,0.9,25.0,kg,Deliciously Ella Almond Butte…,20240413,free-from,False
+Morrisons,2.5,7.3,kg,Zest Tomato Mushroom & Smok…,20240413,free-from,False
+Morrisons,4.65,3.53,l,Skinny Brands Lager (Abv 4%),20240413,free-from,False
+Morrisons,0.9,25.0,kg,Deliciously Ella Double Chocolate Caramel Cups,20240413,free-from,False
+Morrisons,2.5,7.3,kg,Zest Tomato & Fiery Chilli Sauce,20240413,free-from,False
+Morrisons,4.0,20.0,kg,Whitby Seafoods Gluten Free Battered Calamari,20240413,free-from,False
+Morrisons,2.5,8.3,kg,Schar Gluten Free Wholesome Seeded Loaf,20240413,free-from,False
+Morrisons,2.5,8.3,kg,Schar Gluten Free Wholesome White Loaf,20240413,free-from,False
+Morrisons,2.5,14.7,kg,White Rabbit Classic Tiramisu,20240413,free-from,False
+Morrisons,2.35,7.8,kg,Morrisons Free From Margherita…,20240413,free-from,True
+Morrisons,2.35,7.6,kg,Morrisons Free From Pepperoni P…,20240413,free-from,True
+Morrisons,2.25,10.0,kg,Flora Plant Butter,20240413,free-from,False
+Morrisons,2.65,0.44,unit,Genius Delicously Gluten Free Blueberry Pancakes,20240413,free-from,False
+Morrisons,2.65,0.44,unit,Genius Delicously Gluten Free Chocolate Pancakes,20240413,free-from,False
+Morrisons,2.2,4.9,kg,Morrisons Fruit And Seeds Gluten Free Muesli,20240413,free-from,True
+Morrisons,3.0,30.0,kg,Galaxy Vegan Fruit & Nut,20240413,free-from,False
+Morrisons,1.5,37.5,kg,Galaxy Vegan Salted Caramel,20240413,free-from,False
+Morrisons,1.3,8.7,kg,Chippa Worcester Sauce,20240413,free-from,False
+Morrisons,2.0,19.2,kg,Schar Gluten Free Chilled Milk Cake,20240413,free-from,False
+Morrisons,1.5,33.0,kg,Buttermilk Plant Powered Dairy Free…,20240413,free-from,False
+Morrisons,2.89,24.1,kg,Gluten Free Galaxy Cookies,20240413,free-from,False
+Morrisons,2.7,9.0,kg,Freee Gluten Free Organic Chocolate Stars,20240413,free-from,False
+Morrisons,2.89,24.1,kg,Gluten Free Twix Cookies,20240413,free-from,False
+Morrisons,2.99,12.0,l,Kikkoman Gluten Free Teriyaki Marinade,20240413,free-from,False
+Morrisons,1.95,1.95,l,Smug Dairy Milk,20240413,free-from,False
+Morrisons,2.5,14.3,kg,Violife Original Grated,20240413,free-from,False
+Morrisons,2.5,14.3,kg,Violife Original Sliced,20240413,free-from,False
+Morrisons,2.25,2.25,l,Plenish Organic Almond Milk,20240413,free-from,False
+Morrisons,1.75,2.33,l,Alpro This Is Not Milk Semi Skimmed,20240413,free-from,False
+Morrisons,3.6,7.5,kg,Promise Multigrain Loaf,20240413,free-from,False
+Morrisons,2.0,2.67,l,Alpro Plain Protein Drink Fresh,20240413,free-from,False
+Morrisons,1.75,2.33,l,Alpro This Is Not Milk Whole Fresh,20240413,free-from,False
+Morrisons,2.4,2.4,l,Plenish Organic Gluten Free Oat Barista Milk,20240413,free-from,False
+Morrisons,3.6,7.5,kg,Promise Soft White Loaf,20240413,free-from,False
+Morrisons,4.0,8.9,kg,Kirsty's Takeaway Ginger Chicken & Spring Onion,20240413,free-from,False
+Morrisons,2.2,5.5,kg,Koko Plain Yogurt Alt,20240413,free-from,False
+Morrisons,1.65,6.6,kg,Koko Raspberry Yogurt Alternative,20240413,free-from,False
+Morrisons,1.35,1.35,l,Morrisons Lactose Free Semi Skimmed Milk,20240413,free-from,True
+Morrisons,1.35,1.35,l,Arla LactoFREE Semi Skimmed Milk Drink,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Almond No Sugars Chilled Drink,20240413,free-from,False
+Morrisons,1.35,1.35,l,Arla LactoFREE Whole Milk Drink,20240413,free-from,False
+Morrisons,1.35,1.35,l,Morrisons Lactose Free Skimmed Milk,20240413,free-from,True
+Morrisons,2.1,5.3,kg,Alpro Greek Style Plain Yoghurt Alternative,20240413,free-from,False
+Morrisons,2.5,12.5,kg,Arla LactoFREE Mature Cheddar Cheese,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Soya Chilled Drink,20240413,free-from,False
+Morrisons,1.35,1.35,l,Arla LactoFREE Skimmed Milk Drink,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Soya No Sugars Chilled Drink,20240413,free-from,False
+Morrisons,1.35,1.35,l,Morrisons Lactose Free Whole Milk,20240413,free-from,True
+Morrisons,1.2,2.4,kg,Morrisons Free From Penne,20240413,free-from,True
+Morrisons,3.5,3.5,kg,Flora Original Spread With Natural Ingredients,20240413,free-from,False
+Morrisons,1.9,3.8,kg,Morrisons Free From Seeded Loaf,20240413,free-from,True
+Morrisons,1.75,0.44,unit,Morrisons Free From White Rolls,20240413,free-from,True
+Morrisons,3.5,3.5,kg,Flora Lighter Spread With Natural Ingredients,20240413,free-from,False
+Morrisons,2.2,7.3,kg,Warburtons Gluten Free Multiseed Loaf,20240413,free-from,False
+Morrisons,2.0,12.5,kg,Nain's Gluten Free Choc Chip Biscuits,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Oat Chilled Drink,20240413,free-from,False
+Morrisons,3.0,13.9,kg,Old El Paso Gluten Free Tortilla Wraps,20240413,free-from,False
+Morrisons,2.9,0.72,unit,Warburtons Gluten Free Super…,20240413,free-from,False
+Morrisons,2.0,2.0,l,Arla LactoFREE Long Life Semi Skimmed Milk Drink,20240413,free-from,False
+Morrisons,2.1,2.1,l,Oatly The Original Oat Drink Whole,20240413,free-from,False
+Morrisons,1.7,2.27,kg,Morrisons Free From Homestyle Chips,20240413,free-from,True
+Morrisons,1.59,8.0,kg,Dr. Oetker Bicarbonate of Soda,20240413,free-from,False
+Morrisons,1.49,13.2,kg,Eat Real Lentil Chips Sea Salt Flavour,20240413,free-from,False
+Morrisons,2.1,4.2,kg,Alpro Plain with Coconut Yoghurt Alternative,20240413,free-from,False
+Morrisons,2.1,2.1,l,Oatly The Original Oat Drink Semi,20240413,free-from,False
+Morrisons,3.0,21.4,kg,Nakd Blueberry Muffin 4 Raw Fruit & Nut Bars,20240413,free-from,False
+Morrisons,2.1,2.1,l,Califia Farms Oat Barista Chilled,20240413,free-from,False
+Morrisons,2.0,4.0,kg,Alpro Velvet Vanilla Dessert,20240413,free-from,False
+Morrisons,2.0,4.0,kg,Alpro Dark Chocolate Dessert,20240413,free-from,False
+Morrisons,2.0,4.0,kg,Morrisons Free From White Loaf,20240413,free-from,True
+Morrisons,3.0,21.4,kg,Nakd Cocoa Orange 4 Raw Fruit & Nut Bars,20240413,free-from,False
+Morrisons,3.75,10.42,kg,Birds Eye Gluten Free 12 Fish Fingers,20240413,free-from,False
+Morrisons,1.4,2.7,kg,Alpro Vanilla Custard,20240413,free-from,False
+Morrisons,2.1,4.2,kg,Alpro Plain Yoghurt Alternative,20240413,free-from,False
+Morrisons,1.0,2.4,kg,Kit Kat 4 Finger Vegan Chocolate Bar,20240413,free-from,False
+Morrisons,1.9,6.7,l,Henderson's Relish,20240413,free-from,False
+Morrisons,1.2,2.4,kg,Morrisons Free From Fusilli,20240413,free-from,True
+Morrisons,2.4,12.0,kg,Cathedral City Lactose Free…,20240413,free-from,False
+Morrisons,2.3,13.5,kg,Easibake Gluten Free Garlic Bread Bag…,20240413,free-from,False
+Morrisons,1.4,5.6,l,Alpro Soya Chilled Altern…,20240413,free-from,False
+Morrisons,3.75,18.8,kg,Whitby Seafoods Gluten Free Scampi,20240413,free-from,False
+Morrisons,1.2,2.4,kg,Morrisons Free From Spaghetti,20240413,free-from,True
+Morrisons,3.8,10.27,kg,Dr. Oetker Ristorante Glute…,20240413,free-from,False
+Morrisons,0.5,20.0,kg,Morrisons Free From Choccy Buttons,20240413,free-from,True
+Morrisons,2.85,8.1,kg,Nestle Go Free Honey Nut Flakes,20240413,free-from,False
+Morrisons,2.2,7.3,kg,Warburtons Gluten Free White Loaf,20240413,free-from,False
+Morrisons,1.2,44.4,kg,Deliciously Ella Chocolate Orange Dipped Almonds,20240413,free-from,False
+Morrisons,2.0,17.7,kg,"Eat Real Veggie Straws Kale, Tomato & Spinach",20240413,free-from,False
+Morrisons,0.6,30.0,kg,Moo Free White,20240413,free-from,False
+Morrisons,1.5,10.0,kg,Schar Gluten Free Crispbreads,20240413,free-from,False
+Morrisons,1.49,11.0,kg,Eat Real Hummus Chips Tomato & Basil Flavour,20240413,free-from,False
+Morrisons,2.4,6.4,kg,Nestle Go Free Corn Flakes,20240413,free-from,False
+Morrisons,1.85,4.9,kg,Whole Earth Organic Corn Flakes,20240413,free-from,False
+Morrisons,1.5,12.0,kg,Schar Gluten Free Custard Creams,20240413,free-from,False
+Morrisons,3.75,3.8,kg,Morrisons Free From Gluten Free Oats,20240413,free-from,True
+Morrisons,1.9,3.8,kg,Morrisons Free From Brown Loaf,20240413,free-from,True
+Morrisons,2.35,9.4,kg,Arla LactoFREE Slightly Salted Spreadable Bl…,20240413,free-from,False
+Morrisons,2.85,8.1,kg,Nestle Go Free Rice Pops Gluten Free Cereal,20240413,free-from,False
+Morrisons,1.2,4.8,kg,Morrisons Free From Potato Gnocchi,20240413,free-from,True
+Morrisons,1.5,8.8,kg,Morrisons Free From Vegetable Gravy Granules,20240413,free-from,True
+Morrisons,0.9,16.4,kg,Morrisons Free From Golden Syrup Porridge,20240413,free-from,True
+Morrisons,3.25,10.8,kg,Schar Gluten-Free Pizza Base with Sourdough,20240413,free-from,False
+Morrisons,2.75,13.75,kg,Violife Epic Mature Cheddar Flavour Block,20240413,free-from,False
+Morrisons,3.85,15.4,kg,Birds Eye 2 Gluten Free Breaded Fish Fillets,20240413,free-from,False
+Morrisons,2.15,4.3,kg,Pure Vegan Dairy Free Olive Spread,20240413,free-from,False
+Morrisons,4.0,8.8,kg,Birds Eye 22 Gluten Free Chicken Nuggets,20240413,free-from,False
+Morrisons,1.95,6.5,kg,Morrisons Free From Special Flakes,20240413,free-from,True
+Morrisons,1.5,1.5,l,Alpro Almond Chilled Drink,20240413,free-from,False
+Morrisons,2.0,8.0,l,Arla Lactofree Cream,20240413,free-from,False
+Morrisons,2.1,13.1,kg,Genius Gluten Free Double Chocolate Muffins 2 Pack,20240413,free-from,False
+Morrisons,2.35,8.39,kg,Jus-Rol Gluten Free Puff Pastry Ready Rolled Sheet,20240413,free-from,False
+Morrisons,1.45,1.45,l,Morrisons Oat Milk,20240413,free-from,True
+Morrisons,3.5,2.65,l,Free Damm 0% Lager,20240413,free-from,False
+Morrisons,2.49,16.6,kg,Cathedral City Dairy Free Grated,20240413,free-from,False
+Morrisons,1.5,8.8,kg,Morrisons Free From Meat Gravy Granules,20240413,free-from,True
+Morrisons,2.0,12.5,kg,Nairn's Gluten Free Ginger Biscuit Breaks,20240413,free-from,False
+Morrisons,2.75,13.8,kg,Violife Creamy Original Flavour Veg…,20240413,free-from,False
+Morrisons,2.1,10.8,kg,Morrisons Free From Bakewell Tart,20240413,free-from,True
+Morrisons,2.2,4.9,kg,Nairn's Gluten Free Scottish Porridge Oats,20240413,free-from,False
+Morrisons,1.1,18.3,kg,Schar Gluten Free Pretzels,20240413,free-from,False
+Morrisons,2.4,12.0,kg,Schar Gluten-Free White Ciabatta Rolls,20240413,free-from,False
+Morrisons,1.95,1.95,kg,Doves Farm Gluten & Wheat Free…,20240413,free-from,False
+Morrisons,3.0,12.0,l,Kikkoman Tamari Gluten Free Soy Sauce,20240413,free-from,False
+Morrisons,4.0,12.6,kg,Goodfella's Gluten Free Pepperoni Pizza,20240413,free-from,False
+Morrisons,1.85,9.3,l,Oatly! The Original Creamy Oat Fraiche,20240413,free-from,False
+Morrisons,2.0,6.67,kg,Heck Meat Free Sausage,20240413,free-from,False
+Morrisons,1.2,2.4,kg,Morrisons Free From Macaroni Pasta,20240413,free-from,True
+Morrisons,2.9,0.72,unit,Warburtons Gluten Free Soft Cinn…,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Soya Chocolate Chilled Drink,20240413,free-from,False
+Morrisons,2.1,4.2,kg,Alpro Strawberry Yoghurt Alternative,20240413,free-from,False
+Morrisons,2.75,0.69,unit,Bfree Pitta Breads Stone Baked Pittas,20240413,free-from,False
+Morrisons,2.0,9.4,kg,Nairns Gluten Free Oat Cakes,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Coconut Chilled Drink,20240413,free-from,False
+Morrisons,2.4,12.0,kg,Schar Gluten-Free Brown Ciabatta Rolls,20240413,free-from,False
+Morrisons,2.4,20.0,kg,Morrisons Free From Choc Chip Brownie,20240413,free-from,True
+Morrisons,1.4,8.8,kg,Nairn's Gluten Free Syrupy & Crumbly Oaties,20240413,free-from,False
+Morrisons,1.25,5.0,kg,Morrisons Free From Lasagne Sheets,20240413,free-from,True
+Morrisons,1.5,0.38,unit,Mrs Crimble's Gluten Free 4 Big Bakewell Slices 200g,20240413,free-from,False
+Morrisons,2.2,14.7,kg,Philadelphia Lactose Free Soft Cream Cheese,20240413,free-from,False
+Morrisons,1.95,1.95,kg,Doves Farm Gluten Free Self-Raising White Flour,20240413,free-from,False
+Morrisons,2.75,7.9,kg,Morrisons Free From Red Berry Granola,20240413,free-from,True
+Morrisons,2.75,5.7,l,Morrisons Free From Straw…,20240413,free-from,True
+Morrisons,1.59,2.3,kg,Dr Oekter Gluten Free Baking Powder Tub,20240413,free-from,False
+Morrisons,2.35,15.7,kg,Morrisons The Best Free From Quad Choc Cookies,20240413,free-from,True
+Morrisons,1.6,12.8,kg,Schar Gluten Free Rich Tea Biscuits,20240413,free-from,False
+Morrisons,2.1,11.1,kg,Genius Gluten Free Blueberry Muffins,20240413,free-from,False
+Morrisons,0.9,16.4,kg,Morrisons Free From Original Porridge,20240413,free-from,True
+Morrisons,1.5,15.0,kg,Schar Gluten Free Spekulatius,20240413,free-from,False
+Morrisons,2.0,4.0,kg,Alpro Smooth Chocolate Dessert,20240413,free-from,False
+Morrisons,1.95,6.5,kg,Morrisons Free From Honey Hoops Cereal,20240413,free-from,True
+Morrisons,2.15,14.3,kg,Morrisons Free From Fruity Granola Cereal Bars,20240413,free-from,True
+Morrisons,2.75,7.9,kg,Morrisons Free From Honey Nut Granola,20240413,free-from,True
+Morrisons,1.2,8.0,kg,Alpro Go On Mango Yogurt,20240413,free-from,False
+Morrisons,2.2,11.0,l,Food Heaven Free-From Heavenly Whipped,20240413,free-from,False
+Morrisons,1.5,10.3,kg,Morrisons Free From Bourbon Biscuits,20240413,free-from,True
+Morrisons,2.25,11.3,kg,Morrisons Free From Mature Cheddar,20240413,free-from,True
+Morrisons,2.4,10.7,kg,Schar Gluten-Free 3 Panini Rolls,20240413,free-from,False
+Morrisons,2.3,0.57,unit,We Love Cake Rip Roaring Raspberry Ripple Slices,20240413,free-from,False
+Morrisons,3.99,10.0,kg,Daim Chocolate Cake With Crunchy Caramel,20240413,free-from,False
+Morrisons,3.0,30.0,kg,Galaxy Caramel Vegan Chocolate Dairy Free,20240413,free-from,False
+Morrisons,1.45,1.4,l,Morrisons Sweetened Almond Milk,20240413,free-from,True
+Morrisons,2.49,16.6,kg,Cathedral City Dairy Free Sliced,20240413,free-from,False
+Morrisons,4.0,12.2,kg,Goodfella's Gluten Free Margherita Pizza,20240413,free-from,False
+Morrisons,2.0,11.1,kg,Nairn's Gluten Free Cheese Oatcakes,20240413,free-from,False
+Morrisons,2.65,13.25,kg,Morrisons Free From Grated Ch…,20240413,free-from,True
+Morrisons,3.1,16.3,kg,Sacla Vegan Basil Pesto,20240413,free-from,False
+Morrisons,3.59,12.82,kg,Cathedral City Dairy Free,20240413,free-from,False
+Morrisons,1.0,26.3,kg,Nomo Caramel & Sea Salt Vegan…,20240413,free-from,False
+Morrisons,2.75,24.8,kg,Perkier Salted Caramel & Dark…,20240413,free-from,False
+Morrisons,2.09,18.0,kg,Morrisons Free From 4 Victoria Sponge Slices,20240413,free-from,True
+Morrisons,2.75,24.8,kg,Perkier Madagascan Vanilla…,20240413,free-from,False
+Morrisons,3.3,8.2,kg,Free From Gluten Fully Cooked Chicken Nuggets,20240413,free-from,False
+Morrisons,2.05,2.05,l,Mighty Oat Based Semi Skimmed Not M…,20240413,free-from,False
+Morrisons,1.95,6.5,kg,Morrisons Free From Corn Flakes,20240413,free-from,True
+Morrisons,1.75,0.44,unit,Morrisons Free From Seeded Rolls,20240413,free-from,True
+Morrisons,1.49,11.0,kg,Eat Real Hummus Chips Salt & Vinegar,20240413,free-from,False
+Morrisons,2.75,5.7,l,Morrisons Free From 4 Chocolate…,20240413,free-from,True
+Morrisons,2.7,15.9,kg,Schar Gluten Free Curvies Original Crisps,20240413,free-from,False
+Morrisons,2.5,13.9,kg,The Real Yorkshire Pudding Company Gl…,20240413,free-from,False
+Morrisons,2.35,15.7,kg,Morrisons Free From Flapjack,20240413,free-from,True
+Morrisons,1.49,18.6,kg,Eat Real Quinoa Chips Sour…,20240413,free-from,False
+Morrisons,2.05,2.05,l,Mighty Oat Based Whole Not Mi…,20240413,free-from,False
+Morrisons,1.5,11.5,kg,Oddlygood Dreamy Lemon,20240413,free-from,False
+Morrisons,2.5,8.3,kg,Morrisons Free From Beef Lasagne,20240413,free-from,True
+Morrisons,2.25,2.25,l,Arla Lactofree Organic Semi Skimmed Milk,20240413,free-from,False
+Morrisons,3.1,7.8,kg,Genius Gluten Free Sliced Spicy Fruit Loaf,20240413,free-from,False
+Morrisons,1.0,40.0,kg,Milky Way Magic Stars Dairy Free Chocolate,20240413,free-from,False
+Morrisons,2.6,17.3,kg,Schar Gluten Free Grissini,20240413,free-from,False
+Morrisons,1.4,8.8,kg,Nairn's Gluten Free Choc Chip Oaties,20240413,free-from,False
+Morrisons,1.6,10.7,kg,Schar Gluten Free Digestive Biscuits,20240413,free-from,False
+Morrisons,1.9,1.9,l,Arla Jord Chilled Oat Drink,20240413,free-from,False
+Morrisons,2.75,0.69,unit,BFree Wholegrain Pitta Bread,20240413,free-from,False
+Morrisons,3.2,7.1,kg,Nairn's Gluten Free Oat Muesli,20240413,free-from,False
+Morrisons,1.6,7.3,kg,Schar Gluten Free Crispbread,20240413,free-from,False
+Morrisons,3.49,8.73,kg,Kirstys Cottage Pie With Sweet Potato Mash,20240413,free-from,False
+Morrisons,2.85,11.2,kg,Morrisons Free From 6 Jam Tarts,20240413,free-from,True
+Morrisons,2.1,2.1,l,Oatly The Original Oat Drink Skinny,20240413,free-from,False
+Morrisons,2.45,16.3,kg,Lazy Day Tiffin,20240413,free-from,False
+Morrisons,0.6,30.0,kg,Moo Free Original Bar,20240413,free-from,False
+Morrisons,2.25,13.24,kg,Morrisons Free From Garlic & Herb Soft Cheese,20240413,free-from,True
+Morrisons,1.2,4.8,kg,Morrisons The Best Free From…,20240413,free-from,True
+Morrisons,1.3,2.6,l,Oatly Oat Drink Barista Edition,20240413,free-from,False
+Morrisons,2.3,0.57,unit,We Love Cake Totally Toffee Sticky Toffee Slices,20240413,free-from,False
+Morrisons,1.9,1.9,l,Arla Jord Chilled Oat & Hemp Drink,20240413,free-from,False
+Morrisons,2.8,14.0,kg,Violife Smoky Cheddar Flavour Slices…,20240413,free-from,False
+Morrisons,1.0,31.3,kg,Nomo Fruit & Crunch Bar,20240413,free-from,False
+Morrisons,3.0,20.0,kg,Paxo Gluten Free Sage & Onion Stuffing Mix,20240413,free-from,False
+Morrisons,2.7,15.9,kg,Schar Curvies BBQ,20240413,free-from,False
+Morrisons,3.0,13.04,kg,Violife Greek White Block Veg…,20240413,free-from,False
+Morrisons,1.3,8.7,kg,Good It's Gluten Free Golden Breadcrumbs,20240413,free-from,False
+Morrisons,2.15,14.3,kg,Schar Gluten Free Chocolate Fingers,20240413,free-from,False
+Morrisons,1.0,26.3,kg,Nomo Caramel Filled Chocolate Bar,20240413,free-from,False
+Morrisons,1.2,34.3,kg,Moo Free Choccy Rocks Moofreesas,20240413,free-from,False
+Morrisons,1.9,1.9,l,Arla Jord Chilled Oat & Vanilla Drink,20240413,free-from,False
+Morrisons,3.25,1.63,unit,BFree Naan Breads Stone Baked Original,20240413,free-from,False
+Morrisons,2.65,22.1,kg,Morrisons The Best Free From Chocolate Cake Bars,20240413,free-from,True
+Morrisons,3.5,14.0,kg,Schar Gluten Free Mini Calzone…,20240413,free-from,False
+Morrisons,2.5,25.0,kg,Schar Gluten Free Waffles 4 Pieces,20240413,free-from,False
+Morrisons,1.05,35.0,kg,Schar Gluten Free Melto,20240413,free-from,False
+Morrisons,1.4,12.0,kg,Aunt Bessie's Gluten Free Yorkshire Pudding Mix,20240413,free-from,False
+Morrisons,3.1,16.3,kg,Sacla Vegan Tomato Pesto (Allergen Update),20240413,free-from,False
+Morrisons,2.0,26.67,kg,Applewood Creamy & Smoky…,20240413,free-from,False
+Morrisons,3.49,8.73,kg,Kirstys Classic Beef Lasagne,20240413,free-from,False
+Morrisons,1.49,11.0,kg,Eat Real Hummus Chips Salted,20240413,free-from,False
+Morrisons,3.0,30.0,kg,Galaxy Classic Vegan Chocolate Dairy Free,20240413,free-from,False
+Morrisons,3.2,12.3,kg,Schar Gluten Free Pain Au Chocolate,20240413,free-from,False
+Morrisons,3.1,7.5,kg,Betty Crocker Gluten Free Cho…,20240413,free-from,False
+Morrisons,4.0,22.9,kg,Bisto Gluten Free Gravy Granules,20240413,free-from,False
+Morrisons,1.95,6.5,kg,Morrisons Free From Rice Pops,20240413,free-from,True
+Morrisons,2.2,1.1,unit,Morrisons Free From Scones,20240413,free-from,True
+Morrisons,1.5,12.0,kg,Morrisons Free From Custard Creams,20240413,free-from,True
+Morrisons,2.9,18.1,kg,Morrisons Free From Dark Chocolate Clusters,20240413,free-from,True
+Morrisons,2.45,16.3,kg,Lazy Day Foods Free From Millionaires Shortbread,20240413,free-from,False
+Morrisons,4.5,12.9,kg,Quaker Oat So Simple Gluten…,20240413,free-from,False
+Morrisons,3.2,8.21,kg,Schar Gluten Free Pizza Veggie Vegan,20240413,free-from,False
+Morrisons,1.2,4.8,kg,Morrisons Free From Dinosaurs Pasta,20240413,free-from,True
+Morrisons,1.99,0.99,unit,Morrisons Plant Revolution Ve…,20240413,free-from,True
+Morrisons,2.1,24.7,kg,Nomo Creamy Choc Bar,20240413,free-from,False
+Morrisons,3.1,7.3,kg,Betty Crocker Gluten Free Devil's…,20240413,free-from,False
+Morrisons,2.85,14.25,kg,Violife Original Flavour Grated V…,20240413,free-from,False
+Morrisons,1.99,7.96,kg,Flora Plant B+tter Salted Veg…,20240413,free-from,False
+Morrisons,2.25,27.4,kg,Morrisons Free From 4 Lemon Cake Slices,20240413,free-from,True
+Morrisons,1.8,30.0,kg,Native Snacks Vegan Prawn Crack…,20240413,free-from,False
+Morrisons,2.95,16.4,kg,The Coconut Collaborative Little Choc Pots,20240413,free-from,False
+Morrisons,2.5,12.5,kg,Applewood Vegan Block,20240413,free-from,False
+Morrisons,1.75,11.3,kg,Morrisons Free From 4 Fruit Cake Slices,20240413,free-from,True
+Morrisons,2.3,0.57,unit,Morrisons Free From Fruity Almond Slices,20240413,free-from,True
+Morrisons,1.75,10.9,kg,Morrisons Free From Raspb…,20240413,free-from,True
+Morrisons,3.85,20.9,kg,Gu Plant Spanish Lemon Cheesecakes,20240413,free-from,False
+Morrisons,0.55,36.7,kg,Nomo Crispy Mo,20240413,free-from,False
+Morrisons,2.4,5.0,l,Morrisons Free From Ice Cream Vanilla,20240413,free-from,True
+Morrisons,1.6,12.3,kg,Freee By Doves Farm Free Fr…,20240413,free-from,False
+Morrisons,3.0,10.9,kg,Kirsty's Mac & Cheeze,20240413,free-from,False
+Morrisons,2.65,13.25,kg,Morrisons Free From Grated Mozzarella Style,20240413,free-from,True
+Morrisons,2.25,4.5,l,Naturli Cookie Dough,20240413,free-from,False
+Morrisons,1.5,11.5,kg,Oddlygood Dreamy Caramel,20240413,free-from,False
+Morrisons,2.5,7.14,kg,Freee Gluten Free Sponge Cake Mix,20240413,free-from,False
+Morrisons,0.5,14.3,kg,Morrisons Free From Choccy Bar,20240413,free-from,True
+Morrisons,2.95,16.4,kg,The Coconut Collaborative Salted Caramel Choc Pots,20240413,free-from,False
+Morrisons,1.5,5.4,kg,Chippa Gluten Free Mayonnaise,20240413,free-from,False
+Morrisons,2.8,28.0,kg,Doves Farm Foods Gluten Free Xanthan Gum,20240413,free-from,False
+Morrisons,2.15,15.4,kg,Dr. Oetker Liquid Glucose,20240413,free-from,False
+Morrisons,3.5,0.88,unit,Lazy Day Free From Mini Caterpillar Cake Bars,20240413,free-from,False
+Morrisons,2.8,14.0,kg,Applewood Vegan Slices,20240413,free-from,False
+Morrisons,5.15,11.1,l,Ben & Jerry's Non Dairy Vegan C…,20240413,free-from,False
+Morrisons,1.8,18.0,kg,Morrisons Free From Chocolate Bar,20240413,free-from,True
+Morrisons,1.95,1.95,kg,Doves Farm Gluten & Wheat F…,20240413,free-from,False
+Morrisons,1.8,15.1,kg,Morrisons Free From Chocolate Buttons,20240413,free-from,True
+Morrisons,1.0,40.0,kg,Milky Way Magic Stars Dairy Free Ch…,20240413,free-from,False
+Morrisons,2.8,7.0,kg,Nairns Gluten Free Maple Syrup Porridge,20240413,free-from,False
+Morrisons,3.0,20.0,kg,Nomo Cookie Dough Bar,20240413,free-from,False
+Morrisons,1.95,24.4,kg,Crave Hot and Spicy Hot dawgs,20240413,free-from,False
+Morrisons,3.5,21.9,kg,Schar Gluten Free Plant Burger,20240413,free-from,False
+Morrisons,7.0,11.5,kg,Morrisons Free From Caterpillar Cake,20240413,free-from,True
+Morrisons,3.0,14.3,kg,We Love Cake Free From Sticky Toffee Pudding,20240413,free-from,False
+Morrisons,15.0,3.79,l,Skinny Brands Lager,20240413,free-from,False
+Morrisons,2.0,25.0,kg,Crave Pickled Onion Noughties Sharing Bag,20240413,free-from,False
+Morrisons,2.5,12.5,l,Food Heaven Chocolate Spray Cream,20240413,free-from,False
+Morrisons,4.25,7.7,kg,Jack Daniel's Gluten Free Honey BBQ Sauce,20240413,free-from,False
+Morrisons,2.75,25.0,kg,Nomo Caramel & Seasalt Chocolate Giant Buttons,20240413,free-from,False
+Morrisons,2.5,35.7,kg,Ombar Oat Milk Hazelnut Chocolate,20240413,free-from,False
+Morrisons,3.5,14.0,kg,Crave Notella,20240413,free-from,False
+Morrisons,3.0,13.3,kg,We Love Cake Free From Chocolate Pudding,20240413,free-from,False
+Morrisons,2.75,25.0,kg,Nomo Creamy Buttons,20240413,free-from,False
+Morrisons,2.5,7.3,kg,Zest Vegan Tomato & Mascarpone Sauce,20240413,free-from,False
+Morrisons,2.5,14.7,kg,We Love Cake Free From Salted Caramel Tarts,20240413,free-from,False
+Morrisons,2.5,35.7,kg,Ombar Oat Milk Smooth & Creamy Chocolate,20240413,free-from,False
+Morrisons,3.5,0.88,unit,Morrisons The Best Free From Millionaires,20240413,free-from,True
+Morrisons,1.65,34.4,kg,Crave The Big Dipper,20240413,free-from,False
+Morrisons,1.8,18.0,kg,Morrisons Free From Caramel…,20240413,free-from,True
+Morrisons,2.3,4.6,kg,Schar Gluten Free Mix It Universal,20240413,free-from,False
+Morrisons,4.25,7.7,kg,Jack Daniel's Gluten Free Original BBQ Sauce,20240413,free-from,False
+Morrisons,1.8,18.0,kg,Morrisons Free From Belgian Dar…,20240413,free-from,True
+Morrisons,3.49,9.1,kg,Morrisons Free From Peri Peri Wrap Kit,20240413,free-from,True
+Morrisons,4.5,15.0,kg,Morrisons Free From Gluten Asia…,20240413,free-from,True
+Morrisons,1.2,8.0,kg,Alpro Greek Style Strawberr…,20240413,free-from,False
+Morrisons,1.85,4.6,kg,Alpro More Fruit No Added Sugars…,20240413,free-from,False
+Morrisons,1.8,30.0,kg,Native Snacks Vegan Prawn Cra…,20240413,free-from,False
+Morrisons,2.2,3.8,kg,Eat Real Variety,20240413,free-from,False
+Morrisons,1.5,1.5,l,Alpro Hazelnut Chilled Drink,20240413,free-from,False
+Morrisons,3.6,8.0,kg,Flora Plant Butter Spreadable Vegan…,20240413,free-from,False
+Morrisons,1.7,2.27,kg,Morrisons Free From Mini Hash Browns,20240413,free-from,True
+Morrisons,1.5,10.0,kg,Good It's Gluten Free Sage & Onion Stuffing Mix,20240413,free-from,False
+Morrisons,4.5,20.0,kg,Boost Ball Chocolate Brownie Baking Mix,20240413,free-from,False
+Morrisons,5.5,2.75,kg,Flora Buttery Spread,20240413,free-from,False
+Morrisons,2.95,7.4,kg,The Coconut Collaborative Vanilla Custard,20240413,free-from,False
+Morrisons,3.0,40.0,l,Colgate Sensitive Instant Relief Enamel Toothpaste,20240413,health_products,False
+Morrisons,3.0,40.0,l,Colgate Sensitive Instant Relie…,20240413,health_products,False
+Morrisons,2.0,26.6,l,Colgate Advanced White Teet…,20240413,health_products,False
+Morrisons,6.2,82.7,l,Neutrogena Clear & Soothe Moisturiser,20240413,health_products,False
+Morrisons,3.0,40.0,l,Colgate Sensitive Instant Relief…,20240413,health_products,False
+Morrisons,3.0,24.0,l,Colgate Total Original Toothpaste,20240413,health_products,False
+Morrisons,1.0,4.0,l,Carex Advanced Liquid Soap Macadamia,20240413,health_products,False
+Morrisons,1.3,0.16,unit,Morrisons Incontinence Comfort Pads Extra Plus,20240413,health_products,True
+Morrisons,1.0,4.0,l,Original Source Vanilla & Raspberry Shower Gel,20240413,health_products,False
+Morrisons,0.49,0.04,unit,Morrisons Super Ultra Towels with Wings,20240413,health_products,True
+Morrisons,1.0,4.0,l,Carex Advanced Care Coconut Oil Handwash,20240413,health_products,False
+Morrisons,1.0,4.0,l,Original Source Tea Tree & Mint Shower Gel,20240413,health_products,False
+Morrisons,1.5,3.0,l,Imperial Leather Antibacterial Hand W…,20240413,health_products,False
+Morrisons,2.25,30.0,l,Sensodyne Pronamel Gentle Whiteni…,20240413,health_products,False
+Morrisons,3.0,24.0,l,Colgate Total Advance Whitening Toothpaste,20240413,health_products,False
+Morrisons,0.49,0.05,unit,Morrisons Night Time Ultra Towels with Wings,20240413,health_products,True
+Morrisons,2.5,5.0,l,Listerine Coolmint Mouthwash,20240413,health_products,False
+Morrisons,2.99,0.02,unit,Kleenex Extra Large Tissues 2 pack,20240413,health_products,False
+Morrisons,0.49,0.04,unit,Morrisons Normal Ultra Towels with Wings,20240413,health_products,True
+Morrisons,1.0,4.0,l,Original Source Coconut Shower Gel,20240413,health_products,False
+Morrisons,1.0,4.0,l,Original Source Lemon Shower Gel,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Nonstop Bright Bouquet,20240413,health_products,False
+Morrisons,2.99,0.02,unit,Kleenex Balsam Tissues 2 pack,20240413,health_products,False
+Morrisons,1.0,4.0,l,Original Source Shower Gel Lavender,20240413,health_products,False
+Morrisons,2.25,0.19,unit,TENA Lady Discreet Normal Incontinence Pads,20240413,health_products,False
+Morrisons,1.0,4.0,l,Original Source Lime Shower Gel,20240413,health_products,False
+Morrisons,2.25,0.23,unit,TENA Lady Extra Incontinence Pads,20240413,health_products,False
+Morrisons,0.49,0.03,unit,Morrisons Normal Ultra Towels without Wings,20240413,health_products,True
+Morrisons,2.5,33.4,l,Oral-B Gum and Enamel Repair Ge…,20240413,health_products,False
+Morrisons,2.25,30.0,l,Sensodyne Pronamel Daily Protec…,20240413,health_products,False
+Morrisons,1.85,3.7,l,Baylis & Harding Elements Hand…,20240413,health_products,False
+Morrisons,2.25,0.38,unit,TENA Lady Maxi Night Incontinence Pads,20240413,health_products,False
+Morrisons,1.5,3.0,l,Imperial Leather Antibacterial Ha…,20240413,health_products,False
+Morrisons,3.3,44.0,l,Sensodyne Rapid Relief Original Too…,20240413,health_products,False
+Morrisons,1.5,20.0,l,Aquafresh Kids Toothpaste Little Teeth 3-5 Years,20240413,health_products,False
+Morrisons,2.5,2.5,l,Palmolive Naturals Milk & Honey Handwash Refill,20240413,health_products,False
+Morrisons,1.9,3.8,l,Original Source Coconut & Shea Butter Shower Gel,20240413,health_products,False
+Morrisons,1.5,20.0,l,Aquafresh Kids Toothpaste Big Teeth 6-8 Years,20240413,health_products,False
+Morrisons,4.7,0.23,unit,Always Discreet Incontinence…,20240413,health_products,False
+Morrisons,2.25,4.5,l,Colgate Plax Cool Mint Mouthwash,20240413,health_products,False
+Morrisons,2.99,0.02,unit,Kleenex Ultra Soft Tissues 2 Pack,20240413,health_products,False
+Morrisons,3.5,0.07,unit,Simple Cleansing Face Wipes Biodegradable,20240413,health_products,False
+Morrisons,3.3,44.0,l,Sensodyne Rapid Relief Whitening…,20240413,health_products,False
+Morrisons,2.25,9.0,l,Femfresh Natural Balance Daily Intimate Wash,20240413,health_products,False
+Morrisons,1.5,15.0,l,Garnier Skin Active Micellar Cleansing Water,20240413,health_products,False
+Morrisons,2.5,10.0,l,NIVEA Black & White Origina…,20240413,health_products,False
+Morrisons,3.4,0.24,unit,Always Ultra Sanitary Towels Secure N…,20240413,health_products,False
+Morrisons,0.9,4.0,l,Simple Shower Gel & Shampoo,20240413,health_products,False
+Morrisons,1.9,3.8,l,Original Source Mango Shower Gel,20240413,health_products,False
+Morrisons,2.5,5.0,l,Listerine Fresh Burst Mouthwash,20240413,health_products,False
+Morrisons,4.7,0.29,unit,Always Discreet For Sensitive Bladder…,20240413,health_products,False
+Morrisons,2.5,10.0,l,NIVEA Pearl & Beauty 48h Anti-Per…,20240413,health_products,False
+Morrisons,2.5,33.4,l,Oral-B 3D White Arctic Fres…,20240413,health_products,False
+Morrisons,3.0,24.0,l,Colgate Total Active Fresh Toothpaste,20240413,health_products,False
+Morrisons,3.5,28.0,l,Oral-B Pro Expert Professiona…,20240413,health_products,False
+Morrisons,1.95,6.5,l,L'Oreal Men Expert Total Clean Shower Gel,20240413,health_products,False
+Morrisons,3.0,40.0,l,Colgate Max White Luminous Sparklin…,20240413,health_products,False
+Morrisons,2.5,10.0,l,NIVEA MEN Black & White Origi…,20240413,health_products,False
+Morrisons,2.0,26.6,l,Colgate Max White Sparkle…,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Nonstop Cotton Dry,20240413,health_products,False
+Morrisons,1.3,0.11,unit,Morrisons 12 Comfort Pads Normal,20240413,health_products,True
+Morrisons,1.85,3.7,l,Baylis & Harding Elements Handwash,20240413,health_products,False
+Morrisons,2.5,10.0,l,NIVEA MEN Sensitive Protect…,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Nonstop Invisible Aqua,20240413,health_products,False
+Morrisons,3.4,0.07,unit,Always Dailies Panty Liners Long Plus,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Africa Body Spray Deodorant Aerosol,20240413,health_products,False
+Morrisons,3.0,30.0,l,Colgate Total Advanced Whit…,20240413,health_products,False
+Morrisons,6.0,24.0,kg,Sudocrem Antiseptic Healing Cream,20240413,health_products,False
+Morrisons,3.5,46.6,l,Corsodyl Gum + Breath & Sensitivity Whi…,20240413,health_products,False
+Morrisons,3.0,7.5,l,LOreal Elvive Colour Protect Shampoo,20240413,health_products,False
+Morrisons,2.5,33.4,l,Oral-B 3D White Vitalizing Fr…,20240413,health_products,False
+Morrisons,2.0,40.0,l,Dove Women Advanced Antiperspirant…,20240413,health_products,False
+Morrisons,2.5,5.0,l,Listerine Cool Mint Milder Taste Mouthwash,20240413,health_products,False
+Morrisons,1.25,5.0,l,INEOS Moisturising Handwash…,20240413,health_products,False
+Morrisons,2.0,40.0,l,Dove Women Advanced Antiperspirant De…,20240413,health_products,False
+Morrisons,2.33,31.1,l,Arm & Hammer Advance White Pro Toothpaste,20240413,health_products,False
+Morrisons,1.9,3.8,l,Original Source Mint & Tea Tree Shower Gel,20240413,health_products,False
+Morrisons,2.0,26.6,l,Colgate Max Fresh Cooling Cryst…,20240413,health_products,False
+Morrisons,2.5,10.0,l,NIVEA MEN Cool Kick 48h Anti-Pe…,20240413,health_products,False
+Morrisons,2.25,4.5,l,Colgate Plax Soft Mint Mouthwash,20240413,health_products,False
+Morrisons,2.25,0.11,unit,Tena Lady Discreet Mini Pads,20240413,health_products,False
+Morrisons,1.65,0.07,m,Oral-B Satin Tape Mint,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure For Men Quantum Dry Anti Per…,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Black Anti-perspirant Deodorant Spray for Men,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure For Men Invisible Ice Anti Per…,20240413,health_products,False
+Morrisons,2.0,10.0,l,Venus Satin Care Shaving Gel for Sensitive Skin,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Watermelon & Cactus Nonstop Spray,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Africa Anti-perspirant Deodorant Spray for Men,20240413,health_products,False
+Morrisons,3.4,6.8,l,Corsodyl Daily Gum Care Mouthwash…,20240413,health_products,False
+Morrisons,3.5,7.0,l,Corsodyl Daily Complete Protection Gum…,20240413,health_products,False
+Morrisons,3.0,10.0,l,Elvive Colour Protect Conditioner,20240413,health_products,False
+Morrisons,2.6,0.33,unit,Simply Venus 2 Disposable Razors,20240413,health_products,False
+Morrisons,1.7,8.5,l,Gillette Series Sensitive Shavi…,20240413,health_products,False
+Morrisons,5.0,15.2,l,Head & Shoulders Core Classic 2 In 1,20240413,health_products,False
+Morrisons,4.7,0.39,unit,Always Discreet Pads Ultimate…,20240413,health_products,False
+Morrisons,3.0,40.0,l,Corsodyl Complete Protection Gum Ca…,20240413,health_products,False
+Morrisons,2.5,0.1,unit,Bodyform Cour V Ultra Norma…,20240413,health_products,False
+Morrisons,3.5,5.2,l,TRESemme Shampoo Lamellar Shine,20240413,health_products,False
+Morrisons,2.0,40.0,l,Sensodyne Pronamel Kids Ename…,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Antiperspirant Deodorant Non…,20240413,health_products,False
+Morrisons,1.95,6.5,l,L'Oreal Men Expert Hydra Energetic Shower Gel,20240413,health_products,False
+Morrisons,2.0,40.0,l,Dove Women Advanced Antiperspirant Deod…,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Classic Clean Shampoo,20240413,health_products,False
+Morrisons,1.75,8.8,l,Gillette Mach3 Extra Comfort Shaving Gel,20240413,health_products,False
+Morrisons,3.4,0.21,unit,Always Ultra Sanitary Towels Secu…,20240413,health_products,False
+Morrisons,3.4,0.13,unit,Always Ultra Normal (Size 1) Sani…,20240413,health_products,False
+Morrisons,3.0,10.0,l,L'Oreal Elvive Dream Lengths Conditioner,20240413,health_products,False
+Morrisons,3.99,8.0,l,Listerine Advanced Defence Gu…,20240413,health_products,False
+Morrisons,2.5,0.14,unit,Bodyform Cour-V Ultra Night…,20240413,health_products,False
+Morrisons,3.0,7.5,l,L'Oreal Elvive Fibrology Shampoo,20240413,health_products,False
+Morrisons,3.4,0.17,unit,Always Ultra Long Sanitary Towels…,20240413,health_products,False
+Morrisons,2.25,0.09,unit,Femfresh Intimate Hygiene Large…,20240413,health_products,False
+Morrisons,3.0,7.5,l,L' Oreal Paris Elvive Dream L…,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Sport Cool Anti Perspirant…,20240413,health_products,False
+Morrisons,3.4,0.05,unit,Always Dailies Panty Liners Normal Unscented,20240413,health_products,False
+Morrisons,2.25,0.38,unit,TENA Lady Maxi Incontinence Pads,20240413,health_products,False
+Morrisons,1.25,0.06,unit,Bodyform Dailies All Fluid XL Panty Liners,20240413,health_products,False
+Morrisons,3.0,8.5,l,Herbal Essences Rose Shampoo,20240413,health_products,False
+Morrisons,2.25,0.07,unit,Simple Kind to Eyes Biodegradable…,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head and Shoulders Anti Dan…,20240413,health_products,False
+Morrisons,2.5,0.12,unit,Simple Micellar Cleansing Wipes 20 Wipes,20240413,health_products,False
+Morrisons,2.25,15.0,l,Simple Moisturising Facial Wash,20240413,health_products,False
+Morrisons,2.5,33.4,l,Oral-B Sensitivity & Gum Calm Gen…,20240413,health_products,False
+Morrisons,3.0,7.5,l,Pantene Volume Shampoo,20240413,health_products,False
+Morrisons,3.5,5.2,l,TRESemme Conditioner Lamellar Shine,20240413,health_products,False
+Morrisons,3.4,0.12,unit,Always Ultra Sanitary Towels Norm…,20240413,health_products,False
+Morrisons,3.0,12.0,l,Herbal Essences Rose Conditioner,20240413,health_products,False
+Morrisons,1.3,0.22,unit,Morrisons Incontinence Comfort Maxi Night Pads,20240413,health_products,True
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Honey Treasures Shampoo,20240413,health_products,False
+Morrisons,3.0,40.0,l,Corsodyl Complete Protection Gum…,20240413,health_products,False
+Morrisons,3.5,17.5,l,L'Oréal Elnett Normal Strength,20240413,health_products,False
+Morrisons,3.0,7.5,l,Pantene Classic Clean Shampoo,20240413,health_products,False
+Morrisons,1.25,0.25,unit,Wilkinson Sword Extra 2 Beauty…,20240413,health_products,False
+Morrisons,4.5,0.45,unit,TENA Men Level 2 Incontinen…,20240413,health_products,False
+Morrisons,3.0,15.0,l,NIVEA Soft Moisturiser for Face Hands & Body,20240413,health_products,False
+Morrisons,5.25,5.25,l,Listerine Total Care 10 In One Mouthwash,20240413,health_products,False
+Morrisons,5.5,73.3,l,Sensodyne Sensitivity & Gum Original To…,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Itchy Scalp Shampoo,20240413,health_products,False
+Morrisons,1.95,6.5,l,L'Oreal Barberclub Shower Gel,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Argan…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Coco Sleek Shampoo,20240413,health_products,False
+Morrisons,3.0,10.0,l,Pantene Pro-V Smooth & Sleek 3in1 Shamp…,20240413,health_products,False
+Morrisons,1.25,5.0,l,INEOS Moisturising Hand…,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Attract For Him Body Spray Deodorant Aerosol,20240413,health_products,False
+Morrisons,3.4,0.28,unit,Always Sanitary Towels Ultimate…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Miracle Moist Conditioner,20240413,health_products,False
+Morrisons,3.4,0.19,unit,Tampax Pearl Super Tampons…,20240413,health_products,False
+Morrisons,3.4,0.19,unit,Always Ultra Sanitary Towels Day &…,20240413,health_products,False
+Morrisons,3.4,6.8,l,Corsodyl Daily Gum Care Mouthwa…,20240413,health_products,False
+Morrisons,2.25,0.28,unit,TENA Lady Extra Plus Incontinence Pads,20240413,health_products,False
+Morrisons,2.0,0.07,unit,Wisdom Clean Between Pro Fi…,20240413,health_products,False
+Morrisons,3.4,0.19,unit,Tampax Pearl Regular Tampons…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Honey…,20240413,health_products,False
+Morrisons,2.25,18.0,l,Simple Hydrating Light Moisturiser,20240413,health_products,False
+Morrisons,4.5,15.0,l,Aussie Shampoo Miracle Moist,20240413,health_products,False
+Morrisons,3.4,0.06,unit,Always Dailies Panty Liners Long Unscented,20240413,health_products,False
+Morrisons,2.25,9.0,l,Femfresh 0% Wash,20240413,health_products,False
+Morrisons,3.0,10.0,l,Pantene Pro-V Classic Clean 3in1 Shampo…,20240413,health_products,False
+Morrisons,2.25,15.0,l,Simple Kind to Skin Refre…,20240413,health_products,False
+Morrisons,3.0,40.0,l,Colgate Max White Purple Reveal T…,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Gold Body Spray Deodorant For Men,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Excite Body Spray Deodorant For Men,20240413,health_products,False
+Morrisons,3.0,1.0,unit,Oral-B Pro-Expert Criss Cross…,20240413,health_products,False
+Morrisons,1.8,36.0,kg,Vaseline Original Petroleum Jelly,20240413,health_products,False
+Morrisons,3.0,7.5,l,L'Oreal Elvive Mens Anti Dandruff Shampoo,20240413,health_products,False
+Morrisons,2.5,10.0,l,NIVEA Double Effect 48h Anti-Pe…,20240413,health_products,False
+Morrisons,3.3,8.2,l,Simple Kind To Hair Gentle Cleansing Shampoo,20240413,health_products,False
+Morrisons,3.5,46.6,l,Corsodyl Gum + Breath & Sensiti…,20240413,health_products,False
+Morrisons,0.49,0.06,unit,Morrisons Ultra Towels Confident Night,20240413,health_products,True
+Morrisons,2.2,0.14,unit,Lil-lets Super Tampons,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Argan O…,20240413,health_products,False
+Morrisons,4.0,40.0,l,Olay Complete Care Normal Day…,20240413,health_products,False
+Morrisons,3.0,6.0,l,Pantene Core Repair & Protect Shampoo,20240413,health_products,False
+Morrisons,1.25,0.05,unit,Bodyform Dailies Extra Protection Long Liners,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Coco Sleek Conditioner,20240413,health_products,False
+Morrisons,3.0,7.5,l,L'Oreal Elvive Extraordinary Shampoo,20240413,health_products,False
+Morrisons,3.4,0.19,unit,Tampax Pearl Super Plus Tampons…,20240413,health_products,False
+Morrisons,2.25,0.09,unit,Always Discreet Incontinence Li…,20240413,health_products,False
+Morrisons,2.2,0.14,unit,Lil-lets Regular Tampons,20240413,health_products,False
+Morrisons,2.2,0.16,unit,Lil-lets Super Plus Extra Tampons,20240413,health_products,False
+Morrisons,1.2,16.0,l,Nivea Hand Cream Aloe Vera,20240413,health_products,False
+Morrisons,2.25,18.0,l,Simple Kind To Eyes Eye Make-Up Remover,20240413,health_products,False
+Morrisons,3.4,0.17,unit,Always Platinum Long Plus (Size 2) Sa…,20240413,health_products,False
+Morrisons,2.5,5.0,l,Colgate Max White Expert Whitening Mouthwash,20240413,health_products,False
+Morrisons,3.5,17.5,l,Shockwaves Volume Mousse,20240413,health_products,False
+Morrisons,13.95,1.16,unit,TENA Incontinence Pants Plus XL,20240413,health_products,False
+Morrisons,2.2,8.8,l,Gillette Fusion5 Ultra Shaving…,20240413,health_products,False
+Morrisons,3.4,0.21,unit,Always Platinum Night (Size 3) Sani…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Argan Oil…,20240413,health_products,False
+Morrisons,1.75,0.16,unit,Always Sanitary Pads Ultra…,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Ice Chill Body Spray For Men,20240413,health_products,False
+Morrisons,2.5,0.12,unit,Simple Age Resisting Biodegradable Wipes,20240413,health_products,False
+Morrisons,3.0,7.5,l,Pantene Repair & Protect Shampoo,20240413,health_products,False
+Morrisons,13.95,1.16,unit,TENA Incontinence Pants Super M,20240413,health_products,False
+Morrisons,3.5,17.5,l,Elnett Supreme Hold Hairspray,20240413,health_products,False
+Morrisons,3.0,7.5,l,Garnier Body Intensive 7 Days U…,20240413,health_products,False
+Morrisons,3.0,7.5,l,LOreal Elvive Extraordinary Oil Shampoo,20240413,health_products,False
+Morrisons,2.0,26.7,l,Silvikrin Classic Maximum Hold Hairspray,20240413,health_products,False
+Morrisons,3.4,0.21,unit,Tampax Pearl Compak Tampons Regular,20240413,health_products,False
+Morrisons,3.0,40.0,l,Colgate Max White Optic Whitening Toothpaste,20240413,health_products,False
+Morrisons,3.5,17.5,l,Elnett Infinite Shine Supreme Hold,20240413,health_products,False
+Morrisons,13.95,1.16,unit,Tena Pants Super Large,20240413,health_products,False
+Morrisons,3.4,0.24,unit,Always Platinum Night Sanitary Pads (Size 4),20240413,health_products,False
+Morrisons,4.5,15.0,l,Aussie Mega Shampoo For That Mega…,20240413,health_products,False
+Morrisons,3.0,8.5,l,Herbal Essences Orange Shampoo,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Apple Shampoo,20240413,health_products,False
+Morrisons,5.0,15.2,l,Head & Shoulders Core Apple 2 In 1,20240413,health_products,False
+Morrisons,1.75,0.22,unit,Always Ultra Pads Secure Night Extr…,20240413,health_products,False
+Morrisons,3.0,8.5,l,Pantene Smooth & Silky Conditioner,20240413,health_products,False
+Morrisons,4.5,15.0,l,Aussie Aussome Volume Shamp…,20240413,health_products,False
+Morrisons,3.5,1.17,unit,Colgate Max White Medium Toothbrushes,20240413,health_products,False
+Morrisons,2.5,12.5,l,Dove Shower Mousse Foam Renew,20240413,health_products,False
+Morrisons,5.0,12.5,l,NIVEA Q10 Firming Body Lotion with Ar…,20240413,health_products,False
+Morrisons,2.0,0.07,unit,Wisdom Clean Between Pro Medi…,20240413,health_products,False
+Morrisons,3.5,11.7,l,L'Oreal Paris Elvive Hyaluronic Conditioner,20240413,health_products,False
+Morrisons,3.0,10.0,l,Elvive Fibrology Conditioner,20240413,health_products,False
+Morrisons,3.0,18.8,l,Pantene Miracles Pro- V Bond Repair Conditioner,20240413,health_products,False
+Morrisons,3.0,10.9,l,Pantene Repair & Protect Hair Conditioner,20240413,health_products,False
+Morrisons,2.5,0.12,unit,Simple Exfoliating Facial Wipes 20 Wipes,20240413,health_products,False
+Morrisons,2.25,11.3,l,Simple Micellar Cleansing Water,20240413,health_products,False
+Morrisons,5.0,15.2,l,Head & Shoulders Core Itchy 2 In 1,20240413,health_products,False
+Morrisons,1.55,44.3,l,NIVEA Black & White Original An…,20240413,health_products,False
+Morrisons,3.0,12.0,l,Herbal Essences Argan Conditioner,20240413,health_products,False
+Morrisons,1.95,6.5,l,L' Oreal Men Expert Stress Re…,20240413,health_products,False
+Morrisons,3.0,0.07,unit,Tena Lights Liner Long,20240413,health_products,False
+Morrisons,3.0,12.0,l,L'Oreal Kids Strawberry Shampoo,20240413,health_products,False
+Morrisons,1.55,103.3,l,Sensodyne Rapid Relief Sensitive Toothpaste,20240413,health_products,False
+Morrisons,2.25,150.0,l,Simple Kind to Eyes Soothing Eye Balm,20240413,health_products,False
+Morrisons,2.25,18.0,l,Simple Kind To Skin Replenishing Moisturiser,20240413,health_products,False
+Morrisons,3.0,12.0,l,L'Oreal Kids Strawberry Conditioner,20240413,health_products,False
+Morrisons,5.0,15.2,l,Head & Shoulders Citrus 2 In 1,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Deep Hydration Shampoo,20240413,health_products,False
+Morrisons,2.0,0.67,unit,Oral-B Allrounder Clean Black Toothbrushes,20240413,health_products,False
+Morrisons,3.0,12.0,l,Pantene Miracles Pro-V Bond Repair Shampoo,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Arg…,20240413,health_products,False
+Morrisons,3.99,8.0,l,Listerine Advanced White Milder Taste Mouthwash,20240413,health_products,False
+Morrisons,3.0,40.0,l,NIVEA MEN Protect & Care Rehydrating Moisturiser,20240413,health_products,False
+Morrisons,3.5,28.0,l,Oral-B Pro Expert Healthy White Toothpaste,20240413,health_products,False
+Morrisons,3.0,7.5,l,Pantene Smooth & Silky Shampoo,20240413,health_products,False
+Morrisons,2.3,0.57,unit,Gillette Blue 3 Disposable Razors 4 pack,20240413,health_products,False
+Morrisons,3.0,6.0,l,Pantene Core Smooth & Sleek Shampoo,20240413,health_products,False
+Morrisons,7.0,0.87,unit,Tena Silhouette Underwear Hig…,20240413,health_products,False
+Morrisons,3.0,10.0,l,Elvive Extraordinary Oil Conditioner,20240413,health_products,False
+Morrisons,3.3,0.83,unit,Gillette Sensor 3 Comfort Disposable Razors 4 pack,20240413,health_products,False
+Morrisons,4.7,0.39,unit,Always Discreet Pads Ultimate Day,20240413,health_products,False
+Morrisons,11.33,2.83,unit,Oral-B Precision Clean Replacement…,20240413,health_products,False
+Morrisons,5.0,66.7,l,Sensodyne Clinical White Enamel…,20240413,health_products,False
+Morrisons,1.85,37.0,l,Brush-Baby Applemint Teething…,20240413,health_products,False
+Morrisons,6.5,32.5,l,L'Oreal Paris Elvive Glycolic Gloss Shampoo,20240413,health_products,False
+Morrisons,2.0,26.7,l,Silvikrin Firm Hold Hairspray,20240413,health_products,False
+Morrisons,3.0,7.5,l,Garnier Body Intensive 7 Days N…,20240413,health_products,False
+Morrisons,5.0,18.2,l,Head & Shoulders Deep Hydration…,20240413,health_products,False
+Morrisons,3.5,14.0,l,Shockwaves Ultra Strong Power Hold Hairspray,20240413,health_products,False
+Morrisons,2.7,10.8,l,Sure Men Anti-perspirant Deod…,20240413,health_products,False
+Morrisons,3.3,0.83,unit,Gillette Sensor3 Sensitive Disposable Razors 4 pack,20240413,health_products,False
+Morrisons,3.0,8.5,l,Herbal Essences Aloe,20240413,health_products,False
+Morrisons,3.0,12.0,l,Herbal Essences Orange Blossom Conditioner,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Argan Richness Shampoo,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Supreme C…,20240413,health_products,False
+Morrisons,3.0,6.0,l,Pantene Infinite Lengths Pro-V Shampoo,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Aussome Volume Conditioner,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Frizz Ease Stra…,20240413,health_products,False
+Morrisons,4.0,40.0,l,Olay Complete Care Sensitive Da…,20240413,health_products,False
+Morrisons,4.0,16.0,l,John Frieda Volume Lift Shampoo,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Epic Fresh Grapefruit & Pineappl…,20240413,health_products,False
+Morrisons,4.0,0.13,unit,Vitabiotics Menopace Original Tablets,20240413,health_products,False
+Morrisons,3.0,8.5,l,Herbal Essences Coco Shampoo,20240413,health_products,False
+Morrisons,6.5,43.4,l,L'Oreal Paris Elvive Glycolic Gloss Conditioner,20240413,health_products,False
+Morrisons,3.0,8.5,l,Pantene Infinite Lengths Pro-V Hair Conditioner,20240413,health_products,False
+Morrisons,3.0,8.5,l,Herbal Essences Lavender Shampoo,20240413,health_products,False
+Morrisons,1.55,16.3,l,Listerine Total Care Mouthwash,20240413,health_products,False
+Morrisons,2.25,1.13,unit,Morrisons Professional Nail Files,20240413,health_products,True
+Morrisons,5.5,73.3,l,Sensodyne Sensitivity Gum & Enamel…,20240413,health_products,False
+Morrisons,7.0,0.7,unit,TENA Lady Silhouette Incontin…,20240413,health_products,False
+Morrisons,1.55,15.5,l,Tresemme Luxurious Moisture Conditioner,20240413,health_products,False
+Morrisons,3.4,0.09,unit,Always Dailies Large Profresh Panty Liners,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Mega Conditioner,20240413,health_products,False
+Morrisons,2.75,18.4,l,Nivea Derma Skin Clear Face Wash Gel,20240413,health_products,False
+Morrisons,3.4,0.21,unit,Tampax Pearl Compak Super Tampons,20240413,health_products,False
+Morrisons,2.0,6.7,l,Timotei Hydrating Shampoo C…,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Citrus Shampoo,20240413,health_products,False
+Morrisons,4.0,13.3,l,Head & Shoulders Derma X Pro Soothe Shampoo,20240413,health_products,False
+Morrisons,5.0,18.2,l,Head and Shoulders Anti Dandruff Suprem…,20240413,health_products,False
+Morrisons,3.0,60.0,l,NIVEA MEN Protect & Care Intensive Face Cream,20240413,health_products,False
+Morrisons,7.99,4.0,unit,Oral-B CrossAction Electric Toothbrus…,20240413,health_products,False
+Morrisons,1.5,27.3,l,Dove Mini Body Wash Deeply Nourishing,20240413,health_products,False
+Morrisons,3.0,10.9,l,Pantene Smooth & Silky Hair Conditioner,20240413,health_products,False
+Morrisons,2.25,11.3,l,Simple Soothing Facial Toner,20240413,health_products,False
+Morrisons,2.5,12.5,l,Dove Shower Mousse Glow,20240413,health_products,False
+Morrisons,9.0,120.0,l,Oral-B 3d White Clinical Di…,20240413,health_products,False
+Morrisons,3.0,10.9,l,Pantene Classic Hair Conditioner,20240413,health_products,False
+Morrisons,6.0,26.7,l,Aussie 3 Minute Miracle Deep Moisture Conditioner,20240413,health_products,False
+Morrisons,3.0,7.5,l,Pantene Colour Protect Shampoo,20240413,health_products,False
+Morrisons,1.75,0.06,unit,Plackers Eco Flosser,20240413,health_products,False
+Morrisons,7.0,0.87,unit,Tena Lady Pants Plus 8 Large,20240413,health_products,False
+Morrisons,7.0,0.78,unit,Tena Silhouette Underwear High…,20240413,health_products,False
+Morrisons,3.4,0.14,unit,Always Platinum Normal (Size1) Sani…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Shine Miracle Conditioner,20240413,health_products,False
+Morrisons,4.0,13.3,l,Badedas Bath Original Srp,20240413,health_products,False
+Morrisons,3.0,15.0,l,Cutex Care Ultra-Powerful Nail Polish Remover,20240413,health_products,False
+Morrisons,3.0,8.5,l,Herbal Essences Argan Shampoo,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Frizz Ease Recover Conditioner,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Collision Leather + Cook…,20240413,health_products,False
+Morrisons,2.5,25.0,l,NIVEA MEN Protect & Care Deep Cleaning Face Wash,20240413,health_products,False
+Morrisons,3.0,10.9,l,Pantene Colour Hair Conditioner,20240413,health_products,False
+Morrisons,1.55,15.5,l,Tresemme Moisture Rich Shampoo,20240413,health_products,False
+Morrisons,5.0,18.2,l,Head & Shoulders Supreme Col…,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Frizz Ease Straight Ahead Shampoo,20240413,health_products,False
+Morrisons,3.3,8.2,l,Simple Kind To Hair Gentle Care Conditioner,20240413,health_products,False
+Morrisons,2.5,16.7,l,Simple Regeneration Age Resisting Facial Wash,20240413,health_products,False
+Morrisons,9.5,1.19,unit,TENA Incontinence Pants Plus L,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Supreme Repair Shampoo,20240413,health_products,False
+Morrisons,4.0,16.0,l,John Frieda Luxurious Volume…,20240413,health_products,False
+Morrisons,6.49,129.8,l,NIVEA Q10 Energy Vitamin C…,20240413,health_products,False
+Morrisons,3.4,0.21,unit,Tampax Pearl Compak Super Plus…,20240413,health_products,False
+Morrisons,5.0,22.2,l,Aussie 3 Minute Miracle Repair,20240413,health_products,False
+Morrisons,3.0,10.0,l,Elvive Extraordinary Clay Conditioner,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Oat Conditioner,20240413,health_products,False
+Morrisons,5.25,0.26,unit,Gillette Blue Disposable Razors 20 pack,20240413,health_products,False
+Morrisons,4.0,16.0,l,John Frieda Brilliant Brunett…,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Frizz Ease Dream Curls Shampoo,20240413,health_products,False
+Morrisons,3.0,20.0,l,L' Oreal Elvive Colour Protect Purple Conditioner,20240413,health_products,False
+Morrisons,3.0,12.0,l,L'Oreal Kids Tropical Mango Shampoo,20240413,health_products,False
+Morrisons,3.0,10.9,l,Pantene Volume Fine Hair Conditioner,20240413,health_products,False
+Morrisons,2.25,11.3,l,Simple Purifying Cleansing Lotion,20240413,health_products,False
+Morrisons,5.33,17.8,l,Aveeno Oat Milk Shampoo,20240413,health_products,False
+Morrisons,5.0,18.2,l,Head and Shoulders Smooth and Silky Ant…,20240413,health_products,False
+Morrisons,7.0,46.7,l,John Frieda Frizz Ease Intense Hold Hairspray,20240413,health_products,False
+Morrisons,2.65,17.7,l,Lynx Deodorant Bodyspray…,20240413,health_products,False
+Morrisons,7.0,140.0,l,NIVEA Q10 Energy Vitamin C Health…,20240413,health_products,False
+Morrisons,3.5,17.5,l,Shockwaves Curls & Waves Hair Mousse,20240413,health_products,False
+Morrisons,4.0,13.3,l,Dove Silky Nourishing Body Cream,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Frizz Ease Dream Curls Conditioner,20240413,health_products,False
+Morrisons,2.5,28.2,l,Ogx Renewing Argan Oil Of Morocco Conditioner,20240413,health_products,False
+Morrisons,1.65,165.0,kg,Vaseline Lip Therapy Rosy Tinted Lip Balm Tube,20240413,health_products,False
+Morrisons,8.0,1.0,unit,Always Discreet Underwear Bou…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Coco Milk Conditioner,20240413,health_products,False
+Morrisons,2.5,6.2,l,Garnier Ultimate Blends Coco Milk Shampoo,20240413,health_products,False
+Morrisons,3.0,12.0,l,Herbal Essences Aloe Soothe Conditioner,20240413,health_products,False
+Morrisons,3.0,12.0,l,Herbal Essences Lavender Conditioner,20240413,health_products,False
+Morrisons,3.0,40.0,l,L'Oréal Elnett Normal Strength Hairspray,20240413,health_products,False
+Morrisons,3.84,1.28,unit,Venus Oceana Disposable Razors,20240413,health_products,False
+Morrisons,3.4,0.28,unit,Always Platinum Sanitary Towels S…,20240413,health_products,False
+Morrisons,4.5,15.0,l,Aussie Colour Mate Shampoo Fo…,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Menthol Shampoo,20240413,health_products,False
+Morrisons,4.0,16.0,l,John Frieda Brilliant Brunette…,20240413,health_products,False
+Morrisons,3.0,40.0,l,L'Oreal Elnett Strong Hairspray,20240413,health_products,False
+Morrisons,3.45,34.5,l,NIVEA MEN Protect & Care Post Shave Balm,20240413,health_products,False
+Morrisons,1.75,0.19,unit,Always Ultra Day Night With Wings Size 3,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Colour Mate Conditioner,20240413,health_products,False
+Morrisons,2.32,23.2,l,Clean & Clear Dual Action Moisturiser,20240413,health_products,False
+Morrisons,3.0,71.4,kg,Garnier Moisture Bomb Tissue Mask,20240413,health_products,False
+Morrisons,7.0,35.0,l,John Frieda Frizz Ease Curl Reviver Mousse,20240413,health_products,False
+Morrisons,4.5,22.5,l,John Frieda Luxurious Volume Lift Mousse,20240413,health_products,False
+Morrisons,2.75,18.4,l,Nivea Derma Skin Clear Non Blemish Face Scrub,20240413,health_products,False
+Morrisons,2.0,6.7,l,Timotei Precious Oils Conditioner,20240413,health_products,False
+Morrisons,3.5,17.5,l,Elnett Coloured Hair Hairspray,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Smooth & Silky Shampoo,20240413,health_products,False
+Morrisons,1.75,0.15,unit,Nutmeg Women Thick Black Hair Elastics,20240413,health_products,True
+Morrisons,2.5,28.2,l,Ogx Renewing Argan Oil Of Morocco Shampoo,20240413,health_products,False
+Morrisons,9.5,1.06,unit,TENA Incontinence Pants Plus M,20240413,health_products,False
+Morrisons,3.5,17.5,l,TRESemme Leave-In Cream Hai…,20240413,health_products,False
+Morrisons,4.0,13.8,l,Aussie Blonde Hydration Purple Shampoo,20240413,health_products,False
+Morrisons,3.5,17.5,l,Elnett Strong Hairspray,20240413,health_products,False
+Morrisons,6.5,65.0,l,Elvive Extraordinary Oil Miracle Hair Perfecter,20240413,health_products,False
+Morrisons,6.0,24.0,l,John Frieda Profiller Thickening Shampoo,20240413,health_products,False
+Morrisons,3.5,8.8,l,L'Oreal Elvive Aminexil Shampoo,20240413,health_products,False
+Morrisons,2.0,0.07,unit,Plackers Eco Twin Line Flossers,20240413,health_products,False
+Morrisons,4.3,17.2,l,Aveeno Kids Bubble Bath & Wash,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Frizz Ease Shampoo,20240413,health_products,False
+Morrisons,3.5,11.7,l,L'Oreal Elvive Aminexil Conditioner,20240413,health_products,False
+Morrisons,1.5,20.0,l,NIVEA Irresistibly Smooth Body Lotion for Dry Skin,20240413,health_products,False
+Morrisons,3.5,14.0,l,Shockwaves Extra Strong Hold Hairspray,20240413,health_products,False
+Morrisons,4.0,20.0,l,Aussie Blonde Hydration Conditioner,20240413,health_products,False
+Morrisons,6.0,18.2,l,Head & Shoulders Ultra Total Care 2 In 1,20240413,health_products,False
+Morrisons,5.0,18.2,l,Head and Shoulders Anti Dandruff Dama…,20240413,health_products,False
+Morrisons,6.5,43.3,l,L'Oreal Elvive Bond Repair Conditioner,20240413,health_products,False
+Morrisons,3.0,20.0,l,NIVEA MEN Creme Moisturiser…,20240413,health_products,False
+Morrisons,8.0,0.27,unit,Seven Seas JointCare Supplex with Gluco…,20240413,health_products,False
+Morrisons,2.5,0.12,unit,Simple Face Wipes Bio Instant Protect & Glow,20240413,health_products,False
+Morrisons,8.0,1.0,unit,Always Discreet Boutique Incontinence P…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Calm The Frizz Conditioner,20240413,health_products,False
+Morrisons,5.0,25.0,l,Aussie Curls Hair Conditioner,20240413,health_products,False
+Morrisons,5.0,16.7,l,Aussie Curls Shampoo,20240413,health_products,False
+Morrisons,3.0,20.0,l,Clean & Clear Blackhead Clearing Daily Scrub,20240413,health_products,False
+Morrisons,4.0,13.3,l,Head & Shoulders Shampoo Grapefruit,20240413,health_products,False
+Morrisons,8.0,160.0,l,John Frieda Frizz Ease Extra Strength Serum,20240413,health_products,False
+Morrisons,1.25,0.04,unit,Nutmeg Blonde Hair Grips,20240413,health_products,True
+Morrisons,2.0,0.07,unit,Plackers Eco Sensitive Flossers,20240413,health_products,False
+Morrisons,7.0,0.78,unit,Tena Silhouette Pants Black L,20240413,health_products,False
+Morrisons,5.75,1.92,unit,Wilkinson Sword Quattro for…,20240413,health_products,False
+Morrisons,3.8,0.95,unit,Wilkinson Sword Xtreme 3 Ultimate Plus Razors,20240413,health_products,False
+Morrisons,5.0,22.2,l,Aussie 3 Minute Miracle Moist,20240413,health_products,False
+Morrisons,4.5,22.5,l,Aussie Deep Moisture Hair Conditioner,20240413,health_products,False
+Morrisons,1.3,0.13,unit,Morrisons Incontinence Comfort Pads Extra,20240413,health_products,True
+Morrisons,5.0,12.5,l,Nivea Lavender & Hydration Bo…,20240413,health_products,False
+Morrisons,6.99,139.8,l,Olay Complete Care Day Cream Moisturiser SPF 15,20240413,health_products,False
+Morrisons,4.3,17.2,l,Aveeno Kids Shampoo,20240413,health_products,False
+Morrisons,5.33,17.8,l,Aveeno Oat Milk Conditioner,20240413,health_products,False
+Morrisons,4.0,20.0,l,Head & Shoulders Derma X Pro Soothe Conditioner,20240413,health_products,False
+Morrisons,3.0,17.1,l,King Of Shaves Antibacterial Shave Gel,20240413,health_products,False
+Morrisons,7.5,50.0,l,L'Oreal Paris Elvive Glycolic Gloss Serum,20240413,health_products,False
+Morrisons,12.0,3.0,unit,Oral B EB25-4 Floss Refills 4,20240413,health_products,False
+Morrisons,2.0,0.1,unit,Quickies Nail Varnish Remover Pads,20240413,health_products,False
+Morrisons,3.5,17.5,l,Shockwaves Ultra Strong Power Hair Gel,20240413,health_products,False
+Morrisons,2.0,6.7,l,Timotei Pure Purifying Sham…,20240413,health_products,False
+Morrisons,5.0,66.7,l,TRESemme Finishing Hair Oil Lamellar Shine,20240413,health_products,False
+Morrisons,2.25,0.08,unit,Always Discreet Liner Light,20240413,health_products,False
+Morrisons,5.0,20.0,l,Aussie Miracle Moist Hair Conditioner,20240413,health_products,False
+Morrisons,4.3,17.2,l,Aveeno Kids Conditioner,20240413,health_products,False
+Morrisons,7.5,37.5,l,L'Oreal Paris Elvive Glycolic Lamination Gloss,20240413,health_products,False
+Morrisons,1.75,0.1,unit,Nutmeg Thin Hair Elastics Black,20240413,health_products,True
+Morrisons,6.99,139.8,l,Olay Complete Care Sensit…,20240413,health_products,False
+Morrisons,4.5,60.0,l,Scholl Dry Skin Cream,20240413,health_products,False
+Morrisons,3.5,17.5,l,Shockwaves Ultra Strong Tuff Stuff Hair Gel,20240413,health_products,False
+Morrisons,6.0,24.0,l,John Frieda Profiller Thickening Conditioner,20240413,health_products,False
+Morrisons,6.5,32.5,l,L'Oreal Elvive Bond Repair Shampoo,20240413,health_products,False
+Morrisons,1.75,0.15,unit,Always Maxi Long Plus,20240413,health_products,False
+Morrisons,5.0,20.0,l,Aussie Spray Miracle Hair Treatment Insurance,20240413,health_products,False
+Morrisons,2.3,230.0,kg,Carmex Classic Moisturising Lip Balm,20240413,health_products,False
+Morrisons,3.0,12.0,l,Herbal Essences Coconut Oil Conditioner,20240413,health_products,False
+Morrisons,3.3,17.4,l,Vaseline Intensive Care Aloe Spray Moisturiser,20240413,health_products,False
+Morrisons,5.0,15.2,l,Head & Shoulders Anti Hair Fall 2 In 1,20240413,health_products,False
+Morrisons,1.75,0.15,unit,Nutmeg Women Thick Brown Hair Elastics,20240413,health_products,True
+Morrisons,3.5,23.3,l,Shockwaves Ultra Strong Gel Spray,20240413,health_products,False
+Morrisons,1.65,165.0,kg,Vaseline Lip Therapy Original Lip Balm,20240413,health_products,False
+Morrisons,3.0,15.0,l,Clean & Clear Blackhead Clearing Cleanser,20240413,health_products,False
+Morrisons,8.0,160.0,l,Frizz Ease Original Serum,20240413,health_products,False
+Morrisons,9.7,2.42,unit,Gillette Venus Blades For Pubic Hair & Skin 4 Blades,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Anti Hair Fall &…,20240413,health_products,False
+Morrisons,4.0,13.3,l,Head & Shoulders Derma X Pro Hydrate Shampoo,20240413,health_products,False
+Morrisons,8.0,53.3,l,John Frieda Frizz Ease Dream Cu…,20240413,health_products,False
+Morrisons,3.0,8.5,l,Pantene Repair Protect Hair Conditioner,20240413,health_products,False
+Morrisons,3.4,1.13,unit,Always Ultra Zzz Menstrua…,20240413,health_products,False
+Morrisons,6.0,37.5,l,Aussie Curls Hair Treatment,20240413,health_products,False
+Morrisons,2.4,9.6,l,Garnier Ultimate Blends Kids Shampoo Apricot,20240413,health_products,False
+Morrisons,8.0,80.0,l,John Frieda Dream Curls Creme Oil,20240413,health_products,False
+Morrisons,3.0,17.1,l,King Of Shaves Sensitive Shave Gel,20240413,health_products,False
+Morrisons,3.0,15.0,l,L' Oreal Elvive Colour Protect Purple Shampoo,20240413,health_products,False
+Morrisons,5.0,25.0,l,L'Oreal Elvive Dream Lengths Wonder Water,20240413,health_products,False
+Morrisons,1.75,0.29,unit,Nutmeg Snap On Tortoise Clip,20240413,health_products,True
+Morrisons,1.5,30.0,l,Original Source Mint & Tea Tree S/G,20240413,health_products,False
+Morrisons,5.0,33.4,l,Pantene Miracles Pro-V Bond…,20240413,health_products,False
+Morrisons,7.0,233.0,l,Rimmel Match Perfection Foundation Soft Beige,20240413,health_products,False
+Morrisons,3.5,17.5,l,So...Bali Breeze Body Mist,20240413,health_products,False
+Morrisons,8.0,0.89,unit,Always Discreet Incontine…,20240413,health_products,False
+Morrisons,5.33,17.8,l,Aveeno Apple Cider Vinegar Shampoo,20240413,health_products,False
+Morrisons,5.33,17.8,l,Aveeno Fresh Greens Shampoo,20240413,health_products,False
+Morrisons,1.85,37.0,l,Brush-Baby Teething Toothpa…,20240413,health_products,False
+Morrisons,4.0,26.7,l,Garnier Pure Active Intensi…,20240413,health_products,False
+Morrisons,3.0,107.1,kg,Garnier Skin Active Pure Char…,20240413,health_products,False
+Morrisons,2.5,10.0,l,Garnier Ultimate Blends Kids Shampoo Oat,20240413,health_products,False
+Morrisons,5.0,16.7,l,Head & Shoulders Dermaxpro Scalp…,20240413,health_products,False
+Morrisons,6.0,40.0,l,John Frieda Profiller & Thickening Spray,20240413,health_products,False
+Morrisons,2.5,12.5,l,Provoke Blond Rehab Bond…,20240413,health_products,False
+Morrisons,3.0,20.0,l,Simple Clear Pore Polisher Face Scrub,20240413,health_products,False
+Morrisons,5.36,178.7,l,Simple Serum Shot Hyaluronic,20240413,health_products,False
+Morrisons,3.5,17.5,l,So Ibiza Dreams Body Mist,20240413,health_products,False
+Morrisons,7.0,0.7,unit,Tena Silhouette Pants Normal Noir M,20240413,health_products,False
+Morrisons,4.5,15.0,l,Aussie Calm The Frizz Shampoo,20240413,health_products,False
+Morrisons,2.5,27.8,l,Aussie Miracle Moist Shampoo For…,20240413,health_products,False
+Morrisons,3.0,200.0,l,Clean & Clear Advantage Rapid Gel,20240413,health_products,False
+Morrisons,4.0,26.7,l,Garnier Pure Active 3in1 Clay Cleanser,20240413,health_products,False
+Morrisons,6.0,15.0,l,Garnier Ultimate Blends Oat Shampoo,20240413,health_products,False
+Morrisons,15.74,1.97,unit,Gillette Mach 3 Turbo Razors For…,20240413,health_products,False
+Morrisons,6.99,28.0,l,John Frieda Brazilian Sleek Conditioner,20240413,health_products,False
+Morrisons,4.65,18.6,l,John Frieda Shimmering Silver Shampoo,20240413,health_products,False
+Morrisons,2.75,13.8,l,Nivea Derma Skin Clear Toner,20240413,health_products,False
+Morrisons,1.75,0.15,unit,Nutmeg Thick Hair Elastics For Blonde Hair,20240413,health_products,True
+Morrisons,3.5,46.7,l,Shockwaves Messy Matt Clay,20240413,health_products,False
+Morrisons,6.75,45.0,l,Super Facialist Salicylic Acid Anti B…,20240413,health_products,False
+Morrisons,3.3,17.4,l,Vaseline Intensive Care Cocoa Spray Moisturiser,20240413,health_products,False
+Morrisons,6.0,200.0,l,Weleda Skin Food Light,20240413,health_products,False
+Morrisons,4.0,20.0,l,Head & Shoulders Derma X Pro Hydrate Conditioner,20240413,health_products,False
+Morrisons,5.0,25.0,l,Head & Shoulders Derma X Pro…,20240413,health_products,False
+Morrisons,4.0,13.3,l,Head & Shoulders Protect Shampoo,20240413,health_products,False
+Morrisons,8.0,80.0,l,John Frieda Frizz Ease Secr…,20240413,health_products,False
+Morrisons,7.0,95.9,kg,L'Oreal Magic Retouch Brown,20240413,health_products,False
+Morrisons,3.0,75.0,l,Nivea Derma Skin Clear Night Exfoliator,20240413,health_products,False
+Morrisons,6.75,135.0,l,NIVEA MEN Hyaluron Anti-A…,20240413,health_products,False
+Morrisons,18.99,379.8,l,Olay Regenerist Retinol 24 Night Moisturiser,20240413,health_products,False
+Morrisons,3.5,17.5,l,So... Mykonos Nights Body Mist,20240413,health_products,False
+Morrisons,3.5,17.5,l,So Seychelle Sands Body Mist,20240413,health_products,False
+Morrisons,5.2,104.0,l,Garnier Ambre Solaire Prote…,20240413,health_products,False
+Morrisons,12.0,60.0,l,Garnier Ambre Solaire Sensitive…,20240413,health_products,False
+Morrisons,5.5,44.0,l,John Frieda Luxurious Volume Blow-dry Lotion,20240413,health_products,False
+Morrisons,1.75,0.06,unit,Nutmeg Black Hair Grips,20240413,health_products,True
+Morrisons,1.75,0.06,unit,Nutmeg Brown Hair Grips,20240413,health_products,True
+Morrisons,6.0,62.5,kg,O' Keeffe's Working Hands,20240413,health_products,False
+Morrisons,2.5,12.5,l,Provoke Blond Rehab Bon…,20240413,health_products,False
+Morrisons,2.5,0.83,unit,Qvs Nail File Medium Fine,20240413,health_products,False
+Morrisons,5.0,1250.0,kg,Rimmel London Lasting Finish…,20240413,health_products,False
+Morrisons,5.0,1250.0,kg,Rimmel London Lasting Finish Lipstick Nude Pink,20240413,health_products,False
+Morrisons,4.0,333.0,l,Rimmel London Nail Nurse Strong…,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Garnier Good Perm Hair Dye 9.1 Vanilla Blonde,20240413,health_products,False
+Morrisons,8.0,40.0,l,L'Oreal Elvive Bond Repair Pre Shampoo,20240413,health_products,False
+Morrisons,7.0,95.9,kg,L'Oreal Magic Retouch Dark Brown,20240413,health_products,False
+Morrisons,7.0,233.0,l,Rimmel London Lasting Finish 25HR…,20240413,health_products,False
+Morrisons,5.2,104.0,l,Ambre Solaire Ultra-hydrating…,20240413,health_products,False
+Morrisons,5.0,22.2,l,Aussie 3 Minute Miracle Colour Mate,20240413,health_products,False
+Morrisons,5.0,22.2,l,Aussie Curls 3 Minute Miracle Hair Treatment,20240413,health_products,False
+Morrisons,5.33,17.8,l,Aveeno Apple Cider Vinegar Conditioner,20240413,health_products,False
+Morrisons,3.65,121.6,l,Bulldog Skincare For Men Original Beard Oil,20240413,health_products,False
+Morrisons,2.3,230.0,kg,Carmex Cherry Tube,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Garnier Good Perm Hair Dye 100% G…,20240413,health_products,False
+Morrisons,8.0,20.0,l,Garnier Micellar Cleansing Water,20240413,health_products,False
+Morrisons,6.5,26.0,l,Garnier Pure Active Deep Gentle Cleanser,20240413,health_products,False
+Morrisons,4.0,20.2,l,Gillette Labs Shave Gel,20240413,health_products,False
+Morrisons,1.5,0.08,unit,Nutmeg Thin Glitter Hair Elastics,20240413,health_products,True
+Morrisons,2.3,109.6,l,Simple Rich Moisture Sheet Mask,20240413,health_products,False
+Morrisons,7.5,2.5,unit,Wilkinson Sword Intuition Complete 3 X Blades,20240413,health_products,False
+Morrisons,13.5,0.84,unit,Always Discreet Heavy Adult Incon…,20240413,health_products,False
+Morrisons,4.5,15.0,l,Aussie Deep Moisturising Shampoo,20240413,health_products,False
+Morrisons,7.0,95.9,kg,L'Oreal Magic Retouch Dark Blonde,20240413,health_products,False
+Morrisons,1.25,0.62,unit,Morrisons Foundation Sponges,20240413,health_products,True
+Morrisons,9.0,120.0,l,Oral-B 3d White Clinical Power Fresh Toothpaste,20240413,health_products,False
+Morrisons,5.36,178.7,l,Simple Serum Shot Niacinamide,20240413,health_products,False
+Morrisons,5.36,178.7,l,Simple Serum Shot Vitamin Cef,20240413,health_products,False
+Morrisons,3.0,0.75,unit,Simplicity Slim Satin Scrunchies,20240413,health_products,False
+Morrisons,6.0,80.0,l,Clairol Root Touch-Up 2 In 1 Spray Dark Brown,20240413,health_products,False
+Morrisons,16.0,80.0,l,Garnier Ambre Solaire Kids Sens…,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Garnier Good Perm Hair Dye 100% Gre…,20240413,health_products,False
+Morrisons,4.0,13.3,l,Head & Shoulders Shampoo,20240413,health_products,False
+Morrisons,4.65,18.6,l,John Frieda Shimmering Silver Conditioner,20240413,health_products,False
+Morrisons,3.25,0.11,unit,Morrisons Menopause Vitamins,20240413,health_products,True
+Morrisons,1.5,0.12,unit,Nutmeg Kids Patterned Hair Elastics 12Pk,20240413,health_products,True
+Morrisons,3.0,1.5,unit,Simplicity Satin Medium Scrunchies,20240413,health_products,False
+Morrisons,12.75,255.0,l,Super Facialist Firming Super Lift Day Cream,20240413,health_products,False
+Morrisons,7.5,60.0,l,Super Facialist Vitamin C+ Gentle…,20240413,health_products,False
+Morrisons,7.0,0.78,unit,TENA Lady Silhouette Incontinence Pants Plus M,20240413,health_products,False
+Morrisons,3.96,15.8,l,Vaseline Expert Care Dry Skin Healing Balm,20240413,health_products,False
+Morrisons,6.0,200.0,l,Weleda Skin Food,20240413,health_products,False
+Morrisons,4.33,1.45,unit,Wilkinson Sword Skin Defense 5 Blade Razor,20240413,health_products,False
+Morrisons,10.0,50.0,l,Ambre Solaire After Sun Spray,20240413,health_products,False
+Morrisons,10.0,50.0,l,Ambre Solaire Hydra 24 SPF 20 Lotion,20240413,health_products,False
+Morrisons,8.0,40.0,l,Aveeno Calm & Restore Oat Toning Lotion,20240413,health_products,False
+Morrisons,4.0,67.8,l,Cutex Twist & Scrub Sponge…,20240413,health_products,False
+Morrisons,7.0,17.5,l,Garnier Micellar Oil Infused Cleansing Water,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Garnier Perm Hair Dye 8.0 Honey Blonde,20240413,health_products,False
+Morrisons,24.74,3.09,unit,Gillette Proshield Power Razor Blades Refill,20240413,health_products,False
+Morrisons,6.65,35.0,l,Gillette Venus 2-In-1 Cleanser + Shav…,20240413,health_products,False
+Morrisons,5.5,11.0,l,Herbal Essences Argan Mask,20240413,health_products,False
+Morrisons,5.0,1.67,unit,Invisibobble Original Crystal Clear Hair Ties,20240413,health_products,False
+Morrisons,2.15,23.9,l,L'Oreal Paris Elvive Colour Protect Travel Shampoo,20240413,health_products,False
+Morrisons,7.0,49.3,l,Schwarzkopf Live Ice White Hair Toner T1,20240413,health_products,False
+Morrisons,9.0,450.0,l,Super Facialist Vitamin C+ Brighten…,20240413,health_products,False
+Morrisons,3.0,10.0,l,Timotei Hydrating Mask,20240413,health_products,False
+Morrisons,2.63,35.0,l,Vaseline Expert Care Instant Dr…,20240413,health_products,False
+Morrisons,5.27,13.2,l,Vaseline Instant Dry Skin Rescue Body Lotion,20240413,health_products,False
+Morrisons,16.0,80.0,l,Ambre Solaire Kids Sensitive…,20240413,health_products,False
+Morrisons,6.0,80.0,l,Clairol Root Touch-Up 2 In 1 Spray Light Brown,20240413,health_products,False
+Morrisons,16.0,213.4,l,Colgate Max White Ultimate Radi…,20240413,health_products,False
+Morrisons,16.0,213.3,l,Colgate Max White Ultimate Rene…,20240413,health_products,False
+Morrisons,3.75,625.0,l,Elegant Touch Brush On Nail Glue,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Garnier Good Perm Hair Dye 6.6 Pomegranate Red,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Garnier Perm Hair Dye 7.43 Tumeric Copper,20240413,health_products,False
+Morrisons,4.0,16.7,l,Gillette Labs Shave Foam,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Good 6.0 Mochaccino Brown,20240413,health_products,False
+Morrisons,5.5,11.0,l,Herbal Essences Coco Mask,20240413,health_products,False
+Morrisons,5.5,11.0,l,Herbal Essences Rose Mask,20240413,health_products,False
+Morrisons,6.99,28.0,l,John Frieda Brazilian Sleek Shampoo,20240413,health_products,False
+Morrisons,8.0,47.9,l,L'Oreal Paris Elvive Bond Repair Serum,20240413,health_products,False
+Morrisons,3.0,0.75,unit,Nutmeg Comb,20240413,health_products,True
+Morrisons,2.0,0.12,unit,Nutmeg Girls Red & White Hair Elastics,20240413,health_products,True
+Morrisons,2.0,0.4,unit,Nutmeg Kids Coloured Hair Bobbles,20240413,health_products,True
+Morrisons,2.5,0.62,unit,Nutmeg Medium Claw Clips,20240413,health_products,True
+Morrisons,18.99,379.8,l,Olay Collagen Peptide 24 Day Cream,20240413,health_products,False
+Morrisons,14.0,70.0,l,Ambre Solaire Dry Mist SPF,20240413,health_products,False
+Morrisons,16.0,106.7,l,Ambre Solaire Kids Anti Sand Mist SPF,20240413,health_products,False
+Morrisons,14.0,140.0,l,Ambre Solaire Spf 50 Super…,20240413,health_products,False
+Morrisons,5.33,17.8,l,Aveeno Fresh Greens Conditioner,20240413,health_products,False
+Morrisons,4.0,1.0,unit,Bare In Mind Bamboo Reusable Cleansing Pads,20240413,health_products,False
+Morrisons,3.0,714.3,l,Carmex Naturally Intensely Hydrat…,20240413,health_products,False
+Morrisons,6.0,80.0,l,Clairol Root Touch-Up 2 In 1 Spray Black,20240413,health_products,False
+Morrisons,6.0,80.0,l,Clairol Root Touch-Up 2 In 1 Sp…,20240413,health_products,False
+Morrisons,6.0,441.2,l,Cutex All-In-One Strengthener,20240413,health_products,False
+Morrisons,12.0,300.0,l,Garnier Ambre Solaire Super U…,20240413,health_products,False
+Morrisons,9.0,22.5,l,Garnier Micellar Rose Water Cleanse & Glow,20240413,health_products,False
+Morrisons,6.0,26.7,l,L'Oreal Paris Elvive Hydra Hyaluronic Wonder Water,20240413,health_products,False
+Morrisons,2.0,0.12,unit,Nutmeg School Essentials Navy & White Hair Elastics,20240413,health_products,True
+Morrisons,18.99,1266.0,l,Olay Retinol 24 Night Eye Cream Fragrance Free,20240413,health_products,False
+Morrisons,45.0,0.01,unit,Oral-B Pro dw Pink Rechargeable…,20240413,health_products,False
+Morrisons,8.0,266.7,l,Schwarzkopf Live Colour Drops Blue,20240413,health_products,False
+Morrisons,12.75,255.0,l,Super Facialist Firming Super Lift Night Cream,20240413,health_products,False
+Morrisons,6.75,54.0,l,Super Facialist Salicylic Acid…,20240413,health_products,False
+Morrisons,10.5,700.0,l,Super Facialist Vitamin C+ Bright…,20240413,health_products,False
+Morrisons,3.0,10.0,l,Timotei Repairing Mask,20240413,health_products,False
+Morrisons,8.0,0.89,unit,Always Discreet Boutique In…,20240413,health_products,False
+Morrisons,14.0,70.0,l,Ambre Solaire Clear Protect…,20240413,health_products,False
+Morrisons,16.0,106.7,l,Ambre Solaire SPF 50 Sensitive Advanced Mist,20240413,health_products,False
+Morrisons,16.0,106.7,l,Ambre Solaire SPF 50 Sensitive Advanced Spray,20240413,health_products,False
+Morrisons,10.0,50.0,l,Ambre Solaire Ultra-hydra…,20240413,health_products,False
+Morrisons,5.0,0.21,unit,Elegant Touch Nails With Glue - New Nude,20240413,health_products,False
+Morrisons,6.65,37.6,l,Gillette Male Intimate Shaving Cream + Cleanser,20240413,health_products,False
+Morrisons,1.25,0.62,unit,Morrisons Powder Puffs,20240413,health_products,True
+Morrisons,2.5,1.25,unit,Morrisons Womens Stay Put Barrettes,20240413,health_products,True
+Morrisons,3.0,0.6,unit,Nutmeg Kids Coloured Grip Hair Band,20240413,health_products,True
+Morrisons,18.99,1266.0,l,Olay Collagen Peptide24 Day Face Cream,20240413,health_products,False
+Morrisons,18.99,474.8,l,Olay Regenerist Day Serum,20240413,health_products,False
+Morrisons,18.99,474.8,l,Olay Regenerist Retinol 24 Night Serum,20240413,health_products,False
+Morrisons,15.0,7.5,unit,Oral-B Io Ultimate Clean Black Refill Heads,20240413,health_products,False
+Morrisons,8.0,266.7,l,Schwarzkopf Live Colour Drops Purple,20240413,health_products,False
+Morrisons,7.5,50.0,l,Super Facialist Firming Daily Brightening Cleanser,20240413,health_products,False
+Morrisons,12.75,425.0,l,Super Facialist Firming Intense Facial Serum,20240413,health_products,False
+Morrisons,12.75,425.0,l,Super Facialist Glow Boost Serum,20240413,health_products,False
+Morrisons,12.75,170.0,l,Super Facialist Vitamin C+ Skin D…,20240413,health_products,False
+Morrisons,10.0,0.33,unit,Vitabiotics Jointcare Chondroitin,20240413,health_products,False
+Morrisons,5.85,731.3,l,Weleda Skin Food Lip Balm,20240413,health_products,False
+Morrisons,10.0,50.0,l,Ambre Solaire Hydra 24 SPF 30 Spray,20240413,health_products,False
+Morrisons,14.0,93.3,l,Ambre Solaire Ideal Bronze SPF 30 Oil Spray,20240413,health_products,False
+Morrisons,14.0,93.3,l,Ambre Solaire Ideal Bronze SPF 50 Milk Spray,20240413,health_products,False
+Morrisons,14.0,350.0,l,Ambre Solaire Super UV Vitamin C,20240413,health_products,False
+Morrisons,4.99,49.9,l,Bulldog Original Moisturiser Cracker,20240413,health_products,False
+Morrisons,3.5,8.8,l,Elvive Hydra Hyaluronic Shampoo,20240413,health_products,False
+Morrisons,11.0,42.1,kg,Excellence Universal Nudes Light Blonde 8U,20240413,health_products,False
+Morrisons,9.0,300.0,l,Garnier AHA+BHA Serum,20240413,health_products,False
+Morrisons,14.0,70.0,l,Garnier Ambre Solaire Clear Spray Spf 50,20240413,health_products,False
+Morrisons,10.0,25.0,l,Garnier Micellar Peeling Water,20240413,health_products,False
+Morrisons,13.5,3.38,unit,Gillette Male Intimate Razor Blades,20240413,health_products,False
+Morrisons,8.0,36.9,kg,Good 7.0 Almond Creme Drk Bld,20240413,health_products,False
+Morrisons,20.0,0.67,unit,Health & Her Perimenopause Mind…,20240413,health_products,False
+Morrisons,20.0,0.67,unit,Health & Her Sleep+ Multi Nutrient Support,20240413,health_products,False
+Morrisons,7.0,93.3,l,L'Oreal Magic Retouch Dark Iced Brown,20240413,health_products,False
+Morrisons,8.0,266.7,l,Schwarzkopf Live Colour Drops Pink,20240413,health_products,False
+Morrisons,7.0,44.6,kg,Schwarzkopf Live Powder Bleach Bold Blonde 00P,20240413,health_products,False
+Morrisons,7.0,49.3,l,Schwarzkopf Live Soft Blonde Hair Toner T2,20240413,health_products,False
+Morrisons,3.0,0.15,unit,Simplicity Mixed Soft Ponytailers,20240413,health_products,False
+Morrisons,12.0,160.0,l,Super Facialist Rose Hydrate…,20240413,health_products,False
+Morrisons,6.65,133.0,l,Venus Fig Post Shave Serum,20240413,health_products,False
+Morrisons,6.65,37.6,l,Venus Skin Smoothing Exfoliant,20240413,health_products,False
+Morrisons,1.25,25.0,l,Ineos Antibacterial Hand Sanitise…,20240413,health_products,False
+Morrisons,1.8,1.8,l,Baylis & Harding Funky Farm Bath & Shower Gel,20240413,health_products,False
+Morrisons,2.5,0.25,unit,Wilkinson Sword Extra 2 Sensitive…,20240413,health_products,False
+Morrisons,2.5,113.7,kg,My Little Sudocrem Skin Care Cream,20240413,health_products,False
+Morrisons,5.0,12.5,l,Head & Shoulders Itchy Scalp 2in1 Shampoo,20240413,health_products,False
+Morrisons,4.75,0.03,unit,Kleenex Extra Large Compact Tissues 4 pack,20240413,health_products,False
+Morrisons,1.5,4.4,kg,Cussons Mild Cream Soap,20240413,health_products,False
+Morrisons,1.4,28.0,l,Sure Men Antiperspirant Deodorant R…,20240413,health_products,False
+Morrisons,1.4,28.0,l,Sure Women Antiperspirant Deo…,20240413,health_products,False
+Morrisons,2.2,29.3,l,Aquafresh Kids Toothpaste Splash 3-8 Years,20240413,health_products,False
+Morrisons,3.0,40.0,l,Colgate Sensitive Instant Relief Mu…,20240413,health_products,False
+Morrisons,1.7,34.0,l,Lynx Antiperspirant Deodora…,20240413,health_products,False
+Morrisons,3.5,70.0,l,Sure Men Antiperspirant Deodorant…,20240413,health_products,False
+Morrisons,1.7,34.0,l,Dove Women Antiperspirant Deo…,20240413,health_products,False
+Morrisons,2.0,6.7,l,Aquafresh Kids Big Teeth Mouthwas…,20240413,health_products,False
+Morrisons,3.5,70.0,l,Sure Antiperspirant Deo Stick…,20240413,health_products,False
+Morrisons,2.5,33.3,l,Aquafresh Kids Toothpaste Advance 9-12 Years,20240413,health_products,False
+Morrisons,3.5,8.8,l,L'Oreal Paris Elvive Hydra Pure Shampoo,20240413,health_products,False
+Morrisons,3.5,11.7,l,L'Oreal Paris Elvive Hydra Pure Conditioner,20240413,health_products,False
+Morrisons,3.0,6.0,l,Lynx Bodywash Shower Gel Jungle Fresh,20240413,health_products,False
+Morrisons,3.5,0.35,unit,Senokot Max Tablets,20240413,health_products,False
+Morrisons,2.5,12.5,l,Sanex Spray Dermo Active Freshness,20240413,health_products,False
+Morrisons,1.7,34.0,l,Dove Women Antiperspirant D…,20240413,health_products,False
+Morrisons,1.7,34.0,l,Lynx Antipersiprant Deodorant Roll On Africa,20240413,health_products,False
+Morrisons,5.7,19.0,l,Aveeno Daily Moisturising Yoghurt…,20240413,health_products,False
+Morrisons,4.0,20.0,l,Morrisons Hair Removal Cream Sensitive Skin,20240413,health_products,True
+Morrisons,2.7,10.8,l,Sure Women Antiperspirant…,20240413,health_products,False
+Morrisons,2.25,0.12,unit,Tampax Compak Applicator Tampons Lite,20240413,health_products,False
+Morrisons,3.5,17.5,l,L'Oreal Hyaluron Expert Wash,20240413,health_products,False
+Morrisons,5.0,33.3,l,Lynx Fine Fragrance Collect…,20240413,health_products,False
+Morrisons,6.0,15.0,l,NIVEA SUN Moisturising After Sun Lotion,20240413,health_products,False
+Morrisons,3.4,14.8,kg,Banana Boat Aloe Vera Gel,20240413,health_products,False
+Morrisons,7.5,18.8,l,L'Oreal Paris Elnett Flexible Hold,20240413,health_products,False
+Morrisons,5.0,33.3,l,Lynx Fine Fragrance Collection Deodor…,20240413,health_products,False
+Morrisons,2.99,1.0,unit,Malibu Lip Balm SPF30 Assorted Flavours,20240413,health_products,False
+Morrisons,3.75,18.8,l,Morrisons SPF 30 Sun Spray,20240413,health_products,True
+Morrisons,7.0,35.0,l,NIVEA SUN Protect & Moisture…,20240413,health_products,False
+Morrisons,5.0,33.3,l,Sure Women Antiperspirant Deodora…,20240413,health_products,False
+Morrisons,1.5,7.5,l,Intu Shave Gel,20240413,health_products,False
+Morrisons,6.5,16.3,l,Bed Head Recovery Moisture Rush Conditioner,20240413,health_products,False
+Morrisons,10.0,100.0,l,Veet Expert Full Bikini Kit,20240413,health_products,False
+Morrisons,6.5,43.3,l,L'Oreal Paris Elvive Hydra Pure Scalp Serum,20240413,health_products,False
+Morrisons,11.5,766.7,l,Nivea Q10 Power Antiwrink…,20240413,health_products,False
+Morrisons,4.0,80.0,l,NIVEA SUN Kids Protect & Care…,20240413,health_products,False
+Morrisons,4.5,1.13,unit,Wilkinson Sword Intuition Com…,20240413,health_products,False
+Morrisons,9.0,60.0,l,Baylis & Harding Royale Garde…,20240413,health_products,False
+Morrisons,6.8,37.8,l,Hawaiian Tropic Silk Hydration After Sun Lotion,20240413,health_products,False
+Morrisons,7.5,37.5,l,NIVEA SUN Kids Protect & Care Colou…,20240413,health_products,False
+Morrisons,4.5,20.5,l,Provoke Touch Of Silver Intensive Conditioner,20240413,health_products,False
+Morrisons,8.0,34.8,l,Simple Healthy Skin Barrier Rep…,20240413,health_products,False
+Morrisons,15.0,500.0,l,Cerruti 1881 Pour Femme EDT Spray,20240413,health_products,False
+Morrisons,4.0,23.5,l,Dove Hair Conditioner Intensive Repair,20240413,health_products,False
+Morrisons,7.0,10.0,l,Garnier Micellar Vitamin C,20240413,health_products,False
+Morrisons,6.8,136.0,l,Hawaiian Tropic Silk Hydration Protec…,20240413,health_products,False
+Morrisons,7.5,41.7,l,Hawaiian Tropic Silk Hydration Prot…,20240413,health_products,False
+Morrisons,6.99,35.0,l,Malibu Dry Oil Spray SPF 20,20240413,health_products,False
+Morrisons,9.0,23.4,l,Ogx Extra Strength Argan Oil Shampoo,20240413,health_products,False
+Morrisons,7.0,875.0,l,Rimmel London 100% Waterpro…,20240413,health_products,False
+Morrisons,6.5,16.3,l,Bed Head Colour Goddess Shampoo,20240413,health_products,False
+Morrisons,6.5,16.3,l,Bed Head Recovery Shampoo,20240413,health_products,False
+Morrisons,8.0,40.0,l,Hawaiian Tropic Protective Dry Oil Spray SPF 30,20240413,health_products,False
+Morrisons,4.99,99.8,l,Malibu Scalp Protector SPF 50,20240413,health_products,False
+Morrisons,2.5,12.5,l,Sanex Spray Dermo Extra Control,20240413,health_products,False
+Morrisons,2.5,12.5,l,Sanex Spray Dermo Sensitive,20240413,health_products,False
+Morrisons,8.0,34.8,l,Simple Healthy Skin Barrier…,20240413,health_products,False
+Morrisons,8.6,43.0,l,Veet Expert Hair Removal Cream Legs & Body,20240413,health_products,False
+Morrisons,12.99,324.8,kg,Wild Purple Case And Coconut & Vani…,20240413,health_products,False
+Morrisons,10.0,88.5,l,Bed Head Curls Rock Amplifier Cream,20240413,health_products,False
+Morrisons,10.0,70.4,l,Bed Head Oh Bee Hive Dry Shampoo,20240413,health_products,False
+Morrisons,12.0,41.5,l,Bed Head Queen For A Day Spray,20240413,health_products,False
+Morrisons,7.0,46.7,l,G2b Cream Gotgloss Primer,20240413,health_products,False
+Morrisons,7.0,20.6,l,Garnier Ultimate Blends Hair Remedy Honey,20240413,health_products,False
+Morrisons,8.0,40.0,l,Hawaiian Tropic Dry Oil Spray SPF 15,20240413,health_products,False
+Morrisons,6.99,39.9,l,Malibu SPF 50 Continuous Spray 175ml,20240413,health_products,False
+Morrisons,6.5,32.5,l,Nivea Sun Protect & Dry Touch…,20240413,health_products,False
+Morrisons,9.0,23.4,l,Ogx Extra Strength Argan Oil Conditioner,20240413,health_products,False
+Morrisons,2.5,12.5,l,Sanex Spray Dermo Invisible,20240413,health_products,False
+Morrisons,5.99,149.8,kg,Wild Coconut & Vanilla Deodorant Refill,20240413,health_products,False
+Morrisons,5.99,149.8,kg,Wild Fresh Cotton & Sea Salt Deodorant Refill,20240413,health_products,False
+Morrisons,12.0,120.0,l,Bed Head After Party Cream,20240413,health_products,False
+Morrisons,6.5,16.3,l,Bed Head Colour Goddess Conditioner,20240413,health_products,False
+Morrisons,6.5,16.3,l,Bed Head Resurrection Shampoo,20240413,health_products,False
+Morrisons,10.0,100.0,l,Bed Head Salty Not Sorry,20240413,health_products,False
+Morrisons,12.0,120.0,l,Bed Head Some Like It Hot Spray,20240413,health_products,False
+Morrisons,7.0,35.0,l,G2b Hsp Gotgloss Finish,20240413,health_products,False
+Morrisons,10.0,50.0,l,Garnier Ultimate Blends Hair Food Pineapple Drink,20240413,health_products,False
+Morrisons,9.0,50.0,l,Hawaiian Tropic Sun Hydrate Lotion SPF 15,20240413,health_products,False
+Morrisons,11.0,88.0,l,Jungle Formula Dry Protect Aerosol,20240413,health_products,False
+Morrisons,8.99,36.0,l,Malibu Clear Protection All Day Spray Pump Spf 50,20240413,health_products,False
+Morrisons,6.99,35.0,l,Malibu Dry Oil Spray SPF 50,20240413,health_products,False
+Morrisons,1.5,30.0,l,Sanex Roll On Dermo Active Freshness,20240413,health_products,False
+Morrisons,4.0,53.3,l,Vaseline Hand Lotion Cocoa Radiant,20240413,health_products,False
+Morrisons,12.99,324.8,kg,Wild Aqua Case And Fresh Cotton & Sea S…,20240413,health_products,False
+Morrisons,1.4,28.0,l,Sure Women Antiperspirant D…,20240413,health_products,False
+Morrisons,4.0,10.0,l,Vatika Naturals Egg Protein Shampoo,20240413,health_products,False
+Morrisons,1.4,28.0,l,Sure Women Antiperspirant Deo Roll…,20240413,health_products,False
+Morrisons,6.0,12.0,kg,Vatika Naturals Egg Protein Hair Mask,20240413,health_products,False
+Morrisons,7.5,37.5,l,Veet Men Hair Removal Cream,20240413,health_products,False
+Morrisons,1.09,0.01,unit,Morrisons Savers Family Size Facial Tissues,20240413,health_products,True
+Morrisons,2.5,0.02,unit,Morrisons 3Ply Regular Twin Facial Tissues,20240413,health_products,True
+Morrisons,1.0,13.3,l,Colgate Triple Action Toothpaste,20240413,health_products,False
+Morrisons,1.0,13.3,l,Colgate White Teeth Whitening Toothpaste,20240413,health_products,False
+Morrisons,2.5,0.03,unit,Kleenex Extra Large Compact Tissues 2 pack,20240413,health_products,False
+Morrisons,1.0,1.7,l,Astonish Protect + Care Anti-Bact…,20240413,health_products,False
+Morrisons,1.0,1.7,l,Astonish Protect + Care Anti-Bacter…,20240413,health_products,False
+Morrisons,0.45,0.9,l,Morrisons Essentials Coolmint Mouthwash,20240413,health_products,True
+Morrisons,1.49,0.01,unit,Morrisons Pure Round Cotton Pads,20240413,health_products,True
+Morrisons,1.0,4.4,l,Radox Feel Awake Mood Boostin…,20240413,health_products,False
+Morrisons,0.59,7.9,kg,Pears Gentle Care Transparent Soap,20240413,health_products,False
+Morrisons,1.0,1.7,l,Astonish Protect & Care Anti-Bact…,20240413,health_products,False
+Morrisons,1.5,6.0,l,Carex Antibacterial Moisture Plus Handwash,20240413,health_products,False
+Morrisons,1.5,20.0,l,Colgate Maximum Cavity Protection Toothpaste,20240413,health_products,False
+Morrisons,1.0,0.04,unit,Nutmeg Sensitive Skin Care Wipes,20240413,health_products,True
+Morrisons,1.0,13.3,l,Aquafresh Fresh and Minty Toothpaste,20240413,health_products,False
+Morrisons,1.5,8.3,kg,Dove Cream Bar,20240413,health_products,False
+Morrisons,1.5,6.0,l,Carex Antibacterial Aloe Vera Handwash,20240413,health_products,False
+Morrisons,1.5,7.5,l,Gillette Classic Shaving Foam For Sensitive Skin,20240413,health_products,False
+Morrisons,0.99,0.03,unit,Morrisons Normal Pantyliners,20240413,health_products,True
+Morrisons,2.0,4.0,l,Colgate Triple Action Mouthwash,20240413,health_products,False
+Morrisons,1.0,4.0,l,Palmolive Naturals Milk and Honey Shower Gel,20240413,health_products,False
+Morrisons,0.89,0.03,unit,Morrisons Denture Cleaning Tablets,20240413,health_products,True
+Morrisons,1.5,3.0,l,Morrisons Moisturising Shower Gel,20240413,health_products,True
+Morrisons,1.25,5.0,l,Dove Liquid Beauty Cream Wash Hand Wash,20240413,health_products,False
+Morrisons,1.4,5.2,kg,Palmolive Naturals Moisture C…,20240413,health_products,False
+Morrisons,1.0,0.04,unit,Morrisons Panty Liners Extra Long,20240413,health_products,True
+Morrisons,1.5,3.0,l,Radox Feel Relaxed Bath Soak,20240413,health_products,False
+Morrisons,1.5,3.0,l,Radox Bath Muscle Soak,20240413,health_products,False
+Morrisons,1.0,1.7,l,Astonish Protect & Care Anti-Bacteria…,20240413,health_products,False
+Morrisons,1.1,3.1,l,Alberto Balsam Juicy Green Apple Shampoo,20240413,health_products,False
+Morrisons,1.0,4.4,l,Radox Feel Uplifted Mood Boosting Shower Gel,20240413,health_products,False
+Morrisons,1.25,8.3,l,Right Guard Xtreme Invisible An…,20240413,health_products,False
+Morrisons,1.2,4.8,l,NIVEA Cashmere & Cotton Seed Oil Shower Gel,20240413,health_products,False
+Morrisons,1.7,6.8,l,Right Guard Total Defence 5 Cool Deodorant Spray,20240413,health_products,False
+Morrisons,1.0,4.4,l,Radox Feel Refreshed Mood…,20240413,health_products,False
+Morrisons,3.5,3.5,l,Carex Moisture Handwash Refill Pack,20240413,health_products,False
+Morrisons,1.0,2.0,l,Cussons Creations To The Moon & Back Bath Soak,20240413,health_products,False
+Morrisons,1.0,2.5,l,Cussons Creations Comfo…,20240413,health_products,False
+Morrisons,2.0,10.0,l,Sure Men Antiperspirant Deodora…,20240413,health_products,False
+Morrisons,1.0,0.25,unit,Morrisons Family Toothbrushes Medium,20240413,health_products,True
+Morrisons,1.0,0.05,unit,Carefree Cotton Fresh Scented…,20240413,health_products,False
+Morrisons,0.3,0.15,unit,Morrisons Essentials Medium Toothbrushes,20240413,health_products,True
+Morrisons,1.0,4.4,l,Radox Feel Ready Mood Boosting Shower Gel,20240413,health_products,False
+Morrisons,1.1,3.1,l,Alberto Balsam Coconut & Lychee Conditioner,20240413,health_products,False
+Morrisons,1.0,4.4,l,Radox Feel Revived Mood Boosting Shower Gel,20240413,health_products,False
+Morrisons,1.5,3.0,l,Radox Bath Muscle Therapy,20240413,health_products,False
+Morrisons,3.0,6.7,l,Sanex Zero% Hypoallergeni…,20240413,health_products,False
+Morrisons,2.25,0.11,unit,lights by TENA Long Incontinence Liners,20240413,health_products,False
+Morrisons,3.0,6.7,l,Sanex Expert Skin Health Moisturising Shower Gel,20240413,health_products,False
+Morrisons,1.15,3.8,l,Palmolive Naturals Milk & Honey Handwash,20240413,health_products,False
+Morrisons,1.1,3.1,l,Alberto Balsam Tea Tree Tingle Shampoo,20240413,health_products,False
+Morrisons,1.6,3.6,l,Radox Shower Gel Feel Awake,20240413,health_products,False
+Morrisons,5.0,0.42,unit,TENA Lady Maxi Night Incontinence Pads Duo,20240413,health_products,False
+Morrisons,1.7,6.8,l,Right Guard Total Defence 5 Fresh Deodorant Spray,20240413,health_products,False
+Morrisons,0.5,5.0,l,Morrisons Essentials Freshmint Toothpaste,20240413,health_products,True
+Morrisons,2.0,26.7,l,Colgate Deep Clean Whitening To…,20240413,health_products,False
+Morrisons,0.7,0.0,unit,Nutmeg 200 Paper Stemmed Cotton Buds,20240413,health_products,True
+Morrisons,2.5,33.3,l,Sensodyne Daily Care Original Mint…,20240413,health_products,False
+Morrisons,1.25,16.7,l,Oral-B Complete Ultimate Fresh Toothpaste,20240413,health_products,False
+Morrisons,1.1,3.1,l,Alberto Balsam Raspberry Conditioner,20240413,health_products,False
+Morrisons,0.99,0.04,unit,Morrisons Large Pantyliners,20240413,health_products,True
+Morrisons,1.0,4.4,l,Radox Feel Moisturised Mo…,20240413,health_products,False
+Morrisons,5.0,0.25,unit,TENA Lady Extra Incontinence Pads Duo,20240413,health_products,False
+Morrisons,1.0,10.0,l,Macleans Whitening Toothpaste,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse Very Pink Body Spray Deodorant,20240413,health_products,False
+Morrisons,5.0,0.31,unit,TENA Lady Extra Plus Incontinence Pads Duo,20240413,health_products,False
+Morrisons,1.7,6.8,l,Right Guard Total Defence 5 Clean Deodorant Spray,20240413,health_products,False
+Morrisons,1.0,4.0,l,Palmolive Naturals Coconut Shower Gel,20240413,health_products,False
+Morrisons,1.5,30.0,l,Sanex Dermo Sensitive Roll On Deodorant,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse True Love Body Spray Deodorant,20240413,health_products,False
+Morrisons,2.0,20.0,l,Aquafresh Toothpaste Complete Care Extra Fresh,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse Hint of Musk Body Spray Deodorant,20240413,health_products,False
+Morrisons,1.0,0.05,unit,Carefree Cotton Breathable Pantyliners,20240413,health_products,False
+Morrisons,1.5,30.0,l,Sanex for Men Dermo Active Control…,20240413,health_products,False
+Morrisons,3.8,1.9,unit,Morrisons Large Tissues 100 Sheets,20240413,health_products,True
+Morrisons,2.5,6.2,kg,Simple Pure Bar Soap,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse Tease Body Spray Deodorant,20240413,health_products,False
+Morrisons,1.5,6.0,l,Carex Antibacterial Sensitive Handwash,20240413,health_products,False
+Morrisons,2.0,26.7,l,Colgate Sensitive with Sensif…,20240413,health_products,False
+Morrisons,1.0,3.3,l,"Morrisons 3 In 1 Shampoo, Conditioner & Shower Gel",20240413,health_products,True
+Morrisons,1.25,2.5,l,Morrisons Gum Health Mouthwash,20240413,health_products,True
+Morrisons,1.5,10.0,l,Sure Men Invisible Ice Anti-per…,20240413,health_products,False
+Morrisons,2.8,3.7,l,Palmolive Naturals Milk & Honey Pump Shower Gel,20240413,health_products,False
+Morrisons,1.5,30.0,l,Sanex Dermo Invisible Dry Antiper…,20240413,health_products,False
+Morrisons,1.25,5.6,l,Lynx Africa Bodywash,20240413,health_products,False
+Morrisons,2.0,10.0,l,Sure Men Antiperspirant Deodo…,20240413,health_products,False
+Morrisons,1.5,10.0,l,Sure Motion Sense Bright Bouquet Deodorant,20240413,health_products,False
+Morrisons,1.3,5.2,l,Morrisons Clear and Protect Anti…,20240413,health_products,True
+Morrisons,2.25,4.5,l,Baylis & Harding Antibacterial Hand W…,20240413,health_products,False
+Morrisons,2.75,11.0,l,Head and Shoulders Classic Clea…,20240413,health_products,False
+Morrisons,1.0,2.0,l,Cussons Creations Having A Giraffe Bath Soak,20240413,health_products,False
+Morrisons,1.0,2.5,l,Cussons Creations Energy Bottled Shower Gel,20240413,health_products,False
+Morrisons,1.7,6.8,l,Right Guard Total Defence 5 Sport Deodorant Spray,20240413,health_products,False
+Morrisons,3.0,6.7,l,Sanex Expert Skin Health Sensitive Shower Gel,20240413,health_products,False
+Morrisons,1.0,5.0,l,Wash & Go Shampoo & Conditioner 2 In 1 Classic,20240413,health_products,False
+Morrisons,1.0,0.08,unit,Morrisons Maxi Towels Night Time,20240413,health_products,True
+Morrisons,1.0,0.07,unit,Always Sensitive Normal Ultra (Size 1)…,20240413,health_products,False
+Morrisons,4.0,61.5,kg,Fixodent Complete Original Denture Adhesive,20240413,health_products,False
+Morrisons,1.0,4.4,l,Radox Feel Active Mood Boosting Shower Gel,20240413,health_products,False
+Morrisons,1.0,0.08,unit,Always Sensitive Long Ultra (Size 2) Sa…,20240413,health_products,False
+Morrisons,2.0,50.0,l,Dove Invisible Dry Antiper…,20240413,health_products,False
+Morrisons,2.5,33.3,l,Sensodyne Daily Care Gentle W…,20240413,health_products,False
+Morrisons,3.25,1.63,unit,Morrisons Ultra Soft Regular Tissues 80 Sheets,20240413,health_products,True
+Morrisons,1.25,8.3,l,Right Guard Xtreme Cool Spray Anti-Perspirant,20240413,health_products,False
+Morrisons,1.3,4.3,l,Nutmeg Extra Firm Hold Hairspray,20240413,health_products,True
+Morrisons,2.0,10.0,l,Sure Women Antiperspirant Deodo…,20240413,health_products,False
+Morrisons,3.0,0.12,unit,Johnson's Face Care Pampering Face Wipes,20240413,health_products,False
+Morrisons,3.5,3.5,l,Carex Original Antibacterial Handwash,20240413,health_products,False
+Morrisons,1.75,4.4,l,Nivea Men Sensitive Shower Gel,20240413,health_products,False
+Morrisons,2.5,12.5,l,Imperial Leather Foamburst Body Was…,20240413,health_products,False
+Morrisons,3.0,0.06,unit,lights by TENA Incontinence Liners Duo,20240413,health_products,False
+Morrisons,1.25,5.6,l,Lynx Shower Gel Ice Chill,20240413,health_products,False
+Morrisons,1.3,13.0,l,Aquafresh Complete Care Whitening Toothpaste,20240413,health_products,False
+Morrisons,3.0,6.7,l,Dove Sensitive Body Wash,20240413,health_products,False
+Morrisons,1.0,0.04,unit,Nutmeg Normal/Combina…,20240413,health_products,True
+Morrisons,2.5,12.5,l,Dove Men + Care Antiperspirant De…,20240413,health_products,False
+Morrisons,1.0,4.4,l,Radox Feel Radiant Mood Boosting Shower Gel,20240413,health_products,False
+Morrisons,1.2,4.8,l,NIVEA Coconut & Jojoba Oil Shower Gel,20240413,health_products,False
+Morrisons,2.0,26.7,l,Colgate Sensitive with Sensifoam Mu…,20240413,health_products,False
+Morrisons,1.1,3.1,l,Alberto Balsam Juicy Green Apple Conditioner,20240413,health_products,False
+Morrisons,5.75,76.7,l,Sensodyne Repair and Protect…,20240413,health_products,False
+Morrisons,1.5,3.0,l,Morrisons 2 In 1 Anti-Dandruf…,20240413,health_products,True
+Morrisons,2.0,0.1,unit,Tampax Regular Tampons with Car…,20240413,health_products,False
+Morrisons,1.7,34.0,l,Aquafresh Kids Milk Teeth Fluorid…,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse Be Surprised Body Spray Deodorant,20240413,health_products,False
+Morrisons,2.5,6.2,l,Dove Men + Care Clean Comfo…,20240413,health_products,False
+Morrisons,3.5,85.4,kg,Mitchum Powder Fresh Control Stick,20240413,health_products,False
+Morrisons,1.75,8.8,l,Nutmeg Dry Shampoo Fabulously Fruity,20240413,health_products,True
+Morrisons,3.5,3.5,kg,Westlab Pure Mineral Bathing Epsom Salt,20240413,health_products,False
+Morrisons,3.0,0.12,unit,Johnson's Face Care Refreshing Face Wipes,20240413,health_products,False
+Morrisons,1.0,13.3,l,Nutmeg Kids 3+ Years Berry Stripe Toothpaste,20240413,health_products,True
+Morrisons,3.0,6.7,l,Sanex Expert Skin Health Hypoallergenic Shower Gel,20240413,health_products,False
+Morrisons,3.5,87.5,kg,Poligrip Denture Adhesive Ultra Fixative Cream,20240413,health_products,False
+Morrisons,1.0,20.0,l,Soft & Gentle Fresh Blossom Roll On,20240413,health_products,False
+Morrisons,1.65,0.07,unit,Nivea Biodegradable Wipes Dry Skin,20240413,health_products,False
+Morrisons,3.0,12.0,l,TRESemme Extra Hold Hairspray,20240413,health_products,False
+Morrisons,2.5,5.6,l,Sanex Expert Skin Health Head t…,20240413,health_products,False
+Morrisons,2.0,0.1,unit,Tampax Super Tampons with Cardb…,20240413,health_products,False
+Morrisons,1.2,0.06,unit,Always Dailies Singles Panty…,20240413,health_products,False
+Morrisons,1.1,3.1,l,Alberto Balsam Tea Tree Tingle Conditioner,20240413,health_products,False
+Morrisons,2.0,0.22,unit,Always Maxi Profresh Night Sanitary T…,20240413,health_products,False
+Morrisons,1.55,0.17,unit,Bodyform Ultra Night XL San…,20240413,health_products,False
+Morrisons,1.7,8.5,l,Gillette Sensitive Shaving Gel For Sensitive Skin,20240413,health_products,False
+Morrisons,2.5,12.5,l,Batiste Original Dry Shampoo,20240413,health_products,False
+Morrisons,1.6,0.05,unit,Steradent Active Plus Denture…,20240413,health_products,False
+Morrisons,0.8,8.0,kg,Wrights Cleansing Traditional Soap Bar,20240413,health_products,False
+Morrisons,1.5,3.0,l,Radox Bath Sleep,20240413,health_products,False
+Morrisons,1.0,4.0,l,Morrisons Kids 2 In 1 Strawberr…,20240413,health_products,True
+Morrisons,1.0,0.1,unit,Always Sensitive Night Ultra (Size…,20240413,health_products,False
+Morrisons,8.0,0.67,unit,Morrisons Incontinence Comfort Pa…,20240413,health_products,True
+Morrisons,1.15,3.8,l,Palmolive Hygiene Plus Sensitive…,20240413,health_products,False
+Morrisons,1.0,5.0,l,Alberto Balsam Ultra Strong Gel,20240413,health_products,False
+Morrisons,1.55,0.05,unit,Bodyform Dailies So Slim Panty Liners,20240413,health_products,False
+Morrisons,1.25,3.13,kg,Radox Muscle Soak Bath Therapy Herb…,20240413,health_products,False
+Morrisons,6.25,0.62,unit,Morrisons Incontinence Comfort Pants Large,20240413,health_products,True
+Morrisons,4.0,4.4,l,Tresemme Rich Moisture Shampoo,20240413,health_products,False
+Morrisons,1.9,0.08,unit,Always Dailies Extra Protect Panty…,20240413,health_products,False
+Morrisons,1.25,5.6,l,Lynx Shower Gel Excite,20240413,health_products,False
+Morrisons,1.75,3.5,l,Palmolive Naturals Coconut Shower Cream,20240413,health_products,False
+Morrisons,1.8,3.6,l,Carex Complete Moisture Plus Hand Wash,20240413,health_products,False
+Morrisons,2.75,1.38,unit,Kleenex Original 64 Sheets,20240413,health_products,False
+Morrisons,3.0,0.15,unit,Dulcolax Adult Constipa…,20240413,health_products,False
+Morrisons,3.5,87.5,kg,Fixodent Premium Adhesive Denture Cream,20240413,health_products,False
+Morrisons,2.0,0.1,unit,Tampax Super Plus Tampons with Ca…,20240413,health_products,False
+Morrisons,4.25,10.6,l,Silvikrin Maximum Hold Hairspray,20240413,health_products,False
+Morrisons,2.25,9.0,l,Elvive Colour Protect Shampoo,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Shampoo Dazzling…,20240413,health_products,False
+Morrisons,2.0,8.0,l,Simple Moisturising Hand Wash With Chamomile Oil,20240413,health_products,False
+Morrisons,5.0,0.21,unit,TENA Lady Discreet Normal…,20240413,health_products,False
+Morrisons,4.0,4.4,l,Tresemme Rich Moisture Conditioner,20240413,health_products,False
+Morrisons,1.6,3.2,l,Imperial Leather Pampering Bath…,20240413,health_products,False
+Morrisons,1.0,0.25,unit,Morrisons Kids Toothbrushes 3+ Years,20240413,health_products,True
+Morrisons,3.5,87.5,kg,Fixodent Plus Best Food Seal…,20240413,health_products,False
+Morrisons,4.0,2.0,unit,Kleenex Allergy Comfort Tissues 2 pack,20240413,health_products,False
+Morrisons,2.25,4.5,l,"Baylis & Harding Jojoba, Vanill…",20240413,health_products,False
+Morrisons,3.0,6.7,l,Sanex Expert Skin Health Pro Hydrate Shower Gel,20240413,health_products,False
+Morrisons,1.3,26.0,l,Cussons Antibacterial Carex Prote…,20240413,health_products,False
+Morrisons,1.5,15.0,l,Morrisons Whitening Toothpaste,20240413,health_products,True
+Morrisons,8.5,34.0,l,Neutrogena T/Gel Therapeutic Shampoo,20240413,health_products,False
+Morrisons,2.25,4.5,l,Baylis & Harding Sea Salt & Wild Mint Hand Wash,20240413,health_products,False
+Morrisons,2.5,12.5,l,Dove Men + Care Antiperspirant…,20240413,health_products,False
+Morrisons,2.75,11.0,l,Head and Shoulders Anti Dandr…,20240413,health_products,False
+Morrisons,1.25,5.6,l,Lynx Shower Gel Black,20240413,health_products,False
+Morrisons,1.25,5.6,l,Lynx Shower Gel Dark Temptation,20240413,health_products,False
+Morrisons,2.5,33.3,l,Sensodyne Daily Care Deep Clean…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Hair Condit…,20240413,health_products,False
+Morrisons,5.0,16.7,l,Corsodyl Antibacterial 0.2%…,20240413,health_products,False
+Morrisons,1.5,6.0,l,Imperial Leather Moisturising Body Wa…,20240413,health_products,False
+Morrisons,8.5,1.06,unit,TENA Men Active Fit Incontinence Pants Plus L,20240413,health_products,False
+Morrisons,1.75,0.29,unit,Kleenex Original Pocket Packs 9 Sheets 6 Pack,20240413,health_products,False
+Morrisons,2.5,33.3,l,Euthymol Original Toothpaste,20240413,health_products,False
+Morrisons,3.0,6.0,l,Lynx Africa Shower Gel,20240413,health_products,False
+Morrisons,1.0,6.7,l,Morrisons Dynamic Body Spray,20240413,health_products,True
+Morrisons,1.7,6.8,l,Right Guard Women Total Defence 5…,20240413,health_products,False
+Morrisons,3.0,0.75,unit,Bic Miss Soleil 3 Blade Shaver,20240413,health_products,False
+Morrisons,1.0,0.05,unit,Carefree Breathable Pantyliners with Aloe,20240413,health_products,False
+Morrisons,2.0,26.7,l,Colgate Advanced White Charco…,20240413,health_products,False
+Morrisons,4.5,22.5,l,"E45 Moisturiser Lotion, body, face and ha…",20240413,health_products,False
+Morrisons,1.5,6.0,l,Imperial Leather Refreshing Bod…,20240413,health_products,False
+Morrisons,3.3,16.5,l,Mitchum Powder Fresh Anti-Perspiran…,20240413,health_products,False
+Morrisons,1.5,0.5,unit,Colgate Extra Clean Toothbrushes,20240413,health_products,False
+Morrisons,2.0,50.0,l,Dove Original Anti-perspirant Deodorant Stick,20240413,health_products,False
+Morrisons,3.3,33.0,l,Mitchum Advanced Control Wome…,20240413,health_products,False
+Morrisons,2.0,6.7,l,Vosene Original Anti-Dandruff Shampoo,20240413,health_products,False
+Morrisons,2.25,4.5,l,Baylis & Harding Sweet Mandarin…,20240413,health_products,False
+Morrisons,1.3,26.0,l,Carex Antibacterial Hand Gel Aloe Vera,20240413,health_products,False
+Morrisons,3.5,11.7,l,Carex Hand Gel Aloe Vera,20240413,health_products,False
+Morrisons,3.5,35.0,l,Colgate Advance White Teeth W…,20240413,health_products,False
+Morrisons,1.25,0.08,unit,Morrisons Non-applicator Tampons Super,20240413,health_products,True
+Morrisons,2.25,9.5,l,Pears Hand Wash,20240413,health_products,False
+Morrisons,6.25,0.52,unit,Morrisons Incontinence Comfort Pants Medium,20240413,health_products,True
+Morrisons,1.15,11.5,l,Morrisons Nourish Hand & Nail Cream,20240413,health_products,True
+Morrisons,1.5,30.0,l,Nivea Men Cool Kick 48 Hour A…,20240413,health_products,False
+Morrisons,2.25,4.5,l,Baylis & Harding Hand Wash Rainbow Frui…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Shampoo Hello Hydra…,20240413,health_products,False
+Morrisons,2.2,4.4,l,"NIVEA Shower Cream Gel, Rich Moisture Soft",20240413,health_products,False
+Morrisons,1.8,3.6,l,Carex Complete Original Hand Wash,20240413,health_products,False
+Morrisons,1.25,0.08,unit,Morrisons Tampons Non-Applicator Regular,20240413,health_products,True
+Morrisons,2.7,13.5,l,NIVEA MEN Sensitive Shaving Gel,20240413,health_products,False
+Morrisons,1.15,3.8,l,Palmolive Aquarium Handwash,20240413,health_products,False
+Morrisons,2.5,12.5,l,Batiste Dry Blush Shampoo,20240413,health_products,False
+Morrisons,4.0,0.5,unit,Gillette Blue Plus Slalom Disposable Razors 8 pack,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Daily Detox Clean Shampoo,20240413,health_products,False
+Morrisons,3.0,15.0,l,Mitchum Women Pure Fresh Deodorant,20240413,health_products,False
+Morrisons,1.8,0.06,unit,Steradent Pro White Denture…,20240413,health_products,False
+Morrisons,1.75,23.3,l,Colgate Kids Mild Mint Toothpaste 6 - 9 Years,20240413,health_products,False
+Morrisons,1.5,3.0,l,Morrisons Anti-Dandruff Shampoo Classic,20240413,health_products,True
+Morrisons,2.25,0.09,unit,lights by TENA Incontinence Liners,20240413,health_products,False
+Morrisons,2.0,40.0,l,Sure Antiperspirant Deodorant Roll…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Dove Men + Care Advanced Antiperspira…,20240413,health_products,False
+Morrisons,1.75,4.4,l,Nivea Men Energy Mint Extract 3 In 1 Shower Gel,20240413,health_products,False
+Morrisons,1.75,4.4,l,Palmolive Thermal Spa Pampering Oil Shower Gel,20240413,health_products,False
+Morrisons,2.0,8.0,l,Pears Shower Gel,20240413,health_products,False
+Morrisons,4.0,4.4,l,Tresemme Cleanse & Replenish 2 in…,20240413,health_products,False
+Morrisons,2.5,12.5,l,Brut Deodorant Spray,20240413,health_products,False
+Morrisons,2.25,0.08,unit,lights by TENA Light Incontinence Liners,20240413,health_products,False
+Morrisons,3.0,7.5,l,Vaseline Intensive Care Aloe Soothe Body Lotion,20240413,health_products,False
+Morrisons,2.32,15.5,l,Clean & Clear Exfoliating Daily Wash,20240413,health_products,False
+Morrisons,1.5,7.5,l,Morrisons Firm Mousse,20240413,health_products,True
+Morrisons,1.55,0.11,unit,Bodyform Cour-V Ultra Normal Sanitary Towels,20240413,health_products,False
+Morrisons,1.0,13.3,l,Charlie Red Body Spray,20240413,health_products,False
+Morrisons,1.5,20.0,l,Colgate Triple Action Extra White Toothpaste,20240413,health_products,False
+Morrisons,2.8,3.7,l,Palmolive Naturals Kids Almond…,20240413,health_products,False
+Morrisons,2.5,5.6,l,Sanex Zero% Hypoallergenic Kids Hea…,20240413,health_products,False
+Morrisons,1.5,0.05,unit,Morrisons Dental Floss Harps,20240413,health_products,True
+Morrisons,1.65,0.07,unit,NIVEA Biodegradable Cleansing…,20240413,health_products,False
+Morrisons,2.0,416.7,kg,Nivea Original Care Lip Balm,20240413,health_products,False
+Morrisons,3.8,0.19,unit,Senokot Tablets Senna,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Hair Conditioner Dazzli…,20240413,health_products,False
+Morrisons,3.3,33.0,l,Mitchum Powder Fresh Antiperspirant Deodorant,20240413,health_products,False
+Morrisons,2.0,40.0,l,Sure Antiperspirant Deodorant Roll On…,20240413,health_products,False
+Morrisons,2.0,6.7,l,Wisdom Chlorhexidine Clean Mint…,20240413,health_products,False
+Morrisons,5.0,16.7,l,Corsodyl Medicated 0.2% Gum Care Al…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Dove Men + Care Extra Fresh…,20240413,health_products,False
+Morrisons,2.75,11.0,l,L'Oreal Paris Elvive Hyaluronic Shampoo,20240413,health_products,False
+Morrisons,2.0,20.0,l,Cuticura Cucumber Hand Gel,20240413,health_products,False
+Morrisons,4.5,22.5,l,Dove Advanced Antiperspirant Deod…,20240413,health_products,False
+Morrisons,3.97,9.9,l,Dove Daily Moisture Shampoo,20240413,health_products,False
+Morrisons,3.0,6.0,l,Lynx Epic Fresh Shower Gel,20240413,health_products,False
+Morrisons,3.0,0.75,unit,Wisdom Xtra Clean Medium Toothbrushes,20240413,health_products,False
+Morrisons,1.0,6.7,l,Morrisons Energy Body Spray,20240413,health_products,True
+Morrisons,4.0,4.4,l,Tresemme Deep Cleansing Hair Shampoo,20240413,health_products,False
+Morrisons,11.0,220.0,kg,Voltarol Joint & Back Pain Relief…,20240413,health_products,False
+Morrisons,2.25,4.5,l,Baylis & Harding Royale Garden Ve…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Shampoo Ignite My…,20240413,health_products,False
+Morrisons,2.25,9.0,l,L'Oréal Elvive NutriGloss Shine Shampoo,20240413,health_products,False
+Morrisons,0.9,0.04,unit,Morrisons Fold & Wrap Pantyliners,20240413,health_products,True
+Morrisons,1.25,0.08,unit,Morrisons Tampons Non-Applicator Super Plus,20240413,health_products,True
+Morrisons,2.25,0.12,unit,Tampax Compak Regular Tampons…,20240413,health_products,False
+Morrisons,2.1,0.21,unit,BIC 2 Sensitive Shaver Pack,20240413,health_products,False
+Morrisons,1.6,3.2,l,Imperial Leather Muscle Recovery Ba…,20240413,health_products,False
+Morrisons,3.5,46.7,l,Oral-B Pro-Expert Professional Protec…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Hair Conditioner Igni…,20240413,health_products,False
+Morrisons,5.0,66.7,l,Oral-B 3D White Luxe Perfecti…,20240413,health_products,False
+Morrisons,2.5,12.5,l,Batiste Dry Cherry Shampoo,20240413,health_products,False
+Morrisons,1.6,3.2,l,Imperial Leather Relaxing Bath…,20240413,health_products,False
+Morrisons,1.5,15.0,l,Morrisons Sensitive Toothpaste,20240413,health_products,True
+Morrisons,1.55,0.15,unit,Bodyform Cour-V Ultra Towel,20240413,health_products,False
+Morrisons,1.0,10.0,l,Morrisons Gum Health Toothpaste,20240413,health_products,True
+Morrisons,2.0,0.4,unit,Bic Twin Lady Razors Pouch,20240413,health_products,False
+Morrisons,1.5,6.0,l,Imperial Leather Pampering Body…,20240413,health_products,False
+Morrisons,3.3,33.0,l,Mitchum Anti-Perspirent Ice Fresh Roll On,20240413,health_products,False
+Morrisons,2.0,4.0,l,Radox Feel Awake Shower Gel…,20240413,health_products,False
+Morrisons,2.25,4.5,l,Baylis & Harding Royale Garden Rose…,20240413,health_products,False
+Morrisons,5.0,111.1,l,Sure Women Clean Scent Maximum Pr…,20240413,health_products,False
+Morrisons,1.5,3.8,l,Morrisons Moisturising Body Lotion,20240413,health_products,True
+Morrisons,1.3,5.2,l,Morrisons Sport Deodorant,20240413,health_products,True
+Morrisons,1.0,20.0,l,Soft & Gentle Magnolia Hug Roll On,20240413,health_products,False
+Morrisons,3.0,7.5,l,Vaseline Intensive Care Cocoa Lotion,20240413,health_products,False
+Morrisons,3.3,6.6,l,Bulldog Skincare Lemon & Bergamot Shower Gel,20240413,health_products,False
+Morrisons,0.95,9.5,kg,Carex Original Antibacterial Soap,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Africa Body Spray Deodorant,20240413,health_products,False
+Morrisons,2.0,4.4,l,Matey Max Bubble Bath,20240413,health_products,False
+Morrisons,3.0,7.5,l,Vaseline Intensive Care Essential Lotion,20240413,health_products,False
+Morrisons,1.2,0.4,unit,Aquafresh Kids Toothbrush 0-7 y…,20240413,health_products,False
+Morrisons,2.5,12.5,l,Badedas Revitalising Shower Gel…,20240413,health_products,False
+Morrisons,17.99,2.25,unit,Gillette Fusion 5 Razors For Me…,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse O2 Body Spray,20240413,health_products,False
+Morrisons,2.25,0.38,unit,Morrisons Interdental Brushes 0.6MM,20240413,health_products,True
+Morrisons,5.0,111.1,l,Sure Women Maximum Protection Confidenc…,20240413,health_products,False
+Morrisons,4.0,4.4,l,Tresemme Remoisturising Hair Conditioner,20240413,health_products,False
+Morrisons,3.0,6.7,l,Dove Caring Bath Almond Cream,20240413,health_products,False
+Morrisons,3.0,12.0,l,Sanex Dermo Invisible Antiper…,20240413,health_products,False
+Morrisons,8.5,1.06,unit,Tena Men Premium Pants Large,20240413,health_products,False
+Morrisons,2.25,0.38,unit,Morrisons 0.7mm Interdental Brushes,20240413,health_products,True
+Morrisons,5.85,11.7,l,Nivea Soft Moisturiser Cream…,20240413,health_products,False
+Morrisons,2.89,7.2,l,Schwarzkopf Keratin Hairspray,20240413,health_products,False
+Morrisons,3.5,46.7,l,Oral-B Pro-Expert White Toothpaste,20240413,health_products,False
+Morrisons,2.5,16.7,l,Sure For Men Active Dry Anti Pers…,20240413,health_products,False
+Morrisons,1.65,0.17,unit,BIC 1 Sensitive Shaver,20240413,health_products,False
+Morrisons,3.75,0.94,unit,Bic Flex 3 Comfort Shaver,20240413,health_products,False
+Morrisons,2.75,11.0,l,Head & Shoulders Apple Fresh Shampoo,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Daily Detox Clean Conditioner,20240413,health_products,False
+Morrisons,1.5,0.05,unit,Morrisons Dental Tape Harps,20240413,health_products,True
+Morrisons,1.65,0.08,unit,Morrisons Incontinence Comfort Liners Long,20240413,health_products,True
+Morrisons,2.7,5.4,l,Dentyl Dual Action Fresh Clove Mouthwash,20240413,health_products,False
+Morrisons,2.7,5.4,l,Dentyl Dual Action Smooth Mint Mouthwash,20240413,health_products,False
+Morrisons,3.25,46.4,l,Gillette Clear Gel Arctic Ice Deodorant,20240413,health_products,False
+Morrisons,3.0,12.0,l,Men Expert Deodorant Fresh Extreme,20240413,health_products,False
+Morrisons,1.25,0.12,unit,Morrisons Twin Blade Disposable Razors,20240413,health_products,True
+Morrisons,5.5,73.3,l,Sensodyne Pronamel Intensive Enamel R…,20240413,health_products,False
+Morrisons,3.0,0.1,unit,Wisdom Daily Use Interdental Brushes,20240413,health_products,False
+Morrisons,8.6,22.9,l,Alpecin C1 Caffeine Shampoo,20240413,health_products,False
+Morrisons,4.0,8.0,l,Baylis & Harding Goodness Oud…,20240413,health_products,False
+Morrisons,2.3,23.0,kg,Little Soap Company Naturals Ci…,20240413,health_products,False
+Morrisons,2.25,11.3,l,L'Oreal Elvive Nutri Gloss Conditioner,20240413,health_products,False
+Morrisons,3.0,30.0,l,Mitchum Roll On Sport,20240413,health_products,False
+Morrisons,8.0,0.67,unit,Morrisons Incontinence Comfort Pant…,20240413,health_products,True
+Morrisons,2.5,2.8,l,Radox Mineral Therapy Bath Sa…,20240413,health_products,False
+Morrisons,3.0,6.7,l,Sanex Expert Skin Health Moisturising Bath Soak,20240413,health_products,False
+Morrisons,3.0,6.7,l,Sanex Expert Skin Health Soothing Bath Soak,20240413,health_products,False
+Morrisons,2.0,8.0,l,Vosene Kids 3 in 1 Shampoo,20240413,health_products,False
+Morrisons,3.0,6.7,l,Dove Caring Bath Shea Butter,20240413,health_products,False
+Morrisons,3.97,9.9,l,Dove Intensive Repair Shampoo,20240413,health_products,False
+Morrisons,2.75,22.0,l,Femfresh Intimate Daily Deodorant,20240413,health_products,False
+Morrisons,4.5,112.5,kg,Fixodent Professional Adhesive Denture Cream,20240413,health_products,False
+Morrisons,3.0,12.0,l,L'Oreal Paris Men Expert Shirt Protect Deodorant,20240413,health_products,False
+Morrisons,1.85,12.3,l,NIVEA MEN Anti-Perspirant Deodorant…,20240413,health_products,False
+Morrisons,9.0,1.29,unit,Always Discreet Underwear Inconti…,20240413,health_products,False
+Morrisons,2.5,12.5,l,Batiste Coconut & Exotic Tropical Dry Shampoo,20240413,health_products,False
+Morrisons,1.25,5.0,l,Dove Supreme Silk Beauty Cream Wash,20240413,health_products,False
+Morrisons,1.95,3.9,l,INEOS Moisturising Handwash Whi…,20240413,health_products,False
+Morrisons,5.25,10.5,l,Listerine Total Care Teeth & Gum Mouthwash,20240413,health_products,False
+Morrisons,2.3,23.0,kg,Little Soap Company Natural…,20240413,health_products,False
+Morrisons,2.5,16.7,l,Sure For Men Invisible Ice Anti Perspirant,20240413,health_products,False
+Morrisons,9.0,0.9,unit,Always Discreet Underwear I…,20240413,health_products,False
+Morrisons,5.0,16.7,l,Corsodyl Original 0.2% Medicated Gum Al…,20240413,health_products,False
+Morrisons,3.5,10.0,l,Dove Colour Care Conditioner,20240413,health_products,False
+Morrisons,3.3,16.5,l,Mitchum Invisible Women Clear Fresh A…,20240413,health_products,False
+Morrisons,2.2,4.4,l,Nivea Shower Rose & Almond Milk,20240413,health_products,False
+Morrisons,1.0,13.3,l,Nutmeg Kids 3+ Years Mild Mint Toothpaste,20240413,health_products,True
+Morrisons,1.55,0.13,unit,Bodyform Cour-V Ultra Long Sanitary Towels,20240413,health_products,False
+Morrisons,3.97,11.3,l,Dove Intense Repair Conditioner,20240413,health_products,False
+Morrisons,3.97,9.9,l,Dove Nutritive Solutions Daily Moisture 2in1,20240413,health_products,False
+Morrisons,5.5,0.46,unit,Flarin Joint & Muscular Pain Relief 2…,20240413,health_products,False
+Morrisons,2.7,13.5,l,NIVEA MEN Sensitive Shave Foam,20240413,health_products,False
+Morrisons,4.5,15.0,l,Schwarzkopf got2b Glued Blasting Freeze Spray,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Daily Detox Shine Conditioner,20240413,health_products,False
+Morrisons,5.0,66.7,l,Colgate Total Advanced Deep Clean Toothpaste,20240413,health_products,False
+Morrisons,3.0,6.0,l,Lynx Black Shower Gel,20240413,health_products,False
+Morrisons,2.25,0.12,unit,Tampax Compak Super Tampons w…,20240413,health_products,False
+Morrisons,5.0,40.0,l,Colgate Max White Crystals Mint Toothpaste,20240413,health_products,False
+Morrisons,4.0,53.3,l,Corsodyl Ultra Clean Daily Gum…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Dove Advanced Antiperspirant De…,20240413,health_products,False
+Morrisons,3.0,60.0,kg,"E45 Moisturiser Lotion, Body, Face And…",20240413,health_products,False
+Morrisons,12.75,1.59,unit,Gillette Mach 3 Razors For Men 8 Refill Razor Blades,20240413,health_products,False
+Morrisons,3.0,12.0,l,L'Oreal Men Expert Invincible Sport Deodorant,20240413,health_products,False
+Morrisons,2.25,0.38,unit,Morrisons Interdental Brushes 0.4MM,20240413,health_products,True
+Morrisons,3.8,50.7,l,Oral-B Pro-Expert Deep Clean Toothpaste,20240413,health_products,False
+Morrisons,1.75,4.4,l,Palmolive Thermal Spa Massage Shower Gel,20240413,health_products,False
+Morrisons,2.25,0.12,unit,Tampax Compak Super Plus Tampon…,20240413,health_products,False
+Morrisons,3.4,0.68,unit,Tena Incontinence Bed Pads,20240413,health_products,False
+Morrisons,3.5,3.5,kg,Westlab Soothing Dead Sea Bath Salt,20240413,health_products,False
+Morrisons,5.25,10.5,l,Listerine Total Care Milder Taste Mouthwash,20240413,health_products,False
+Morrisons,2.25,11.3,l,L'Oreal Elvive Fibrology Conditioner,20240413,health_products,False
+Morrisons,2.0,4.4,l,Matey Molly Bubble Bath,20240413,health_products,False
+Morrisons,4.25,10.6,l,Silvikrin Flexible Hold Hairspray,20240413,health_products,False
+Morrisons,4.25,10.6,l,Silvikrin Natural Hold Hairspray,20240413,health_products,False
+Morrisons,4.0,8.0,l,Baylis & Harding Goodness Ros…,20240413,health_products,False
+Morrisons,1.0,13.3,l,Impulse Air Body Spray,20240413,health_products,False
+Morrisons,2.25,11.3,l,L'Oreal Elvive Extraordin…,20240413,health_products,False
+Morrisons,4.5,9.0,l,Oral-B Pro-Expert Professiona…,20240413,health_products,False
+Morrisons,1.5,0.38,unit,Wilkinson Sword Extra 3 Sensitive…,20240413,health_products,False
+Morrisons,1.0,100.0,l,7th Heaven Cucumber Peel Off Mask,20240413,health_products,False
+Morrisons,1.55,0.06,unit,Bodyform Dailies Multisty…,20240413,health_products,False
+Morrisons,3.0,12.0,l,L'Oreal Men Carbon Intense,20240413,health_products,False
+Morrisons,3.0,15.0,l,Mitchum 48Hr Protection Clean Control…,20240413,health_products,False
+Morrisons,3.3,16.5,l,Mitchum Shower Fresh Antiperspirant Deodorant,20240413,health_products,False
+Morrisons,2.25,0.38,unit,Morrisons 0.5mm Interdental Brushes,20240413,health_products,True
+Morrisons,1.65,0.07,unit,Morrisons Incontinence Comfort Liners,20240413,health_products,True
+Morrisons,3.5,70.0,l,Neutrogena Norwegian Hand Cream,20240413,health_products,False
+Morrisons,1.5,0.75,unit,Simple Anti-Bac Soap,20240413,health_products,False
+Morrisons,1.25,62.5,kg,Vaseline Lip Therapy Rosy Lips Tin,20240413,health_products,False
+Morrisons,4.5,11.3,l,VO5 Invisible Ultimate Hold Hairspray,20240413,health_products,False
+Morrisons,4.0,8.0,l,Baylis & Harding Goodness…,20240413,health_products,False
+Morrisons,3.3,6.6,l,Bulldog Skincare Original Shower Gel,20240413,health_products,False
+Morrisons,4.5,22.5,l,Dove Advanced Antiperspirant Deodoran…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Daily Detox Shine Shampoo,20240413,health_products,False
+Morrisons,1.5,30.0,l,Sanex Dermo Extra Control R…,20240413,health_products,False
+Morrisons,3.0,12.0,l,Tresemme Flexible Hold Hair Spray,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Revitalised Colour Shampoo,20240413,health_products,False
+Morrisons,4.4,44.0,l,Bulldog Original Moisturiser,20240413,health_products,False
+Morrisons,4.5,22.5,l,Dove Advanced Antiperspirant Deodor…,20240413,health_products,False
+Morrisons,3.0,6.7,l,Dove Caring Bath Indulging Cream,20240413,health_products,False
+Morrisons,2.25,37.5,kg,Palmer's Cocoa Butter Formula with Vi…,20240413,health_products,False
+Morrisons,1.5,3.0,l,Radox Original Bath Soak,20240413,health_products,False
+Morrisons,8.5,0.94,unit,TENA Men Active Fit Incontinence Pants Plus M,20240413,health_products,False
+Morrisons,4.5,22.5,l,Batiste Dry Shampoo Dark & Deep Brown,20240413,health_products,False
+Morrisons,2.49,0.04,unit,Bodyform Dailies Long Panty Liners,20240413,health_products,False
+Morrisons,2.5,6.2,l,Dove Men Body Wash Sensitive Shield,20240413,health_products,False
+Morrisons,7.0,35.0,l,Nivea Sun Protect & Dry Touch Mist Spf 50,20240413,health_products,False
+Morrisons,2.0,13.3,l,Nutmeg Tea Tree Exfoliator Wash,20240413,health_products,True
+Morrisons,5.0,100.0,l,Olay Double Action Day Moistu…,20240413,health_products,False
+Morrisons,5.5,122.2,l,Sure Men Maximum Protection Clear Scent,20240413,health_products,False
+Morrisons,5.5,18.3,l,Tresemme Heat Defence Care & Protect Spray,20240413,health_products,False
+Morrisons,1.25,62.5,kg,Vaseline Lip Therapy Cocoa Butter Tin,20240413,health_products,False
+Morrisons,11.0,2.75,unit,Venus Spa Breeze Razor 3 Blades Refills,20240413,health_products,False
+Morrisons,9.5,31.7,l,Aveeno Skin Relief Moisturisi…,20240413,health_products,False
+Morrisons,7.5,18.8,l,L'Oreal Elnett Normal Hairspray,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Africa Anti Sweat Antiperspirant,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Bodyspray Black,20240413,health_products,False
+Morrisons,3.0,60.0,l,Morrisons Spf50+ Kids Mini Sun Lotion,20240413,health_products,True
+Morrisons,5.0,40.0,l,NIVEA Double Effect Waterproo…,20240413,health_products,False
+Morrisons,6.5,16.3,l,NIVEA Rich Nourishing Body Lo…,20240413,health_products,False
+Morrisons,2.0,4.0,l,Nutmeg Micellar Water,20240413,health_products,True
+Morrisons,1.5,30.0,l,Sanex Natur Protect Invisible F…,20240413,health_products,False
+Morrisons,5.5,0.18,unit,Anusol Wipes,20240413,health_products,False
+Morrisons,5.5,73.3,l,Corsodyl Active Gum Repair for…,20240413,health_products,False
+Morrisons,3.0,0.3,unit,Morrisons Incontinence Pads Male,20240413,health_products,True
+Morrisons,5.0,100.0,l,Olay Double Action Day Sensitive…,20240413,health_products,False
+Morrisons,3.75,25.0,l,Old Spice Captain Deodorant Body Spray,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Hydrate & Purify Shampoo,20240413,health_products,False
+Morrisons,1.25,62.5,kg,Vaseline Lip Therapy With Aloe Vera,20240413,health_products,False
+Morrisons,2.49,0.21,unit,Always Maxi Long (Size2) Sanita…,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Love Me Longer Conditioner,20240413,health_products,False
+Morrisons,2.25,9.0,l,L'Oreal Elvive Extraordinary…,20240413,health_products,False
+Morrisons,1.62,6.5,l,Original Source Blue (Watermint And G…,20240413,health_products,False
+Morrisons,4.3,17.2,l,Palmer's Cocoa Butter Lotion,20240413,health_products,False
+Morrisons,2.32,11.6,l,Clean & Clear Deep Cleansing Lotion,20240413,health_products,False
+Morrisons,6.0,15.0,l,Colgate FluoriGard Daily Rinse…,20240413,health_products,False
+Morrisons,5.0,0.2,unit,L'Oreal Age Perfect Wipes,20240413,health_products,False
+Morrisons,3.0,300.0,kg,Morrisons Bite & Sting Cream,20240413,health_products,True
+Morrisons,5.25,13.1,l,NIVEA Creme Moisturiser Cream…,20240413,health_products,False
+Morrisons,1.0,10.0,l,Nutmeg Facial Moisturiser,20240413,health_products,True
+Morrisons,3.0,60.0,l,Old Spice Captain Deodorant Stick,20240413,health_products,False
+Morrisons,3.0,10.0,l,Pantene Pro-V Repair & Protect Keratin Hair Mask,20240413,health_products,False
+Morrisons,8.5,28.3,l,Aveeno Daily Moisturising Lotion,20240413,health_products,False
+Morrisons,1.75,23.3,l,Colgate Kids Delicate Mint 3-5 years Toothpaste,20240413,health_products,False
+Morrisons,3.0,6.7,l,Dove Relaxing Care Lavender…,20240413,health_products,False
+Morrisons,2.0,13.3,l,Nutmeg Tea Tree Foaming Wash,20240413,health_products,True
+Morrisons,3.0,15.0,l,Schwarzkopf Got2B Extra Volume Dry Shampoo,20240413,health_products,False
+Morrisons,6.0,30.0,l,Calypso Once A Day Sun Protection SPF 20,20240413,health_products,False
+Morrisons,3.97,9.9,l,Dove Colour Care Shampoo,20240413,health_products,False
+Morrisons,2.5,6.2,l,Herbal Essences Love Me Longer Shampoo,20240413,health_products,False
+Morrisons,1.5,6.0,l,Imperial Leather Energising Body…,20240413,health_products,False
+Morrisons,1.0,0.04,unit,Morrisons Maxi Daytime Towels,20240413,health_products,True
+Morrisons,3.2,12.8,l,NIVEA Extra Rich Moisturising B…,20240413,health_products,False
+Morrisons,2.35,489.6,kg,Nivea Hydro Care Lip Balm Spf15,20240413,health_products,False
+Morrisons,1.5,15.0,kg,Nutmeg Pure Cotton Wool Balls,20240413,health_products,True
+Morrisons,2.45,37.7,l,Sanex Dermo Invisible 24H Deodorant,20240413,health_products,False
+Morrisons,3.0,7.5,l,Sanex Men Sensitive Skin Body & Face Shower Gel,20240413,health_products,False
+Morrisons,3.0,15.0,l,Schwarzkopf Got2B Extra Fresh Dry Shampoo,20240413,health_products,False
+Morrisons,2.0,40.0,l,Sure Men Anti-perspirant Deodorant Ro…,20240413,health_products,False
+Morrisons,5.5,55.0,l,Veet Pure Hair Removal Cream Body…,20240413,health_products,False
+Morrisons,4.25,21.3,l,VO5 Mega Hold Gel Spray,20240413,health_products,False
+Morrisons,3.8,15.2,l,Wella Silvikrin Hairspray Natural Hold,20240413,health_products,False
+Morrisons,5.25,10.5,l,Listerine Total Care Stay White Mouthwash,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Excite Body Spray Deodorant,20240413,health_products,False
+Morrisons,6.0,15.0,l,Palmer's Cocoa Butter Lotion Pump,20240413,health_products,False
+Morrisons,7.5,50.0,l,Plantur 39 Conditioner,20240413,health_products,False
+Morrisons,2.5,33.3,l,Sensodyne Pronamel Mineral Boost Toot…,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Revitalised Colour Conditioner,20240413,health_products,False
+Morrisons,9.0,2.25,unit,Venus Smooth Razor Blades Refills 4 Pack,20240413,health_products,False
+Morrisons,4.25,21.3,l,VO5 Heat Protect Styling Spray,20240413,health_products,False
+Morrisons,9.0,1.13,unit,Always Discreet Underwear Incontine…,20240413,health_products,False
+Morrisons,2.0,13.3,l,Creightons Vitamin C Superf…,20240413,health_products,False
+Morrisons,4.0,16.0,l,Gillette Fusion 5 Ultra Sensitive Shaving Gel,20240413,health_products,False
+Morrisons,3.3,16.5,l,Mitchum Endurance Men Ice Fresh A…,20240413,health_products,False
+Morrisons,2.25,0.11,unit,Morrisons Medium Interspa…,20240413,health_products,True
+Morrisons,4.5,22.5,l,Morrisons SPF 30 Tanning & Pr…,20240413,health_products,True
+Morrisons,4.0,53.3,l,Neutrogena Fast Absorbing Hand Cream,20240413,health_products,False
+Morrisons,4.25,28.3,l,VO5 Rework Putty,20240413,health_products,False
+Morrisons,5.5,0.18,unit,Dulcoease Constipation Relief Laxative,20240413,health_products,False
+Morrisons,7.0,23.3,l,Aveeno Daily Moisturising Body Wash,20240413,health_products,False
+Morrisons,7.0,35.0,l,Aveeno Skin Relief Lotion,20240413,health_products,False
+Morrisons,3.3,22.0,l,Bulldog Original Face Wash,20240413,health_products,False
+Morrisons,2.32,15.5,l,Clean & Clear Deep Action Cream Wash,20240413,health_products,False
+Morrisons,3.97,11.3,l,Dove Daily Moisture Conditioner,20240413,health_products,False
+Morrisons,1.5,6.0,l,Imperial Leather Goddess Body Wash,20240413,health_products,False
+Morrisons,2.75,13.8,l,L'Oreal Elvive Hyaluronic Conditioner,20240413,health_products,False
+Morrisons,8.0,160.0,l,L'Oreal Men Expert Hydra Energeti…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Morrisons Sun Spray SPF50+,20240413,health_products,True
+Morrisons,5.0,66.7,l,Oral-B 3D Glamorous White Toothpaste,20240413,health_products,False
+Morrisons,10.0,40.0,l,Plantur 39 Shampoo,20240413,health_products,False
+Morrisons,1.75,8.8,l,Radox You'Ve Got This Shower Mousse,20240413,health_products,False
+Morrisons,4.25,56.7,l,VO5 Styling Wax,20240413,health_products,False
+Morrisons,4.25,21.3,l,VO5 Volume Boost Gel Spray,20240413,health_products,False
+Morrisons,4.4,44.0,l,Bulldog Sensitive Moisturiser,20240413,health_products,False
+Morrisons,2.0,13.3,l,Creightons Vitamin C Superfruit…,20240413,health_products,False
+Morrisons,3.0,6.7,l,Dove Bath Soak Renewing,20240413,health_products,False
+Morrisons,4.5,22.5,l,Dove Men + Care Advanced Antiperspi…,20240413,health_products,False
+Morrisons,4.6,30.7,l,NIVEA Refreshing Face Wash Gel,20240413,health_products,False
+Morrisons,5.5,110.0,l,NIVEA Tinted Day Cream for Light Skin Tone SPF15,20240413,health_products,False
+Morrisons,3.5,17.5,l,Pantene Styling Perfect Volume Mousse,20240413,health_products,False
+Morrisons,2.5,250.0,l,Peach Pure Tea Tree Oil,20240413,health_products,False
+Morrisons,7.0,2.33,unit,Venus Tropical Disposable Razors 3 Pack,20240413,health_products,False
+Morrisons,4.25,56.7,l,VO5 Matt Fibre Hair Paste,20240413,health_products,False
+Morrisons,8.5,2.83,unit,Wilkinson Sword Intuition Ultra Moi…,20240413,health_products,False
+Morrisons,6.5,0.1,unit,Clearasil Ultra Dual Action Pads,20240413,health_products,False
+Morrisons,5.0,16.7,l,Colgate Peroxyl Medicated Mint Mouthwash,20240413,health_products,False
+Morrisons,1.09,5.5,l,Creightons Sunshine Blonde Silver Conditioner,20240413,health_products,False
+Morrisons,6.5,1.63,unit,Deep Heat Well Patch,20240413,health_products,False
+Morrisons,6.0,24.0,l,John Frieda Highlight Activating for Blon…,20240413,health_products,False
+Morrisons,2.25,9.0,l,L'Oreal Paris Elvive Dream Length Shampoo,20240413,health_products,False
+Morrisons,3.3,16.5,l,Mitchum Invisible Men Pure Energy A…,20240413,health_products,False
+Morrisons,2.75,572.9,kg,NIVEA SUN Lip Balm SPF30,20240413,health_products,False
+Morrisons,5.0,625.0,l,Rimmel London Extra Super L…,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Hydrate & Purify Conditioner,20240413,health_products,False
+Morrisons,4.35,21.8,l,Batiste Dry Shampoo & Volume,20240413,health_products,False
+Morrisons,5.5,15.7,l,Batiste Tropical Dry Shampoo,20240413,health_products,False
+Morrisons,2.5,500.0,kg,Blistex Lipcare Intensive Moisuriser,20240413,health_products,False
+Morrisons,5.0,40.0,l,Colgate Max Fresh Cooling Crystals Toothpaste,20240413,health_products,False
+Morrisons,5.0,10.0,l,Colgate Total Advanced Plaque Protect Mouthwash,20240413,health_products,False
+Morrisons,4.5,0.28,unit,Feminax Express Ibuprofen Lysine 342mg Tablets,20240413,health_products,False
+Morrisons,2.0,0.5,unit,Gillet Simply Venus 2 Blades,20240413,health_products,False
+Morrisons,3.0,625.0,kg,Nivea Lip Balm Pearl & Shine,20240413,health_products,False
+Morrisons,5.0,100.0,l,NIVEA Moisturising Night Cream for Normal Skin,20240413,health_products,False
+Morrisons,1.25,8.3,l,Nutmeg Fragrance Free Cleansing Gel,20240413,health_products,True
+Morrisons,3.75,5.5,l,Tresemme Keratin Smooth Conditioner,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Keratin Smooth Shampoo,20240413,health_products,False
+Morrisons,4.0,8.0,l,Baylis & Harding Goodne…,20240413,health_products,False
+Morrisons,4.0,1.0,unit,Bic Soleil Scent 3 Blade Shaver,20240413,health_products,False
+Morrisons,5.0,66.7,l,Colgate Total Advanced Enam…,20240413,health_products,False
+Morrisons,7.5,1.5,unit,Gillette SensorExcel Razor Blades,20240413,health_products,False
+Morrisons,5.0,111.1,kg,Mitchum Ultimate 48 HR Protection…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Morrisons Kids Colored Sun Lotion SPF50+,20240413,health_products,True
+Morrisons,5.0,25.0,l,NIVEA 2-In-1 Cleanser & Toner for N…,20240413,health_products,False
+Morrisons,4.83,12.1,l,NIVEA Repair and Care Body Lo…,20240413,health_products,False
+Morrisons,3.75,9.4,l,Old Spice Shower Gel + Shampoo Captain,20240413,health_products,False
+Morrisons,5.0,25.0,l,Oraldene Antibacterial Mouthwash,20240413,health_products,False
+Morrisons,2.99,0.15,unit,Tena Lights Sensitive Ultra Incontinence Pads Mini,20240413,health_products,False
+Morrisons,4.5,11.3,l,VO5 Invisible Firm Hold Hairspray,20240413,health_products,False
+Morrisons,1.0,50.0,kg,7th Heaven Dead Sea Mud Mask,20240413,health_products,False
+Morrisons,1.7,23.0,l,B Blonde Maximum Lift Cream Peroxide,20240413,health_products,False
+Morrisons,4.25,17.0,l,Brylcreem Protein Enriche Hair Cream,20240413,health_products,False
+Morrisons,3.65,29.2,l,Bulldog Skincare For Men Original Face Scrub,20240413,health_products,False
+Morrisons,6.0,30.0,l,Calypso Once A Day Sun Protection SPF 30,20240413,health_products,False
+Morrisons,3.5,3.9,kg,Dove Salts Pouch Renewing,20240413,health_products,False
+Morrisons,8.5,21.3,l,Garnier Summer Body Milk Deep,20240413,health_products,False
+Morrisons,8.5,42.5,l,NIVEA SUN Kids & Babies Sensitive Pro…,20240413,health_products,False
+Morrisons,4.0,0.25,unit,Nurofen Pain Relief 256mg Caplets Ibuprofen,20240413,health_products,False
+Morrisons,2.5,625.0,kg,Palmer's Cocoa Butter Formula Lip B…,20240413,health_products,False
+Morrisons,4.0,16.0,l,Palmer's Coconut Oil Formula Body Lotion,20240413,health_products,False
+Morrisons,6.0,21.8,l,Pantene Miracles Silky & Glowing Conditioner,20240413,health_products,False
+Morrisons,3.0,10.0,l,Pantene Smooth & Sleek Keratin Hair M…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Schwarzkopf got2b Beach Matt Salt Spray,20240413,health_products,False
+Morrisons,4.5,450.0,kg,Schwarzkopf got2b Powderf…,20240413,health_products,False
+Morrisons,5.0,33.3,l,Simple Water Boost Micellar Wash,20240413,health_products,False
+Morrisons,8.5,0.85,unit,Tena Men Premium Fit Inco…,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Beauty-full Strength Conditioner,20240413,health_products,False
+Morrisons,11.0,3.67,unit,Venus & Olay Razor Blades Refills 3 Pack,20240413,health_products,False
+Morrisons,4.25,56.7,l,VO5 Matt Clay,20240413,health_products,False
+Morrisons,4.25,56.7,l,VO5 Texturising Gum,20240413,health_products,False
+Morrisons,4.6,1.15,unit,Wilkinson Sword Xtreme 3 Sensitiv…,20240413,health_products,False
+Morrisons,5.2,14.9,l,Batiste Blush Dry Shampoo,20240413,health_products,False
+Morrisons,7.5,18.8,l,Elnett Extra Strong Hairspray,20240413,health_products,False
+Morrisons,9.0,2.25,unit,Harry's 5 Blade Catridges,20240413,health_products,False
+Morrisons,1.6,3.2,l,Imperial Leather Goddess Bath Soak,20240413,health_products,False
+Morrisons,6.0,24.0,l,John Frieda Highlight Activating for Bl…,20240413,health_products,False
+Morrisons,6.0,34.09,kg,Lenor In-Wash Scent Booster Desert Rose,20240413,health_products,False
+Morrisons,4.5,1.13,unit,Morrisons Five Blade System Refills,20240413,health_products,True
+Morrisons,4.0,20.0,l,Morrisons Sun Lotion SPF30,20240413,health_products,True
+Morrisons,3.8,0.15,unit,NIVEA Biodegradable Sensitive…,20240413,health_products,False
+Morrisons,2.0,40.0,l,Nutmeg Tea Tree Mattifying Moisturiser,20240413,health_products,True
+Morrisons,4.0,20.0,l,Olay Refresh & Glow Cleanser Toner,20240413,health_products,False
+Morrisons,1.8,18.0,l,Palmolive Men Classic Shaving Foam,20240413,health_products,False
+Morrisons,4.0,500.0,l,Rimmel London 60 Seconds Super…,20240413,health_products,False
+Morrisons,7.5,625.0,l,Rimmel London Scandaleyes R…,20240413,health_products,False
+Morrisons,3.49,17.5,l,Schwarzkopf Keratin Heat Spray,20240413,health_products,False
+Morrisons,3.8,15.2,l,Silvikrin Flex Hairspray,20240413,health_products,False
+Morrisons,2.5,20.0,kg,Wilkinson Sword Shaving Soap,20240413,health_products,False
+Morrisons,5.25,70.0,l,Aveeno Hand Cream,20240413,health_products,False
+Morrisons,10.0,166.7,l,Bio-Oil Skincare Oil Helps Improve the Appea…,20240413,health_products,False
+Morrisons,3.0,20.0,l,Clean & Clear Morning Energy Scrub,20240413,health_products,False
+Morrisons,3.0,20.0,l,Clearasil Gentle Gel Wash,20240413,health_products,False
+Morrisons,3.5,3.9,kg,Dove Bath Salts Lavender & Ch…,20240413,health_products,False
+Morrisons,6.0,15.0,l,E45 Daily Fast Absorption Moisturiser Lotion,20240413,health_products,False
+Morrisons,5.0,66.7,l,Garnier Hand Repair Cream,20240413,health_products,False
+Morrisons,9.0,2.25,unit,Gillette Mach 3 Manual Blades,20240413,health_products,False
+Morrisons,5.0,100.0,l,Hyaluron Expert Day SPF 20,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Grapefruit & Tropical Pineappl…,20240413,health_products,False
+Morrisons,3.75,75.0,l,Neutrogena Norwegian Formula Hand Cream 50ml,20240413,health_products,False
+Morrisons,6.0,15.0,l,NIVEA MicellAIR Micellar Water for Sensitive Skin,20240413,health_products,False
+Morrisons,5.0,50.0,l,NIVEA Q10 Anti-Wrinkle 3 in 1 Hand Cream,20240413,health_products,False
+Morrisons,11.0,220.0,l,NIVEA Q10 Anti-Wrinkle Day Crea…,20240413,health_products,False
+Morrisons,5.0,100.0,l,Nivea Refreshing Day Cream…,20240413,health_products,False
+Morrisons,2.0,13.3,l,Nutmeg Fragrance Free Eye Make Up Remover,20240413,health_products,True
+Morrisons,8.0,20.8,l,Ogx Nourishing Coconut Milk Shampoo,20240413,health_products,False
+Morrisons,4.0,20.0,l,Olay Make-Up Foam Face Cream…,20240413,health_products,False
+Morrisons,9.5,63.3,l,Old Spice Body Spray After Shave Lotion,20240413,health_products,False
+Morrisons,6.0,21.8,l,Pantene Pro-V Lift&Volume Silic…,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Beauty-full Strength Shampoo,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Biotin Repair Conditioner,20240413,health_products,False
+Morrisons,4.0,20.0,l,Venus Satin Care Shaving Gel with Touch of Olay,20240413,health_products,False
+Morrisons,6.0,12.0,l,Aussie Miracle Moist Shampoo,20240413,health_products,False
+Morrisons,6.5,260.0,l,Clearasil Ultra Dual Action Treatment Cream,20240413,health_products,False
+Morrisons,4.0,10.0,l,Dove Daily Moisture Light Shampoo,20240413,health_products,False
+Morrisons,4.0,11.4,l,Dove Daily Moisturiser Light Conditioner,20240413,health_products,False
+Morrisons,5.0,12.5,l,Dove Essential Nourishing Body Lotion,20240413,health_products,False
+Morrisons,10.0,111.11,l,Jungle Formula Maximum Insect R…,20240413,health_products,False
+Morrisons,2.99,12.0,l,Keia Nourishing Body Wash Macadamia,20240413,health_products,False
+Morrisons,2.0,40.0,l,Morrisons Spf30 Mini Sun Lotion,20240413,health_products,True
+Morrisons,6.0,21.8,l,Pantene Miracles Hair Conditioner Grow Strong,20240413,health_products,False
+Morrisons,6.0,15.0,l,Pantene Miracles Shampoo Grow Strong,20240413,health_products,False
+Morrisons,7.0,35.0,l,Piz Buin Moisturising Sun Lotion SPF30,20240413,health_products,False
+Morrisons,4.5,11.3,l,Provoke Touch Of Silver Colour Care Shampoo,20240413,health_products,False
+Morrisons,3.0,7.5,l,Sanex Men Skin Health Active Fresh Shower Gel,20240413,health_products,False
+Morrisons,3.75,5.5,l,Tresemme Biotin Repair Shampoo,20240413,health_products,False
+Morrisons,4.0,53.3,l,Vaseline Hand Cream + Anti-Bacterial,20240413,health_products,False
+Morrisons,14.5,0.36,unit,Veet Expert Wax Strips Leg Sensitive,20240413,health_products,False
+Morrisons,11.0,2.75,unit,Venus Razor Blades Extra Smooth Blades,20240413,health_products,False
+Morrisons,4.25,21.3,l,VO5 Mega Hold Mousse,20240413,health_products,False
+Morrisons,3.8,38.0,l,Atrixo Enriched Moisturising Hand Cream,20240413,health_products,False
+Morrisons,6.5,86.7,l,Aveeno Skin Relief Moisturising Hand Cream,20240413,health_products,False
+Morrisons,6.0,60.0,l,Bulldog Anti-ageing Moisturiser,20240413,health_products,False
+Morrisons,5.0,25.0,l,Calypso Dry Oil Clear Protection SPF 30,20240413,health_products,False
+Morrisons,1.09,4.4,l,Creightons Argan Conditioner,20240413,health_products,False
+Morrisons,5.0,26.2,kg,Harry's Shave Foam With Aloe Gel,20240413,health_products,False
+Morrisons,2.5,12.5,l,Imperial Leather Foamburst Shower G…,20240413,health_products,False
+Morrisons,2.49,24.9,kg,Keia Nourishing Cleansing & S…,20240413,health_products,False
+Morrisons,2.99,12.0,l,Keia Soothing Body Wash Lavender,20240413,health_products,False
+Morrisons,12.99,259.8,l,L'Oreal Age Perfect Night Pot,20240413,health_products,False
+Morrisons,5.0,25.0,l,L'Oreal Age Perfect Toner,20240413,health_products,False
+Morrisons,4.75,47.5,l,L' Oreal Men Expert Hydra Energetic D…,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Bodyspray Gold,20240413,health_products,False
+Morrisons,2.35,489.6,kg,Nivea Cherry Shine Lip Balm,20240413,health_products,False
+Morrisons,6.0,80.0,l,NIVEA MEN Sensitive Moisturiser,20240413,health_products,False
+Morrisons,7.0,70.0,l,NIVEA MEN Sensitive Post Shave Balm,20240413,health_products,False
+Morrisons,13.0,260.0,l,NIVEA Q10 Anti-Wrinkle Night Cream All Skin Types,20240413,health_products,False
+Morrisons,5.0,33.3,l,NIVEA Refreshing Exfoliating…,20240413,health_products,False
+Morrisons,8.0,160.0,l,NIVEA SUN Soothing Sensitive…,20240413,health_products,False
+Morrisons,7.0,35.0,l,Olay Beauty Face & Body Fluid Normal/Dry Combo,20240413,health_products,False
+Morrisons,2.5,625.0,kg,Palmer's Coconut Oil Lip Balm SPF 15,20240413,health_products,False
+Morrisons,3.5,14.0,l,Pantene Max Volume Hair Spray,20240413,health_products,False
+Morrisons,6.0,15.0,l,Pantene Miracles Silky & Glowing Shampoo,20240413,health_products,False
+Morrisons,6.0,15.0,l,Pantene Pro-V Lift & Volume Shampoo,20240413,health_products,False
+Morrisons,4.5,11.3,l,Provoke Touch Of Silver Colour Care Conditioner,20240413,health_products,False
+Morrisons,4.0,500.0,l,Rimmel London 60 Seconds Super Shine Na…,20240413,health_products,False
+Morrisons,4.0,500.0,l,Rimmel London 60 Seconds Supers…,20240413,health_products,False
+Morrisons,3.0,40.0,l,Root Perfect Instant Root Con…,20240413,health_products,False
+Morrisons,2.25,22.5,l,Schwarzkopf Got2B Glued Blasting Freeze Spray,20240413,health_products,False
+Morrisons,7.0,175.0,l,Simple Triple Protect Moisturiser…,20240413,health_products,False
+Morrisons,3.35,0.34,unit,Totm Organic Cotton Super Flow Pads,20240413,health_products,False
+Morrisons,13.0,0.33,unit,"Veet Wax Strips Face for Sensitive Skin, Wax Strips",20240413,health_products,False
+Morrisons,15.0,30.0,l,Aveeno Cream,20240413,health_products,False
+Morrisons,7.75,38.8,l,Aveeno Daily Care Spray,20240413,health_products,False
+Morrisons,8.0,26.7,l,Aveeno Skin Relief Moisturising Body Wash,20240413,health_products,False
+Morrisons,3.5,70.0,l,Calypso Sun Protection Scalp Protection Spf30,20240413,health_products,False
+Morrisons,6.0,1.5,unit,Colgate 360 Deep Clean Soft Toothbrush,20240413,health_products,False
+Morrisons,8.5,42.5,l,Dove Derma Lotion Summer Rev Fair,20240413,health_products,False
+Morrisons,8.0,20.5,l,Garnier Ultimate Blends Hair Food Papa…,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Nourish…,20240413,health_products,False
+Morrisons,16.0,4.0,unit,Gillette Fusion 5 ProGlide Razors For…,20240413,health_products,False
+Morrisons,10.0,80.0,l,Jungle Formula Insect Rep…,20240413,health_products,False
+Morrisons,9.0,76.3,l,Just For Men Control Gx Grey Reduci…,20240413,health_products,False
+Morrisons,3.49,14.0,l,Keia Energising Body Wash Ginger,20240413,health_products,False
+Morrisons,3.9,15.6,l,Keia Softening Shampoo Coconut Oil,20240413,health_products,False
+Morrisons,1.6,0.16,unit,Lil-Lets Teens Night Pads With Wings,20240413,health_products,False
+Morrisons,5.0,50.0,l,L' Oreal Men Expert Pure Charcoal Wash,20240413,health_products,False
+Morrisons,13.0,260.0,l,L'Oreal Revitalift Day Cream SPF 30,20240413,health_products,False
+Morrisons,2.0,4.4,l,Matey Arlo Bubble Bath,20240413,health_products,False
+Morrisons,2.0,4.4,l,Matey Hamina Bubble Bath,20240413,health_products,False
+Morrisons,9.0,2.25,unit,Morrisons Perfect Angle Electric Re…,20240413,health_products,True
+Morrisons,9.0,23.4,l,Ogx Damage Remedy + Coconut M…,20240413,health_products,False
+Morrisons,8.0,20.8,l,Ogx Thick & Full Biotin & Collagen Shampoo,20240413,health_products,False
+Morrisons,7.0,35.0,l,Olay Beauty Face & Body Fluid Sensitive,20240413,health_products,False
+Morrisons,25.0,3.13,unit,Oral-B Precision Cleaner Teeth Refills,20240413,health_products,False
+Morrisons,6.0,80.0,l,Oral-B Pro-Expert Advanced Scie…,20240413,health_products,False
+Morrisons,4.5,22.5,l,Provoke Touch Of Silver Brightening Shampoo,20240413,health_products,False
+Morrisons,4.0,500.0,l,Rimmel London 60 Seconds Super Shine…,20240413,health_products,False
+Morrisons,4.0,500.0,l,Rimmel London 60 Seconds Super Shin…,20240413,health_products,False
+Morrisons,7.0,583.0,l,Rimmel London Super Gel Nail Polish Grape Sorbet,20240413,health_products,False
+Morrisons,3.0,40.0,l,Root Perfect Instant Root Conce…,20240413,health_products,False
+Morrisons,4.5,45.0,l,Schwarzkopf got2b Pheno…,20240413,health_products,False
+Morrisons,5.5,27.5,l,Tresemme Heat Protect Spray,20240413,health_products,False
+Morrisons,4.25,21.3,l,VO5 Smoothly Does It Curl Defining Mousse,20240413,health_products,False
+Morrisons,10.5,2.63,unit,Wilkinson Sword Hydro 5 Men's Razor Blades,20240413,health_products,False
+Morrisons,10.0,666.7,kg,Acnecide Face 5% W/W Gel,20240413,health_products,False
+Morrisons,2.25,0.28,unit,Always Platinum Night (Size 3) Sa…,20240413,health_products,False
+Morrisons,8.0,1.33,unit,Biore Ultra Deep Cleansing Pore Strips,20240413,health_products,False
+Morrisons,7.0,70.0,l,Brut After Shave,20240413,health_products,False
+Morrisons,4.0,20.0,l,Brut Splash On Lotion,20240413,health_products,False
+Morrisons,5.0,25.0,l,Calypso Sun Protection Deep Tanning…,20240413,health_products,False
+Morrisons,8.0,20.0,l,Dove Pro Age Nourishing Body Cream,20240413,health_products,False
+Morrisons,8.0,20.5,l,Garnier Ultimate Blends Hair Food Co…,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Ha…,20240413,health_products,False
+Morrisons,17.99,2.25,unit,Gillette SkinGuard Sensitive Razors F…,20240413,health_products,False
+Morrisons,6.99,2.33,unit,Gillette Venus Sensitive Disposable Razors,20240413,health_products,False
+Morrisons,4.5,11.3,l,Herbal Essences Bio Renew Grapefruit…,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Sheer Blonde Colour Renew Conditioner,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Sheer Blonde Go Blonder Shampoo,20240413,health_products,False
+Morrisons,5.0,25.0,l,L'Oreal Dermo Expertise Age Perfect Cleanser,20240413,health_products,False
+Morrisons,6.5,130.0,l,L'Oreal Triple Active Day Cream,20240413,health_products,False
+Morrisons,4.5,22.5,l,Morrisons Kids Sensitive Sun Spray Spf50+,20240413,health_products,True
+Morrisons,4.0,26.7,l,Morrisons Sun Oil Spray SPF15,20240413,health_products,True
+Morrisons,4.6,23.0,l,Nivea Derma Dry Control Max A…,20240413,health_products,False
+Morrisons,5.5,27.5,l,NIVEA SUN After Sun Moisturisin…,20240413,health_products,False
+Morrisons,8.0,20.8,l,Ogx Thick & Full Biotin & Collagen Conditioner,20240413,health_products,False
+Morrisons,13.99,279.8,l,Olay Anti Wrinkle Night Moisturiser Cream,20240413,health_products,False
+Morrisons,4.3,17.2,l,Palmer's Cocoa Butter Fragrance Free Lotion,20240413,health_products,False
+Morrisons,6.29,25.2,l,Palmer's Coconut Oil Formul…,20240413,health_products,False
+Morrisons,7.0,35.0,l,Piz Buin Lotion Spf15,20240413,health_products,False
+Morrisons,6.0,200.0,l,Rimmel London Lasting Finish Primer,20240413,health_products,False
+Morrisons,4.5,45.0,l,Schwarzkopf got2b Beach Matt Paste,20240413,health_products,False
+Morrisons,4.5,60.0,l,Schwarzkopf got2b iStyler Texture Clay,20240413,health_products,False
+Morrisons,7.0,140.0,l,Simple Rest & Reset 72H Hydrati…,20240413,health_products,False
+Morrisons,3.35,0.34,unit,Totm Organic Cotton Medium Flow Pads,20240413,health_products,False
+Morrisons,14.5,0.36,unit,Veet Expert Wax Strips Face Sensitive,20240413,health_products,False
+Morrisons,4.25,85.0,l,VO5 Heat Protect Serum,20240413,health_products,False
+Morrisons,4.25,21.3,l,VO5 Mega Hold Styling Gel,20240413,health_products,False
+Morrisons,4.25,42.5,l,VO5 Tame & Shine Spray Finishing Spray,20240413,health_products,False
+Morrisons,6.0,12.0,l,Aussie Mega Shampoo,20240413,health_products,False
+Morrisons,5.0,25.0,l,Biore Deep Pore Charcoal Cleanser,20240413,health_products,False
+Morrisons,3.0,810.8,kg,Blistex Lip Infusions Hydration Spf 15,20240413,health_products,False
+Morrisons,4.5,1059.0,kg,Burt's Bees Ultra Conditioning Lip Balm,20240413,health_products,False
+Morrisons,6.5,43.3,l,Clearasil Ultra Rapid Action Gel Wash,20240413,health_products,False
+Morrisons,12.0,160.0,l,Colgate Max White Expert + Anti-Stain Toothpaste,20240413,health_products,False
+Morrisons,2.0,26.7,l,Creightons Salicylic Acid Soothing Gel Lotion,20240413,health_products,False
+Morrisons,3.0,100.0,l,Creightons Vitamin C Superfru…,20240413,health_products,False
+Morrisons,2.0,26.7,l,Creightons Vitamin C Superfruits Skin…,20240413,health_products,False
+Morrisons,8.5,42.5,l,Dove Derma Lotion Summer Rev Dark,20240413,health_products,False
+Morrisons,4.5,45.0,kg,Eco Warrior Clear Skin Charcoal Soap Bar,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Hair…,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Hair F…,20240413,health_products,False
+Morrisons,5.0,250.0,l,Garnier Vitamin C Wash,20240413,health_products,False
+Morrisons,20.24,2.53,unit,Gillette Fusion 5 Power Razors For…,20240413,health_products,False
+Morrisons,4.0,20.0,l,Gillette Fusion 5 Ultra Moisturising Shaving Gel,20240413,health_products,False
+Morrisons,8.0,2.67,unit,Gillette Mach3 Disposable Razors 3 Pack,20240413,health_products,False
+Morrisons,9.5,1.19,unit,Gillette Sensor 3 Comfort Disposable Razors 8 pack,20240413,health_products,False
+Morrisons,8.0,32.0,l,John Frieda Violet Crush For Blonde…,20240413,health_products,False
+Morrisons,2.49,24.9,kg,Keia Energising Cleansing & Scrub Body Bar Ginger,20240413,health_products,False
+Morrisons,3.9,78.0,l,Keia Hydrating Face Mist,20240413,health_products,False
+Morrisons,4.65,46.5,l,Keia Soothing Pillow Mist,20240413,health_products,False
+Morrisons,22.5,750.0,l,L'Air Du Temps Edition Spray,20240413,health_products,False
+Morrisons,12.99,259.8,l,L'Oreal Age Perfect Day Cream,20240413,health_products,False
+Morrisons,4.75,47.5,l,L' Oreal Men Expert Hydra Energetic Wash,20240413,health_products,False
+Morrisons,12.0,240.0,l,L'Oreal Men Expert Vita Lift 5 Moisture,20240413,health_products,False
+Morrisons,10.0,200.0,l,L'Oreal Paris Wrinkle Expert Anti-Wrink…,20240413,health_products,False
+Morrisons,6.5,130.0,l,L'Oreal Triple Active Day Sensitive,20240413,health_products,False
+Morrisons,7.5,150.0,l,L'Oreal Triple Active Night Cream,20240413,health_products,False
+Morrisons,10.0,200.0,l,L'Oreal Wrinkle Expert Fortifying Care Day 65+,20240413,health_products,False
+Morrisons,4.0,26.7,l,Lynx Epic Fresh Grapefruit & Tropical Pineapple,20240413,health_products,False
+Morrisons,3.0,15.0,l,Morrisons After Sun Spray,20240413,health_products,True
+Morrisons,7.0,17.5,l,NIVEA Energy Micellar Water Make…,20240413,health_products,False
+Morrisons,5.0,40.0,l,NIVEA Glow Shake-It Eye Make-Up Remover,20240413,health_products,False
+Morrisons,5.5,110.0,l,NIVEA Mattifying Day Crea…,20240413,health_products,False
+Morrisons,6.0,60.0,l,NIVEA MEN Sensitive Face Wash,20240413,health_products,False
+Morrisons,5.0,100.0,l,NIVEA Refreshing Day Cream…,20240413,health_products,False
+Morrisons,7.0,18.2,l,Ogx Brazillian Keratin Smooth Shampoo,20240413,health_products,False
+Morrisons,8.0,20.8,l,Ogx Nourishing Coconut Milk Conditioner,20240413,health_products,False
+Morrisons,6.0,80.0,l,Oral-B Pro-Expert Advanced Science…,20240413,health_products,False
+Morrisons,5.0,100.0,l,Organic Children Spearmint & Aloe Ver…,20240413,health_products,False
+Morrisons,4.5,11.3,l,Palmer's Cocoa Butter Biotin Leng…,20240413,health_products,False
+Morrisons,5.0,12.5,l,Palmer's Cocoa Butter Formula Bioti…,20240413,health_products,False
+Morrisons,9.0,45.0,l,Piz Buin Allergy Sun Sensitive…,20240413,health_products,False
+Morrisons,7.0,35.0,l,Piz Buin Tan Intensifier,20240413,health_products,False
+Morrisons,5.0,769.0,l,Rimmel London Oh My Gloss!…,20240413,health_products,False
+Morrisons,3.0,40.0,l,Root Perfect Instant Root Concealer Spray Black,20240413,health_products,False
+Morrisons,2.99,0.19,unit,Tena Lights Sensitive Ultra Incontinence Pads Normal,20240413,health_products,False
+Morrisons,3.0,10.0,l,Timotei Hydrating Conditioner,20240413,health_products,False
+Morrisons,3.2,0.2,unit,Totm Organic Cotton Appli…,20240413,health_products,False
+Morrisons,3.2,0.23,unit,Totm Organic Cotton Applicator Tampons Super,20240413,health_products,False
+Morrisons,4.0,40.0,l,Vaseline Lotion Dark Spot Rescue,20240413,health_products,False
+Morrisons,4.25,21.3,l,Vo5 Volume Blow Dry Hair Spray,20240413,health_products,False
+Morrisons,3.5,3.5,kg,Westlab Sleep Bath Salts,20240413,health_products,False
+Morrisons,3.99,8.0,l,Aquafresh Complete Protection Mouthwash,20240413,health_products,False
+Morrisons,4.5,22.5,l,Batiste Naturally Bamboo Gardenia Dry Shampoo,20240413,health_products,False
+Morrisons,9.95,9.9,kg,BetterYou Magnesium Sleep Flakes,20240413,health_products,False
+Morrisons,4.5,1059.0,kg,Burt's Bees Beeswax Lip Balm,20240413,health_products,False
+Morrisons,14.5,290.0,kg,Cetaphil Daily Defence Moisturiser Spf 50+ Uva,20240413,health_products,False
+Morrisons,10.0,42.4,l,Cetaphil Gentle Skin Cleanser,20240413,health_products,False
+Morrisons,10.0,42.4,l,Cetaphil Oily Skin Cleanser,20240413,health_products,False
+Morrisons,6.0,40.0,l,Clearasil Multi Action 5in1 Exfoliating Scrub,20240413,health_products,False
+Morrisons,8.0,106.7,l,Colgate Max White Ultra Fresh Pearl…,20240413,health_products,False
+Morrisons,2.0,13.3,l,Creightons Frizz No More Instant…,20240413,health_products,False
+Morrisons,1.09,4.4,l,Creightons Pro Keratin Conditioner,20240413,health_products,False
+Morrisons,4.0,53.3,l,Dove Essential Nourish Hand Cream,20240413,health_products,False
+Morrisons,6.0,24.0,l,Dove Pro Age Nourishing Body Butter,20240413,health_products,False
+Morrisons,8.0,20.0,l,Dove Spf 15 Body Lotion,20240413,health_products,False
+Morrisons,5.0,12.5,l,Garnier Repair Body Moisturiser,20240413,health_products,False
+Morrisons,8.0,20.5,l,Garnier Ultimate Blends Hair Food…,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Hai…,20240413,health_products,False
+Morrisons,8.0,20.0,l,Garnier Ultimate Blends Hair Food Pineapple Mask,20240413,health_products,False
+Morrisons,8.0,1.0,unit,Gillette Blue 3 Smooth Disposable Razors 8 pack,20240413,health_products,False
+Morrisons,19.99,5.0,unit,Gillette Labs Razor Blades Refill Cartridges,20240413,health_products,False
+Morrisons,11.0,3.67,unit,Gillette Venus Extra Smooth S…,20240413,health_products,False
+Morrisons,17.0,2.13,unit,Harry's 5 Blade Cartridges,20240413,health_products,False
+Morrisons,4.5,11.3,l,Herbal Essences Bio Renew Bou…,20240413,health_products,False
+Morrisons,6.0,15.8,l,Herbal Essences Bio Renew Pot…,20240413,health_products,False
+Morrisons,6.0,21.8,l,Herbal Essences Bio Renew Potent…,20240413,health_products,False
+Morrisons,3.0,10.0,l,Herbal Essences Hello Hydration Mask,20240413,health_products,False
+Morrisons,5.0,25.0,l,Imperial Leather Foamburst Wh…,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Sheer Blonde Go Blond…,20240413,health_products,False
+Morrisons,7.75,129.2,l,Just for Men for Natural Medium Brown Hair Colour,20240413,health_products,False
+Morrisons,3.49,17.5,l,Keia Energising Shower Oil Ginger,20240413,health_products,False
+Morrisons,3.65,56.2,kg,Keia Hydrating Face Cleansing Bar,20240413,health_products,False
+Morrisons,4.65,23.3,l,Keia Nourishing Body Butter Macadamia,20240413,health_products,False
+Morrisons,3.9,15.6,l,Keia Repairing Shampoo Orchid Extract,20240413,health_products,False
+Morrisons,3.9,15.6,l,Keia Softening Conditioner Coconut Oil,20240413,health_products,False
+Morrisons,4.65,23.3,l,Keia Soothing Body Butter Lavender,20240413,health_products,False
+Morrisons,4.15,41.5,l,Keia Soothing Body Mist Lavender,20240413,health_products,False
+Morrisons,2.99,12.0,l,Keia Soothing Bubble Bath Lavender,20240413,health_products,False
+Morrisons,10.0,100.0,l,King C Gillette Soft Beard Balm,20240413,health_products,False
+Morrisons,12.99,866.0,l,L'Oreal Age Perfect Eye Cream,20240413,health_products,False
+Morrisons,5.0,100.0,l,L'Oreal Hyaluron Expert Night Cream Mask,20240413,health_products,False
+Morrisons,10.0,200.0,l,L'Oreal Paris Anti-Wrinkle Expert Cream 35+,20240413,health_products,False
+Morrisons,25.0,833.3,l,L'Oreal Paris Revitalift Filler Anti-Wrinkle Serum,20240413,health_products,False
+Morrisons,8.0,160.0,l,L'Oreal Pure Clay Glow Mask,20240413,health_products,False
+Morrisons,5.0,20.0,l,Lynx Collision Body Spray,20240413,health_products,False
+Morrisons,5.0,25.0,l,Malibu SPF 30 Lotion Spray,20240413,health_products,False
+Morrisons,4.5,0.9,unit,Morrisons Five Blades Cartridges,20240413,health_products,True
+Morrisons,6.2,41.3,l,Neutrogena Clear & Soothe Mousse Cleanser,20240413,health_products,False
+Morrisons,4.6,18.4,l,NIVEA Express Hydration Body…,20240413,health_products,False
+Morrisons,4.5,30.0,l,NIVEA Gentle Cream Face Wash for Dry Skin,20240413,health_products,False
+Morrisons,15.99,319.8,l,NIVEA Q10 Anti-Wrinkle Night Cr…,20240413,health_products,False
+Morrisons,7.0,140.0,l,NIVEA SUN Kids Protect & Care S…,20240413,health_products,False
+Morrisons,8.5,42.5,l,NIVEA SUN Protect & Bronze…,20240413,health_products,False
+Morrisons,9.0,23.4,l,Ogx Damage Remedy + Cocon…,20240413,health_products,False
+Morrisons,8.0,20.8,l,Ogx Renewing Argan Oil Of Morocca Shampoo,20240413,health_products,False
+Morrisons,13.99,279.8,l,Olay Anti-Wrinkle 2 In 1 Day Mo…,20240413,health_products,False
+Morrisons,8.0,106.7,l,Oral-B Densify Daily Prot…,20240413,health_products,False
+Morrisons,5.0,100.0,l,Organic Children Mandarin & Aloe Ve…,20240413,health_products,False
+Morrisons,6.0,21.8,l,Pantene Color Pro-V Miracles Hair Conditioner,20240413,health_products,False
+Morrisons,2.5,11.4,l,Pantene Repair & Protect Miracle Serum,20240413,health_products,False
+Morrisons,2.5,11.4,l,Pantene Smooth & Sleek Miracle Serum,20240413,health_products,False
+Morrisons,7.99,79.9,l,Pantene Smooth and Sleek Hair Oil…,20240413,health_products,False
+Morrisons,9.0,180.0,l,Piz Buin Allergy Sun Sensitive Skin F…,20240413,health_products,False
+Morrisons,12.0,120.0,l,Police Men Original EDT Spray,20240413,health_products,False
+Morrisons,1.7,6.8,l,Right Guard Total Defence 5 Sport Anti-Perspirant,20240413,health_products,False
+Morrisons,6.0,2400.0,l,Rimmel London Exaggerate Li…,20240413,health_products,False
+Morrisons,10.0,333.0,l,Rimmel London Lasting Finish 25HR F…,20240413,health_products,False
+Morrisons,7.0,583.0,l,Rimmel London Super Gel Nail Polish Top Coat,20240413,health_products,False
+Morrisons,11.0,1000.0,l,Rimmel London WonderLuxe…,20240413,health_products,False
+Morrisons,5.5,27.5,l,Schwarzkopf Got2B Phenomena…,20240413,health_products,False
+Morrisons,3.65,48.7,l,September Body Nourishing…,20240413,health_products,False
+Morrisons,6.0,120.0,l,September Skin Daily Hydratin…,20240413,health_products,False
+Morrisons,5.0,33.3,l,So Unique Vanilla Candy Body Mist,20240413,health_products,False
+Morrisons,10.0,66.67,l,Veet Expert Spray On Cream Sensitive,20240413,health_products,False
+Morrisons,8.5,56.7,l,Veet In Shower Hair Removal Cream Bod…,20240413,health_products,False
+Morrisons,2.0,13.3,l,Vosene Kids Defence Conditioning Spray,20240413,health_products,False
+Morrisons,2.5,192.3,kg,7th Heaven Super Food 24Hr Hydratio…,20240413,health_products,False
+Morrisons,10.0,200.0,kg,Acnecide Face Wash 5% W/W Gel,20240413,health_products,False
+Morrisons,8.5,28.3,l,Aveeno Daily Moisturising Creamy Oil,20240413,health_products,False
+Morrisons,4.5,22.5,l,Batiste Overnight Deep Cleanse Dry Shampoo,20240413,health_products,False
+Morrisons,9.95,9.9,kg,BetterYou Magnesium Muscle Flakes,20240413,health_products,False
+Morrisons,8.0,2.0,unit,Bulldog Skincare For Men Original Steel Blades,20240413,health_products,False
+Morrisons,21.0,700.0,l,Burberry Touch For Men Eau De Toilette Spray,20240413,health_products,False
+Morrisons,7.0,411.8,kg,Burt's Bees Beeswax & Vanilla 2 Pack Lip Balm,20240413,health_products,False
+Morrisons,12.0,160.0,l,Colgate Max White Expert Comple…,20240413,health_products,False
+Morrisons,10.0,42.6,kg,Colourless Max Effect Colour Remover,20240413,health_products,False
+Morrisons,11.0,73.3,l,Dove Gradual Self Tan Body…,20240413,health_products,False
+Morrisons,6.8,13.6,l,Elvive Colour Protect Shamp…,20240413,health_products,False
+Morrisons,6.8,13.6,l,Elvive Dream Lengths Shampo…,20240413,health_products,False
+Morrisons,13.0,433.3,l,Garnier Aloe Hyaluronic Acid Serum,20240413,health_products,False
+Morrisons,10.0,26.3,l,Garnier Body Superfood Avocado,20240413,health_products,False
+Morrisons,10.0,26.3,l,Garnier Body Superfood Cocoa,20240413,health_products,False
+Morrisons,10.0,200.0,l,Garnier Skin Active Vitamin C Serum Cream,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Pineapple…,20240413,health_products,False
+Morrisons,6.0,17.1,l,Garnier Ultimate Blends Pinea…,20240413,health_products,False
+Morrisons,12.0,400.0,l,Garnier Vitamin C Serum,20240413,health_products,False
+Morrisons,27.0,2.45,unit,Gillette Fusion Razor Blades Refill,20240413,health_products,False
+Morrisons,21.0,1.75,unit,Gillette Mach 3 Razor Blades 12 Pack,20240413,health_products,False
+Morrisons,4.5,30.0,l,Got2b Ultra Glued Styling Gel,20240413,health_products,False
+Morrisons,6.0,15.0,l,Head & Shoulders Deep Clean…,20240413,health_products,False
+Morrisons,6.0,15.0,l,Head and Shoulders Men Ultra Total Care…,20240413,health_products,False
+Morrisons,2.5,12.5,l,Imperial Leather Foamburst Shower…,20240413,health_products,False
+Morrisons,4.5,60.0,l,Jerome Russell B Blonde Maxim…,20240413,health_products,False
+Morrisons,7.0,28.0,l,John Frieda Sheer Blonde Colour Renew Shampoo,20240413,health_products,False
+Morrisons,5.0,166.7,l,Jolen Creme Bleach Mild,20240413,health_products,False
+Morrisons,2.99,12.0,l,Keia Energising Bubble Bath Ginger,20240413,health_products,False
+Morrisons,3.9,60.0,kg,Keia Moisturising Shampoo Bar Argan Oil,20240413,health_products,False
+Morrisons,2.99,12.0,l,Keia Nourishing Bubble Bath Macadamia,20240413,health_products,False
+Morrisons,3.49,17.5,l,Keia Nourishing Shower Oil Macadamia,20240413,health_products,False
+Morrisons,3.9,15.6,l,Keia Repairing Conditioner Orchid Extract,20240413,health_products,False

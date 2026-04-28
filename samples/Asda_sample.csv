@@ -1,0 +1,2001 @@
+supermarket,prices_(£),prices_unit_(£),unit,names,date,category,own_brand
+ASDA,4.75,19.8,kg,Tassimo Cadbury Hot Chocolate Pods x 8,20240413,drinks,False
+ASDA,2.0,26.7,kg,Taylors of Harrogate Hot Lava Java Coffee Bags,20240413,drinks,False
+ASDA,5.0,20.8,kg,Tassimo Limited Edition Cadbury Orange Hot Chocolate Pods x8,20240413,drinks,False
+ASDA,3.5,15.4,kg,ASDA Extra Special Brazilian Ground Coffee,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Espresso Coffee Beans,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Kenyan Ground Coffee,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Colombian Fairtrade Ground Coffee,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Colombian Fairtrade Coffee Beans,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Ethiopian Fairtrade Ground Coffee,20240413,drinks,True
+ASDA,5.9,29.5,kg,Kenco Decaff Instant Coffee,20240413,drinks,False
+ASDA,5.9,29.5,kg,Kenco Smooth Instant Coffee,20240413,drinks,False
+ASDA,5.9,29.5,kg,Kenco Rich Instant Coffee,20240413,drinks,False
+ASDA,3.7,14.8,kg,Lavazza Qualità Rossa Ground Coffee,20240413,drinks,False
+ASDA,3.5,15.4,kg,ASDA Extra Special Southern Indian Roast & Ground Coffee,20240413,drinks,True
+ASDA,2.95,29.5,kg,ASDA Extra Special Colombian Instant Coffee,20240413,drinks,True
+ASDA,4.5,22.5,kg,Nescafe Original Instant Coffee,20240413,drinks,False
+ASDA,3.75,15.0,kg,Lavazza Qualita Rossa Coffee Beans,20240413,drinks,False
+ASDA,3.75,15.0,kg,Lavazza Qualità Oro Ground Coffee,20240413,drinks,False
+ASDA,6.65,26.6,kg,Illy Espresso Roast Ground Coffee,20240413,drinks,False
+ASDA,2.3,23.0,kg,Mellow Bird's Instant Coffee Powder,20240413,drinks,False
+ASDA,3.75,15.0,kg,Lavazza Caffè Espresso Coffee Beans,20240413,drinks,False
+ASDA,3.5,15.4,kg,ASDA Extra Special Javan Volcanic Island Ground Coffee,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Javan Volcanic Island Coffee Beans,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Fairtrade Peruvian Roast & Ground Coffee,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Fairtrade Organic Nicaraguan Ground Coffee,20240413,drinks,True
+ASDA,3.08,15.4,kg,ASDA Gold Roast Instant Coffee,20240413,drinks,True
+ASDA,6.8,45.3,kg,L'OR Classique Instant Coffee,20240413,drinks,False
+ASDA,5.5,27.5,kg,Nescafe Gold Blend Instant Coffee,20240413,drinks,False
+ASDA,3.7,14.8,kg,Lavazza Crema e Gusto Ground Coffee,20240413,drinks,False
+ASDA,7.5,50.0,kg,L'OR Intense Instant Coffee,20240413,drinks,False
+ASDA,6.8,45.3,kg,L'OR Decafeine Instant Coffee,20240413,drinks,False
+ASDA,6.65,26.6,kg,Illy Espresso Medium Roast Ground Coffee,20240413,drinks,False
+ASDA,4.75,31.7,kg,Kenco Smooth Instant Coffee Refill,20240413,drinks,False
+ASDA,6.65,26.6,kg,"Illy Coffee Beans, Espresso, Classico Roast",20240413,drinks,False
+ASDA,4.75,31.7,kg,Kenco Rich Instant Coffee Refill,20240413,drinks,False
+ASDA,4.5,22.5,kg,Nescafe Original Decaff Instant Coffee,20240413,drinks,False
+ASDA,4.75,31.7,kg,Kenco Decaff Instant Coffee Refill,20240413,drinks,False
+ASDA,3.5,15.4,kg,ASDA Extra Special Decaffeinated Colombian Roast & Ground Coffee,20240413,drinks,True
+ASDA,4.35,21.7,kg,Taylors of Harrogate Hot Lava Java Ground Roast Coffee 200g,20240413,drinks,False
+ASDA,5.5,27.5,kg,Nescafe Gold Blend Decaff Instant Coffee,20240413,drinks,False
+ASDA,7.1,23.7,kg,Nescafé Original Decaff Instant Coffee,20240413,drinks,False
+ASDA,6.0,66.7,kg,Nescafe Azera Americano Instant Coffee,20240413,drinks,False
+ASDA,6.25,36.8,kg,Kenco Millicano Americano Original Instant Coffee,20240413,drinks,False
+ASDA,4.4,22.0,kg,Starbucks House Blend Medium Roast Ground Coffee,20240413,drinks,False
+ASDA,6.5,34.2,kg,Nescafe Gold Blend Alta Rica Instant Coffee,20240413,drinks,False
+ASDA,7.25,36.2,kg,Nescafe Gold Blend Smooth Instant Coffee,20240413,drinks,False
+ASDA,6.75,35.5,kg,Douwe Egberts Pure Gold Medium Roast Instant Coffee,20240413,drinks,False
+ASDA,6.0,66.7,kg,Nescafe Azera Intenso Instant Coffee,20240413,drinks,False
+ASDA,5.9,31.1,kg,Kenco Gold Indulgence Instant Coffee 195g,20240413,drinks,False
+ASDA,7.25,36.2,kg,Nescafe Gold Blend Intense Instant Coffee,20240413,drinks,False
+ASDA,4.0,40.0,kg,Kenco Millicano Americano Decaff Instant Coffee,20240413,drinks,False
+ASDA,4.0,42.1,kg,Kenco Millicano Americano Intense Instant Coffee,20240413,drinks,False
+ASDA,2.0,26.7,kg,Taylors of Harrogate Decaffé Coffee Bags 10 Enveloped Bags,20240413,drinks,False
+ASDA,5.0,52.6,kg,Nescafe Gold Blend Espresso Instant Coffee,20240413,drinks,False
+ASDA,2.0,8.0,kg,Lancashire Tea 80 Tea Bags,20240413,drinks,False
+ASDA,6.75,35.5,kg,Douwe Egberts Pure Indulgence Dark Roast Instant Coffee,20240413,drinks,False
+ASDA,4.75,158.3,kg,Pukka Organic Supreme Matcha Green 20 Green Tea Sachets,20240413,drinks,False
+ASDA,4.75,131.9,kg,Pukka Organic Turmeric Active 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,4.4,22.0,kg,Starbucks Blonde Espresso Roast Whole Bean Coffee Bag,20240413,drinks,False
+ASDA,4.4,22.0,kg,Starbucks Single Origin Colombia Medium Roast Ground Coffee,20240413,drinks,False
+ASDA,5.8,11.6,kg,Taylors of Harrogate Yorkshire Tea 160 Tea Bags,20240413,drinks,False
+ASDA,6.3,8.4,kg,Taylors of Harrogate Yorkshire Tea 240 Tea Bags,20240413,drinks,False
+ASDA,4.0,20.0,kg,Costa Coffee Mocha Italia Signature Blend Ground for Cafetiere & Filter,20240413,drinks,False
+ASDA,2.5,12.5,kg,ASDA Rich Roast Instant Coffee Granules Decaffeinated 200g,20240413,drinks,True
+ASDA,2.25,20.1,kg,Taylors of Harrogate Yorkshire Tea Biscuit Brew 40 Tea Bags,20240413,drinks,False
+ASDA,2.25,22.5,kg,Taylors of Harrogate Yorkshire Tea Bedtime Brew 40 Tea Bags,20240413,drinks,False
+ASDA,5.0,52.6,kg,Nescafe Gold Blend Cap Colombia Instant Coffee,20240413,drinks,False
+ASDA,5.25,10.5,kg,ASDA Instant Granules Rich Roast Roasted Coffee 500g,20240413,drinks,True
+ASDA,5.0,25.0,kg,Twinings Pure Green Tea 80 Tea Bags,20240413,drinks,False
+ASDA,2.85,11.4,kg,Taylors of Harrogate Yorkshire Tea Black Loose Leaf Tea,20240413,drinks,False
+ASDA,3.3,13.2,kg,Taylors of Harrogate Yorkshire Tea 80 Tea Bags,20240413,drinks,False
+ASDA,2.0,20.0,kg,Tetley Pure Green Tea 50 Tea Bags,20240413,drinks,False
+ASDA,3.5,10.9,kg,Sweet Freedom Choc Shot Liquid Hot Chocolate,20240413,drinks,False
+ASDA,2.5,50.0,kg,Twinings Pure Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,3.9,15.6,kg,Taylors of Harrogate Yorkshire Tea Gold 80 Tea Bags,20240413,drinks,False
+ASDA,2.0,20.0,kg,Tetley Green Tea with Lemon 50 Tea Bags,20240413,drinks,False
+ASDA,2.0,20.0,kg,Tetley Green Tea Decaf 50 Tea Bags,20240413,drinks,False
+ASDA,6.3,12.6,kg,Taylors of Harrogate Yorkshire Tea Decaf 160 Tea Bags,20240413,drinks,False
+ASDA,2.5,62.5,kg,Twinings Mint Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,2.5,62.5,kg,Twinings Lemon Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,1.75,14.0,kg,Taylors of Harrogate Yorkshire Tea 40 Tea Bags,20240413,drinks,False
+ASDA,2.5,62.5,kg,Twinings Pomegranate Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,5.5,10.3,kg,Clipper Organic Everyday Tea 160 Tea bags,20240413,drinks,False
+ASDA,8.3,16.6,kg,Lavazza Decaffeinated Coffee Beans,20240413,drinks,False
+ASDA,0.75,18.8,kg,ASDA Green Tea with Lemon 20 Tea Bags,20240413,drinks,True
+ASDA,4.0,20.0,kg,Costa Coffee Mocha Italia Signature Blend Coffee Beans,20240413,drinks,False
+ASDA,2.8,70.0,kg,Twinings Peach & Orange Tea 20 Tea Bags,20240413,drinks,False
+ASDA,3.3,20.6,kg,Clipper Fairtrade Pure Green Tea 80 Tea Bags,20240413,drinks,False
+ASDA,2.8,77.8,kg,Twinings Rooibos & Honey Tea 20 Tea Bags,20240413,drinks,False
+ASDA,2.0,26.7,kg,Taylors of Harrogate Rich Italian Coffee Bags 10 Pack,20240413,drinks,False
+ASDA,3.85,15.4,kg,Taylors of Harrogate Yorkshire Tea Decaf 80 Tea Bags,20240413,drinks,False
+ASDA,3.0,10.5,kg,Clipper Organic Everyday Tea 80 Tea bags,20240413,drinks,False
+ASDA,1.7,6.8,l,Jimmy's Coffee Original,20240413,drinks,False
+ASDA,0.75,18.8,kg,ASDA Green Tea & Mint 20 Tea Bags,20240413,drinks,True
+ASDA,4.5,24.1,kg,Nescafe Dolce Gusto Cappuccino Coffee Pods,20240413,drinks,False
+ASDA,0.75,7.5,kg,ASDA Decaf Green Tea 50 Tea Bags,20240413,drinks,True
+ASDA,2.5,71.4,kg,Twinings Decaf Pure Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,3.75,15.0,kg,Lavazza Decaffeinated Ground Coffee,20240413,drinks,False
+ASDA,2.1,12.9,kg,Kenco Iced Hot Vanilla Latte Sachets x8,20240413,drinks,False
+ASDA,1.5,0.04,unit,Rombouts Coffee Filter Papers,20240413,drinks,False
+ASDA,2.0,19.0,kg,Tetley 50 Green Tea Matcha Tea Bags 105g,20240413,drinks,False
+ASDA,0.4,4.0,kg,JUST ESSENTIALS by ASDA 40 Tea Bags,20240413,drinks,True
+ASDA,2.25,56.2,kg,Tetley Immune Tropical Super Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,1.39,6.0,kg,ASDA Gold Tea Bags,20240413,drinks,True
+ASDA,7.8,6.2,kg,Tetley Original Tea Bags,20240413,drinks,False
+ASDA,4.75,18.3,kg,Tassimo Kenco Cappuccino Coffee Pods x 8,20240413,drinks,False
+ASDA,2.1,12.9,kg,Kenco Iced Hot Salted Caramel Latte Sachets x8,20240413,drinks,False
+ASDA,1.7,6.8,l,Jimmy's Iced Coffee Mocha,20240413,drinks,False
+ASDA,4.0,11.1,l,Quarterpast Iced Coffee Original,20240413,drinks,False
+ASDA,4.0,11.1,l,Quarterpast Iced Coffee Mocha,20240413,drinks,False
+ASDA,4.0,23.9,kg,Tassimo Costa Flat White Coffee Pods x6,20240413,drinks,False
+ASDA,4.5,24.0,kg,NESCAFE Dolce Gusto Flat White Coffee Pods 16 Capsules,20240413,drinks,False
+ASDA,15.75,15.7,kg,Lavazza Qualità Rossa Coffee Beans,20240413,drinks,False
+ASDA,2.75,48.2,kg,Starbucks By Nespresso Espresso Roast Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,4.0,37.0,kg,Tassimo Costa Americano Coffee Pods x 12,20240413,drinks,False
+ASDA,3.75,15.0,kg,Lavazza Qualità Oro Coffee Beans,20240413,drinks,False
+ASDA,1.45,27.9,kg,ASDA Nespresso Compatible 10 Ristretto Coffee Pods,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Mexican Roast & Ground Coffee 227g,20240413,drinks,True
+ASDA,4.75,52.2,kg,Tassimo Espresso Delizioso Coffee Pods x 14,20240413,drinks,False
+ASDA,3.5,15.4,kg,ASDA Extra Special Guatemalan Roast Coffee Beans 227g,20240413,drinks,True
+ASDA,2.0,50.0,kg,"Twinings Superblends Glow with Strawberry, Cucumber and Green Tea, 20 Tea Bags",20240413,drinks,False
+ASDA,1.45,27.9,kg,ASDA Nespresso Compatible 10 Espresso Coffee Pods,20240413,drinks,True
+ASDA,3.5,15.4,kg,ASDA Extra Special Rwandan Roast Coffee Beans 227g,20240413,drinks,True
+ASDA,4.35,21.7,kg,Taylors of Harrogate Decaffé Ground Roast Coffee 200g,20240413,drinks,False
+ASDA,3.5,17.5,kg,Taylors of Harrogate Decaffé Beans Roast Coffee 200g,20240413,drinks,False
+ASDA,2.25,56.2,kg,Tetley Boost Berry Burst Super Green Tea 20 Tea Bags,20240413,drinks,False
+ASDA,3.2,4.6,kg,ASDA Everyday 240 Tea Bags,20240413,drinks,True
+ASDA,5.3,26.5,kg,Twinings Assam 80 Tea Bags,20240413,drinks,False
+ASDA,2.0,21.4,kg,Kenco Plant Based Oat Latte Instant Coffee Sachets x6,20240413,drinks,True
+ASDA,4.75,33.0,kg,Tassimo Kenco Americano Grande Coffee Pods x 16,20240413,drinks,False
+ASDA,2.0,21.4,kg,Kenco Plant Based Almond Latte Instant Coffee Sachets x6,20240413,drinks,True
+ASDA,4.75,37.1,kg,Tassimo Kenco Americano Smooth Coffee Pods x 16,20240413,drinks,False
+ASDA,4.75,34.9,kg,Tassimo Kenco 100% Colombian Coffee Pods x 16,20240413,drinks,False
+ASDA,5.0,6.7,kg,Tetley Original 240 Tea Bags,20240413,drinks,False
+ASDA,4.75,45.7,kg,Tassimo Kenco Americano Decaff Coffee Pods x 16,20240413,drinks,False
+ASDA,4.5,28.1,kg,Nescafe Dolce Gusto Café Au Lait Coffee Pods,20240413,drinks,False
+ASDA,2.75,48.2,kg,Starbucks By Nespresso House Blend Lungo Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,2.5,10.0,kg,Tetley Original 80 Tea Bags,20240413,drinks,False
+ASDA,16.75,16.8,kg,Lavazza Espresso Barista Coffee Beans,20240413,drinks,False
+ASDA,2.75,50.0,kg,Starbucks By Nespresso Caffe Verona Espresso Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,2.75,51.9,kg,Starbucks By Nespresso Blonde Espresso Roast Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,1.7,13.6,kg,Tetley Original 40 Tea Bags,20240413,drinks,False
+ASDA,1.7,21.2,kg,ASDA Peppermint Tea 40 Bags,20240413,drinks,True
+ASDA,2.75,48.2,kg,Starbucks By Nespresso Decaf Espresso Roast Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,2.75,51.9,kg,Starbucks By Nespresso Pike Place Lungo Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,1.2,5.2,kg,ASDA Everyday 80 Tea Bags,20240413,drinks,True
+ASDA,4.75,40.9,kg,Tassimo L'OR Americano Classique Coffee Pods x 14,20240413,drinks,False
+ASDA,6.75,35.5,kg,Douwe Egberts Pure Decaf Instant Coffee,20240413,drinks,False
+ASDA,2.0,50.0,kg,Twinings Superblends Metabolism Peppermint with Spiced Green Tea & Nettle 20 Tea Bags,20240413,drinks,False
+ASDA,4.0,19.7,kg,Tassimo Costa Caramel Latte Coffee Pods x 6,20240413,drinks,False
+ASDA,4.0,19.7,kg,Tassimo Costa Vanilla Latte Coffee Pods x 6,20240413,drinks,False
+ASDA,5.0,10.0,kg,Tetley Decaf 160 Tea Bags,20240413,drinks,False
+ASDA,2.95,29.5,kg,ASDA Extra Special Italian Style Instant Coffee,20240413,drinks,True
+ASDA,4.35,21.7,kg,Taylors of Harrogate Rich Italian Ground Roast Coffee 200g,20240413,drinks,False
+ASDA,4.35,21.7,kg,Taylors of Harrogate Lazy Sunday Ground Roast Coffee 200g,20240413,drinks,False
+ASDA,0.99,9.9,kg,JUST ESSENTIALS by ASDA Medium Roast Instant Coffee,20240413,drinks,True
+ASDA,2.5,10.0,kg,Tetley Decaf 80 Tea Bags,20240413,drinks,False
+ASDA,2.0,9.1,l,Starbucks Caramel Macchiato Iced Coffee,20240413,drinks,False
+ASDA,4.35,21.7,kg,Taylors of Harrogate Lazy Sunday Beans Roast Coffee 200g,20240413,drinks,False
+ASDA,4.35,21.7,kg,Taylors of Harrogate Rich Italian Beans Roast Coffee 200g,20240413,drinks,False
+ASDA,5.5,39.3,kg,Nescafé Azera Americano Instant Coffee,20240413,drinks,False
+ASDA,0.35,10.9,kg,Horlicks Hot Chocolate,20240413,drinks,False
+ASDA,6.0,66.7,kg,Nescafé Azera Americano Decaff Coffee,20240413,drinks,False
+ASDA,1.35,5.8,kg,ASDA 80 Decaf Tea Bags,20240413,drinks,True
+ASDA,1.7,28.3,kg,ASDA Camomile Tea 40 Bags,20240413,drinks,True
+ASDA,3.15,31.5,kg,ASDA Americano Barista Style Coffee,20240413,drinks,True
+ASDA,6.5,68.4,kg,L'OR Artiste Delicato Instant Coffee,20240413,drinks,False
+ASDA,6.5,68.4,kg,L'OR Artiste Vigoroso Instant Coffee,20240413,drinks,False
+ASDA,4.75,25.8,kg,Tassimo Kenco Café Au Lait Coffee Pods x16,20240413,drinks,False
+ASDA,2.5,15.6,kg,ASDA Redbush Tea 80 Bags,20240413,drinks,True
+ASDA,3.7,14.8,kg,Lavazza Espresso Italiano Classico Ground Coffee,20240413,drinks,False
+ASDA,2.5,27.8,kg,Tick Tock Rooibos Tea 40 Bags,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Espresso Supremo Coffee Pods x10 Intensity 10,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Espresso Columbia Coffee Pods x10 Intensity 8,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Espresso Ristretto Coffee Pods x10 Intensity 11,20240413,drinks,False
+ASDA,4.5,28.1,kg,Nescafe Dolce Gusto Cafe au Lait Intenso Coffee Pods,20240413,drinks,False
+ASDA,1.7,10.3,kg,Lift Instant Lemon Flavour Tea,20240413,drinks,False
+ASDA,5.0,31.2,kg,Twinings Pure Peppermint 80 Tea Bags,20240413,drinks,False
+ASDA,4.5,28.1,kg,Nescafe Dolce Gusto Cafe au Lait Decaffeinated Coffee Pods,20240413,drinks,False
+ASDA,2.75,48.2,kg,Starbucks By Nespresso Single-Origin Colombia Espresso Coffee Pods 10 Capsules,20240413,drinks,False
+ASDA,4.35,80.6,kg,Teapigs Peppermint Leaves Tea Temples,20240413,drinks,False
+ASDA,4.35,93.5,kg,Teapigs Chamomile Flowers Tea Temples,20240413,drinks,False
+ASDA,4.35,70.7,kg,Teapigs Lemon & Ginger Tea Temples,20240413,drinks,False
+ASDA,2.25,18.0,kg,Taylors of Harrogate Yorkshire Tea Toast & Jam Brew 40 Teabags,20240413,drinks,False
+ASDA,11.0,11.0,unit,George Home Black Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,4.0,20.0,kg,Leon Organic Coffee Blonde Roast Wholebean,20240413,drinks,False
+ASDA,24.0,24.0,unit,George Home Black And Wood Textured Scandi Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,2.5,62.5,kg,Twinings Pure Peppermint 20 Tea Bags,20240413,drinks,False
+ASDA,2.0,8.6,kg,ASDA 80 Extra Strong Tea Bags,20240413,drinks,True
+ASDA,4.5,44.1,kg,Starbucks by Nescafe Dolce Gusto Americano House Blend Medium Roast Coffee Pods 12 Capsules,20240413,drinks,False
+ASDA,5.5,9.0,kg,PG Tips 210 Original Tea Bags 609g,20240413,drinks,False
+ASDA,2.0,20.0,kg,Tetley Green Tea Mango & Passionfruit x50,20240413,drinks,False
+ASDA,3.25,32.5,kg,Costa Instant Coffee Smooth Medium Roast,20240413,drinks,False
+ASDA,3.0,12.9,kg,PG Tips 80 Original Tea Bags 232g,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Espresso Ristretto Decaf Coffee Pods x10 Intensity 9,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Espresso Lungo Profondo Coffee Pods x10 Intensity 8,20240413,drinks,False
+ASDA,1.8,15.5,kg,PG Tips 40 Original Tea Bags 116g,20240413,drinks,False
+ASDA,1.5,6.0,kg,ASDA Loose Leaf Tea 80 Cups,20240413,drinks,True
+ASDA,2.0,8.9,kg,Typhoo QT Instant Black Tea with Whitener,20240413,drinks,False
+ASDA,3.0,12.9,kg,Twinings Everyday Plant-Based Tea Bags,20240413,drinks,False
+ASDA,1.7,13.6,kg,ASDA Extra Special 50 English Breakfast Tea Bags,20240413,drinks,True
+ASDA,4.35,70.7,kg,Teapigs Mao Feng Green Tea Temples,20240413,drinks,False
+ASDA,2.5,83.3,kg,Twinings Spiced Ginger 20 Tea Bags,20240413,drinks,False
+ASDA,2.5,83.3,kg,Twinings Lemon & Ginger 20 Tea Bags,20240413,drinks,False
+ASDA,4.8,19.2,kg,Twinings Strong English Breakfast 80 Tea Bags,20240413,drinks,False
+ASDA,2.5,83.3,kg,Twinings Pure Camomile 20 Tea Bags,20240413,drinks,False
+ASDA,2.8,70.0,kg,Twinings Raspberry & Lemon 20 Tea Bags,20240413,drinks,False
+ASDA,2.5,62.5,kg,Twinings Cranberry & Raspberry 20 Tea Bags,20240413,drinks,False
+ASDA,2.5,62.5,kg,Twinings Strawberry & Raspberry 20 Tea Bags,20240413,drinks,False
+ASDA,4.5,68.2,kg,Starbucks by Nescafe Dolce Gusto Single Origin Colombia Medium Roast Espresso Coffee Pods 12 Capsules,20240413,drinks,False
+ASDA,4.75,20.0,kg,Tassimo L'OR Caramel Latte Macchiato Coffee Pods x 7,20240413,drinks,False
+ASDA,4.75,20.6,kg,Tassimo L'OR Skinny Latte Macchiato Coffee Pods x 7,20240413,drinks,False
+ASDA,10.0,14.3,kg,Taylors of Harrogate Rich Italian Beans Roast Coffee 700g,20240413,drinks,False
+ASDA,0.75,18.8,kg,ASDA Wild Berry 20 Tea Bags,20240413,drinks,True
+ASDA,4.0,20.0,kg,Leon Fairtrade Organic Coffee Blonde Roast Ground,20240413,drinks,False
+ASDA,4.0,20.0,kg,Leon Fairtrade Organic Coffee Dark Roast Ground,20240413,drinks,False
+ASDA,0.75,18.8,kg,ASDA Mango & Strawberry 20 Tea Bags,20240413,drinks,True
+ASDA,3.0,14.8,kg,PG Tips 70 Decaf Tea Bags 203g,20240413,drinks,False
+ASDA,3.25,8.8,kg,Galaxy Instant Hot Chocolate,20240413,drinks,False
+ASDA,1.75,54.7,kg,Tetley Herbal Fresh Mint Tea Bags x20,20240413,drinks,False
+ASDA,0.75,18.8,kg,ASDA Lemon & Ginger 20 Tea Bags,20240413,drinks,True
+ASDA,2.0,54.1,kg,Twinings Superblends Wellbeing Collection 20 Tea Bags,20240413,drinks,False
+ASDA,2.0,47.6,kg,Good Earth Turmeric Lemon Tea Bags x 15,20240413,drinks,False
+ASDA,2.0,74.1,kg,Good Earth Moroccan Mint Tea Bags x 15,20240413,drinks,False
+ASDA,2.0,58.0,kg,Good Earth Rooibos Chai Tea Bags x 15,20240413,drinks,False
+ASDA,5.25,50.5,kg,L'OR Espresso Lungo Profondo Coffee Pods x10 Intensity 11,20240413,drinks,False
+ASDA,6.0,80.0,kg,Nescafé Azera Perky Blenders Craft Instant Coffee,20240413,drinks,False
+ASDA,8.0,16.0,kg,Lavazza Espresso Barista Gran Crema Coffee Beans 500g,20240413,drinks,False
+ASDA,4.75,158.3,kg,Pukka Peace 20 Organic Herbal Tea Bags,20240413,drinks,False
+ASDA,2.0,20.0,kg,Tetley Pure Red Bush 40 Tea Bags,20240413,drinks,False
+ASDA,4.75,148.4,kg,Pukka Organic Three Mint 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,2.5,83.3,kg,Twinings Soothing Camomile & Honey 20 Tea Bags,20240413,drinks,False
+ASDA,4.35,21.7,kg,Cafedirect 4 Organic Machu Picchu Ground Coffee 200g,20240413,drinks,False
+ASDA,16.0,16.0,kg,Lavazza Espresso Barista Gran Crema Coffee Beans 1000g,20240413,drinks,False
+ASDA,4.75,158.3,kg,Pukka Organic Peppermint & Licorice 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,1.75,58.3,kg,Tetley Herbal Pure Camomile Tea Bags x20,20240413,drinks,False
+ASDA,4.35,21.7,kg,Cafedirect Decaf Machu Picchu Peru Ground Coffee 200g,20240413,drinks,False
+ASDA,4.0,20.0,kg,Leon Fairtrade Organic Coffee Dark Roast Whole Bean,20240413,drinks,False
+ASDA,3.0,10.4,kg,Aero Instant Hot Chocolate,20240413,drinks,False
+ASDA,4.75,118.8,kg,Pukka Relax 20 Organic Herbal Tea Bags,20240413,drinks,False
+ASDA,4.29,31.5,kg,Galaxy 8 Hot Chocolate Pods. Dolce Gusto Compatible,20240413,drinks,False
+ASDA,2.0,25.0,kg,Tetley 40 Rooibos Orange Tea Bags 80g,20240413,drinks,False
+ASDA,4.2,8.4,kg,Cadbury Drinking Hot Chocolate,20240413,drinks,False
+ASDA,4.3,69.9,kg,Teapigs Super Fruit 15 Biodegradable Tea Temples,20240413,drinks,False
+ASDA,3.0,15.0,kg,Twinings English Breakfast 80 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,0.9,7.2,kg,ASDA English Breakfast Classic Black 50 Tea Bags,20240413,drinks,True
+ASDA,2.8,28.0,kg,Twinings English Breakfast 40 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,2.25,5.6,kg,ASDA Instant Hot Chocolate,20240413,drinks,True
+ASDA,2.25,56.2,kg,Tetley Super Green Detox 20 Mint Tea Bags,20240413,drinks,False
+ASDA,2.0,66.7,kg,"Twinings Superblends Sleep with Spiced Apple and Camomile, 20 Tea Bags",20240413,drinks,False
+ASDA,5.5,15.8,kg,Twinings Everyday 120 Plant-Based Tea Bags 348g,20240413,drinks,False
+ASDA,4.75,237.5,kg,Pukka Organic Night Time 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,2.0,50.0,kg,"Twinings Superblends Detox with Lemon, Ginger and Fennel, 20 Tea Bags",20240413,drinks,False
+ASDA,2.0,58.8,kg,"Twinings Superblends Digest with Spearmint, Apple and Rooibos, 20 Tea Bags",20240413,drinks,False
+ASDA,1.75,14.6,kg,Nescafe Gold Cappuccino Decaf Unsweetened Taste Coffee Sachets,20240413,drinks,False
+ASDA,1.45,3.9,kg,JUST ESSENTIALS by ASDA Instant Hot Chocolate,20240413,drinks,True
+ASDA,4.75,59.4,kg,Pukka Organic Feel New 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,4.75,139.7,kg,Pukka Herbal Collection 20 Assorted Herbal Tea Sachets,20240413,drinks,False
+ASDA,3.25,10.8,kg,Costa Hot Chocolate 300g,20240413,drinks,False
+ASDA,1.75,43.8,kg,Tetley Herbal Zingy Lemon & Ginger Tea Bags x20,20240413,drinks,False
+ASDA,4.35,21.7,kg,Cafedirect 5 Organic Mayan Gold Mexico Ground Coffee 200g,20240413,drinks,False
+ASDA,4.35,21.7,kg,Cafedirect 4 Organic Machu Picchu Peru Coffee Beans 200g,20240413,drinks,False
+ASDA,4.5,9.9,kg,ASDA Italian Style Roasted Beans 454g,20240413,drinks,True
+ASDA,3.6,32.7,kg,Twinings English Breakfast Decaffeinated 40 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,2.19,9.6,kg,ASDA French Style Roasted Ground 227g,20240413,drinks,True
+ASDA,2.19,9.6,kg,ASDA Italian Style Roasted Ground 227g,20240413,drinks,True
+ASDA,2.0,47.6,kg,"Good Earth Hibiscus, Sweet Berries & Rose Tea Bags x 15",20240413,drinks,False
+ASDA,2.19,9.6,kg,ASDA House Blend Roasted Ground 227g,20240413,drinks,True
+ASDA,4.75,131.9,kg,Pukka Organic Three Ginger 20 Herbal Tea Sachet,20240413,drinks,False
+ASDA,4.75,118.8,kg,"Pukka Organic Lemon, Ginger & Manuka Honey 20 Herbal Tea Sachets",20240413,drinks,False
+ASDA,4.75,158.3,kg,Pukka Three Chamomile 20 Organic Herbal Tea Bags,20240413,drinks,False
+ASDA,2.0,50.0,kg,"Twinings Superblends Turmeric with Orange and Star Anise, 20 Tea Bags",20240413,drinks,False
+ASDA,2.25,56.2,kg,Tetley Super Fruits Boost Blueberry & Raspberry 20 Tea Bags,20240413,drinks,False
+ASDA,2.8,56.0,kg,Twinings Mango & Strawberry with Zesty Lime 20 Tea Bags,20240413,drinks,False
+ASDA,2.25,56.2,kg,Tetley Super Fruits Immune Peach & Orange 20 Tea Bags,20240413,drinks,False
+ASDA,4.75,118.8,kg,Pukka Organic Elderberry & Echinacea 20 Fruit Tea Sachets,20240413,drinks,False
+ASDA,4.75,131.9,kg,Pukka Organic Tulsi Clarity 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,4.75,125.0,kg,Pukka Organic Breathe In with Eucalyptus 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,2.1,8.4,l,Starbucks Frappuccino Mocha Chocolate Flavoured Milk Iced Coffee,20240413,drinks,False
+ASDA,6.1,64.2,kg,Nescafe Gold Blend Roastery Collection Dark Roast Instant Coffee,20240413,drinks,False
+ASDA,6.1,64.2,kg,Nescafe Gold Blend Roastery Collection Light Roast Instant Coffee,20240413,drinks,False
+ASDA,2.0,66.7,kg,Twinings Superblends Focus Mango & Pineapple with Ginseng 20 Tea Bags 30g,20240413,drinks,False
+ASDA,4.75,131.9,kg,Pukka Organic Night Time Berry 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,4.75,139.7,kg,Pukka Organic Morning Berry 20 Herbal Tea Sachets 34g,20240413,drinks,False
+ASDA,4.75,131.9,kg,Pukka Radiance Inner Glow Organic 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,2.1,8.4,l,Starbucks Frappuccino Coffee Drink 250ml,20240413,drinks,False
+ASDA,4.75,148.4,kg,"Pukka Chamomile, Vanilla & Manuka Honey 20 Organic Herbal Tea Bags",20240413,drinks,False
+ASDA,2.25,11.2,kg,ASDA Rich Roast Instant Granules 200g,20240413,drinks,True
+ASDA,3.6,10.3,kg,Maltesers Malty Instant Hot Chocolate,20240413,drinks,False
+ASDA,2.0,66.7,kg,Twinings Superblends Sleep Valerian & Orange Blossom 20 Tea Bags 30g,20240413,drinks,False
+ASDA,2.5,13.4,kg,Nescafe Gold Cappuccino Instant Coffee,20240413,drinks,False
+ASDA,2.19,9.6,kg,ASDA House Blend Decaf Roasted Ground 227g,20240413,drinks,True
+ASDA,2.0,54.1,kg,Twinings Superblends Cleanse Matcha 20 Plant-Based Tea Bags 40g,20240413,drinks,False
+ASDA,0.45,16.1,kg,Cadbury Instant Hot Chocolate Sachet,20240413,drinks,False
+ASDA,2.5,8.3,kg,Cadbury Instant Hot Chocolate 300g,20240413,drinks,False
+ASDA,4.25,12.9,kg,Starbucks SIGNATURE CHOCOLATE 42% Cocoa Hot Chocolate Powder,20240413,drinks,False
+ASDA,5.5,22.0,kg,Green & Black's Organic Hot Chocolate 250g,20240413,drinks,False
+ASDA,2.0,66.7,kg,Twinings Superblends Moment of Calm Spiced Camomile & Vanilla 20 Tea Bags 30g,20240413,drinks,False
+ASDA,1.99,26.5,kg,ASDA Italian Style Roast & Ground Coffee Bags 10 x 7.5g (75g),20240413,drinks,True
+ASDA,1.99,26.5,kg,ASDA House Blend Roast & Ground Coffee Bags 10 x 7.5g (75g),20240413,drinks,True
+ASDA,2.1,16.2,kg,Kenco Latte Instant Coffee Sachets,20240413,drinks,False
+ASDA,2.1,17.8,kg,Kenco Cappuccino Instant Coffee Sachets,20240413,drinks,False
+ASDA,4.0,36.4,kg,Kenco Duo Cappuccino Instant Coffee,20240413,drinks,False
+ASDA,4.0,38.8,kg,Kenco Duo Latte Instant Coffee,20240413,drinks,False
+ASDA,2.25,83.3,kg,"Tetley Super Herbal Sleep Camomile, Vanilla and Lavender 18 Tea Bags 27g",20240413,drinks,False
+ASDA,1.75,12.9,kg,Nescafe Gold Caramel Latte Coffee Sachets,20240413,drinks,False
+ASDA,2.25,69.4,kg,Tetley Super Herbal Happy Tummy Mint and Fennel 18 Tea Bags 32.4g,20240413,drinks,False
+ASDA,1.75,11.8,kg,Nescafe Gold Vanilla Latte Coffee Sachets,20240413,drinks,False
+ASDA,2.0,54.1,kg,Twinings Superblends Super Green Matcha 20 Plant-Based Tea Bags 40g,20240413,drinks,False
+ASDA,2.25,7.5,kg,ASDA Reduced Sugar Instant Hot Chocolate,20240413,drinks,True
+ASDA,1.99,26.5,kg,ASDA House Blend Decaffeinated Roast & Ground Coffee Bags 10 x 7.5g (75g),20240413,drinks,True
+ASDA,4.5,34.7,kg,Starbucks by Nescafe Dolce Gusto Cappuccino Coffee Pods 12 Capsules,20240413,drinks,False
+ASDA,2.0,9.1,l,Starbucks Limited Edition Chocolate Hazelnut Flavour Cappuccino Chilled Coffee 220ml,20240413,drinks,False
+ASDA,0.5,45.5,kg,Cadbury Highlights Instant Hot Chocolate Sachet,20240413,drinks,False
+ASDA,4.5,17.6,kg,Nescafe Dolce Gusto Chococino Coffee Pods,20240413,drinks,False
+ASDA,1.75,15.4,kg,Nescafe Gold Cappuccino Unsweetened Taste Coffee Sachets,20240413,drinks,False
+ASDA,3.0,13.9,kg,ASDA White Chocolate & Hazelnut Flavour Latte 216g,20240413,drinks,True
+ASDA,1.75,11.8,kg,Nescafe Gold Cappuccino Instant Coffee 8 Sachets,20240413,drinks,False
+ASDA,4.4,36.7,kg,Lavazza A Modo Mio Qualita Rossa Coffee Capsules,20240413,drinks,False
+ASDA,2.0,26.7,kg,Taylors of Harrogate Flying Start Coffee Bags 10 Enveloped Bags,20240413,drinks,False
+ASDA,0.9,4.4,kg,NYCoffee 3 in 1 White Coffee with Sugar,20240413,drinks,False
+ASDA,2.1,23.9,kg,Kenco Unsweetened Cappuccino Instant Coffee Sachets,20240413,drinks,False
+ASDA,4.5,34.7,kg,Starbucks by Nescafe Dolce Gusto Latte Macchiato Coffee Pods 12 Capsules,20240413,drinks,False
+ASDA,4.5,35.0,kg,Starbucks by Nescafe Dolce Gusto Caramel Macchiato Coffee Pods 12 Capsules,20240413,drinks,False
+ASDA,2.5,46.3,kg,ASDA Extra Special 10 Colombian Coffee Pods,20240413,drinks,True
+ASDA,4.5,24.6,kg,Nescafe Dolce Gusto Latte Macchiato Coffee Pods,20240413,drinks,False
+ASDA,2.5,46.3,kg,ASDA Extra Special 10 Ethiopian Coffee Pods,20240413,drinks,True
+ASDA,2.5,46.3,kg,ASDA Extra Special 10 Brazilian Coffee Pods,20240413,drinks,True
+ASDA,4.5,37.1,kg,Nescafe Starbucks by Nescafé Dolce Gusto Café Latte Coffee Pods,20240413,drinks,False
+ASDA,4.0,20.0,kg,Costa Coffee Intensely Dark Amazonian Blend 200g,20240413,drinks,False
+ASDA,3.75,18.8,kg,GU Hot Puds Chocolate Melting Middle Dessert,20240413,drinks,False
+ASDA,1.05,17.5,kg,Dr. Moo Quick Chocolate Milk Magic Sipper,20240413,drinks,False
+ASDA,4.5,34.1,kg,Nescafe Starbucks by Nescafé Dolce Gusto Madagascar Vanilla Macchiato Coffee Pods,20240413,drinks,False
+ASDA,4.0,24.0,kg,Tassimo Costa Latte Coffee Pods x6,20240413,drinks,False
+ASDA,4.0,19.0,kg,Tassimo Costa Cappuccino Coffee Pods x6,20240413,drinks,False
+ASDA,2.5,46.3,kg,ASDA Extra Special 10 Colombian Decaff Coffee Pods,20240413,drinks,True
+ASDA,4.75,13.8,kg,Tassimo Creamer from Milk Pods x 16,20240413,drinks,False
+ASDA,2.5,11.6,kg,Nescafé Latte Instant Coffee 12 x 18g Sachets,20240413,drinks,False
+ASDA,1.1,0.18,unit,Tunnock's Milk Chocolate Tea Cakes,20240413,drinks,False
+ASDA,4.75,20.3,kg,Tassimo L'or Latte Macchiato Coffee Pods x7,20240413,drinks,False
+ASDA,4.75,21.6,kg,Tassimo Kenco Flat White Coffee Pods x8,20240413,drinks,False
+ASDA,3.45,30.0,kg,Starbucks Caramel Latte Premium Instant Coffee Sachets 5 Pack,20240413,drinks,False
+ASDA,3.25,6.5,kg,Nesquik Chocolate Flavoured Milkshake Powder,20240413,drinks,False
+ASDA,2.75,4.4,kg,Starbucks Smooth Caramel Flavoured Coffee 10 x 51g,20240413,drinks,False
+ASDA,2.75,4.4,kg,Starbucks Creamy Vanilla Flavoured Coffee 10 x 51g,20240413,drinks,False
+ASDA,2.4,40.0,l,The Skinny Food Co. French Vanilla Barista Shot Sugar Free Skinny Coffee Syrup,20240413,drinks,False
+ASDA,4.7,39.2,kg,Lavazza A Modo Mio Eco Caps Compostable Passionale Coffee Capsules 16 Pack,20240413,drinks,False
+ASDA,4.5,9.3,kg,Nescafe Dolce Gusto Skinny Cappuccino Pods,20240413,drinks,False
+ASDA,3.0,12.0,kg,Sweet Freedom Choc Pot Chocolate Spread,20240413,drinks,False
+ASDA,7.5,18.5,kg,Bubbleology Fruit Tea Mixology Kit With Popping Boba,20240413,drinks,False
+ASDA,4.4,36.7,kg,Lavazza Dek Full Flavoured with Dried Fruit Notes 16 Coffee Capsules 120g,20240413,drinks,False
+ASDA,2.75,13.4,kg,"Revels Milk Chocolate Raisins, Coffee or Orange Sharing Pouch Bag",20240413,drinks,False
+ASDA,5.0,18.9,kg,Galaxy Limited Edition Movie Night Instant Hot Chocolate Kit 265g,20240413,drinks,False
+ASDA,5.25,50.5,kg,"L'OR Espresso Lungo Profundo, Intensity 11, Nespresso Compatible - 20 aluminium Pods",20240413,drinks,False
+ASDA,2.5,13.9,kg,Riya's Masala (Spicy) Chai,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Aluminium Capsules Espresso Chocolate Flavour 52g,20240413,drinks,False
+ASDA,3.45,10.6,kg,Coffee Mate The Original,20240413,drinks,False
+ASDA,14.5,14.5,kg,Lavazza Qualità Oro,20240413,drinks,False
+ASDA,2.5,13.9,kg,Riya's Karak (Spicy & Strong) Chai,20240413,drinks,False
+ASDA,2.5,13.9,kg,Riya's Adrak (Ginger) Chai,20240413,drinks,False
+ASDA,4.5,9.9,kg,ASDA House Blend Roasted Beans 454g,20240413,drinks,True
+ASDA,4.0,20.0,kg,Costa Intensely Dark Amazonian Blend 200g,20240413,drinks,False
+ASDA,1.0,5.0,kg,Typhoo One Cup Foil Fresh 100 Teabags,20240413,drinks,False
+ASDA,5.0,5.7,kg,Typhoo One Cup 440 Single Serve Teabags,20240413,drinks,False
+ASDA,2.0,50.0,kg,Twinings Superblends Immune Support Blackcurrant & Raspberry,20240413,drinks,False
+ASDA,3.75,13.4,kg,Clipper Fairtrade 80 Organic English Breakfast Bags 232g,20240413,drinks,False
+ASDA,2.5,5.0,kg,ASDA Drinking Chocolate,20240413,drinks,True
+ASDA,3.89,7.78,kg,Galaxy Drinking Chocolate,20240413,drinks,False
+ASDA,2.0,111.1,kg,Good Earth Elderflower & Pear 15 Biodegradable Teabags 18g,20240413,drinks,False
+ASDA,19.0,19.0,unit,George Home Digital Coffee Machines,20240413,drinks,True
+ASDA,3.0,15.0,kg,ASDA Gold Roast Decaf Instant Granules 200g,20240413,drinks,True
+ASDA,5.25,35.0,kg,Nescafe Gold Blend Refill,20240413,drinks,False
+ASDA,3.0,20.0,kg,Nescafe Refill Original,20240413,drinks,False
+ASDA,4.5,11.2,kg,Milo Instant Malt Chocolate Drinking Powder Tin (Ghanaian),20240413,drinks,False
+ASDA,1.85,4.1,kg,ASDA Hot Chocolate Fudge Cake,20240413,drinks,True
+ASDA,3.25,32.5,kg,Costa Intense Dark Roast 100g,20240413,drinks,False
+ASDA,1.75,4.3,kg,Mokate Classic 3in1 XXL 24 Sachets,20240413,drinks,False
+ASDA,6.5,6.5,unit,George Home Medium Black Cafetiere,20240413,drinks,True
+ASDA,4.5,4.5,unit,George Home Small Black Cafetiere,20240413,drinks,True
+ASDA,12.0,12.0,unit,George Home Double Walled Stainless Steel Cafetiere,20240413,drinks,True
+ASDA,3.0,3.0,unit,The BAKERY at ASDA Chocolate Sponge Pudding,20240413,drinks,True
+ASDA,2.5,10.0,kg,Galaxy Vegan Instant Silky & Smooth Hot Chocolate Drink,20240413,drinks,False
+ASDA,4.0,16.0,kg,Drink Me Chai Vegan Chai Latte 250g,20240413,drinks,False
+ASDA,2.75,9.2,kg,ASDA Extra Special Fairtrade indulgent Drinking Chocolate,20240413,drinks,True
+ASDA,3.75,23.4,kg,Costa Coffee Barista Creations Latte 10 x 16g (160g),20240413,drinks,False
+ASDA,3.75,23.4,kg,Costa Coffee Barista Creations Skinny Latte 10 x 14g (140g),20240413,drinks,False
+ASDA,2.5,1.25,unit,The BAKERY at ASDA 2 Chocolate Melt in the Middle Puddings,20240413,drinks,True
+ASDA,3.7,14.8,kg,Cadbury Bournville Cocoa,20240413,drinks,False
+ASDA,2.0,60.6,kg,Twinings Superblends 20 Wind Down Collection 33.2g,20240413,drinks,False
+ASDA,7.5,25.9,kg,Bubbleology Milk Tea Mixology Kit With Tapioca Pearls,20240413,drinks,False
+ASDA,4.5,22.5,kg,Options Vegan Belgian Hot Choc 200g,20240413,drinks,False
+ASDA,3.0,24.0,kg,Green & Black's Organic Cocoa,20240413,drinks,False
+ASDA,40.0,40.0,unit,Breville VKJ142 Hot Cup,20240413,drinks,False
+ASDA,3.75,9.4,kg,Horlicks Chocolate Hot Malty Goodness,20240413,drinks,False
+ASDA,2.5,10.0,kg,ASDA Cocoa,20240413,drinks,True
+ASDA,2.0,20.0,kg,Tea India Masala Chai 40 Tea Bags 100g,20240413,drinks,False
+ASDA,2.4,8.0,kg,ASDA Strawberry Flavoured Milkshake Mix,20240413,drinks,True
+ASDA,2.0,20.0,kg,Tea India 40 Tea Bags Ginger Chai 100g,20240413,drinks,False
+ASDA,2.4,8.0,kg,ASDA Banana Flavoured Milkshake Mix,20240413,drinks,True
+ASDA,1.05,17.5,kg,Dr. Moo Quick Strawberry Milk Magic Sipper,20240413,drinks,False
+ASDA,4.55,13.0,kg,Twinings Swiss Chocolate Drink 350g,20240413,drinks,False
+ASDA,3.25,6.5,kg,Nesquik Strawberry Flavoured Milkshake Powder,20240413,drinks,False
+ASDA,3.25,6.5,kg,Nesquik Banana Milkshake Powder Tub,20240413,drinks,False
+ASDA,3.25,6.5,kg,Nesquik Choco-Caramel Milkshake Powder,20240413,drinks,False
+ASDA,9.75,10.8,kg,Nido Full Cream Milk Powder,20240413,drinks,False
+ASDA,3.2,9.4,kg,ASDA Dried Skimmed Milk Powder,20240413,drinks,True
+ASDA,1.15,8.5,kg,ASDA Café Latte 8 x 16g (128g),20240413,drinks,True
+ASDA,1.75,10.5,kg,Nescafe Gold Double Choc Mocha x8,20240413,drinks,False
+ASDA,3.25,13.0,l,Monin Caramel Syrup,20240413,drinks,False
+ASDA,1.1,8.1,kg,ASDA Cafe Cappuccino 8 x 16g (128g),20240413,drinks,True
+ASDA,1.75,11.8,kg,Nescafe Gold Toffee Nut Latte x8,20240413,drinks,False
+ASDA,1.0,10.4,kg,Nescafe 3in1 Original 6 x 16g (96g),20240413,drinks,False
+ASDA,2.2,13.9,kg,Nescafe Gold Irish Latte x8,20240413,drinks,False
+ASDA,2.25,22.1,kg,Costa Salted Caramel Latte Sachets Drinks 6 x 17g (102g),20240413,drinks,False
+ASDA,3.25,13.0,l,Monin Vanilla Syrup,20240413,drinks,False
+ASDA,0.9,4.4,kg,NYCoffee Salted Caramel 3in1 Extra Value Pack,20240413,drinks,False
+ASDA,3.1,25.8,kg,Starbucks Premium Instant White Mocha 5 x 24g (120g),20240413,drinks,False
+ASDA,4.0,6.2,kg,Dolce Gusto Mocha 216g,20240413,drinks,False
+ASDA,1.75,13.2,kg,Nescafe Gold Aero Golden Honeycomb Mocha,20240413,drinks,False
+ASDA,1.0,18.5,kg,Nescafe 2in1 6 x 9g (54g),20240413,drinks,False
+ASDA,9.0,9.0,unit,George Home Black Stainless Steel Coffee Grinder,20240413,drinks,True
+ASDA,2.4,23.5,kg,Costa Millionaires Mocha Sachets 6 x 23g (138g),20240413,drinks,False
+ASDA,2.25,22.1,kg,Costa Creamy Cappuccino Sachets Drinks 6 x 17g (102g),20240413,drinks,False
+ASDA,3.1,26.4,kg,Starbucks Premium Instant Cinnamon Dolce Latte 5 Pack,20240413,drinks,False
+ASDA,2.75,48.2,kg,Costa Mocha Italia Signature Blend Lungo for Long Drinks,20240413,drinks,False
+ASDA,1.7,17.0,kg,ASDA Extra Special 50 Chai Tea Bags,20240413,drinks,True
+ASDA,0.9,5.4,kg,NYCoffee 2in1 Extra Value Pack,20240413,drinks,False
+ASDA,2.0,7.8,kg,Nescafé 3in1 Original 16 x 16g (256g),20240413,drinks,False
+ASDA,4.0,9.0,kg,Dolce Gusto Americano Decaffeinato 16 x 8g (128g),20240413,drinks,False
+ASDA,24.0,13.3,kg,Nestle Instant Full Cream Milk Powder 1.8kg Tin,20240413,drinks,False
+ASDA,2.2,21.0,kg,Nescafe Nescafé Gold Iced Latte Vanilla Cream 7 x 15g (105g),20240413,drinks,False
+ASDA,2.0,4.71,kg,The Skinny Food Co. Salted Caramel Zero Calorie Sugar Free Skinny Syrup,20240413,drinks,False
+ASDA,9.75,47.3,kg,Starbucks House Blend Lungo 36 Aluminium Capsules 206g,20240413,drinks,False
+ASDA,4.5,17.6,kg,Nescafe Dolce Gusto Nesquik,20240413,drinks,False
+ASDA,9.75,51.9,kg,Starbucks Blonde Espresso Roast 36 Aluminium Capsules 188g,20240413,drinks,False
+ASDA,3.5,17.5,kg,Lavazza Cappuccino Dolce Gusto Compatible Capsules x8,20240413,drinks,False
+ASDA,2.75,48.2,kg,Costa Intensely Dark Amazonian Blend Aluminium Capsules,20240413,drinks,False
+ASDA,2.0,16.0,kg,Tetley Earl Grey 50 Tea Bags,20240413,drinks,False
+ASDA,4.7,36.7,kg,Lavazza Lungo Dolce Gusto Compatible Capsules x16,20240413,drinks,False
+ASDA,35.0,35.0,unit,Bosch Tassimo TAS1002GB Happy Pod Coffee Machine,20240413,drinks,False
+ASDA,3.5,61.4,kg,Lavazza Espresso Maestro Intenso Medium Roasting 10 Capsules 57g,20240413,drinks,False
+ASDA,4.5,35.2,kg,Lavazza Intenso Dolce Gusto Compatible Capsules,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Aluminium Capsules Espresso Caramel Flavour 52g,20240413,drinks,False
+ASDA,1.15,0.29,unit,Warburtons Fruity Teacakes,20240413,drinks,False
+ASDA,3.5,62.5,kg,Lavazza Espresso Maestro Lungo 10 Capsules 56g,20240413,drinks,False
+ASDA,3.5,61.4,kg,Lavazza Espresso Maestro Ristretto Dark Roasting 10 Capsules 57g,20240413,drinks,False
+ASDA,4.75,118.8,kg,Pukka Organic Vanilla Chai 20 Herbal Tea Sachets,20240413,drinks,False
+ASDA,3.5,60.3,kg,Lavazza Espresso Maestro Decaffeinated Medium Roasting 10 Capsules 58g,20240413,drinks,False
+ASDA,2.8,53.8,kg,L'OR Aluminium Capsules Espresso Vanilla Flavour 52g,20240413,drinks,False
+ASDA,4.5,35.2,kg,Lavazza Decaffeinated Dolce Gusto Compatible Capsules x16,20240413,drinks,False
+ASDA,4.5,33.8,kg,Nescafe Americano Intenso 16 x 8.3g (132.8g),20240413,drinks,False
+ASDA,4.5,33.1,kg,Nescafe Americano 16 x 8.5g (136g),20240413,drinks,False
+ASDA,4.0,10.4,kg,Starbucks White Mocha 12 x 123g,20240413,drinks,False
+ASDA,1.5,15.0,kg,ASDA Extra Special Earl Grey 50 Tea Bags,20240413,drinks,True
+ASDA,109.0,109.0,unit,Bosch Tassimo TAS16B2GB Black Finesse Pod Coffee Machine,20240413,drinks,False
+ASDA,2.3,18.0,kg,Bubbleology Passion Fruit Bubble Tea With Popping Boba,20240413,drinks,False
+ASDA,2.3,30.7,kg,Bubbleology Taro Milk Bubble Tea With Tapioca Pearls,20240413,drinks,False
+ASDA,56.0,56.0,unit,NESCAFE Dolce Gusto Mini Me Automatic Coffee Machine by De'Longhi EDG155.BG,20240413,drinks,False
+ASDA,2.0,2.0,unit,George Home Iridescent Tea Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Ribbed Tea Mug,20240413,drinks,True
+ASDA,4.8,24.0,kg,Twinings The Earl Grey 80 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,2.8,28.0,kg,Twinings The Earl Grey 40 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,2.8,28.0,kg,Twinings Distinctively Smoky 40 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,2.8,10.2,kg,Canderel Sugarly Granulated Sweetener,20240413,drinks,False
+ASDA,2.75,0.0,unit,Hermesetas Mini Sweeteners,20240413,drinks,False
+ASDA,3.25,11.6,kg,Truvia Jar Stevia Low Calorie Sweetener,20240413,drinks,False
+ASDA,3.35,0.0,unit,Sweetex Calorie Free Sweeteners 1200 Tablets,20240413,drinks,False
+ASDA,1.7,0.0,unit,Sweetex Calorie Free Sweeteners 600 Tablets,20240413,drinks,False
+ASDA,0.9,12.0,kg,ASDA Granulated Sweetener,20240413,drinks,True
+ASDA,3.3,0.01,unit,Canderel Sweetener Tablets,20240413,drinks,False
+ASDA,2.0,26.7,kg,Canderel Granular Low Calorie Sweetener,20240413,drinks,False
+ASDA,2.9,12.9,kg,Total Sweet Xylitol Natural Sugar Alternative,20240413,drinks,False
+ASDA,5.9,0.01,unit,Splenda Minis Zero Calorie Sweetener tablets,20240413,drinks,False
+ASDA,0.65,2.2,kg,ASDA Low Calorie Sweetener Tablets,20240413,drinks,True
+ASDA,3.6,36.0,kg,Twinings The Earl Grey Decaffeinated 40 Plant-Based Tea Bags,20240413,drinks,False
+ASDA,5.5,18.3,kg,Twinings The Earl Grey 120 Plant-Based Tea Bags 300g,20240413,drinks,False
+ASDA,5.5,18.3,kg,Twinings English Breakfast 120 Plant-Based Tea Bags 300g,20240413,drinks,False
+ASDA,1.0,0.01,unit,Silver Spoon Sweetener 200 Tablets,20240413,drinks,False
+ASDA,2.2,0.02,unit,Truvia Tablets Calorie-Free Sweetener from Stevia Leaf Extract,20240413,drinks,False
+ASDA,4.2,2.1,kg,Silver Spoon Caster Sugar,20240413,drinks,False
+ASDA,2.7,2.7,kg,Billington's Golden Caster Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,0.65,6.5,kg,ASDA Stevia Sweetener Tablets,20240413,drinks,True
+ASDA,1.5,1.5,kg,Silver Spoon Half Spoon Granulated Sugar,20240413,drinks,False
+ASDA,0.8,10.7,kg,ASDA Stevia Sweetener Granules,20240413,drinks,True
+ASDA,1.95,26.0,kg,Silver Spoon Granulated Sweetener,20240413,drinks,False
+ASDA,3.0,24.0,kg,Splenda Low Calorie Sweetener Granulated,20240413,drinks,False
+ASDA,2.5,2.5,kg,Silver Spoon Jam Sugar with Added Pectin,20240413,drinks,False
+ASDA,5.0,1.0,kg,Silver Spoon British Granulated Sugar,20240413,drinks,False
+ASDA,1.49,1.49,kg,ASDA Caster Sugar,20240413,drinks,True
+ASDA,2.15,1.07,kg,Silver Spoon Granulated Sugar,20240413,drinks,False
+ASDA,2.0,5.56,kg,Truvia Caster Sugar Alternative,20240413,drinks,False
+ASDA,1.45,2.9,kg,Silver Spoon Sugar White Cubes,20240413,drinks,False
+ASDA,1.5,0.01,unit,Tate & Lyle Sweetener 300 Tablets 15g,20240413,drinks,False
+ASDA,2.15,4.3,kg,Billington's Light Brown Soft Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,1.35,18.0,kg,Tate & Lyle Sweetener 75g,20240413,drinks,False
+ASDA,3.1,3.1,kg,Billington's Demerara Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,2.05,4.1,kg,Billington's Dark Brown Soft Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,2.4,1.2,l,Cravendale Filtered Fresh Whole Milk Fresher for Longer,20240413,drinks,False
+ASDA,2.2,4.4,kg,Billington's Light Muscovado Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,2.4,1.2,l,Yeo Valley Organic Fresh Semi Skimmed Milk,20240413,drinks,False
+ASDA,2.2,4.4,kg,Billington's Dark Muscovado Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,2.0,2.0,kg,Billington's Golden Granulated Natural Unrefined Cane Sugar,20240413,drinks,False
+ASDA,1.8,3.6,kg,ASDA Demerara Sugar 500g,20240413,drinks,True
+ASDA,1.8,3.6,kg,ASDA Light Brown Sugar 500g,20240413,drinks,True
+ASDA,2.4,2.4,kg,Silver Spoon Icing Sugar,20240413,drinks,False
+ASDA,1.8,3.6,kg,ASDA Dark Brown Sugar 500g,20240413,drinks,True
+ASDA,0.89,1.78,kg,BAKE by ASDA Icing Sugar 500g,20240413,drinks,True
+ASDA,1.0,1.0,unit,George Home Glass Tea Single Mug,20240413,drinks,True
+ASDA,2.25,4.5,kg,Billington's Demerara Rough Cut Cafe Cubes,20240413,drinks,False
+ASDA,2.0,2.0,kg,Silver Spoon Demerara Sugar 1kg,20240413,drinks,False
+ASDA,1.4,2.8,kg,Silver Spoon Royal Icing Sugar 500g,20240413,drinks,False
+ASDA,1.7,1.7,unit,George Home Butterfly Meadow Tea Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Smoked Tea Single Mug,20240413,drinks,True
+ASDA,4.8,24.0,kg,Twinings Plant-Based Lady Grey Bright with Zesty Orange Tea Bags,20240413,drinks,False
+ASDA,1.9,0.95,l,ASDA British Milk Filtered Semi Skimmed 2 Litres,20240413,drinks,True
+ASDA,3.75,9.4,kg,Horlicks Original Hot Malty Goodness,20240413,drinks,False
+ASDA,3.75,9.4,kg,Horlicks Instant Hot Malty Goodness,20240413,drinks,False
+ASDA,1.0,50.0,kg,Hot Wheels Surprise Eggs 20g,20240413,drinks,False
+ASDA,3.0,3.0,unit,Disney Mrs Potts And Chip Tea Mug,20240413,drinks,False
+ASDA,2.4,1.2,l,Cravendale Filtered Fresh Semi Skimmed Milk Fresher for Longer,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Disney Stitch Love Tea Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Lemon Solid Glass Tea Mug,20240413,drinks,True
+ASDA,1.5,1.5,unit,George Home Hot Choco Latte Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Peony Solid Glass Tea Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Iridescent Dimple Glass Tea Mug,20240413,drinks,True
+ASDA,3.0,13.6,kg,Options Instant Belgian Choc Mint,20240413,drinks,False
+ASDA,3.0,13.6,kg,Options Instant Belgian Choc,20240413,drinks,False
+ASDA,3.0,40.0,l,Colgate Total Advanced Deep Clean Toothpaste,20240413,drinks,False
+ASDA,2.4,1.2,l,Yeo Valley Organic Free Range Fresh Whole Milk,20240413,drinks,False
+ASDA,3.0,13.6,kg,Options Instant Belgian Choc Salted Caramel,20240413,drinks,False
+ASDA,3.0,13.6,kg,Options Instant White Choc,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Grey Smoked Dimple Glass Tea Mug,20240413,drinks,True
+ASDA,24.0,24.0,unit,George Home Cream Fast Boil Scandi Kettle GTK201WC-21,20240413,drinks,True
+ASDA,3.85,12.8,kg,Ovaltine Chocolate Light,20240413,drinks,False
+ASDA,0.4,36.4,kg,Options Options Belgian Choc Mint,20240413,drinks,False
+ASDA,1.9,0.95,l,ASDA British Milk Filtered Whole 2 Litres,20240413,drinks,True
+ASDA,18.0,18.0,unit,George Home Grey Fast Boil Scandi Kettle GTK201WG-21,20240413,drinks,True
+ASDA,8.0,8.0,unit,George Home White Kettle 1.7L,20240413,drinks,True
+ASDA,0.4,36.4,kg,Options Instant Belgian Choc Orange Sachet,20240413,drinks,False
+ASDA,18.0,18.0,unit,George Home Black Diamond Effect Body Kettle 1.7L,20240413,drinks,True
+ASDA,2.5,16.67,kg,Castello Danish Blue Cheese,20240413,drinks,False
+ASDA,0.4,36.4,kg,Options Instant White Choc Sachet,20240413,drinks,False
+ASDA,4.3,23.9,kg,Cadbury Highlights Milk Choc Drink 180g,20240413,drinks,False
+ASDA,18.0,18.0,unit,George Home White Diamond Effect Body Kettle 1.7L,20240413,drinks,True
+ASDA,16.0,16.0,unit,George Home Steel Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,3.0,100.0,kg,Galaxy Flavour Up 15 x 2g (30g),20240413,drinks,False
+ASDA,18.0,18.0,unit,George Home Grey Textured Fast Boil Kettle,20240413,drinks,True
+ASDA,20.0,20.0,unit,George Home Sage Green Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,16.0,16.0,unit,George Home Glass Fast Boil Kettle 1.7,20240413,drinks,True
+ASDA,16.0,16.0,unit,George Home Grey Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,24.0,24.0,unit,Scoville Fast Boil Glass Kettle 1.7L,20240413,drinks,False
+ASDA,24.0,24.0,unit,George Home Green Scandi Kettle GTK201G-22,20240413,drinks,True
+ASDA,18.0,18.0,unit,George Home Yellow Fast Boil Textured Kettle GTK101Y-21,20240413,drinks,True
+ASDA,20.0,20.0,unit,George Home Red Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,24.0,24.0,unit,George Home White And Wood Textured Scandi Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,22.0,22.0,unit,Scoville Grey Fast Boil Kettle 1.7L,20240413,drinks,False
+ASDA,30.0,30.0,unit,Breville Bold Black Electric Kettle 1.7L Black & Silver Chrome VKT221,20240413,drinks,False
+ASDA,18.0,18.0,unit,George Home Black Milk Frother GMF101G-22,20240413,drinks,True
+ASDA,21.0,21.0,unit,George Home Smoked Glass Fast Boil Kettle,20240413,drinks,True
+ASDA,18.0,18.0,unit,George Home Cream Textured Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,22.0,22.0,unit,Scoville White Fast Boil Kettle 1.7L,20240413,drinks,False
+ASDA,23.0,23.0,unit,George Home 1.7L Glass Kettle GGK402I-22,20240413,drinks,True
+ASDA,22.0,22.0,unit,Scoville Black Fast Boil Kettle 1.7L,20240413,drinks,False
+ASDA,17.0,17.0,unit,George Home Black Ribbed Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,18.0,18.0,unit,George Home Black Milk Frother,20240413,drinks,True
+ASDA,23.0,23.0,unit,George Home Rose Gold 1.7L Smoked Glass Kettle GGK402RG-22,20240413,drinks,True
+ASDA,18.0,18.0,unit,George Home Blue & Wood Textured Scandi Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,32.0,32.0,unit,George Home Black 1.5L 1-Cup Kettle GHWD-22,20240413,drinks,True
+ASDA,18.0,18.0,unit,George Home 1.7L Traditional Kettle - Stainless Steel,20240413,drinks,True
+ASDA,24.0,24.0,unit,Gino D'Acampo Fast Boil Glass Kettle 1.7L,20240413,drinks,False
+ASDA,22.0,22.0,unit,George Home Matte White Scandi Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,26.0,26.0,unit,Russell Hobbs Silver 23911 Adventure Kettle 1.7L,20240413,drinks,False
+ASDA,30.0,30.0,unit,George Home Black Fast Boil Pyramid Kettle GPK401RG-21,20240413,drinks,True
+ASDA,28.0,28.0,unit,Russell Hobbs Black Honeycomb Kettle 1.7L,20240413,drinks,False
+ASDA,30.0,30.0,unit,George Home Marble Effect Pyramid Kettle 1.7L,20240413,drinks,True
+ASDA,25.0,25.0,unit,George Home Matte Grey Scandi Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,17.0,17.0,unit,George Home Navy Ribbed Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,27.0,27.0,unit,Gino D'Acampo Soft Touch Grey Milk Frother,20240413,drinks,False
+ASDA,27.0,27.0,unit,Gino D'Acampo Green Fast Boil Kettle 1.7L,20240413,drinks,False
+ASDA,28.0,28.0,unit,Russell Hobbs White Honeycomb Kettle 1.7L,20240413,drinks,False
+ASDA,45.0,45.0,unit,Swan 1.7L Nordic Style Cordless Kettle,20240413,drinks,False
+ASDA,18.0,18.0,unit,George Home Stainless Steel Traditional Kettle 1.7L,20240413,drinks,True
+ASDA,17.0,17.0,unit,George Home Grey Ribbed Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,23.0,23.0,unit,George Home Fast Boil Glass Kettle GGK403C-21,20240413,drinks,True
+ASDA,23.0,23.0,unit,Breville Bold Ice Grey Electric Kettle 1.7L Grey & Silver Chrome VKT222,20240413,drinks,False
+ASDA,30.0,30.0,unit,Breville Bold Vanilla Cream Electric Kettle 1.7L Cream & Silver Chrome VKT223,20240413,drinks,False
+ASDA,27.0,27.0,unit,Gino D'Acampo Grey Fast Boil Kettle 1.7L,20240413,drinks,False
+ASDA,21.0,21.0,unit,George Home White Stainless Steel Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,15.0,15.0,unit,George Home Jug Kettle - Brushed Steel,20240413,drinks,True
+ASDA,25.0,25.0,unit,George Home Matte Black Scandi Fast Boil Kettle 1.7L,20240413,drinks,True
+ASDA,21.0,21.0,unit,George Home Diamond Texture 1.7L Glass Kettle GGTKB-22,20240413,drinks,True
+ASDA,3.5,14.0,kg,Drink Me Spiced Chai Latte,20240413,drinks,False
+ASDA,28.0,28.0,unit,Russell Hobbs Honeycomb Grey Kettle 26053,20240413,drinks,False
+ASDA,27.0,27.0,unit,Gino D'Acampo Black Fast Boil Kettle 1.7L,20240413,drinks,False
+ASDA,4.0,13.3,kg,Ovaltine Original Light,20240413,drinks,False
+ASDA,5.0,1.25,unit,George Home Marble-effect Mug 4 Pack,20240413,drinks,True
+ASDA,4.0,13.3,kg,Ovaltine Original,20240413,drinks,False
+ASDA,30.0,30.0,unit,George Home Black 1.5L Digital Kettle GDK101B-22,20240413,drinks,True
+ASDA,2.0,5.0,kg,ASDA Instant Malt Drink,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Purple Bottle,20240413,drinks,True
+ASDA,0.35,10.9,kg,Horlicks Instant,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Blue Water Bottle,20240413,drinks,True
+ASDA,1.0,1.0,unit,George Home Clear Water Bottle,20240413,drinks,True
+ASDA,3.5,17.5,kg,Drink Me Chai Dirty Chai Latte 200g,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home Bottle,20240413,drinks,True
+ASDA,6.0,3.0,unit,At Home with Stacey Solomon White Beaded Mugs - Set of 2,20240413,drinks,False
+ASDA,3.0,3.0,unit,Sistema Aqua Twist & Sip Bottle,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home Travel Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,Sistema Twist 'n' Sip Blue Water Bottle 620ml,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home Unicorn Bottle,20240413,drinks,True
+ASDA,12.5,12.5,unit,Contigo Byron Grey Travel Mug,20240413,drinks,False
+ASDA,0.4,16.0,kg,Ovaltine Original Light 25g,20240413,drinks,False
+ASDA,6.0,6.0,unit,George Home Stainless Steel Flask,20240413,drinks,True
+ASDA,4.0,4.0,unit,George Home Ombre Tracker Bottle,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Ombre Bottle 1.7L,20240413,drinks,True
+ASDA,10.0,10.0,unit,Scoville Neverleak Insulated Flood Flask with Foldable Spoon 500ml,20240413,drinks,False
+ASDA,12.5,12.5,unit,Contigo Byron Red Travel Mug,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Tracker Bottle 700ml,20240413,drinks,True
+ASDA,15.0,15.0,unit,Thermos Black Premier Flask 1L,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Ombre Bottle,20240413,drinks,True
+ASDA,8.0,8.0,unit,George Home Carry Bottle 2.1L,20240413,drinks,True
+ASDA,9.0,9.0,unit,Contigo AutoSeal Tritan Renew Plastic Reusable Water Bottle 720ml,20240413,drinks,False
+ASDA,8.0,8.0,unit,Scoville Neverleak Insulated Travel Mug with Sleeve 450ml,20240413,drinks,False
+ASDA,5.5,5.5,unit,Décor Snap n Seal Bottle 500ml Black,20240413,drinks,False
+ASDA,7.0,7.0,unit,Décor Bottle 700ml - Colour May Vary,20240413,drinks,False
+ASDA,10.0,10.0,unit,Contigo AutoSpout with Straw Tritan Renew Plastic Reusable Water Bottle 720ml,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Blue Sipper Bottle,20240413,drinks,True
+ASDA,13.5,13.5,unit,Thermos Thermocafé Stainless Steel Hammertone Flask,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Pink Water Bottle,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Sport Bottle Pink,20240413,drinks,True
+ASDA,6.5,6.5,unit,Sistema Hydrate 520ml Quick Flip Lid Bottle (Colours Vary),20240413,drinks,False
+ASDA,5.0,5.0,unit,Sistema Bottle,20240413,drinks,False
+ASDA,5.0,5.0,unit,Disney Stitch Glitter Sipper Bottle,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home Sports Bottle,20240413,drinks,True
+ASDA,6.0,6.0,unit,George Home Double Wall Travel Tumbler Dotty,20240413,drinks,True
+ASDA,12.0,12.0,unit,Sistema Stainless Steel Water Bottle - 500ml,20240413,drinks,False
+ASDA,5.5,5.5,unit,Décor Snap n Seal Bottle 500ml Pink,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Mini Flask,20240413,drinks,True
+ASDA,10.0,10.0,unit,Contigo Ashland Water Bottle,20240413,drinks,False
+ASDA,4.5,4.5,unit,George Home Dark Grey Flask,20240413,drinks,True
+ASDA,6.0,6.0,unit,George Home Matte Beige Travel Mug,20240413,drinks,True
+ASDA,12.5,12.5,unit,Contigo Byron 2.0 Sake SNAPSEAL™ Travel Mug,20240413,drinks,False
+ASDA,12.5,12.5,unit,Contigo Byron 2.0 Juniper SNAPSEAL™ Travel Mug,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Black Double Walled Canteen,20240413,drinks,True
+ASDA,6.0,6.0,unit,George Home Double Wall Travel Tumbler Black 450ml,20240413,drinks,True
+ASDA,6.0,6.0,unit,Décor Bands Bottle (Colour May Vary),20240413,drinks,False
+ASDA,7.5,7.5,unit,Sistema Flip Bottle,20240413,drinks,False
+ASDA,4.0,4.0,unit,Décor Aqua/Pink Tritan Bottle 600ml,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Black Marble Double Walled Canteen,20240413,drinks,True
+ASDA,7.0,7.0,unit,George Home Sipper Gym Bottle 2.2L,20240413,drinks,True
+ASDA,7.0,7.0,unit,Sistema Hydrate 600ml Tritan Swift Bottle (Colours Vary),20240413,drinks,False
+ASDA,10.0,10.0,unit,Contigo Desk Mug Sake,20240413,drinks,False
+ASDA,5.0,5.0,unit,Disney Stitch Soda Cup,20240413,drinks,False
+ASDA,6.0,6.0,unit,George Home Matte Black Flask,20240413,drinks,True
+ASDA,9.0,9.0,unit,Décor Black Food Flask,20240413,drinks,False
+ASDA,3.0,3.0,unit,Sistema Pink Twist & Sip Bottle,20240413,drinks,False
+ASDA,10.0,10.0,unit,Scoville Neverleak Insulated Flask 1L,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Double Wall Slim Travel Tumbler Rose Gold 400ml,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Large Bottle - Grey,20240413,drinks,True
+ASDA,13.5,13.5,unit,Thermos Glass Lined Flask,20240413,drinks,False
+ASDA,7.0,7.0,unit,George Home Glass Lined Flask,20240413,drinks,True
+ASDA,8.0,8.0,unit,Décor Energy Bottle - Colour May Vary,20240413,drinks,False
+ASDA,8.0,8.0,unit,George Home Stainless Steel Sipper Bottle Black 700ml,20240413,drinks,True
+ASDA,7.0,7.0,unit,Sistema Hydrate 645ml Tritan Hourglass Bottle (Colours Vary),20240413,drinks,False
+ASDA,5.0,5.0,unit,Avengers Sipper Bottle 585ml,20240413,drinks,False
+ASDA,8.0,8.0,unit,George Home Black Food Flask With Spoon,20240413,drinks,True
+ASDA,12.5,12.5,unit,Contigo Byron Blue Travel Mug,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Double Wall Slim Travel Tumbler Black 400ml,20240413,drinks,True
+ASDA,8.0,8.0,unit,Décor Navy Travel Tumbler,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Gym Bottle,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Ombre Double Walled Canteen,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Grey Travel Tumbler 400ml,20240413,drinks,True
+ASDA,4.0,4.0,unit,George Home Daisy Glitter Bottle,20240413,drinks,True
+ASDA,8.0,8.0,unit,Scoville Neverleak Insulated Travel Mug 450ml,20240413,drinks,False
+ASDA,3.5,3.5,unit,Sistema Pink Twist and Sip Bottle 620ml,20240413,drinks,False
+ASDA,4.0,4.0,unit,George Home Bee Glitter Bottle,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Navy Chugger Bottle,20240413,drinks,True
+ASDA,6.0,6.0,unit,Kichna Black Stainless Steel Tumbler,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Navy Sipper Bottle,20240413,drinks,True
+ASDA,6.0,6.0,unit,George Home Ombre Sippy Cup,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Dark Grey Tracker Bottle,20240413,drinks,True
+ASDA,14.0,14.0,unit,Kichna 1.2L Cream Waverley Travel Cup,20240413,drinks,False
+ASDA,8.0,8.0,unit,Scoville Neverleak Insulated Flask 500ml,20240413,drinks,False
+ASDA,12.5,12.5,unit,Contigo Byron Black Travel Mug,20240413,drinks,False
+ASDA,14.0,14.0,unit,Kichna 1.2L Ombre Waverley Travel Cup,20240413,drinks,False
+ASDA,5.0,5.0,unit,Sistema Hydrate 600ml Wave Bottle (Colours Vary),20240413,drinks,False
+ASDA,4.0,4.0,unit,George Home Aqua Water Bottle,20240413,drinks,True
+ASDA,7.0,7.0,unit,George Home Ceramic-Lined Travel Mug,20240413,drinks,True
+ASDA,8.0,8.0,unit,George Home Ombre Gym Bottle Sipper,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Teal Frosted Bottle,20240413,drinks,True
+ASDA,13.0,13.0,unit,Scoville Neverleak Insulated Picnic Flask 1L,20240413,drinks,False
+ASDA,14.0,14.0,unit,Sistema Chic Stainless Steel Bottle - Colour May Vary,20240413,drinks,False
+ASDA,8.0,8.0,unit,Disney Stitch Metal Soda Cup,20240413,drinks,False
+ASDA,10.0,10.0,unit,George Home Black Stainless Steel Food Flask,20240413,drinks,True
+ASDA,4.0,4.0,unit,George Home Aqua Tracker Bottle,20240413,drinks,True
+ASDA,8.0,8.0,unit,George Home Matte Beige Food Flask With Spoon,20240413,drinks,True
+ASDA,4.5,4.5,unit,George Home 500ml Matte Beige Flask,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Purple Tracker Bottle,20240413,drinks,True
+ASDA,20.0,20.0,unit,Contigo AUTOSPOUT™ - Ashland Chill Matte Black,20240413,drinks,False
+ASDA,6.0,6.0,unit,George Home Purple Sipper Water Bottle,20240413,drinks,True
+ASDA,6.0,6.0,unit,George Home 1L Matte Beige Flask,20240413,drinks,True
+ASDA,10.0,10.0,unit,Décor 1L Ombre Snap n Seal Bottle,20240413,drinks,False
+ASDA,5.0,5.0,unit,Avengers Sippy Cup 685ml,20240413,drinks,False
+ASDA,7.0,7.0,unit,Décor 300ml White Mini Flask,20240413,drinks,False
+ASDA,7.0,7.0,unit,Décor Black Mini Flask,20240413,drinks,False
+ASDA,13.0,13.0,unit,Contigo AUTOPOP™ - Jackson 2.0 Chill Blue Corn,20240413,drinks,False
+ASDA,6.0,6.0,unit,Disney Glitter Sipper Bottle,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Grey Mini Flask,20240413,drinks,True
+ASDA,1.0,1.0,unit,George Home Full Colour Single Mug Grey,20240413,drinks,True
+ASDA,1.0,1.0,unit,George Home Full Colour Single Mug Black,20240413,drinks,True
+ASDA,0.6,0.6,unit,George Home White Single Mug,20240413,drinks,True
+ASDA,7.0,7.0,unit,George Home Travel Tumbler 450ml,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Grey Bisque Single Mug,20240413,drinks,True
+ASDA,1.8,1.8,unit,George Home Jumbo Cappuccino Single Mug,20240413,drinks,True
+ASDA,1.0,1.0,unit,George Home Full Colour Single Mug White,20240413,drinks,True
+ASDA,6.0,6.0,unit,Kichna Beige Soft Touch Stainless Steel Bottle,20240413,drinks,False
+ASDA,4.5,4.5,unit,George Home Harry Potter Shaped Single Mug,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Matte Beige Double Walled Canteen,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home The Boss Large Single Mug,20240413,drinks,True
+ASDA,14.0,14.0,unit,Scoville Neverleak Insulated Picnic Flask 1.2L,20240413,drinks,False
+ASDA,12.0,12.0,unit,George Home 1L Picnic Flask - Gunmetal,20240413,drinks,True
+ASDA,7.0,7.0,unit,George Home Travel Tumbler 550ml,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Blue Bisque Single Mug,20240413,drinks,True
+ASDA,7.0,7.0,unit,Décor 750ml Athletic Tritan Bottle,20240413,drinks,False
+ASDA,1.75,1.75,unit,George Home Bee Decal Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Cat Mum Single Mug,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Black Bisque Single Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,At Home with Stacey Solomon White Bunny Mug,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home The Boss Single Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Blue Reactive Glaze Single Mug,20240413,drinks,True
+ASDA,4.0,4.0,unit,At Home with Stacey Solomon Clear Bunny Double Wall Mug,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Disney Stitch Love Mug,20240413,drinks,True
+ASDA,1.75,1.75,unit,George Home Rabbit Mug,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Green Bisque Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Ribbed Cappuccino Single Mug,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Butterfly Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Guinea Pig Shaped Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Skull Wax Resist Single Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,Disney Nightmare Before Christmas Cappucino Mug,20240413,drinks,False
+ASDA,3.5,3.5,unit,George Home Vintage Footed Glass Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Grey Reactive Glaze Round Mug,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Black Striped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Mary Poppins Single Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Grey Reactive Glaze Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Star Dad Single Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Spiderman Single Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Bee Footed Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Dog Dad Single Mug,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Mike Shaped,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Vertical Ribbed White Mug,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Apricot Bisque Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Disney Alice In Wonderland Scalloped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Mickey And Minnie Cappuccino Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Double Wall Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Trophy Shaped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Boofle Flower Mug,20240413,drinks,False
+ASDA,5.0,5.0,unit,George Home Sulley Shaped Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Dog Mum Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Vertical Ribbed Grey Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home White Disney Dumbo Single Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Iridescent Cappuccino Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Union Jack Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Bat Wax Resist Mug,20240413,drinks,True
+ASDA,1.5,1.5,unit,George Home Flying Pig Single Mug,20240413,drinks,True
+ASDA,1.7,1.7,unit,George Home Yellow Handled Glass Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Ribbed Latte Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Paris Icons Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Hearts Single Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Disney Nightmare Before Christmas Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Grey Speckled Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Disney Bambi Decal Mug,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home Ooh La La Mug,20240413,drinks,True
+ASDA,1.7,1.7,unit,George Home Blue Handled Glass Mug,20240413,drinks,True
+ASDA,1.75,1.75,unit,George Home Trophy Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Disney Winnie The Pooh Mug,20240413,drinks,True
+ASDA,1.75,1.75,unit,George Home Cactus Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Riviera Black Stripe Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Green Reactive Glaze Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Harry Potter Cappucino Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Red Mickey Decal Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Smoked Latte Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Large Gaming Single Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Embossed Daisy Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Clear Ribbed Glass Cappuccino Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Green Cactus-Shaped Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Smoked Cappuccino Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home King Of Everything Single Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Smoked Double Wall Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - L,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - S,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Amber Ribbed Glass Cappuccino Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Double Wall Latte Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Butterfly Meadow Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Riviera Blue Stripe Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Frenchie Shaped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Sony Ghostbusters Mug,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Pink Reactive Glaze ‘Mrs’ Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - T,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - M,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - A,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Electroplated Pearl Glaze Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Elephant Decal Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home White Cockapoo Graphic Single Mug,20240413,drinks,True
+ASDA,1.25,1.25,unit,George Home Coral Bisque Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Black Reactive Glaze Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Iridescent Seal Shaped Mug,20240413,drinks,True
+ASDA,1.75,1.75,unit,George Home Bloom Mug,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Gizmo Shaped Mug,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Disney Nightmare Before Christmas Jack-Shaped Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - C,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - R,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Star Mum Single Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Boofle Mum Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Boofle Friend Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home White & Orange 3D Crab-Shaped Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Pink Poodle-Shaped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Green Reactive Glaze ‘Mr’ Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Orange Ribbed Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Winnie The Pooh Heart Alphabet Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Vertical Ribbed Green Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - D,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - H,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Queen Of Everything Single Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Disney Disney Pride Mug,20240413,drinks,False
+ASDA,4.0,4.0,unit,George Home White Reactive Glaze Bubble Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Black Ribbed Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Yellow & White Reactive Glaze 'Mum' Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Cat Dad Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - J,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - B,20240413,drinks,True
+ASDA,3.75,3.75,unit,George Home Blue Ribbed Reactive Single Mug,20240413,drinks,True
+ASDA,5.0,5.0,unit,George Home Angel Shaped Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - K,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - N,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Red Snake-Shaped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Boofle Love Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Warner Wizard Of Oz Mug,20240413,drinks,False
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - P,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Grey Latte Single Mug,20240413,drinks,True
+ASDA,2.0,2.0,unit,George Home Red And Pink Stripe Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Sony ET Mug,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Boofle Million Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home White & Blue 3D Fish-Shaped Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Zebra Shaped Single Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - E,20240413,drinks,True
+ASDA,4.0,4.0,unit,George Home Disney 3D Tigger-Shaped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,George Home Blue & White Reactive Glaze 'Dad' Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Bonjour Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Red Alphabet Glass Mug - G,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Grey Gorilla-Shaped Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home White & Blue 3D Seahorse-Shaped Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,BBC Only Fools And Horses Mug,20240413,drinks,False
+ASDA,3.0,3.0,unit,George Home Deadpool Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Squirrel Shaped Single Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Brown Bearded Dragon-Shaped Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Teal Ribbed Mug,20240413,drinks,True
+ASDA,2.5,2.5,unit,George Home Natural Reactive Mug,20240413,drinks,True
+ASDA,3.0,3.0,unit,Warner Goonies Mug,20240413,drinks,False
+ASDA,4.0,4.0,unit,George Home Disney 3D Mickey Mouse-Shaped Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home Brown Cat-Shaped Mug,20240413,drinks,True
+ASDA,3.5,3.5,unit,George Home White & Yellow 3D Octopus-Shaped Mug,20240413,drinks,True
+ASDA,1.75,1.75,unit,George Home Cowgirl Mug,20240413,drinks,True
+ASDA,1.75,1.75,unit,George Home Howdy Mug,20240413,drinks,True
+ASDA,4.0,4.0,unit,George Home Black Reactive Glaze Bubble Mug,20240413,drinks,True
+ASDA,1.5,2.5,kg,ASDA Mixed Vegetable Stir-Fry,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Coconut & Lemongrass Stir-Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Chow Mein Stir Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Katsu Curry Stir Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Hoi Sin Stir Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,3.12,kg,ASDA Sweet & Crunchy Mixed Pepper Stir-Fry,20240413,fresh_food,True
+ASDA,1.0,3.1,kg,ASDA Savoury & Tender Mushroom Stir-fry 320g,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Fragrant & Rich Black Bean Stir-Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Soy & Garlic Stir Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Sweet Chilli Stir Fry Sauce,20240413,fresh_food,True
+ASDA,1.5,2.5,kg,ASDA Egg Noodles,20240413,fresh_food,True
+ASDA,1.0,3.1,kg,ASDA Mild & Crisp Edamame Bean & Broccoli Stir-Fry 320g,20240413,fresh_food,True
+ASDA,1.0,4.4,kg,ASDA Mild & Delicate Rice Noodles,20240413,fresh_food,True
+ASDA,2.5,10.4,kg,ASDA Extra Special Stir Fry Baby Vegetable,20240413,fresh_food,True
+ASDA,1.75,8.1,kg,ASDA Caesar Salad Kit,20240413,fresh_food,True
+ASDA,2.0,6.2,kg,ASDA Piri Piri Chicken Pasta Salad,20240413,fresh_food,True
+ASDA,0.5,2.5,kg,ASDA Crunchy Beansprouts,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Firecracker Stir-Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,5.9,kg,ASDA Korean-Style BBQ Stir-Fry Sauce,20240413,fresh_food,True
+ASDA,1.0,3.12,kg,ASDA Crunchy & Vibrant Rainbow Vegetable Stir-Fry 320g,20240413,fresh_food,True
+ASDA,0.85,3.7,kg,ASDA Fine Cut Salad,20240413,fresh_food,True
+ASDA,1.0,3.1,kg,ASDA Sweet & Crunchy Oriental-Style Stir-Fry 320g,20240413,fresh_food,True
+ASDA,1.0,7.4,kg,ASDA Mediterranean Style Salad,20240413,fresh_food,True
+ASDA,1.0,4.0,kg,ASDA Spicy & Rich Rice Noodles,20240413,fresh_food,True
+ASDA,0.85,9.4,kg,ASDA Mild Pea Shoot Salad,20240413,fresh_food,True
+ASDA,1.0,5.0,kg,ASDA Mild Mixed Leaf Salad,20240413,fresh_food,True
+ASDA,1.0,5.6,kg,ASDA Mild Baby Leaf Salad,20240413,fresh_food,True
+ASDA,2.0,7.1,kg,The Health Menu by ASDA Spicy Mexican Style Salad Bowl 280g,20240413,fresh_food,True
+ASDA,2.0,5.6,kg,ASDA Sweet & Smoky BBQ Chicken Pasta Salad,20240413,fresh_food,True
+ASDA,2.0,7.0,kg,The Health Menu by ASDA Potato & Free Range Egg Salad 285g,20240413,fresh_food,True
+ASDA,0.75,3.1,kg,ASDA Sweet Leaf & Carrot Salad,20240413,fresh_food,True
+ASDA,1.0,12.5,kg,Homegrown Mixed Salad 80g,20240413,fresh_food,False
+ASDA,1.0,8.0,kg,Florette Mixed Salad 125g,20240413,fresh_food,False
+ASDA,0.85,9.4,kg,ASDA Mixed Baby Leaf Salad Bag,20240413,fresh_food,True
+ASDA,2.0,5.5,kg,ASDA Mild & Savoury Cheese Pasta Salad,20240413,fresh_food,True
+ASDA,0.85,11.3,kg,ASDA Mild Baby Leaf & Rocket Salad,20240413,fresh_food,True
+ASDA,2.0,8.0,kg,ASDA Crisp & Mild Ham & Free Range Egg Salad 250g,20240413,fresh_food,True
+ASDA,0.96,5.2,kg,ASDA Sweet & Crisp Mixed Salad 185g,20240413,fresh_food,True
+ASDA,2.0,6.9,kg,ASDA Rich & Crisp Chicken & Bacon Caesar Pasta Salad 290g,20240413,fresh_food,True
+ASDA,0.85,7.1,kg,"ASDA Beetroot, Baby Spinach & Baby Kale Salad",20240413,fresh_food,True
+ASDA,1.25,8.9,kg,Florette Classic Crispy Strong Salad,20240413,fresh_food,False
+ASDA,1.0,8.3,kg,"ASDA Strong & Peppery Watercress, Spinach & Rocket 120g",20240413,fresh_food,True
+ASDA,1.0,13.3,kg,ASDA Strong & Aromatic Herb Salad 75g,20240413,fresh_food,True
+ASDA,2.0,5.8,kg,ASDA Crisp & Tender Chicken & Bacon Pasta Salad,20240413,fresh_food,True
+ASDA,2.0,5.6,kg,ASDA Tender & Crisp Tuna Pasta Salad 360g,20240413,fresh_food,True
+ASDA,0.85,5.0,kg,ASDA Sweet & Delicate Mild Bistro Salad 170g,20240413,fresh_food,True
+ASDA,2.0,5.9,kg,ASDA Sweet & Tangy Prawn Pasta Salad 340g,20240413,fresh_food,True
+ASDA,2.0,7.4,kg,ASDA Vibrant & Creamy Mozzarella & Pesto Pasta Salad,20240413,fresh_food,True
+ASDA,1.0,14.3,kg,"ASDA Extra Special Pea Shoots, Red Chard, Red Pak Choi & Purple Radish Salad",20240413,fresh_food,True
+ASDA,1.75,2.33,kg,ASDA Sweet & Balanced Salad Tomatoes,20240413,fresh_food,True
+ASDA,0.85,14.2,kg,ASDA Wild Rocket,20240413,fresh_food,True
+ASDA,1.5,4.6,kg,ASDA Sweet & Crunchy Rainbow Sharing Salad,20240413,fresh_food,True
+ASDA,0.95,0.16,unit,JUST ESSENTIALS by ASDA Salad Tomatoes,20240413,fresh_food,True
+ASDA,2.0,6.7,kg,ASDA Spicy & Tender Chicken & Wholewheat Pasta Salad 300g,20240413,fresh_food,True
+ASDA,2.0,7.1,kg,ASDA Crunchy & Fragrant Sweet Chilli Chicken Noodle Salad,20240413,fresh_food,True
+ASDA,0.4,0.4,unit,ASDA Spicy & Peppery Salad Cress,20240413,fresh_food,True
+ASDA,1.0,3.33,kg,ASDA Protein Egg Noodles,20240413,fresh_food,True
+ASDA,1.0,5.6,kg,ASDA Mild Tender Baby Spinach,20240413,fresh_food,True
+ASDA,1.25,4.17,kg,ASDA Mild & Tender Spinach,20240413,fresh_food,True
+ASDA,1.0,11.8,kg,ASDA Watercress,20240413,fresh_food,True
+ASDA,0.89,0.45,unit,ASDA Crisp & Crunchy Little Gem Lettuce,20240413,fresh_food,True
+ASDA,0.3,7.5,kg,ASDA Garlic & Herb Oven Baked Croutons,20240413,fresh_food,True
+ASDA,1.15,4.2,kg,ASDA Vibrant & Crunchy Ranch Coleslaw Kit,20240413,fresh_food,True
+ASDA,0.3,7.5,kg,ASDA Black Pepper and Sea Salt Oven Baked Croutons,20240413,fresh_food,True
+ASDA,1.15,4.2,kg,ASDA Creamy & Crunchy Coleslaw Kit with Mayonnaise 275g,20240413,fresh_food,True
+ASDA,1.09,0.55,unit,ASDA Sweet & Crisp Romaine Lettuce Hearts,20240413,fresh_food,True
+ASDA,1.0,12.5,kg,Homegrown Hot & Peppery Cress 80g,20240413,fresh_food,False
+ASDA,0.5,12.5,kg,ASDA Extra Special Cheese & Shallot Croutons,20240413,fresh_food,True
+ASDA,1.6,8.0,kg,ASDA Crisp & Tender Rainbow Chard,20240413,fresh_food,True
+ASDA,1.15,6.6,l,ASDA Rich & Creamy Garlic & Herb Dressing,20240413,fresh_food,True
+ASDA,1.0,5.0,kg,ASDA Cool & Crunchy Mini Cucumbers,20240413,fresh_food,True
+ASDA,0.79,6.32,kg,ASDA Fragrant & Crunchy Spring Onions,20240413,fresh_food,True
+ASDA,1.15,6.6,l,ASDA Tangy & Rich Caesar Dressing,20240413,fresh_food,True
+ASDA,0.5,3.9,kg,ASDA Shredded Iceberg Lettuce,20240413,fresh_food,True
+ASDA,0.89,0.89,unit,ASDA Whole Cucumber,20240413,fresh_food,True
+ASDA,1.15,6.6,l,ASDA French Dressing with Dijon Mustard 175ml,20240413,fresh_food,True
+ASDA,0.7,2.0,kg,ASDA Loose Mooli (Typically 350g),20240413,fresh_food,True
+ASDA,1.15,6.6,l,ASDA Sweet & Tangy Honey & Mustard Dressing,20240413,fresh_food,True
+ASDA,0.65,3.3,kg,ASDA Sweet & Crisp Iceberg Lettuce 200g,20240413,fresh_food,True
+ASDA,0.79,0.79,unit,ASDA Iceberg Lettuce,20240413,fresh_food,True
+ASDA,1.0,5.71,kg,ASDA Extra Special Apple Balsamic Vinegar Infused Beetroot,20240413,fresh_food,True
+ASDA,1.15,6.6,l,OMV! Deliciously Vegan Pesto Style Dressing,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Organic Organic Spring Onions,20240413,fresh_food,True
+ASDA,1.09,1.09,unit,ASDA Organic Cucumber,20240413,fresh_food,True
+ASDA,1.4,8.0,l,ASDA Extra Special Balsamic Dressing,20240413,fresh_food,True
+ASDA,0.6,0.6,unit,ASDA Cool & Crunchy Cucumber Portion,20240413,fresh_food,True
+ASDA,1.19,3.4,kg,ASDA Mild & Crunchy Celery Sticks,20240413,fresh_food,True
+ASDA,0.69,0.69,unit,JUST ESSENTIALS by ASDA Round Lettuce,20240413,fresh_food,True
+ASDA,0.95,0.95,unit,ASDA Fragrant & Punchy Jumbo Spring Onions,20240413,fresh_food,True
+ASDA,0.7,2.33,kg,ASDA Sweet & Juicy Cooked Beetroot,20240413,fresh_food,True
+ASDA,1.25,1.25,unit,ASDA Crunchy & Fragrant Vine Ripened Tomatoes,20240413,fresh_food,True
+ASDA,0.95,3.17,kg,ASDA Pickled Beetroot,20240413,fresh_food,True
+ASDA,3.0,6.82,kg,ASDA Extra Special Aromatico Tomatoes,20240413,fresh_food,True
+ASDA,0.69,0.69,unit,ASDA Mild & Crunchy Celery,20240413,fresh_food,True
+ASDA,2.0,2.0,unit,ASDA Organic Lettuce (Variety may vary),20240413,fresh_food,True
+ASDA,3.0,2.0,kg,ASDA Crunchy & Flavoursome Peppers (Colour may vary),20240413,fresh_food,True
+ASDA,1.2,1.2,unit,ASDA Vine Ripened Cherry Tomatoes,20240413,fresh_food,True
+ASDA,1.79,0.6,unit,ASDA Crisp & Fragrant Sweet Peppers 3 Pack (Colour may vary),20240413,fresh_food,True
+ASDA,1.75,7.95,kg,ASDA Extra Special Hand Picked Aromatico Tomatoes,20240413,fresh_food,True
+ASDA,0.59,0.59,unit,ASDA Red Pepper,20240413,fresh_food,True
+ASDA,1.25,5.0,kg,ASDA Strong & Crunchy Chicory,20240413,fresh_food,True
+ASDA,1.69,0.56,unit,JUST ESSENTIALS by ASDA Mixed Peppers (Colour may vary),20240413,fresh_food,True
+ASDA,1.35,0.68,unit,ASDA Extra Special Sweet Pointed Peppers (colours may vary),20240413,fresh_food,True
+ASDA,0.62,1.24,kg,JUST ESSENTIALS by ASDA Cooked Beetroot,20240413,fresh_food,True
+ASDA,1.7,0.85,unit,ASDA Organic Peppers (Colour may vary),20240413,fresh_food,True
+ASDA,1.5,7.5,kg,ASDA Extra Special Baby Peppers,20240413,fresh_food,True
+ASDA,1.75,7.95,kg,ASDA Extra Special Petite Plum Vine Tomatoes,20240413,fresh_food,True
+ASDA,2.1,0.53,unit,ASDA Extra Special Vine Ripened Tomatoes,20240413,fresh_food,True
+ASDA,0.59,0.59,unit,ASDA Green Pepper,20240413,fresh_food,True
+ASDA,1.0,4.0,kg,Florette Beetroot 250g,20240413,fresh_food,False
+ASDA,0.59,0.59,unit,ASDA Orange Pepper,20240413,fresh_food,True
+ASDA,0.91,3.03,kg,ASDA Sweet & Fruity Baby Plum Tomatoes 300g,20240413,fresh_food,True
+ASDA,0.59,0.59,unit,ASDA Yellow Pepper,20240413,fresh_food,True
+ASDA,1.9,2.71,kg,JUST ESSENTIALS by ASDA Cooking Peppers (Colour may vary),20240413,fresh_food,True
+ASDA,2.2,2.2,unit,ASDA Organic Vine Tomatoes,20240413,fresh_food,True
+ASDA,0.91,3.03,kg,ASDA Crunchy & Juicy Cherry Tomatoes 300g,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Grower's Selection Coriander,20240413,fresh_food,True
+ASDA,0.6,20.0,kg,ASDA Aromatic & Zesty Coriander,20240413,fresh_food,True
+ASDA,0.6,24.0,kg,ASDA Mild & Peppery Flat Leaf Parsley,20240413,fresh_food,True
+ASDA,0.75,0.75,unit,ASDA Beef Tomato,20240413,fresh_food,True
+ASDA,0.6,30.0,kg,ASDA Delightfully Fragrant Rosemary,20240413,fresh_food,True
+ASDA,1.8,9.0,kg,ASDA Organic Vine Ripened Cherry Tomatoes,20240413,fresh_food,True
+ASDA,0.6,20.0,kg,ASDA Cool & Refreshing Mint,20240413,fresh_food,True
+ASDA,0.6,20.0,kg,ASDA Wonderfully Aromatic Basil,20240413,fresh_food,True
+ASDA,0.6,30.0,kg,ASDA Fresh & Earthy Thyme,20240413,fresh_food,True
+ASDA,0.6,24.0,kg,ASDA Delicately Sweet Dill,20240413,fresh_food,True
+ASDA,0.6,24.0,kg,ASDA Fragrant & Mild Chives,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Aromatic & Zesty Growing Coriander,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Wonderfully Aromatic Growing Basil,20240413,fresh_food,True
+ASDA,0.6,20.0,kg,ASDA Delicate & Peppery Curly Parsley,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Grower's Selection Bunched Dill,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Cool & Refreshing Growing Garden Mint,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Bunched Methi,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Mild & Peppery Growing Flat Leaf Parsley,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Extra Special Growing Thai Basil,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Fresh & Earthy Growing Thyme,20240413,fresh_food,True
+ASDA,0.6,24.0,kg,ASDA Bold & Aromatic Sage,20240413,fresh_food,True
+ASDA,1.0,1.0,unit,ASDA Delightfully Fragrant Growing Rosemary,20240413,fresh_food,True
+ASDA,0.79,0.79,unit,ASDA Delicate & Peppery Growing Curly Parsley,20240413,fresh_food,True
+ASDA,2.0,1.0,kg,ASDA Extra Special British Potatoes 2kg,20240413,fresh_food,True
+ASDA,1.49,1.49,kg,ASDA Extra Special Baby Potatoes,20240413,fresh_food,True
+ASDA,1.5,3.33,kg,ASDA Extra Special Jersey Royal New Potatoes,20240413,fresh_food,True
+ASDA,2.29,1.15,kg,Albert Bartlett Rooster Potatoes,20240413,fresh_food,False
+ASDA,0.69,2.76,kg,JUST ESSENTIALS by ASDA Cherry Tomatoes,20240413,fresh_food,True
+ASDA,3.8,0.51,kg,ASDA Washed Potatoes,20240413,fresh_food,True
+ASDA,1.65,1.1,kg,ASDA Organic White Potatoes,20240413,fresh_food,True
+ASDA,2.0,1.0,kg,Golden Kings Golden Potatoes,20240413,fresh_food,False
+ASDA,1.1,1.47,kg,ASDA Organic Baby Potatoes,20240413,fresh_food,True
+ASDA,1.25,4.53,kg,ASDA Crisp & Fluffy Potato Croquettes,20240413,fresh_food,True
+ASDA,0.8,1.6,kg,ASDA Extra Special British Baby Potatoes,20240413,fresh_food,True
+ASDA,1.2,4.0,kg,ASDA Crisp & Golden Potato Rostis,20240413,fresh_food,True
+ASDA,1.2,3.0,kg,ASDA Crisp & Fluffy Roast Potatoes,20240413,fresh_food,True
+ASDA,0.95,1.58,kg,ASDA Versatile & Easy Peeled Potatoes,20240413,fresh_food,True
+ASDA,1.0,3.33,kg,ASDA Crispy & Golden Potato Slices,20240413,fresh_food,True
+ASDA,1.6,0.8,unit,Albert Bartlett 2 Sweet Potatoes,20240413,fresh_food,False
+ASDA,1.09,1.09,kg,ASDA Firm & Flavoursome Baby Potatoes,20240413,fresh_food,True
+ASDA,1.1,3.06,kg,ASDA Buttery & Herby Baby Potatoes,20240413,fresh_food,True
+ASDA,1.39,0.69,kg,JUST ESSENTIALS by ASDA White Potatoes 2kg,20240413,fresh_food,True
+ASDA,2.0,6.67,kg,Albert Bartlett Sweet Potato Fries 300g,20240413,fresh_food,False
+ASDA,1.5,0.38,unit,ASDA Extra Special 4 British Baking Potatoes,20240413,fresh_food,True
+ASDA,1.5,3.75,kg,ASDA Extra Special Beef Dripping Maris Piper Roast Potatoes,20240413,fresh_food,True
+ASDA,1.2,1.2,kg,ASDA Creamy & Flavoursome Sweet Potatoes,20240413,fresh_food,True
+ASDA,1.4,3.33,kg,ASDA Sweet & Vibrant Mediterranean Style Vegetables 420g,20240413,fresh_food,True
+ASDA,1.49,3.73,kg,ASDA Mediterranean Vegetables,20240413,fresh_food,True
+ASDA,1.59,0.8,kg,ASDA Fluffy & Golden Baking Potatoes 2kg,20240413,fresh_food,True
+ASDA,0.8,2.0,kg,JUST ESSENTIALS by ASDA Mashed Potato,20240413,fresh_food,True
+ASDA,1.25,3.12,kg,ASDA Rustic & Herby Garlic Parmentier Potatoes 400g,20240413,fresh_food,True
+ASDA,1.15,2.88,kg,ASDA Sweet & Creamy Root Veg Mash,20240413,fresh_food,True
+ASDA,1.9,1.9,kg,ASDA Sweet & Tender Vegetable Stew Mix 1kg,20240413,fresh_food,True
+ASDA,0.7,0.17,unit,ASDA British Fluffy & Golden Large Baking Potatoes,20240413,fresh_food,True
+ASDA,1.5,4.35,kg,ASDA Herby & Flavoursome Garlic Butter Mini Jacket Potatoes 345g,20240413,fresh_food,True
+ASDA,1.89,0.94,kg,ASDA Light & Fluffy Maris Piper Potatoes 2kg,20240413,fresh_food,True
+ASDA,1.69,0.84,kg,ASDA Fluffy & Crisp King Edward Potatoes 2kg,20240413,fresh_food,True
+ASDA,1.5,6.0,kg,Albert Bartlett Cheese Croquettes,20240413,fresh_food,False
+ASDA,1.59,0.8,kg,ASDA Smooth & Rich Red Potatoes 2kg,20240413,fresh_food,True
+ASDA,1.25,3.12,kg,ASDA Extra Special Creamy Mash,20240413,fresh_food,True
+ASDA,2.1,3.0,kg,COOK by ASDA Sweet Potato Chunks,20240413,fresh_food,True
+ASDA,1.2,2.0,kg,ASDA Mild & Tender Casserole Vegetables 600g,20240413,fresh_food,True
+ASDA,0.65,0.65,kg,ASDA Crunchy & Sweet Carrots,20240413,fresh_food,True
+ASDA,1.0,1.0,kg,ASDA Grower's Selection Bumper Root Veg Pack,20240413,fresh_food,True
+ASDA,0.7,2.0,kg,ASDA Loose Plantain (Typically 350g),20240413,fresh_food,True
+ASDA,1.15,2.88,kg,ASDA Savoury & Smooth Cheesy Mash,20240413,fresh_food,True
+ASDA,0.65,1.3,kg,ASDA Sweet & Earthy Parsnips,20240413,fresh_food,True
+ASDA,1.14,2.0,kg,ASDA Loose Cassava (Typically 570g),20240413,fresh_food,True
+ASDA,2.0,5.71,kg,The Health Menu by ASDA Spicy Sweet Potato Dahl Kit 350g,20240413,fresh_food,True
+ASDA,1.15,2.3,kg,ASDA Mild & Sweet Leek & Potato Soup Mix 500g,20240413,fresh_food,True
+ASDA,0.62,0.62,unit,ASDA British Swede,20240413,fresh_food,True
+ASDA,1.35,1.35,unit,ASDA Crunchy & Sweet Chinese Leaf,20240413,fresh_food,True
+ASDA,0.42,3.0,kg,ASDA Loose Eddoes (Typically 140g),20240413,fresh_food,True
+ASDA,2.0,7.1,kg,The Health Menu by ASDA Nourishing Sweet Potato & Turmeric Grains with an Avocado Crema 280g,20240413,fresh_food,True
+ASDA,1.15,2.3,kg,ASDA Savoury & Mild Vegetable Soup Mix 500g,20240413,fresh_food,True
+ASDA,1.2,3.0,kg,ASDA Aromatic & Spicy Vegetable Curry Kit 400g,20240413,fresh_food,True
+ASDA,0.79,2.19,kg,ASDA Tender & Crunchy Broccoli,20240413,fresh_food,True
+ASDA,0.7,1.4,kg,ASDA Organic Carrots,20240413,fresh_food,True
+ASDA,0.75,2.5,kg,ASDA Carrot Batons,20240413,fresh_food,True
+ASDA,2.0,9.52,kg,ASDA Extra Special Green Vegetable Selection,20240413,fresh_food,True
+ASDA,0.55,1.83,kg,ASDA Sliced Carrots,20240413,fresh_food,True
+ASDA,0.39,1.62,kg,ASDA Crunchy & Peppery Radishes,20240413,fresh_food,True
+ASDA,1.5,3.0,kg,ASDA Sweet & Earthy Bunched Beetroot,20240413,fresh_food,True
+ASDA,0.48,2.4,kg,ASDA Loose Turnip (order by number of turnips or select kg),20240413,fresh_food,True
+ASDA,1.55,1.55,kg,ASDA Celeriac (Typically 1kg),20240413,fresh_food,True
+ASDA,1.0,5.0,kg,ASDA Crisp & Smooth Stringless Beans,20240413,fresh_food,True
+ASDA,0.75,2.5,kg,ASDA Sweet & Delicate Chantenay Carrots,20240413,fresh_food,True
+ASDA,0.5,1.25,kg,ASDA Sweet & Peppery Swede,20240413,fresh_food,True
+ASDA,1.1,5.5,kg,ASDA Mild & Crisp Pak Choi,20240413,fresh_food,True
+ASDA,1.8,9.0,kg,ASDA Rich & Savoury Garlic & Cream Cheese Stuffed Mushrooms,20240413,fresh_food,True
+ASDA,1.0,5.71,kg,ASDA Extra Special Sweet & Spicy Infused Baby Beetroot,20240413,fresh_food,True
+ASDA,0.26,1.3,kg,ASDA Loose Parsnips (order by number of parsnips or select kg),20240413,fresh_food,True
+ASDA,0.9,2.25,kg,ASDA Smooth & Buttery Classic Mash,20240413,fresh_food,True
+ASDA,0.45,3.0,kg,ASDA Grated Carrot,20240413,fresh_food,True
+ASDA,0.85,0.85,unit,ASDA Fennel,20240413,fresh_food,True
+ASDA,1.15,3.83,kg,ASDA Crisp & Colourful Carrot Cauliflower & Broccoli,20240413,fresh_food,True
+ASDA,1.35,3.86,kg,"ASDA Broccoli, Carrots, Baby Corn & Green Beans",20240413,fresh_food,True
+ASDA,0.62,0.62,unit,ASDA Swede Portion,20240413,fresh_food,True
+ASDA,1.4,2.33,kg,ASDA Crisp & Mild Carrots & Broccoli 600g,20240413,fresh_food,True
+ASDA,3.5,3.5,unit,George Home Y Peeler,20240413,fresh_food,True
+ASDA,1.25,4.17,kg,"ASDA Carrots, Broccoli & Brussels Sprouts",20240413,fresh_food,True
+ASDA,0.85,4.86,kg,ASDA Sliced Leeks,20240413,fresh_food,True
+ASDA,1.15,11.5,kg,ASDA Extra Special Tenderstem Broccoli Tips,20240413,fresh_food,True
+ASDA,0.5,1.0,kg,ASDA Diced Carrots & Swede,20240413,fresh_food,True
+ASDA,1.0,6.25,kg,ASDA Sugar Snap Peas,20240413,fresh_food,True
+ASDA,1.4,8.75,kg,"ASDA Baby Corn, Tenderstem Broccoli & Fine Beans",20240413,fresh_food,True
+ASDA,3.0,3.0,unit,George Home Swivel Peeler,20240413,fresh_food,True
+ASDA,3.5,3.5,unit,Culinare Safety Peeler,20240413,fresh_food,False
+ASDA,2.75,2.75,unit,Scoville Neverstick Peeler,20240413,fresh_food,False
+ASDA,0.9,3.0,kg,ASDA Sweet & Tender Carrots & Peas 300g,20240413,fresh_food,True
+ASDA,2.0,2.0,unit,George Home Stainless Steel Peeler,20240413,fresh_food,True
+ASDA,1.35,8.44,kg,ASDA Extra Special Hand Picked Tenderstem Broccoli,20240413,fresh_food,True
+ASDA,2.15,4.3,kg,Lisner Vegetable Salad with Peas,20240413,fresh_food,False
+ASDA,1.35,9.31,kg,ASDA Mild & Crunchy Baby Corn,20240413,fresh_food,True
+ASDA,1.4,8.75,kg,"ASDA Tenderstem Broccoli, Carrot & Sugar Snap",20240413,fresh_food,True
+ASDA,2.2,4.4,kg,Lisner Vegetable Salad with Eggs,20240413,fresh_food,False
+ASDA,1.2,3.0,kg,ASDA Spicy & Sweet Butternut Squash Soup Mix 400g,20240413,fresh_food,True
+ASDA,1.8,4.5,kg,ASDA Extra Special Beef Dripping Skin on Chunky Chips 400g,20240413,fresh_food,True
+ASDA,1.2,2.4,kg,ASDA Sweet & Warming Carrot & Coriander Soup Mix 500g,20240413,fresh_food,True
+ASDA,1.6,4.0,kg,Harringtons Grain Free Chicken & Potato with Vegetables Adult Dog Food Tray,20240413,fresh_food,False
+ASDA,1.0,3.33,kg,ASDA Sweet & Tender Unwashed Sliced Spring Greens,20240413,fresh_food,True
+ASDA,1.6,4.0,kg,Harringtons Grain Free Duck & Potato with Vegetables Adult Dog Food Tray,20240413,fresh_food,False
+ASDA,1.29,3.23,kg,ASDA Mild & Versatile White Mushrooms,20240413,fresh_food,True
+ASDA,1.45,3.62,kg,Naturo Grain Free Chicken & Potato with Vegetables Adult Dog Food Tray,20240413,fresh_food,False
+ASDA,1.0,6.25,kg,ASDA Tender & Crisp Mangetout,20240413,fresh_food,True
+ASDA,2.0,5.71,kg,The Health Menu by ASDA Hearty Tuscan Inspired Bean Soup Kit with Brown Rice 350g,20240413,fresh_food,True
+ASDA,1.6,4.0,kg,Harringtons Grain Free Turkey & Potato with Vegetables Adult Dog Food Tray,20240413,fresh_food,False
+ASDA,2.97,3.3,kg,ASDA ASDA Potato and Vegetable Fertiliser 900g,20240413,fresh_food,True
+ASDA,0.95,4.75,kg,ASDA Mild & Tender Baby Button Mushrooms,20240413,fresh_food,True
+ASDA,1.5,6.0,kg,ASDA Extra Special Baby Portobello Mushrooms,20240413,fresh_food,True
+ASDA,0.69,2.76,kg,ASDA Nutty & Earthy Chestnut Mushrooms,20240413,fresh_food,True
+ASDA,1.49,13.9,kg,Batchelors Cup a Soup Potato & Leek 4 Instant Soup Sachets,20240413,fresh_food,False
+ASDA,1.6,10.67,kg,ASDA Extra Special Mixed Mushrooms,20240413,fresh_food,True
+ASDA,0.7,0.7,unit,George Home Plastic Peeler - Colour May Vary,20240413,fresh_food,True
+ASDA,1.6,13.91,kg,ASDA Extra Special British Shiitake Mushrooms,20240413,fresh_food,True
+ASDA,1.45,3.67,kg,Forthglade Duck with Potato & Vegetables Complete Meal Adult 1 Yr+,20240413,fresh_food,False
+ASDA,0.99,3.96,kg,ASDA Earthy & Rich Jumbo Mushrooms,20240413,fresh_food,True
+ASDA,1.0,0.33,unit,ASDA 3 Crunchy & Fragrant Brown Onions,20240413,fresh_food,True
+ASDA,0.75,3.0,kg,JUST ESSENTIALS by ASDA Mushrooms (Varieties may vary),20240413,fresh_food,True
+ASDA,1.15,4.6,kg,ASDA Organic White Mushrooms,20240413,fresh_food,True
+ASDA,0.95,3.8,kg,ASDA Mild & Versatile Sliced Mushrooms,20240413,fresh_food,True
+ASDA,0.99,0.99,kg,ASDA Crunchy & Fragrant Brown Onions,20240413,fresh_food,True
+ASDA,1.0,0.33,unit,ASDA 3 Sweet & Crunchy Red Onions,20240413,fresh_food,True
+ASDA,0.8,1.0,kg,ASDA White Cabbage (Typically 0.8kg),20240413,fresh_food,True
+ASDA,1.3,6.5,kg,ASDA Sweet & Nutty Trimmed Brussels Sprouts,20240413,fresh_food,True
+ASDA,0.95,0.95,kg,ASDA Sweet & Crunchy Red Onions,20240413,fresh_food,True
+ASDA,0.7,2.2,kg,ASDA Trimmed Leek,20240413,fresh_food,True
+ASDA,1.4,3.5,kg,ASDA Earthy & Crisp Cauliflower & Broccoli Florets,20240413,fresh_food,True
+ASDA,1.1,3.67,kg,ASDA Organic Broccoli 300g,20240413,fresh_food,True
+ASDA,0.8,1.0,kg,ASDA Red Cabbage (Typically 0.8kg),20240413,fresh_food,True
+ASDA,1.1,3.67,kg,ASDA Extra Special Echalion Shallots,20240413,fresh_food,True
+ASDA,1.0,4.0,kg,ASDA Light & Nutty Cauliflower Florets,20240413,fresh_food,True
+ASDA,1.8,1.8,unit,ASDA Large Cauliflower,20240413,fresh_food,True
+ASDA,0.79,1.58,kg,ASDA Mild & Sweet Spring Greens,20240413,fresh_food,True
+ASDA,1.4,2.8,kg,ASDA Mild & Sweet Trimmed Leeks,20240413,fresh_food,True
+ASDA,1.1,1.1,unit,ASDA Light & Nutty Cauliflower,20240413,fresh_food,True
+ASDA,1.0,3.33,kg,ASDA Naturally Sweet Shallots,20240413,fresh_food,True
+ASDA,0.75,0.25,unit,ASDA Fragrant & Bold Garlic 45mm+,20240413,fresh_food,True
+ASDA,2.0,0.4,unit,ASDA Fragrant & Bold Garlic (Typically 45-60mm),20240413,fresh_food,True
+ASDA,0.75,0.75,unit,ASDA Sweet & Earthy Savoy Cabbage,20240413,fresh_food,True
+ASDA,1.3,1.3,unit,ASDA Organic Seasonal Cabbage (Colour and Variety may vary),20240413,fresh_food,True
+ASDA,2.19,2.19,kg,ASDA Loose Broccoli (Typically 360g),20240413,fresh_food,True
+ASDA,1.85,3.7,kg,ASDA Sweet & Warming Ginger,20240413,fresh_food,True
+ASDA,0.45,2.25,kg,ASDA Chopped Onion,20240413,fresh_food,True
+ASDA,0.45,3.0,kg,ASDA Sliced Red Onion,20240413,fresh_food,True
+ASDA,0.67,0.67,unit,ASDA Delicately Sweet Tenderheart Cabbage,20240413,fresh_food,True
+ASDA,1.2,7.5,kg,ASDA Extra Special Hand Picked Amaranthine Broccoli,20240413,fresh_food,True
+ASDA,0.95,1.9,kg,ASDA Organic Brown Onions,20240413,fresh_food,True
+ASDA,1.0,13.0,kg,Just Add Garlic Puree,20240413,fresh_food,False
+ASDA,1.1,2.2,kg,ASDA Organic Red Onions,20240413,fresh_food,True
+ASDA,2.2,6.88,kg,ASDA Extra Special Hand Picked Tenderstem Broccoli 320g,20240413,fresh_food,True
+ASDA,1.8,1.8,unit,ASDA Organic Cauliflower,20240413,fresh_food,True
+ASDA,0.85,0.28,unit,ASDA Organic Garlic 40mm+,20240413,fresh_food,True
+ASDA,0.8,16.0,kg,ASDA Fiery & Fruity Scotch Bonnet Chillies,20240413,fresh_food,True
+ASDA,1.0,7.0,kg,ASDA Mild & Subtle Padron Peppers,20240413,fresh_food,True
+ASDA,0.39,0.39,unit,ASDA Loose Garlic 60mm+,20240413,fresh_food,True
+ASDA,1.0,13.0,kg,Just Add Ginger Purée,20240413,fresh_food,False
+ASDA,1.9,4.75,kg,ASDA Organic Leeks,20240413,fresh_food,True
+ASDA,1.1,5.5,kg,ASDA Mild & Tender Cabbage & Leek,20240413,fresh_food,True
+ASDA,0.95,2.88,kg,ASDA Mild & Delicate Courgettes,20240413,fresh_food,True
+ASDA,1.0,10.0,kg,ASDA Earthy & Peppery Turmeric,20240413,fresh_food,True
+ASDA,0.56,2.0,kg,ASDA Loose Courgettes (order by number of courgettes or select kg),20240413,fresh_food,True
+ASDA,1.5,0.38,unit,ASDA Sweet & Juicy Sweetcorn Cobettes,20240413,fresh_food,True
+ASDA,0.52,9.0,kg,ASDA Warm & Fruity Red Chillies,20240413,fresh_food,True
+ASDA,1.65,0.55,unit,Albert Bartlett 3 Mild Onions,20240413,fresh_food,False
+ASDA,1.0,14.0,kg,Just Add Chilli Puree,20240413,fresh_food,False
+ASDA,1.5,3.75,kg,ASDA Kohlrabi,20240413,fresh_food,True
+ASDA,0.55,9.0,kg,ASDA Warm & Fruity Mixed Chillies,20240413,fresh_food,True
+ASDA,1.4,9.33,kg,ASDA Tender & Nutty Asparagus,20240413,fresh_food,True
+ASDA,1.85,14.8,kg,ASDA Extra Special Asparagus Tips,20240413,fresh_food,True
+ASDA,1.2,7.0,kg,ASDA Hot & Fragrant Thin Chillies,20240413,fresh_food,True
+ASDA,0.45,23.0,kg,ASDA Hot & Fiery Bird Eye Chillies,20240413,fresh_food,True
+ASDA,0.75,0.75,unit,ASDA Extra Special Garlic 60mm+,20240413,fresh_food,True
+ASDA,0.7,23.0,kg,ASDA Light & Citrusy Lemongrass,20240413,fresh_food,True
+ASDA,1.0,5.56,kg,ASDA Tender & Crunchy Trimmed Fine Beans,20240413,fresh_food,True
+ASDA,0.95,0.95,unit,ASDA Aubergine,20240413,fresh_food,True
+ASDA,1.0,20.0,kg,ASDA Seriously Scorching Super Hot Chillies,20240413,fresh_food,True
+ASDA,0.75,5.0,kg,ASDA Crisp & Earthy Unwashed Sliced Curly Kale,20240413,fresh_food,True
+ASDA,0.97,4.04,kg,JUST ESSENTIALS by ASDA Green Beans,20240413,fresh_food,True
+ASDA,1.62,1.2,kg,ASDA Butternut Squash,20240413,fresh_food,True
+ASDA,1.5,0.75,unit,ASDA Sweet & Juicy Sweetcorn Twin Pack,20240413,fresh_food,True
+ASDA,0.9,2.25,kg,ASDA Loose Chayote (Typically 400g),20240413,fresh_food,True
+ASDA,1.0,6.67,kg,ASDA Extra Special Cavolo Nero Kale,20240413,fresh_food,True
+ASDA,2.0,6.67,kg,ASDA Organic Spinach,20240413,fresh_food,True
+ASDA,2.0,6.67,kg,ASDA Tender & Sweet Baby Aubergines,20240413,fresh_food,True
+ASDA,1.39,6.95,kg,ASDA Extra Special Handpicked Extra Fine Beans,20240413,fresh_food,True
+ASDA,1.3,7.22,kg,ASDA Runner Beans,20240413,fresh_food,True
+ASDA,2.1,5.25,kg,ASDA Loose Dudhi (Typically 400g),20240413,fresh_food,True
+ASDA,1.5,8.33,kg,ASDA Tender & Crisp Baby Corn & Mangetout,20240413,fresh_food,True
+ASDA,1.9,14.6,kg,Piccolo Organic Sweet Potato & Beef Meatballs with Tomato & Herbs From 7 Months+,20240413,fresh_food,False
+ASDA,1.0,6.67,kg,Naturo Natural Pet Food Chicken with Potato and Vegetables Puppy 2 to 12 Months 150g,20240413,fresh_food,False
+ASDA,9.0,4.5,kg,Naturo Natural Pet Food Chicken and Potato with Vegetables Adult Dog 1 to 7 Years 2kg,20240413,fresh_food,False
+ASDA,9.0,4.5,kg,Naturo Natural Pet Food Turkey and Potato with Vegetables Adult Dog 1 to 7 Years 2kg,20240413,fresh_food,False
+ASDA,2.25,18.75,kg,Paxo Potato Rosti Cakes Mixed Veg 120g,20240413,fresh_food,False
+ASDA,1.0,6.67,kg,Naturo Natural Pet Food Mini Chicken with Potato and Vegetables Adult Dog 1 to 7 Years 150g,20240413,fresh_food,False
+ASDA,1.0,10.0,kg,"Piccolo Organic Sweet Potato, Beetroot, Pear & Apple 4 Months+",20240413,fresh_food,False
+ASDA,2.3,3.83,kg,ASDA 4 White Rice with Green Vegetables Steam Bags 4 x 150g (600g),20240413,fresh_food,True
+ASDA,61.0,0.61,unit,Richmond Original Superkings Cigarettes Multipack,20240413,home,False
+ASDA,13.0,0.65,unit,Players JPS Real Red Superkings Cigarettes,20240413,home,False
+ASDA,64.75,0.65,unit,Players JPS Real Red Superkings Cigarettes Multipack,20240413,home,False
+ASDA,63.5,0.64,unit,Carlton Original Superkings Cigarettes Multipack,20240413,home,False
+ASDA,12.25,0.61,unit,Richmond Original Superkings Cigarettes,20240413,home,False
+ASDA,12.75,0.64,unit,Carlton Original Superkings Cigarettes,20240413,home,False
+ASDA,64.75,0.65,unit,Players JPS Real Red Cigarettes Multipack,20240413,home,False
+ASDA,13.0,0.65,unit,Players JPS Real Red Cigarettes,20240413,home,False
+ASDA,61.0,0.61,unit,Richmond Green Filter Superkings Cigarettes Multipack,20240413,home,False
+ASDA,61.25,0.61,unit,Sovereign Superkings Blue,20240413,home,False
+ASDA,61.25,0.61,unit,Sovereign Blue 20 Cigarettes,20240413,home,False
+ASDA,61.0,0.61,unit,Richmond Original Cigarettes Multipack,20240413,home,False
+ASDA,69.0,0.69,unit,Sterling Superkings Original Red,20240413,home,False
+ASDA,63.5,0.64,unit,Carlton Original Cigarettes Multipack,20240413,home,False
+ASDA,13.0,0.65,unit,Players JPS Green Filter Superkings Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,Players JPS Bright Superkings Cigarettes,20240413,home,False
+ASDA,13.95,0.7,unit,Sterling Dual,20240413,home,False
+ASDA,12.25,0.61,unit,Richmond Green Filter Superkings Cigarettes,20240413,home,False
+ASDA,71.0,0.71,unit,Mayfair Original Blue 20 Cigarettes,20240413,home,False
+ASDA,69.0,0.69,unit,JPS Real Blue Superkings Cigarettes Multipack,20240413,home,False
+ASDA,13.8,0.69,unit,Sterling Superkings 20 Cigarettes,20240413,home,False
+ASDA,15.5,0.78,unit,Marlboro Gold KS 20 Cigarettes,20240413,home,False
+ASDA,63.5,0.64,unit,Carlton Bright Superkings Cigarettes Multipack,20240413,home,False
+ASDA,12.55,0.63,unit,Rothmans Blue Superkings 20 Cigarettes,20240413,home,False
+ASDA,12.25,0.61,unit,Richmond Original Cigarettes,20240413,home,False
+ASDA,12.25,0.61,unit,Sovereign Superkings Blue 20 Cigarettes,20240413,home,False
+ASDA,69.0,0.69,unit,JPS Real Blue Cigarettes Multipack,20240413,home,False
+ASDA,13.8,0.69,unit,JPS Real Blue Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,Sterling King Size 20 Cigarettes,20240413,home,False
+ASDA,19.0,633.3,kg,Sterling Rolling Tobacco 3 in 1,20240413,home,False
+ASDA,12.55,0.63,unit,Rothmans Blue 20 Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,Sterling Superkings Green,20240413,home,False
+ASDA,14.15,0.59,unit,Rothmans Blue XL 24 Cigarettes,20240413,home,False
+ASDA,12.75,0.64,unit,Carlton Original Cigarettes,20240413,home,False
+ASDA,77.5,0.78,unit,Marlboro Red KS 5 x 20 Cigarettes,20240413,home,False
+ASDA,14.2,0.71,unit,Mayfair Sky Blue,20240413,home,False
+ASDA,13.15,0.66,unit,Sovereign Dual 20 Cigarettes,20240413,home,False
+ASDA,14.2,0.71,unit,Mayfair King Size 20 Cigarettes,20240413,home,False
+ASDA,77.0,0.77,unit,JPS Legendary Black Cigarettes Multipack,20240413,home,False
+ASDA,69.0,0.69,unit,Sterling King Size 5 x 20 Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,Sterling Superkings Blue,20240413,home,False
+ASDA,13.5,0.68,unit,Marlboro Touch KS 20 Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,Players JPS Bright Cigarettes,20240413,home,False
+ASDA,14.2,0.71,unit,Mayfair KS White 20 Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,JPS Real Blue Superkings Cigarettes,20240413,home,False
+ASDA,12.25,0.61,unit,Richmond Bright Superkings Cigarettes,20240413,home,False
+ASDA,12.75,0.64,unit,Carlton Green Filter Superkings Cigarettes,20240413,home,False
+ASDA,14.2,0.71,unit,Mayfair Superkings 20 Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,JPS Silver Stream Cigarettes,20240413,home,False
+ASDA,12.75,0.64,unit,Carlton Bright Superkings Cigarettes,20240413,home,False
+ASDA,12.25,0.61,unit,Sovereign Sky Blue 20 Cigarettes,20240413,home,False
+ASDA,14.2,0.71,unit,Mayfair Green 20 Cigarettes,20240413,home,False
+ASDA,12.55,0.63,unit,Rothmans Silver 20 Cigarettes,20240413,home,False
+ASDA,12.75,0.64,unit,Carlton Bright Cigarettes,20240413,home,False
+ASDA,12.25,0.61,unit,Mayfair 20 Cigarettes Superkings Silver,20240413,home,False
+ASDA,12.25,0.61,unit,Mayfair 20 Cigarettes Silver,20240413,home,False
+ASDA,11.2,0.56,unit,Richmond Compact Cigarettes,20240413,home,False
+ASDA,11.2,0.56,unit,Players Max,20240413,home,False
+ASDA,69.0,0.69,unit,Lambert & Butler Original Silver Cigarettes Multipack,20240413,home,False
+ASDA,15.4,0.77,unit,JPS Legendary Black Cigarettes,20240413,home,False
+ASDA,64.75,0.65,unit,Benson & Hedges Superkings Blue MP 100,20240413,home,False
+ASDA,13.8,0.69,unit,Sterling Blue 20 Cigarettes,20240413,home,False
+ASDA,64.75,0.65,unit,Benson & Hedges Blue 20 Cigarettes,20240413,home,False
+ASDA,82.5,0.82,unit,Benson & Hedges Gold 5 x 20 Cigarettes,20240413,home,False
+ASDA,64.75,0.65,unit,L&B Blue Real Blue Cigarettes Multipack,20240413,home,False
+ASDA,13.8,0.69,unit,Lambert & Butler Original Silver Cigarettes,20240413,home,False
+ASDA,31.25,31.25,unit,Players JPS Easy Rolling Tobacco Includes Cigarette Papers,20240413,home,False
+ASDA,13.0,0.65,unit,L&B Blue Real Blue Cigarettes,20240413,home,False
+ASDA,36.2,724.0,kg,Players JPS Volume Tobacco,20240413,home,False
+ASDA,69.0,0.69,unit,Lambert & Butler Bright Cigarettes Multipack,20240413,home,False
+ASDA,13.0,0.65,unit,Benson & Hedges Superkings Blue,20240413,home,False
+ASDA,75.5,0.76,unit,Benson & Hedges Silver 5 x 20 Cigarettes,20240413,home,False
+ASDA,9.4,0.94,unit,Royal Dutch 10 Cigarillos Filter,20240413,home,False
+ASDA,17.05,0.85,unit,Benson & Hedges Gold,20240413,home,False
+ASDA,12.5,0.62,unit,Players JPS Compact Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,L&B Blue Real Blue Superkings Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,Benson & Hedges Superkings Sky Blue,20240413,home,False
+ASDA,13.0,0.65,unit,Benson & Hedges Sky Blue 20 Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,Benson & Hedges Superkings Green 20 Cigarettes,20240413,home,False
+ASDA,15.1,0.76,unit,Benson & Hedges Silver 20 Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,L&B Blue Bright Superkings Cigarettes,20240413,home,False
+ASDA,12.3,0.61,unit,Pall Mall Flow Red Superkings 20 Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,Lambert & Butler Bright Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,L&B Blue Bright Air Filter Cigarettes,20240413,home,False
+ASDA,12.3,0.61,unit,Pall Mall Flow Blue Superkings 20 Cigarettes,20240413,home,False
+ASDA,2.0,10.0,l,Clipper Butane Gas,20240413,home,False
+ASDA,13.65,0.59,unit,Pall Mall Shift XL 23 Cigarettes,20240413,home,False
+ASDA,1.35,1.35,unit,Clipper Standard Lighter (Design may vary),20240413,home,False
+ASDA,13.0,0.65,unit,L&B Blue New Crush Cigarettes,20240413,home,False
+ASDA,13.15,0.66,unit,Benson & Hedges Blue Dual 20 Cigarettes,20240413,home,False
+ASDA,12.3,0.61,unit,Pall Mall Flow Blue 20 Cigarettes,20240413,home,False
+ASDA,38.1,762.0,kg,Amber Leaf Original Rolling Tobacco,20240413,home,False
+ASDA,38.1,762.0,kg,Golden Virginia The Original Tobacco Includes Cigarette Papers,20240413,home,False
+ASDA,32.8,656.0,kg,Gold Leaf JPS Quality Blend Tobacco includes Cigarette Papers,20240413,home,False
+ASDA,35.3,706.0,kg,Golden Virginia Yellow Tobacco Includes Cigarette Papers,20240413,home,False
+ASDA,12.3,0.61,unit,Pall Mall Flow Red 20 Cigarettes,20240413,home,False
+ASDA,1.3,1.3,unit,Clipper 1 Jet Flame Lighter (Colours Vary),20240413,home,False
+ASDA,1.45,14.5,l,Clipper Universal Fluid,20240413,home,False
+ASDA,12.3,0.61,unit,Pall Mall Shift 20 Cigarettes,20240413,home,False
+ASDA,1.15,1.15,unit,Bull Brand Turbo/WindProof Lighter,20240413,home,False
+ASDA,1.3,0.22,unit,Bull Brand Brand Flint Disposable Lighters,20240413,home,False
+ASDA,23.0,766.7,kg,Amber Leaf Original Hand Rolling Tobacco,20240413,home,False
+ASDA,1.0,1.0,unit,Clipper Micro Lighter (Design may vary),20240413,home,False
+ASDA,1.15,0.29,unit,Bull Brand Brand Electronic Refillable Lighter 4 Pack,20240413,home,False
+ASDA,1.0,1.0,unit,Gizeh Refillable Lighter,20240413,home,False
+ASDA,1.15,1.15,unit,Clipper Mini Tube,20240413,home,False
+ASDA,19.95,665.0,kg,Gold Leaf JPS Quality Blend Tobacco Includes Cigarette Papers,20240413,home,False
+ASDA,1.0,1.0,unit,George Home Ash Tray,20240413,home,True
+ASDA,1.2,0.4,unit,Sonar 3 Piece Electronic Refillable,20240413,home,False
+ASDA,0.55,0.55,unit,Swan The Original Vestas Matches,20240413,home,False
+ASDA,11.2,0.56,unit,Chesterfield Red Superking 20 Cigarettes,20240413,home,False
+ASDA,11.2,0.56,unit,Chesterfield Red KS 20 Cigarettes,20240413,home,False
+ASDA,11.2,0.56,unit,Chesterfield Bright SK 20 Cigarettes,20240413,home,False
+ASDA,62.65,626.5,kg,Gold Leaf JPS Quality Blend Tobacco,20240413,home,False
+ASDA,85.0,0.85,unit,Silk Cut Silver 20 Cigarettes,20240413,home,False
+ASDA,34.45,689.0,kg,Cutters Choice Extra Fine 50g,20240413,home,False
+ASDA,82.5,0.82,unit,Superkings Original Black Cigarettes Multipack,20240413,home,False
+ASDA,63.5,0.64,unit,Embassy Signature Gold Cigarettes Multipack,20240413,home,False
+ASDA,77.5,0.78,unit,Marlboro Gold KS 5 x 20 Cigarettes,20240413,home,False
+ASDA,69.0,0.69,unit,Windsor Blue JPS Real Blue Superkings Cigarettes Multipack,20240413,home,False
+ASDA,20.85,695.0,kg,Cutters Choice Extra Fine 30g,20240413,home,False
+ASDA,85.0,0.85,unit,Silk Cut Purple 20 Cigarettes,20240413,home,False
+ASDA,82.5,0.82,unit,Regal Blue Cigarettes Multipack,20240413,home,False
+ASDA,37.25,745.0,kg,Cutters Choice Original 50g,20240413,home,False
+ASDA,12.75,0.64,unit,Embassy Signature Gold Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,Windsor Blue JPS Real Blue Superkings Cigarettes,20240413,home,False
+ASDA,17.25,0.86,unit,Silk Cut Purple 100s 20 Cigarettes,20240413,home,False
+ASDA,11.2,0.56,unit,Chesterfield Blue KS 20 Cigarettes,20240413,home,False
+ASDA,22.55,751.7,kg,Cutters Choice Original 30g,20240413,home,False
+ASDA,12.2,0.61,unit,Moments Blue 20 Cigars,20240413,home,False
+ASDA,16.5,0.82,unit,Embassy Filter Cigarettes,20240413,home,False
+ASDA,13.0,0.65,unit,Sterling Dual Capsule Leaf Wrapped 20 Standard,20240413,home,False
+ASDA,16.55,0.72,unit,Royals Red 23 Cigarettes,20240413,home,False
+ASDA,16.5,0.82,unit,Regal Blue Cigarettes,20240413,home,False
+ASDA,17.5,583.3,kg,Embassy Signature Rolling Tobacco 30g,20240413,home,False
+ASDA,30.6,765.0,kg,Amber Leaf Original Rolling Tabacco 40g,20240413,home,False
+ASDA,15.5,0.78,unit,Marlboro Red KS 20 Cigarettes,20240413,home,False
+ASDA,15.3,3.06,unit,Henri Wintermans Half Corona Cigars,20240413,home,False
+ASDA,12.75,0.64,unit,Embassy Signature Gold Superkings Cigarettes,20240413,home,False
+ASDA,38.75,0.78,unit,Signature Blue 50 Cigars,20240413,home,False
+ASDA,16.6,0.83,unit,Dunhill International 20 Cigarettes,20240413,home,False
+ASDA,16.5,0.82,unit,Superkings Original Black Cigarettes,20240413,home,False
+ASDA,11.6,0.58,unit,Austin Blue Superkings Cigarettes,20240413,home,False
+ASDA,11.2,0.56,unit,Lucky Strike Red King Size 20 Cigarettes,20240413,home,False
+ASDA,12.4,0.62,unit,Royal Dutch Miniatures 20 Cigarillos,20240413,home,False
+ASDA,13.9,0.69,unit,Alluvé 20 Lilac Cigarettes,20240413,home,False
+ASDA,17.0,1.7,unit,Castella Classic Fine Cigars,20240413,home,False
+ASDA,15.0,0.75,unit,Berkeley Superkings Green 20 Cigarettes,20240413,home,False
+ASDA,38.75,0.78,unit,Signature Original 50 Cigars,20240413,home,False
+ASDA,16.1,0.81,unit,Vogue Blue Cigarettes,20240413,home,False
+ASDA,15.1,0.76,unit,Royals Red 20 Cigarettes,20240413,home,False
+ASDA,12.4,0.62,unit,Royal Dutch Miniatures Blue 20 Cigarillos,20240413,home,False
+ASDA,15.0,0.75,unit,Berkeley Blue Superkings 20 Cigarettes,20240413,home,False
+ASDA,13.8,0.69,unit,Windsor Blue JPS Real Blue Cigarettes,20240413,home,False
+ASDA,3.99,1.0,unit,88Vape AnyTank E-Liquid 6mg Raspberry Ripple 10ml 4 Pack,20240413,home,False
+ASDA,15.0,0.75,unit,Berkeley Superkings 20 Cigarettes,20240413,home,False
+ASDA,12.75,0.64,unit,Embassy Signature Silver Cigarettes,20240413,home,False
+ASDA,16.5,0.82,unit,Superkings Bright Cigarettes,20240413,home,False
+ASDA,6.0,0.3,unit,Heets Amber Selection,20240413,home,False
+ASDA,6.65,0.67,unit,Sterling Dual Capsule Leaf Wrapped 10,20240413,home,False
+ASDA,12.75,0.64,unit,Embassy Signature New Crush KS 20,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Amber,20240413,home,False
+ASDA,4.75,0.47,unit,Signature Action 10 Filter Cigarillos,20240413,home,False
+ASDA,7.2,1.44,unit,Royal Dutch Elite 5 Slim Cigars,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Turquoise,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Mauve Wave,20240413,home,False
+ASDA,7.2,1.44,unit,Royal Dutch Panatella 5 Cigars,20240413,home,False
+ASDA,11.6,0.58,unit,Austin Blue Cigarettes,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Blue,20240413,home,False
+ASDA,6.0,0.6,unit,Players JPS Cigarillo Crushball 10s,20240413,home,False
+ASDA,6.75,0.68,unit,Sterling Dual Double Capsule Leaf Wrapped Cigarette 10s,20240413,home,False
+ASDA,7.75,7.75,unit,Henri Wintermans Corona Sumatra Cigars,20240413,home,False
+ASDA,15.65,3.13,unit,Villiger Rio 6 Cigars,20240413,home,False
+ASDA,16.5,0.82,unit,Regal Filter Cigarettes,20240413,home,False
+ASDA,8.1,0.81,unit,Hamlet Miniatures 10,20240413,home,False
+ASDA,12.6,12.6,unit,La Invicta Robusto Tubed Single,20240413,home,False
+ASDA,7.9,0.79,unit,Signature Blue10 Cigars,20240413,home,False
+ASDA,8.25,1.65,unit,Henri Wintermans Panatella Cigars,20240413,home,False
+ASDA,14.6,2.92,unit,Royal Dutch Half Corona 5 Cigars,20240413,home,False
+ASDA,35.25,,,Signature Red Filter Multipack 5x10 Cigars,20240413,home,False
+ASDA,5.85,0.58,unit,Royal Dutch Double Filter 10 Pack,20240413,home,False
+ASDA,11.15,1.11,unit,Mehari's Red Orient,20240413,home,False
+ASDA,6.41,1.28,unit,Moments Panatella Cigars,20240413,home,False
+ASDA,6.45,0.65,unit,Royal Dutch Miniatures 10 Cigarillos,20240413,home,False
+ASDA,7.8,,,Signature Original Cigars,20240413,home,False
+ASDA,11.15,1.11,unit,Mehari's Ecuador,20240413,home,False
+ASDA,11.0,11.0,unit,La Invicta Petit Corona Tubed Single,20240413,home,False
+ASDA,6.0,0.3,unit,Heets Turquoise Selection,20240413,home,False
+ASDA,7.1,0.71,unit,Signature Red Filter 10 Cigars,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Russet,20240413,home,False
+ASDA,7.6,0.76,unit,Royal Dutch 10 Cigarillos Sunshine - Filter,20240413,home,False
+ASDA,11.15,1.11,unit,Mehari's Java,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Sienna,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Green,20240413,home,False
+ASDA,5.49,5.49,unit,Blu Pro Clearomiser,20240413,home,False
+ASDA,15.1,0.76,unit,Signature Blue Cigars,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Yellow,20240413,home,False
+ASDA,6.0,0.3,unit,Heets Yellow Selection,20240413,home,False
+ASDA,22.34,4.47,unit,Villiger Export Pressed Cigars 5 Pack,20240413,home,False
+ASDA,1.3,0.01,unit,Swan Extra Slim Filter Tips,20240413,home,False
+ASDA,2.2,0.02,unit,Swan Slim Kingsize Rolling Papers - Multipack,20240413,home,False
+ASDA,2.0,0.01,unit,Rizla Green Regular Rolling Papers Multipack,20240413,home,False
+ASDA,2.95,0.12,unit,Bull Brand Cut Corner Rolling Papers - Multipack,20240413,home,False
+ASDA,17.99,17.99,unit,Blu Pro Kit,20240413,home,False
+ASDA,1.2,0.01,unit,Swan Slim Filter Tips,20240413,home,False
+ASDA,1.3,0.01,unit,Swan Menthol Extra Slim Filter Tips,20240413,home,False
+ASDA,6.0,0.3,unit,Terea Teak,20240413,home,False
+ASDA,1.35,0.0,unit,Bull Brand 160 Extra Slim Non-Wrapped Filter Tips,20240413,home,False
+ASDA,1.35,0.0,unit,Bull Brand 165 Slim Non-Wrapped Filter Tips,20240413,home,False
+ASDA,1.2,0.01,unit,Swan Ultra Slim Filter Tips,20240413,home,False
+ASDA,1.5,0.05,unit,Rizla Super Thin Silver King Size Slim Combi Pack,20240413,home,False
+ASDA,4.5,0.23,unit,EVO Tobacco Sticks Amber,20240413,home,False
+ASDA,1.39,0.04,unit,OCB 32 Unbleached Virgin Slim and Tips + Filters,20240413,home,False
+ASDA,1.2,0.0,unit,Swan Cut Corner Rolling Papers - Multipack,20240413,home,False
+ASDA,4.5,0.23,unit,EVO Tobacco Sticks Bronze,20240413,home,False
+ASDA,1.4,0.02,unit,Rizla Polar Blast Extra Slim Filter Tips,20240413,home,False
+ASDA,0.6,0.6,unit,Rizla Menthol Chill Flavour Card Infusion,20240413,home,False
+ASDA,1.4,0.03,unit,Swan Swan 54 Crushball Fresh Burst Extra Slim Capsule Filter Tips,20240413,home,False
+ASDA,1.39,0.04,unit,OCB Preminum Slim + Filters,20240413,home,False
+ASDA,0.7,0.01,unit,Rizla Liquorice Rolling Papers,20240413,home,False
+ASDA,1.2,0.0,unit,Swan Slim Rolling Papers - Multipack,20240413,home,False
+ASDA,2.0,0.01,unit,Bull Brand 160 Menthol Capsule Slim Filter Tips,20240413,home,False
+ASDA,1.2,0.01,unit,Zig-Zag Extra Slim 150 Filter Tips & Rolling Papers,20240413,home,False
+ASDA,0.6,0.6,unit,Rizla Fresh Mint Flavour Card Infusion,20240413,home,False
+ASDA,1.1,1.1,unit,Bull Brand Rolling Machine,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Tappo Strawberry Ice 20mg,20240413,home,False
+ASDA,0.5,0.01,unit,Rizla Green Regular Rolling Papers,20240413,home,False
+ASDA,6.5,6.5,unit,Nordic Spirit Nicotine Pouches Spearmint,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Tappo Blueberry Sour Raspberry 20mg,20240413,home,False
+ASDA,0.39,0.39,unit,Swan Swan Menthol Flavour Fusion Cards,20240413,home,False
+ASDA,1.0,0.01,unit,Bull Brand 126 Extra Slim Cigarette Filter Tips,20240413,home,False
+ASDA,0.5,0.01,unit,Rizla Regular Blue,20240413,home,False
+ASDA,2.0,0.01,unit,Bull Brand 160 Blue Ice Capsule Slim Filter Tips,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Tappo Lemon Lime 20mg,20240413,home,False
+ASDA,5.0,5.0,unit,88Vape 6 CE4 Clearomizer,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Tappo Prefilled Pod Starter Kit Blueberry Sour Raspberry,20240413,home,False
+ASDA,1.1,0.03,unit,Swan Slim Kingsize Rolling Papers,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro Blueberry Sour Raspberry Prefilled Pod Kit,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro Watermelon Prefilled Pod Kit,20240413,home,False
+ASDA,9.99,9.99,unit,Blu 2.0 Vape Device,20240413,home,False
+ASDA,1.0,0.11,unit,Clipper Flints,20240413,home,False
+ASDA,6.5,6.5,unit,OK Vape Tobacco Flavour Electronic Cigarette Refills x 5,20240413,home,False
+ASDA,1.1,0.03,unit,Swan Medium Kingsize Rolling Papers,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Prefilled Pod Starter Kit Strawberry Ice,20240413,home,False
+ASDA,1.1,0.03,unit,Swan Slim Kingsize Light Weight Blue Papers,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro Blue Razz Lemonade Prefilled Pod Kit,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Freeze Max Nicotine Pouches,20240413,home,False
+ASDA,4.99,4.99,unit,Vuse ePod 2 Graphite Device,20240413,home,False
+ASDA,1.0,0.01,unit,Bull Brand 126 Menthol Extra Slim Cigarette Filter Tips,20240413,home,False
+ASDA,32.8,656.0,kg,Sterling Rolling Tobacco,20240413,home,False
+ASDA,0.39,0.39,unit,Swan Swan Fresh Burst Flavour Fusion Cards,20240413,home,False
+ASDA,32.0,320.0,kg,Bayside Pipe Tobacco,20240413,home,False
+ASDA,1.39,0.04,unit,OCB Organic Hemp Slim 32 Rolling Papers and 32 Filters,20240413,home,False
+ASDA,31.25,625.0,kg,Riverstone Easy Rolling Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro Kiwi Passion Fruit Guava Prefilled Pod Kit,20240413,home,False
+ASDA,32.8,656.0,kg,Lambert & Butler Rolling Tobacco Including Cigarette Papers,20240413,home,False
+ASDA,1.15,1.15,unit,88Vape Accessories CE4 Clearomizer,20240413,home,False
+ASDA,39.9,798.0,kg,Old Holborn Original Hand Rolling Tobacco 50g,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Tappo Blue Razz Lemonade 20mg,20240413,home,False
+ASDA,33.1,662.0,kg,Holborn Yellow Fine Rolling Tobacco,20240413,home,False
+ASDA,16.5,330.0,kg,Bayside Virginia Blend,20240413,home,False
+ASDA,18.0,600.0,kg,Marlboro Gold Fine Cut Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Plus Device Color Aurora Blue,20240413,home,False
+ASDA,31.25,625.0,kg,Sterling Rolling Tobacco Essential,20240413,home,False
+ASDA,39.0,780.0,kg,Drum The Original Blue Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Lemon & Lime Crystal Plus Prefilled Pod Kit,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Medium Tropic Breeze Nicotine Pouches,20240413,home,False
+ASDA,19.95,665.0,kg,Lambert & Butler Rolling Tobacco Including Cigarette Papers & Filters,20240413,home,False
+ASDA,20.15,671.7,kg,Pueblo Classic Hand Rolling Tobacco,20240413,home,False
+ASDA,0.35,0.01,unit,OCB Papers Reg 50 Pack,20240413,home,False
+ASDA,16.5,330.0,kg,Bayside Mixed Blend,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Ultra Ruby Berry Nicotine Pouches,20240413,home,False
+ASDA,25.11,837.0,kg,American Spirit Blue Hand Rolling Tobacco,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Ultra Freeze Nicotine Pouches,20240413,home,False
+ASDA,21.0,420.0,kg,Condor Ready Rubbed Tobacco,20240413,home,False
+ASDA,19.45,648.3,kg,Pall Mall Fine Cut 30g,20240413,home,False
+ASDA,31.25,625.0,kg,Benson & Hedges Blue Rolling Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Bar Cherry Ice,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Bar Lemon & Lime,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Bar Blueberry Sour Raspberry,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Strawberry Raspberry Cherry Ice Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Cool Spearmint 600 Puffs,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Blueberry Sour Raspberry Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Pineapple Ice Disposable Vape,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Disposable Crystal Bar Blue Razz Lemonade,20240413,home,False
+ASDA,3.99,1.0,unit,88Vape Menthol Chill AnyTank E-Liquid 6mg,20240413,home,False
+ASDA,20.5,683.3,kg,Manitou Virginia Green Hand Rolling Tobacco 30g,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Bar Watermelon Strawberry Bubblegum,20240413,home,False
+ASDA,22.25,741.7,kg,Benson & Hedges Silver Rolling Tobacco,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse ePod Pods vPro Chilled Mint 18mg/ml,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Disposable Crystal Bar Pink Lemonade,20240413,home,False
+ASDA,22.5,450.0,kg,Clan Original Pipe Tobacco,20240413,home,False
+ASDA,20.1,670.0,kg,Holborn Yellow 3-in-1 Pouch,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Cherry Ice Disposable Vape,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse ePod Pods vPro Golden Tobacco 18mg/ml,20240413,home,False
+ASDA,24.25,808.3,kg,Old Holborn Original Hand Rolling Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Disposable Crystal Original Strawberry Burst,20240413,home,False
+ASDA,6.5,1.3,unit,OK Vape High Tobacco Electronic Cigarette Refills 18mg,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Strawberry Ice Cream 600 Puffs,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Disposable Crystal Original Blueberry Raspberries,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Mint Ice Disposable,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Cherry Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.0,5.0,unit,"National Lottery £5 £1,200,000 £100,000 A Month for A Year Scratchcard Game",20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Cool Grape,20240413,home,False
+ASDA,16.99,2.12,unit,Ten Motives 8 Menthol,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Watermelon Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Disposable Crystal Original Watermelon Ice,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Blue Razz Cherry Disposable Vape,20240413,home,False
+ASDA,16.99,2.12,unit,Ten Motives 8 Regular,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Strawberry Kiwi 600 Puffs,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Juicy Peach Disposable Vape,20240413,home,False
+ASDA,9.0,360.0,kg,Bayside Virginia Blend Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Cherry Cola Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Banana Ice Disposable E-Cig 20mg,20240413,home,False
+ASDA,6.5,1.3,unit,OK Vape High Menthol Electronic Cigarette Refills 18mg,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Frosted Watermelon,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Grape Disposable Vape,20240413,home,False
+ASDA,20.5,683.3,kg,Manitou Virginia Gold Hand Rolling Tobacco 30g,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Kiwi Passion Fruit Guava Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Blueberry Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Pink Lemonade,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Red Apple Ice Disposable Vape,20240413,home,False
+ASDA,6.5,1.3,unit,OK Vape Medium Tobacco Electronic Cigarette Refills 12mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Blueberry Raspberry Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Elfbull Ice Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.99,1.0,unit,88Vape 88Fusion AnyTank E-Liquid 6mg,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Strawberry Kiwi Disposable Vape,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Cherry Ice,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Mango Sorbet,20240413,home,False
+ASDA,19.0,633.3,kg,Ashford Bright Virginia Hand Rolling Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Grape Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Peach Ice,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Cola Ice,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Apple Blueberry,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Blueberry Raspberry,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Blue Razz Lemonade Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Pink Lemonade Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Lemon Lime Disposable E-Cig 20mg,20240413,home,False
+ASDA,4.0,1.0,unit,88Vape Original E-Liquid Menthol 4 x,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Apple Peach Disposable Vape 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Cola Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Watermelon Ice,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Pink Lemonade,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Strawberry Ice,20240413,home,False
+ASDA,2.0,2.0,unit,"National Lottery £2 £250,000 £250,000 Gold Scratchcard Game",20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Cotton Candy,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Creamy Tobacco Disposable,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Cherry Peach Lemonade Disposable Vape,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Polar Menthol Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,3.95,395.0,l,Blu Menthol E-Liquid 16mg,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse x2 ePod Pods Mint Ice,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Strawberry Ice Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Disposable Crystal Original Menthol E-Cig,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Blueberry Sour Raspberry,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod Triple Mango,20240413,home,False
+ASDA,3.95,395.0,l,Blu Blueberry E-Liquid 16mg,20240413,home,False
+ASDA,3.0,3.0,unit,"National Lottery £3 £300,000 Holiday Cash Scratchcard Game",20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Fresh Menthol E-Liquid 6mg,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse 2 ePod Creamy Tobacco,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Mix Berries 2ml,20240413,home,False
+ASDA,3.0,3.0,unit,"National Lottery £3 £300,000 Bingo Crazy Scratchcard Game",20240413,home,False
+ASDA,3.99,1.0,unit,88Vape Original E-Liquid Liquorice 10ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape 2 Original E-Liquid Raspberry Ripple,20240413,home,False
+ASDA,6.5,6.5,unit,OK Vape Electronic Cigarette Tobacco Flavour Reffills x 5,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro 2 Strawberry Kiwi Prefilled Pod 2ml,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Caribbean Crush,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Double Apple,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Golden Tobacco Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Rolling Leaf 2 Pack,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Watermelon BG Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.95,395.0,l,Blu Tobacco E-Liquid 16mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Apple Watermelon Disposable Vape 20mg,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Exotic Burst,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse Originals Very Berry ePod eLiquid Pods,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Mad Blue Disposable E-Cig 20mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Wild Berry E-Liquid 18mg,20240413,home,False
+ASDA,4.0,1.0,unit,88Vape Original E-Liquid Menthol Chill,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse x2 ePod Pods Strawberry Ice,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Blue Razz Lemonade 2ml,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Mad Blue Disposable Vape,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Fresh Menthol E-Liquid 18mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro 2 Banana Prefilled Pod 2ml,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Wild Berry E-Liquid 12mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Mojito Disposable E-Cig 20mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Fresh Menthol E-Liquid 12mg,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary BM600 Triple Melon,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Fresh Mint Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Wild Berry E-Liquid 6mg,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Plus Cherry Ice,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Blueberry 2ml,20240413,home,False
+ASDA,1.0,1.0,unit,"National Lottery £1 £10,000 Cash Vault Jewels Scratchcard Game",20240413,home,False
+ASDA,5.99,5.99,unit,SKE 2 Cherry Strawberry Raspberry Crystal Plus Pod 20mg,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Fresh Blueberry 2 Pack,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Strawberry Kiwi Disposable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar Elfa Pro 2 Watermelon Prefilled Pod 2ml,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Fresh Mint Vape Pods 9mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,5.99,5.99,unit,SKE 2 Pink Lemonade Crystal Plus Pods 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Blueberry Sour Raspberry 2ml,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Cola 2ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Any Tank E-Liquid 88 Fusion 50/50 2 Pack,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Watermelon Ice Disposable,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Blueberry Cotton Candy 2ml,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Polar Menthol Vape Pods 9mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Sweet Strawberry,20240413,home,False
+ASDA,6.5,6.5,unit,OK Vape Medium Menthol Flavour Electronic Cigarette Refills 5x,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Sour Blue Razz,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Maidens Tobacco,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Liquorice,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Sweet Cherry E-Liquid 18mg,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Blueberry Ice Disposable,20240413,home,False
+ASDA,5.99,5.99,unit,SKE 2 Blue Fusion Crystal Plus Pod 20mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape British Tobacco E-Liquid 6mg 10ml,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Blueberry,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Ice Mint 3mg 10ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid 88 Fruit Twist 2 Pack,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse x2 ePod Pods Blueberry Ice,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Plus Strawberry Burst 20mg/ml,20240413,home,False
+ASDA,3.99,3990.0,l,88Vape Any Tank E-Liquid Sweet Strawberry 50/50 10ml,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Bar Blue Razz Lemonade 20mg/ml,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Blueberry E-Liquid 12mg,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape 4 Anytank E-Liquid Lemon Sherbet 50/50,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Sweet Cherry E-Liquid 12mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Sweet Cherry E-Liquid 6mg,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Blue Razz Ice,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Blueberry Ice Vape Pods 9mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse ePod Pods vPro Tropical Mango 18mg/ml,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Kiwi Passion Fruit Guava 2ml,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Bar 600 Blueberry Sour Raspberry 20mg/ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Any Tank E-Liquid Rolling Leaf 50/50,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Raspberry Menthol E-Liquid 6mg 6ml,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Cotton Candy Ice,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Blueberry E-Liquid 3mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Raspberry Menthol E-Liquid 12mg,20240413,home,False
+ASDA,3.95,395.0,l,Blu Green Apple E-Liquid 8mg,20240413,home,False
+ASDA,5.99,5.99,unit,Lost Mary Disposable Pod BM600 Kiwi Passion Fruit Guava,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape AnyTank E-Liquid H-Blue 50/50 2x,20240413,home,False
+ASDA,3.99,3.99,unit,Vuse Go Edition 01 Creamy Tobacco 20mg/ml,20240413,home,False
+ASDA,3.95,395.0,l,Blu Menthol E-Liquid 8mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Banana Mango Dispolable E-Cig 20mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Elfbull 2ml,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape AnyTank E-Liquid New York Cheesecake 50/50 2x,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape 2 Any Tank E-Liquid Rainbow Burst 50/50,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Wild Berry E-Liquid 3mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Strawberry E-Liquid 3mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Sweet Cherry E-Liquid 3mg,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Blueberry Rasberry Plus Prefilled Pod Kit,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Blueberry E-Liquid 6mg,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape AnyTake E-Liquid Cola Ice 50/50 2x,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Rolling Leaf,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape Ice Mint E-Liquid 10ml,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Blue Mint,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Any Tank E-Liquid Cherry Sherbet 50/50,20240413,home,False
+ASDA,6.99,699.0,l,Vuse ePod Pods vPro Strawberry Kiwi Disposable 12mg,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 2 Elfa Pro Prefilled Pod Apple Peach 2ml,20240413,home,False
+ASDA,3.99,3.99,unit,Vuse Go Edition 01 Blue Raspberry 20mg/ml,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Banana Ice Disposable,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Strawberry Ice Disposable,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Strawberry,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Berry Mix Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,699.0,l,Vuse ePod Pods vPro Blue Raspberry Disposable12mg,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Blue Raspberry,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Blue Raspberry Disposable,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Berry Mix Vape Pods 9mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,3.99,3.99,unit,88Vape Disposable Citrus Punch,20240413,home,False
+ASDA,3.95,395.0,l,Blu Blueberry E-Liquid 8mg,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Anytank E-Liquid Peach Dream 50/50,20240413,home,False
+ASDA,5.99,5.99,unit,SKE Crystal Plus Watermelon Ice 20mg/ml,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Freeze 11mg X-Strong Nicotine Pouches,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 P&B Cloudd Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Watermelon,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape Original E-Liquid Morello Cherry,20240413,home,False
+ASDA,3.95,395.0,l,Blu Tobacco E-Liquid 8mg,20240413,home,False
+ASDA,2.0,1.0,unit,88Vape AnyTank E-Liquid Raspberry Ripple 50/50 2x,20240413,home,False
+ASDA,5.99,5.99,unit,Elf Bar 600V2 Pink Grapefruit Disposable E-Cig 20mg,20240413,home,False
+ASDA,3.99,3.99,unit,Vuse Go Edition 01 Strawberry Kiwi 20mg/ml,20240413,home,False
+ASDA,6.99,699.0,l,Vuse ePod Pods vPro Berry Watermelon Disposable 12mg,20240413,home,False
+ASDA,6.99,699.0,l,Vuse ePod Pods vPro Grape Ice Disposable 12mg,20240413,home,False
+ASDA,2.5,250.0,l,Aqua Vape British Tobacco 12mg,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Ice Cool 10mg Strong Nicotine Pouches,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse x2 ePod Pods Watermelon Ice,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Berry Blend Disposable,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Melon Coconut,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Mango Ice Disposable,20240413,home,False
+ASDA,3.95,395.0,l,Blu Strawberry Mint E-Liquid 8mg,20240413,home,False
+ASDA,3.95,395.0,l,Blu Cherry E-Liquid 8mg,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Golden Tobacco Vape Pods 9mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,699.0,l,Vuse ePod Refill Pods vPro Passionfruit Ice 12mg,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Polar Mint 6mg Medium Nicotine,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Mango,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Apple Sour Disposable,20240413,home,False
+ASDA,3.95,395.0,l,Blu Mint Chocolate E-Liquid 8mg,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Berry Watermelon Disposable,20240413,home,False
+ASDA,5.0,5.0,unit,"National Lottery £5 £1,000,000 £50 Million Cash Showdown Scratchcard Game",20240413,home,False
+ASDA,3.95,395.0,l,Blu Berry Swirl E-Liquid 8mg,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Green Apple Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Fresh Mango Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Blueberry Ice Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Fresh Mango Vape Pods 9mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Peach,20240413,home,False
+ASDA,3.0,3.0,unit,Veev Now Blueberry,20240413,home,False
+ASDA,1.0,100.0,l,Passing Clouds Clouds Menthol 6mg Nicotine,20240413,home,False
+ASDA,5.0,5.0,unit,"National Lottery £5 £2,000,000 Black Pearl Scratchcard Game",20240413,home,False
+ASDA,1.0,100.0,l,Passing Clouds Extreme Berry 6mg Nicotine,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Watermelon Ice Limited Edition Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,1.0,100.0,l,Passing Clouds Classic Tobacco 6mg Nicotine,20240413,home,False
+ASDA,6.5,0.33,unit,Velo Nicotine Pouches Ruby Berry,20240413,home,False
+ASDA,1.0,100.0,l,Passing Clouds Eisberg Blue Mixed Berries and Menthol 6mg Nicotine,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Grape Ice Disposable,20240413,home,False
+ASDA,6.99,6.99,unit,Blu 2.0 Strawberry Mint Vape Pods 18mg/ml 2 x 1.9ml,20240413,home,False
+ASDA,6.99,6.99,unit,Vuse x2 ePod Pods Mango Ice,20240413,home,False
+ASDA,6.99,699.0,l,Vuse ePod Pods vPro Berry Blend Disposable 12mg,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Passionfruit Ice Disposable,20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Creamy Peach Disposable,20240413,home,False
+ASDA,3.0,3.0,unit,"National Lottery £3 £300,000 Triple Cashword Pink Scratchcard Game",20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Tropical Coconut Blend Disposable,20240413,home,False
+ASDA,2.0,2.0,unit,"National Lottery £2 £250,000 Orange Scratchcard Game",20240413,home,False
+ASDA,2.0,2.0,unit,"National Lottery £2 £50,000 Coffee Break Scratchcard Game",20240413,home,False
+ASDA,2.0,2.0,unit,"National Lottery £2 £100,000 Gold 7s Scratch card Game",20240413,home,False
+ASDA,5.0,5.0,unit,Vuse Go 700 Strawberry Kiwi Disposable,20240413,home,False
+ASDA,1.0,1.0,unit,"National Lottery £1 £100,000 £100,000 Teal Scratchcard Game",20240413,home,False
+ASDA,1.0,1.0,unit,"National Lottery £1 £5,000 Cosmic Cash Scratchcard Game",20240413,home,False
+ASDA,1.1,1.1,unit,Smart Pet Softwood Shavings,20240413,pets,False
+ASDA,1.5,1.5,unit,Whitefurze Pet Scoop Silver,20240413,pets,False
+ASDA,3.99,13.3,kg,Vamoosh Pet Hair Dissolver for Pet Bedding & Washing Machines,20240413,pets,False
+ASDA,10.0,10.0,unit,George Home Pet Raincoat,20240413,pets,True
+ASDA,25.0,25.0,unit,Little Live Pets My Pet Lamb: Snowie,20240413,pets,False
+ASDA,18.0,18.0,unit,Barbie Doll and Pets,20240413,pets,False
+ASDA,3.0,3.0,unit,Ozark Trail Pet Stake,20240413,pets,False
+ASDA,15.0,15.0,unit,Sparkle Girlz Pet Clinic,20240413,pets,False
+ASDA,36.0,36.0,unit,Bitzee Interactive Digital Pet,20240413,pets,False
+ASDA,2.5,6.67,l,"Febreze Fabric Freshener Spray, Pet",20240413,pets,False
+ASDA,18.0,18.0,unit,George Home Grey Donut Pet Bed- Medium,20240413,pets,True
+ASDA,35.0,35.0,unit,Disney Stitch Purse Pets,20240413,pets,False
+ASDA,59.0,59.0,unit,"Shark Cordless HandVac, Pet Model CH950UKT",20240413,pets,False
+ASDA,11.5,11.98,kg,Scrumbles Classic Selection in Jelly Complete Wet Pet Food for Cats 12 x 80g,20240413,pets,False
+ASDA,15.0,15.0,unit,Pet Simulator X Cuddly Pet Plush Toy (Style may vary),20240413,pets,False
+ASDA,4.0,6.15,l,Dr Beckmann Pet Stain & Odour Remover,20240413,pets,False
+ASDA,6.0,6.0,unit,"Febreze 3Volution Plug In Air Freshener Unit & Refill, Pet Odour Eliminator",20240413,pets,False
+ASDA,7.0,7.0,unit,Polly Pocket Pet Collectible Locket - Otter,20240413,pets,False
+ASDA,5.0,5.0,unit,George Home Grey Sausage Dog Embossed Pet Bowl 15cm,20240413,pets,True
+ASDA,45.0,45.0,unit,George Home Cream Teddy Pet Sofa Bed,20240413,pets,True
+ASDA,10.0,10.0,unit,RMS Doodle & Design Bath Time Pets,20240413,pets,False
+ASDA,3.5,3.5,unit,"Febreze 3Volution Plug In Air Freshener Refill, Pet Odour Eliminator",20240413,pets,False
+ASDA,7.0,7.0,unit,Polly Pocket Pet Collectible Locket - Red Panda,20240413,pets,False
+ASDA,30.0,30.0,unit,Scruff-a-Luvs Little Live Pets Scruff-a-Luvs Cutie Cuts - Pink,20240413,pets,False
+ASDA,30.0,30.0,unit,Scruff-a-Luvs Little Live Pets Scruff-a-Luvs Cutie Cuts - Purple,20240413,pets,False
+ASDA,22.0,22.0,unit,George Home Natural Large Donut Sherpa Pet Bed,20240413,pets,True
+ASDA,18.0,18.0,unit,George Home Natural Medium Donut Sherpa Pet Bed,20240413,pets,True
+ASDA,15.0,15.0,unit,Barbie Pet Spa Set ( Age 3+ Years),20240413,pets,False
+ASDA,15.0,15.0,unit,CoComelon Best Friends & Pets 4-Figure Set,20240413,pets,False
+ASDA,3.0,3.0,kg,Country Values Soft & Snuggly Bedding Hay for Small Animals,20240413,pets,False
+ASDA,1.4,3.5,kg,Naturo Natural Pet Food Duck with Rice and Vegetables Adult Dog 1 to 7 Years,20240413,pets,False
+ASDA,3.0,3.0,unit,George Home Pet Pot Pals (Styles May Vary),20240413,pets,True
+ASDA,2.5,3.12,l,Flash Spray.Wipe.Done. For Pet Lovers Multi Purpose Cleaning Spray,20240413,pets,False
+ASDA,1.3,13.68,kg,Wild Harvest Small Animal Treats with Honey Pack of 3 Sticks,20240413,pets,False
+ASDA,9.97,0.12,m,Westland Garden Health SafeLawn Natural Child & Pet Friendly Lawn Feed 2.8kg,20240413,pets,False
+ASDA,15.97,0.11,m,Westland Garden Health Safelawn Natural Child & Pet Friendly Lawn Feed 5.25kg,20240413,pets,False
+ASDA,1.25,1.25,unit,Simply Soft 'n' Safe Hamster Bedding,20240413,pets,False
+ASDA,1.1,0.01,unit,Good Boy 150 Dog Poo Bags,20240413,pets,False
+ASDA,4.8,3.2,kg,Burgess Excel Rabbit Nuggets,20240413,pets,False
+ASDA,4.7,3.13,kg,Burgess Excel Guinea Pig Nuggets with Mint,20240413,pets,False
+ASDA,6.0,3.0,unit,"Febreze 3Volution Plug In Air Freshener Refill Twin Pack, Pet Odour Eliminator",20240413,pets,False
+ASDA,3.1,6.2,kg,Burgess Excel Feeding Hay with Meadow Flowers for Rabbits & Guinea Pigs,20240413,pets,False
+ASDA,1.45,3.62,kg,Naturo Natural Pet Food Chicken & Lamb with Rice and Vegetables Adult Dog 1 to 7 Years,20240413,pets,False
+ASDA,2.0,33.33,kg,Burgess Excel Nature Snacks Fruity Feasts Treats for Rabbits & Guinea Pigs,20240413,pets,False
+ASDA,2.0,2.67,kg,"Burgess Hamster, Gerbil & Mouse Complete Food",20240413,pets,False
+ASDA,2.0,33.33,kg,Burgess Excel Nature Snacks Herby Hearts Treats for Rabbits & Guinea Pigs,20240413,pets,False
+ASDA,1.35,3.46,kg,Naturo Natural Pet Food Chicken with Fruit & Vegetables in a Herb Gravy Adult Dog 1-7 Years,20240413,pets,False
+ASDA,2.0,20.0,kg,Simply Nibbles Dandelion Salad 100g,20240413,pets,False
+ASDA,2.25,11.25,kg,Simply Nibbles 4 Sun-Ripened Corn Halves 200g,20240413,pets,False
+ASDA,2.25,18.75,kg,Simply Nibbles Dandelion & Carrot Sticks 140 g,20240413,pets,False
+ASDA,269.99,269.99,unit,Shark Anti Hair Wrap Pet Upright Vacuum Cleaner with Lift-Away (NZ690UKT),20240413,pets,False
+ASDA,7.5,3.21,kg,Naturo Natural Pet Food Herb Jelly Adult Dog 1 to 7 Years 6 x 390g,20240413,pets,False
+ASDA,7.0,3.5,kg,Naturo Natural Pet Food Chicken & Lamb with Rice and Vegetables Adult Dog 1 to 7 Years 2kg,20240413,pets,False
+ASDA,10.0,5.56,kg,Naturo Natural Pet Food Adult Dog Variety Pack 1 to 7 Years 12 x 150g,20240413,pets,False
+ASDA,1.0,6.67,kg,Naturo Natural Pet Food Mini Salmon with Rice and Vegetables Adult Dog 1 to 7 Years 150g,20240413,pets,False
+ASDA,1.0,6.67,kg,Naturo Natural Pet Food Mini Duck with Rice and Vegetables Adult Dog 1 to 7 Years 150g,20240413,pets,False
+ASDA,1.0,6.67,kg,Naturo Natural Pet Food Mini Turkey with Rice and Vegetables Adult Dog 1 to 7 Years 150g,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 11+ Fish Favourites Senior Wet Cat Food Pouches in Jelly 12 x 85g,20240413,pets,False
+ASDA,13.0,0.33,unit,Webbox Naturals Tasty Selection Meat in Gravy Adult 1-7 Years 40 x 100g,20240413,pets,False
+ASDA,3.75,3.12,kg,Flexi Kitten Food Mixed Selection in Jelly 12 x 100g,20240413,pets,False
+ASDA,4.5,4.69,kg,Felix Deliciously Sliced Fish Selection in Jelly 12 x 80g (960g),20240413,pets,False
+ASDA,5.0,4.9,kg,Perfect Fit Advanced Nutrition Senior Cat Food Pouches Mixed 12 x 85g,20240413,pets,False
+ASDA,5.0,4.9,kg,Perfect Fit Advanced Nutrition Cat Food Pouches Mixed 12 x 85g,20240413,pets,False
+ASDA,5.5,5.39,kg,Harringtons Poultry Fillets in Gravy 12 x 85g (1.02kg),20240413,pets,False
+ASDA,3.5,14.0,kg,Encore Fish Selection in Gravy 5 x 50g,20240413,pets,False
+ASDA,5.5,5.39,kg,Harringtons Mixed Selection in Jelly 7+ Years 12 x 85g (1.02kg),20240413,pets,False
+ASDA,3.5,14.0,kg,Encore Chicken Selection in Gravy 5 x 50g,20240413,pets,False
+ASDA,5.5,5.39,kg,Harringtons Mixed Selection in Jelly 12 x 85g (1.02kg),20240413,pets,False
+ASDA,11.5,11.98,kg,Scrumbles Complete Wet Food for Cats Chicken in Jelly 12 x 80g,20240413,pets,False
+ASDA,13.0,13.0,unit,Jiggly Pets Puppy,20240413,pets,False
+ASDA,8.8,12.94,kg,Blink! Wet Cat Food Fish Pouch Selection in Jelly 8x85g,20240413,pets,False
+ASDA,8.8,12.94,kg,Blink! Wet Cat Food Chicken Pouch Selection in Gravy 8 x 85g,20240413,pets,False
+ASDA,11.5,11.98,kg,Scrumbles Meat Selection in Jelly Complete Wet Food for Cats 12 x 80g,20240413,pets,False
+ASDA,9.5,2.38,kg,ASDA Tiger Adult Cat Jelly Selection with Fish 40 x 100g (4.0kg),20240413,pets,True
+ASDA,3.75,1.88,kg,Pets Pantry Complete Meaty Chunks With Tasty Beef 2kg,20240413,pets,False
+ASDA,3.75,1.88,kg,Pets Pantry Complete Meaty Chunks with Tasty Chicken 2kg,20240413,pets,False
+ASDA,0.7,8.24,kg,Gourmet Gold Cat Food Paté with Ocean Fish 85g,20240413,pets,False
+ASDA,0.7,8.24,kg,Gourmet Gold Chunks in Gravy with Salmon and Chicken 85g,20240413,pets,False
+ASDA,0.7,8.24,kg,Gourmet Gold Savoury Cake with Salmon 85g,20240413,pets,False
+ASDA,3.0,6.0,kg,Trill Budgie Food Tub,20240413,pets,False
+ASDA,0.85,10.62,kg,Scrumbles Chicken in Jelly 80g,20240413,pets,False
+ASDA,16.0,16.0,unit,PETS ALIVE Smitten Kitten,20240413,pets,False
+ASDA,3.0,30.0,kg,Tetra Pond Sticks,20240413,pets,False
+ASDA,15.0,15.0,unit,Jiggly Pets Purple Koala,20240413,pets,False
+ASDA,15.0,15.0,unit,Jiggly Pets Blue Koala,20240413,pets,False
+ASDA,25.0,25.0,unit,PETS ALIVE Pooping Puppies by ZURU (Styles May Vary),20240413,pets,False
+ASDA,3.0,1.5,kg,Wild Bird Seed Mix 2kg,20240413,pets,False
+ASDA,3.0,4.0,kg,Wild Bird Peanuts 750g,20240413,pets,False
+ASDA,3.0,0.17,unit,Wild Bird 18 Fat Balls 1.4kg,20240413,pets,False
+ASDA,6.0,6.0,unit,"Febreze 3Volution Plug In Air Freshener Unit & Refill, Vanilla Cookie",20240413,pets,False
+ASDA,1.5,0.07,unit,Good Boy 20 Antibacterial Dog & Puppy Wipes,20240413,pets,False
+ASDA,2.5,8.33,l,Oust Odour Eliminator Clean Scent,20240413,pets,False
+ASDA,3.0,2.5,kg,Wild Bird Suet Pellets Flavoured with Mealworms 1.2kg,20240413,pets,False
+ASDA,2.25,7.5,l,Felight Litter Fresh Spray,20240413,pets,False
+ASDA,3.0,4.8,kg,Wild Bird Sunflower Hearts 625g,20240413,pets,False
+ASDA,3.0,20.0,kg,Wild Bird Dried Mealworms 150g,20240413,pets,False
+ASDA,3.0,2.5,kg,Wild Bird No Mess Seed Mix 1.2kg,20240413,pets,False
+ASDA,3.0,2.5,kg,Wild Bird High Energy Seed Mix 1.2kg,20240413,pets,False
+ASDA,3.0,1.0,unit,Wild Bird Fat Feast Triple Pack 3 x 280g,20240413,pets,False
+ASDA,3.0,1.5,unit,Wild Bird Hanging Coconut Fat Feast Twin Pack,20240413,pets,False
+ASDA,3.0,57.69,kg,Tetra Goldfish Flakes 52g,20240413,pets,False
+ASDA,3.0,57.69,kg,Tetra Min Flakes 52g,20240413,pets,False
+ASDA,3.0,20.0,kg,Wild Bird Calciworms 150g,20240413,pets,False
+ASDA,3.0,30.0,l,Tetra TETRA AQUASAFE,20240413,pets,False
+ASDA,15.0,15.0,unit,Little Live Pets Squirkies (Styles May Vary),20240413,pets,False
+ASDA,20.0,20.0,unit,Little Live Pets Mama Surprise Minis,20240413,pets,False
+ASDA,7.0,7.0,unit,Pet Simulator X Egg With Collectable Figure Inside,20240413,pets,False
+ASDA,25.0,25.0,unit,Little Live Pets Trolls (Styles May Vary),20240413,pets,False
+ASDA,11.0,11.0,unit,Little Live Pets Scruff A Luv Cutie Cuts (Styles May Vary),20240413,pets,False
+ASDA,2.5,8.33,l,1001 Carpet Fresh Pet Thai Orchid & Passionfruit 300ml,20240413,pets,False
+ASDA,4.5,4.5,unit,DC League of Super Pets Super Diecast Vehicle - Merton,20240413,pets,False
+ASDA,4.5,4.5,unit,DC League of Super Pets Super Diecast Vehicle - Krypto,20240413,pets,False
+ASDA,4.5,4.5,unit,DC League of Super Pets Super Diecast Vehicle - Ace,20240413,pets,False
+ASDA,1.5,1.5,unit,Good Boy Squeaky Dog Toy Faceball,20240413,pets,False
+ASDA,3.0,3.0,unit,Good Boy Soft Dog Toy,20240413,pets,False
+ASDA,4.0,4.0,unit,Good Boy Soft Dog Toy Crinkle Legs,20240413,pets,False
+ASDA,3.0,3.0,unit,Good Boy Squeaky Dog Toy Squeaky Veg,20240413,pets,False
+ASDA,3.0,3.0,unit,Good Boy Chewy Dog Toy,20240413,pets,False
+ASDA,6.0,6.0,unit,Good Boy Soft Dog Toy Octopus,20240413,pets,False
+ASDA,1.5,1.5,unit,Good Boy Squeaky Dog Toy Squeaky Assortment,20240413,pets,False
+ASDA,5.0,5.0,unit,Good Boy Soft Dog Toy Cuddle Friend,20240413,pets,False
+ASDA,1.0,1.0,unit,Good Boy Fetch Dog Toy Sponge Ball,20240413,pets,False
+ASDA,4.5,0.45,l,ASDA Non-Clumping Lightweight Cat Litter,20240413,pets,True
+ASDA,5.5,0.55,l,Smart Litter Wood Pellet Litter,20240413,pets,False
+ASDA,7.5,0.75,l,Catsan Hygiene Non-Clumping Odour Control Cat Litter,20240413,pets,False
+ASDA,3.0,3.0,unit,Good Boy Tuggy Dog Toy,20240413,pets,False
+ASDA,17.55,1.83,kg,Hero by ASDA Working Dog Food Meat & Poultry Gravy Selection 24 x 400g Cans,20240413,pets,True
+ASDA,4.0,4.0,unit,Good Boy Chewy Dog Toy Rope Dumbbell,20240413,pets,False
+ASDA,2.19,0.22,kg,JUST ESSENTIALS by ASDA Cat Litter,20240413,pets,True
+ASDA,5.0,5.0,unit,Good Boy Soft Dog Toy Hug Tug,20240413,pets,False
+ASDA,7.0,0.7,l,Felight Non Clumping Cat Litter with Antibacterial Silver Fresh+ Technology,20240413,pets,False
+ASDA,18.5,1.93,kg,Hero by ASDA Adult Dog Food Jelly Selection Meat & Poultry 24 x 400g Cans,20240413,pets,True
+ASDA,5.0,5.0,unit,Good Boy GD BOY FETCH TOY,20240413,pets,False
+ASDA,14.95,3.74,kg,Felix As Good As It Looks Doubly Delicious Cat Food Meaty,20240413,pets,False
+ASDA,10.99,2.75,kg,Felix Mixed Selection In Jelly Cat Food,20240413,pets,False
+ASDA,20.0,2.08,kg,Butcher's Tripe Loaf Recipes Grain Free Adult Dog Food Tins,20240413,pets,False
+ASDA,14.95,3.74,kg,Felix As Good As It Looks Cat Food Ocean Feasts,20240413,pets,False
+ASDA,1.5,0.5,unit,Good Boy Fetch Dog Toy,20240413,pets,False
+ASDA,20.0,2.08,kg,Butcher's Recipes in Jelly Grain Free Adult Dog Food Tins,20240413,pets,False
+ASDA,27.5,2.78,kg,Chappie Adult Wet Dog Food Tins Favourites in Loaf,20240413,pets,False
+ASDA,7.0,7.0,unit,Good Boy Space Lobber Chewy Dog Toy,20240413,pets,False
+ASDA,15.0,0.88,kg,Hero by ASDA Chicken & Veg Dry Working Dog Food 17kg,20240413,pets,True
+ASDA,3.49,3.49,kg,"Harringtons Small Adult Dry Dog Food, Turkey & Rice",20240413,pets,False
+ASDA,5.0,2.08,kg,Hero by ASDA Adult Dog Food Jelly Selection Meaty & Poultry 6 x 400g Cans,20240413,pets,True
+ASDA,14.95,3.74,kg,Felix As Good As It Looks Cat Food Mixed,20240413,pets,False
+ASDA,4.0,1.0,l,Sanicat 7 Days Freshness Absorbent Litter Aloe Vera 4L,20240413,pets,False
+ASDA,9.5,1.9,l,Catsan Catsan Hygiene Smart Pack 2x Inlays Cat Litter Dust-Free Litter Tray Liner,20240413,pets,False
+ASDA,13.6,4.0,kg,Purina ONE Adult Cat Food Mini Fillets in Gravy 40 x,20240413,pets,False
+ASDA,12.5,1.04,kg,"Hero by ASDA Chicken, Rice & Veg Dry Adult Dog Food 12kg",20240413,pets,True
+ASDA,8.0,0.8,l,Sanicat Clumping Litter 10L,20240413,pets,False
+ASDA,2.99,2.49,kg,Tiger by ASDA Adult Cat Food Jelly Selection Meaty & Fish 12 x 100g Pouches,20240413,pets,True
+ASDA,8.0,1.6,l,Catsan Ultra Clumping Odour Control Cat Litter 5L,20240413,pets,False
+ASDA,13.99,4.37,kg,Felix Tasty Shreds Mixed Selection Cat Food Pouches,20240413,pets,False
+ASDA,10.99,2.75,kg,Felix Fish Selection in Jelly Cat Food,20240413,pets,False
+ASDA,4.0,4.0,unit,Whitefurze Litter Tray,20240413,pets,False
+ASDA,5.0,2.08,kg,Hero by ASDA Adult Dog Food Gravy Selection Meaty & Poultry 6 x 400g Cans,20240413,pets,True
+ASDA,6.0,1.2,kg,Hero by ASDA Beef & Veg Dry Adult Dog Food 5kg,20240413,pets,True
+ASDA,25.0,2.71,kg,Pedigree Adult Wet Dog Food Tins Mixed in Jelly Jumbo Pack,20240413,pets,False
+ASDA,14.0,4.12,kg,Whiskas 1+ Poultry Feasts Adult Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,14.0,4.12,kg,Whiskas 1+ Fish Favourites Adult Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,14.0,4.12,kg,Whiskas 7+ Poultry Feasts Senior Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,14.0,4.12,kg,Whiskas 1+ Mixed Menu Adult Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,15.0,1.25,kg,Wagg Meaty Goodness Adult Dog Dry Food Complete Chicken Dinner,20240413,pets,False
+ASDA,12.49,1.04,kg,Wagg Active Goodness Complete Adult Working Dry Dog Food Rich in Beef,20240413,pets,False
+ASDA,4.5,2.65,kg,"Harringtons Dry Adult Dog Food, Lamb & Rice",20240413,pets,False
+ASDA,16.75,4.93,kg,Sheba Fine Flakes Fish Selection in Jelly Adult Cat Food Pouches,20240413,pets,False
+ASDA,10.99,2.75,kg,Felix Senior Mixed Selection in Jelly Cat Food,20240413,pets,False
+ASDA,3.3,1.32,kg,"Hero by ASDA Light with Chicken, Rice & Veg Dry Adult Dog Food 2.5kg",20240413,pets,True
+ASDA,13.5,2.92,kg,Pedigree Adult Wet Dog Food Tins Mixed in Jelly,20240413,pets,False
+ASDA,7.5,3.21,kg,Naturo Grain & Gluten Free Mixed Selection in Gravy Adult Dog Food Tins,20240413,pets,False
+ASDA,6.2,24.8,kg,Good Boy Meaty Treaty Chewy Chicken Twisters Dog Treats,20240413,pets,False
+ASDA,6.0,1.2,kg,"Hero by ASDA Chicken, Rice & Veg Dry Adult Dog Food 5kg",20240413,pets,True
+ASDA,13.99,4.37,kg,Felix Naturally Delicious Countryside Selection in Jelly Wet Cat Food,20240413,pets,False
+ASDA,4.5,3.75,kg,Felix As Good As It Looks Cat Food Meat Selection,20240413,pets,False
+ASDA,7.75,2.87,kg,Bakers Meaty Meals Adult Dry Dog Food Beef,20240413,pets,False
+ASDA,2.99,2.49,kg,Tiger by ASDA Adult Cat Gravy Selection Meaty & Poultry 12 x 100g Pouches,20240413,pets,True
+ASDA,7.75,2.58,kg,Bakers Dry Dog Food Beef and Veg,20240413,pets,False
+ASDA,12.49,1.04,kg,Wagg Active Goodness Complete Adult Working Dry Dog Food Rich in Chicken,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas Kitten Poultry Feasts Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,4.0,4.0,kg,Bakers Meaty Meals Adult Small Dry Dog Food Beef,20240413,pets,False
+ASDA,1.1,12.22,kg,Bakers Sizzlers Dog Treats Bacon,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 7+ Fish Favourites Senior Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,0.49,2.45,kg,Hero by ASDA 20 Strips With Chicken 200g,20240413,pets,True
+ASDA,7.75,2.72,kg,Bakers Small Dry Dog Food Chicken and Veg,20240413,pets,False
+ASDA,1.1,18.33,kg,Hero by ASDA 8 Sausages Suitable For All Dogs 60g,20240413,pets,True
+ASDA,3.3,1.32,kg,Hero by ASDA Chicken & Veg Dry Adult Dog Food 2.5kg,20240413,pets,True
+ASDA,4.5,2.65,kg,"Harringtons Dry Adult Dog Food, Salmon & Potato",20240413,pets,False
+ASDA,14.0,4.12,kg,Whiskas 1+ Chef's Choice Mix Adult Wet Cat Food Pouches in Gravy,20240413,pets,False
+ASDA,1.58,3.16,kg,Pedigree Markies Mini Adult Dog Treats Marrowbone Biscuits,20240413,pets,False
+ASDA,1.29,8.96,kg,Pedigree Schmackos Adult Dog Treats Meat Variety,20240413,pets,False
+ASDA,2.0,2.5,kg,Hero by ASDA Mixed Biscuits Suitable For All Dogs 800g,20240413,pets,True
+ASDA,6.0,2.5,kg,Butcher's Recipes in Gravy Grain Free Adult Dog Food Tins,20240413,pets,False
+ASDA,6.0,2.56,kg,Butcher's Joints & Coat Dog Food Tins,20240413,pets,False
+ASDA,2.99,2.49,kg,Tiger by ASDA Adult Cat Food Jelly Selection Meaty & Poultry 12 x 100g Pouches,20240413,pets,True
+ASDA,6.0,2.56,kg,Butcher's Simply Gentle Adult Dog Food Tins,20240413,pets,False
+ASDA,4.2,3.5,kg,Bonio The Original Biscuits Dog Food,20240413,pets,False
+ASDA,4.5,3.75,kg,Felix As Good As It Looks Doubly Delicious Cat Food Fish,20240413,pets,False
+ASDA,10.5,2.19,kg,Winalot with Chicken in Jelly 12 x 400g,20240413,pets,False
+ASDA,4.5,3.75,kg,Felix As Good As It Looks Cat Food Meaty Selection In Jelly,20240413,pets,False
+ASDA,1.1,8.46,kg,Bakers Dog Treat Bacon and Cheese Whirlers,20240413,pets,False
+ASDA,2.4,34.29,kg,Good Boy Meaty Treaty Jumbo Chewy Chicken Twister Dog Treats,20240413,pets,False
+ASDA,1.58,3.95,kg,Pedigree Biscrok Gravy Bones Adult Dog Treats Original Biscuits,20240413,pets,False
+ASDA,15.0,1.25,kg,Wagg Meaty Goodness Adult Dog Dry Food Complete Beef Dinner,20240413,pets,False
+ASDA,2.4,30.0,kg,Good Boy Meaty Treaty Chewy Chicken Strips Dog Treats,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 7+ Poultry Feasts Senior Wet Cat Food Pouches in Gravy,20240413,pets,False
+ASDA,1.29,10.49,kg,Pedigree Rodeo Adult Dog Treats Beef,20240413,pets,False
+ASDA,4.5,3.75,kg,Felix As Good As It Looks Doubly Delicious Cat Food Meat,20240413,pets,False
+ASDA,14.0,4.12,kg,Whiskas 1+ Duo Surf & Turf Adult Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,1.29,8.06,kg,Pedigree Jumbone Mini Adult Small Dog Treats Beef & Poultry 4 Chews,20240413,pets,False
+ASDA,1.1,9.17,kg,Adventuros Buffalo Flavour Sticks Dog Treat,20240413,pets,False
+ASDA,11.0,2.75,kg,"Harringtons Dry Adult Dog Food, Chicken & Rice",20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas Kitten Fish Favourites Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,3.69,1.84,kg,Wagg Meaty Goodness Adult Complete Beef Dinner Dry Dog Food,20240413,pets,False
+ASDA,15.0,6.0,kg,Sheba Sheba Fresh & Fine Wet Cat Food Pouches Poultry in Gravy Mega Pack,20240413,pets,False
+ASDA,5.0,14.29,kg,Dreamies Cat Treat Biscuits Adult & Kitten with Chicken Bulk Mega Tub,20240413,pets,False
+ASDA,6.0,2.5,kg,Butcher's Grain Free Tripe Adult Dog Food Tins,20240413,pets,False
+ASDA,1.29,9.21,kg,Pedigree Tasty Minis Adult Dog Treats Cheese & Beef Nibbles,20240413,pets,False
+ASDA,3.75,3.12,kg,Felix Cat Food Mixed Selection In Gravy,20240413,pets,False
+ASDA,2.0,3.33,l,Tiger by ASDA Cat Milk 200ml,20240413,pets,True
+ASDA,2.0,6.94,kg,Felix Soup Cat Food Fish Selection,20240413,pets,False
+ASDA,3.0,15.0,kg,Dreamies Cat Treat Biscuits Adult & Kitten with Chicken Mega Pack,20240413,pets,False
+ASDA,4.8,7.06,kg,Purina ONE Selective Palate Meat Selection in Gravy,20240413,pets,False
+ASDA,0.6,10.0,kg,Tiger by ASDA Pockets with Chicken & Cheese 60g,20240413,pets,True
+ASDA,5.7,5.59,kg,Gourmet Perle Cat Food Pouches Country Medley,20240413,pets,False
+ASDA,0.6,10.0,kg,Tiger by ASDA Pockets With Salmon Suitable For All Cats 60g,20240413,pets,True
+ASDA,1.29,21.5,kg,Dreamies Cat Treat Biscuits Adult & Kitten with Cheese,20240413,pets,False
+ASDA,1.29,10.49,kg,Pedigree Rodeo Adult Dog Treats Chicken,20240413,pets,False
+ASDA,6.2,22.14,kg,Good Boy Meaty Treaty Tender Beef Jerky Strips Dog Treats,20240413,pets,False
+ASDA,2.0,6.94,kg,Felix Soup Cat Food Farm Selection,20240413,pets,False
+ASDA,7.75,2.58,kg,Bakers Dry Dog Food Chicken and Veg,20240413,pets,False
+ASDA,4.5,3.75,kg,Felix As Good As It Looks Cat Food Veg,20240413,pets,False
+ASDA,4.5,3.75,kg,Felix As Good As It Looks Doubly Delicious Cat Food Ocean Recipes,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 1+ Meaty Meals Adult Wet Cat Food Pouches in Gravy,20240413,pets,False
+ASDA,4.5,4.69,kg,Felix Tasty Shreds Farm Selection in Gravy Cat Food Pouches,20240413,pets,False
+ASDA,2.0,1.33,kg,Hero by ASDA Mixer Flavoured With Chicken in Gravy Dry Adult Dog Food 1.5kg,20240413,pets,True
+ASDA,1.05,17.5,kg,Hero by ASDA 10 Sticks With Tripe 60g,20240413,pets,True
+ASDA,27.0,2.25,kg,Bakers Adult Chicken with Vegetables Dry Dog Food,20240413,pets,False
+ASDA,2.5,3.12,kg,Hero by ASDA Gravy Bones Beef Flavour,20240413,pets,True
+ASDA,11.0,2.75,kg,"Harringtons Dry Adult Dog Food, Turkey with Veg",20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 1+ Duo Meaty Combos Adult Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,3.8,19.0,kg,Felix Goody Bag Cat Treats Original Mix,20240413,pets,False
+ASDA,1.1,36.67,kg,Hero by ASDA 12 Sausages Suitable For Puppies 30g,20240413,pets,True
+ASDA,7.75,2.72,kg,Bakers Small Dry Dog Food Beef and Veg,20240413,pets,False
+ASDA,0.59,1.48,kg,Hero by ASDA Adult Dog Food Chicken in Jelly 400g,20240413,pets,True
+ASDA,3.0,15.0,kg,Dreamies Cat Treat Biscuits Adult & Kitten with Cheese Mega Pack,20240413,pets,False
+ASDA,1.29,7.17,kg,Pedigree Jumbone Adult Medium Dog Treat Chicken & Lamb 2 Chews,20240413,pets,False
+ASDA,1.29,21.5,kg,Dreamies Cat Treat Biscuits Adult & Kitten with Chicken,20240413,pets,False
+ASDA,7.75,2.72,kg,Bakers Chicken & Veg Dry Puppy Dog Food,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 11+ Poultry Feasts Senior Wet Cat Food Pouches in Jelly,20240413,pets,False
+ASDA,2.4,40.0,kg,Good Boy Meaty Treaty Cheese Chicken Sticks Dog Treats,20240413,pets,False
+ASDA,2.4,40.0,kg,Good Boy Meaty Treaty Succulent Pigs in Blankets Dog Treats,20240413,pets,False
+ASDA,2.4,34.29,kg,Good Boy Meaty Treaty Chicken Rice Sticks Dog Treats,20240413,pets,False
+ASDA,0.49,2.45,kg,Hero by ASDA 20 Strips With Beef Suitable For All Dogs 200g,20240413,pets,True
+ASDA,1.1,12.22,kg,Adventuros Strips Dog Treat Venison Flavour,20240413,pets,False
+ASDA,7.75,2.87,kg,Bakers Meaty Meals Adult Dry Dog Food Chicken,20240413,pets,False
+ASDA,5.9,2.95,kg,"HiLife Feed Me! Complete Nutrition with Turkey, Chicken, Bacon & Vegetables Dry Adult Dog Food",20240413,pets,False
+ASDA,7.3,3.65,kg,Iams for Vitality Fresh Chicken Dry Adult Dog Food Small/Medium Breed,20240413,pets,False
+ASDA,2.0,6.67,kg,Sheba Fresh & Fine Wet Cat Food Pouches Chicken & Turkey in Gravy,20240413,pets,False
+ASDA,1.29,10.32,kg,Pedigree Tasty Minis Puppy Dog Treats Chicken Chewy Cubes,20240413,pets,False
+ASDA,1.29,8.06,kg,Pedigree Jumbone Mini Adult Small Dog Treats Chicken & Lamb 4 Chews,20240413,pets,False
+ASDA,0.6,10.0,kg,"Tiger by ASDA Pockets with Turkey, Beef & Duck 60g",20240413,pets,True
+ASDA,1.29,10.49,kg,Pedigree Rodeo Duos Adult Dog Treats Chicken & Bacon,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 7+ Mixed Menu Senior Wet Cat Food Pouches in Gravy,20240413,pets,False
+ASDA,3.75,6.25,l,Whiskas Kitten Cat Milk Bottle 3 x,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 1+ Tasty Mix Catch Of The Day Adult Wet Cat Food Pouches in Gravy,20240413,pets,False
+ASDA,4.49,4.4,kg,Whiskas 1+ Poultry Feasts Adult Wet Cat Food Pouches in Gravy,20240413,pets,False
+ASDA,5.95,2.98,kg,Pedigree Dry Dog Food Mixer Adult Small Dog,20240413,pets,False
+ASDA,6.2,19.38,kg,Good Boy Meaty Treaty Chewy Chicken & Munchy Dumbbells Dog Treats,20240413,pets,False
+ASDA,5.7,5.59,kg,Gourmet Perle Connoisseurs Duo Cat Food Meat,20240413,pets,False
+ASDA,1.1,7.33,kg,Hero by ASDA 7 Fillers With Beef Suitable For All Dogs 150g,20240413,pets,True
+ASDA,1.3,10.4,kg,"Wagg Training Treats for Dogs with Beef, Chicken & Lamb",20240413,pets,False
+ASDA,2.4,34.29,kg,Good Boy Meaty Treaty Chewy Duck Fillets Dog Treats,20240413,pets,False
+ASDA,6.2,28.18,kg,Good Boy Meaty Treaty Chewy Chicken with Carrot Sticks Dog Treats,20240413,pets,False
+ASDA,2.4,26.67,kg,Good Boy Meaty Treaty Crunchy Chicken & Calcium Bones Dog Treats,20240413,pets,False
+ASDA,3.69,1.84,kg,Wagg Meaty Goodness Adult Complete Chicken Dinner Dry Dog Food,20240413,pets,False
+ASDA,3.8,19.0,kg,Felix Goody Bag Cat Treats Seaside Mix,20240413,pets,False
+ASDA,1.2,20.0,kg,Felix Goody Bag Cat Treats Mixed Grill,20240413,pets,False
+ASDA,1.1,11.22,kg,Bakers Allsorts Dog Treats Chicken and Beef,20240413,pets,False
+ASDA,5.9,2.95,kg,"HiLife Feed Me! Complete Nutrition with Beef, Cheese & Vegetables Dry Adult Dog Food",20240413,pets,False
+ASDA,3.8,21.11,kg,Felix Crispies Cat Treats Flavoured with Salmon and Trout,20240413,pets,False
+ASDA,1.29,9.92,kg,Pedigree Tasty Minis Adult Dog Treats Chicken & Duck Chewy Cubes,20240413,pets,False
+ASDA,1.29,7.17,kg,Pedigree Jumbone Adult Medium Dog Treat Beef & Poultry 2 Chews,20240413,pets,False
